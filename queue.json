@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:23:41.530Z",
+  "generated_at": "2026-09-01T23:03:09.376Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -74,7 +74,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/margin-vs-leverage.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between margin and leverage?\nLeverage is a ratio. Margin is real money, locked up.\nAt 1:100, a 10,000 position locks up 100 of your cash.\nShare this with your best mate who thinks high leverage means high risk, before he sizes a trade on the wrong number.\n\nWhich difference should I explain next? 👇\n\n#trading #forex #daytrading #tradingtips #riskmanagement #tradingeducation #propfirm #futurestrading #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-01T13:30:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106182707136556",
+      "media_id": "18131676391645001",
+      "permalink": "https://www.instagram.com/reel/DcvxtysAN2_/",
+      "published_at": "2026-09-01T13:33:03.223Z"
     },
     {
       "id": "2026-09-01-long-vs-short",
@@ -82,7 +86,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/long-vs-short.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between going long and going short?\nLong: buy at 100, sell at 130, you made 30. Short: borrow and sell at 100, buy back at 70, you made 30.\nBut a stock can only fall to zero. It can rise forever.\nShare this with your best mate who wants to short his first stock, before he finds out where the risk ends.\n\nWhich difference should I explain next? 👇\n\n#trading #stockmarket #daytrading #investing101 #tradingtips #shortselling #tradingeducation #riskmanagement #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-01T18:00:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106226342136556",
+      "media_id": "18104376434253630",
+      "permalink": "https://www.instagram.com/reel/DcwQYXDjQEr/",
+      "published_at": "2026-09-01T18:01:01.468Z"
     },
     {
       "id": "2026-09-01-win-rate-vs-expectancy",
@@ -90,7 +98,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/win-rate-vs-expectancy.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between win rate and expectancy?\nWin rate counts how often. Expectancy counts how much.\n70% winners can still lose money. 38% winners can still make it.\nShare this with your best mate who brags about his win rate, before he wonders where the money went.\n\nWhich difference should I explain next? 👇\n\n#trading #tradingpsychology #riskmanagement #daytrading #tradingjournal #tradingtips #propfirm #forex #tradingeducation #knowthedifference",
       "scheduled_at": "2026-09-01T23:00:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106263248136556",
+      "media_id": "18126885631704058",
+      "permalink": "https://www.instagram.com/reel/DcwywOICCCy/",
+      "published_at": "2026-09-01T23:01:20.134Z"
     }
   ]
 }
