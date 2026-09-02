@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:59:03.213Z",
+  "generated_at": "2026-09-02T13:08:11.502Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -103,6 +103,22 @@
       "media_id": "18126885631704058",
       "permalink": "https://www.instagram.com/reel/DcwywOICCCy/",
       "published_at": "2026-09-01T23:01:20.134Z"
+    },
+    {
+      "id": "2026-09-02-stop-loss-vs-liquidation",
+      "slug": "stop-loss-vs-liquidation",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-liquidation.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a liquidation?\nYou set the stop. The exchange sets the liquidation.\nAt 20x leverage, a 5% move against you is enough.\nShare this with your best mate who trades on high leverage without a stop, before the exchange makes the decision for him.\n\nWhich difference should I explain next? 👇\n\n#trading #crypto #daytrading #riskmanagement #leverage #tradingtips #futurestrading #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-02T18:00:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-02-isolated-vs-cross-margin",
+      "slug": "isolated-vs-cross-margin",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/isolated-vs-cross-margin.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between isolated and cross margin?\nIsolated risks one position. Cross risks the whole account.\nSame trade, same size — very different worst case.\nShare this with your best mate who left cross margin on by default, before one position takes the rest with it.\n\nWhich difference should I explain next? 👇\n\n#trading #crypto #leverage #riskmanagement #daytrading #futurestrading #tradingtips #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-02T23:00:00Z",
+      "status": "ready"
     }
   ]
 }
