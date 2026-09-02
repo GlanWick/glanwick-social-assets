@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:12:09.028Z",
+  "generated_at": "2026-09-02T13:25:45.858Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -118,6 +118,14 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/isolated-vs-cross-margin.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between isolated and cross margin?\nIsolated risks one position. Cross risks the whole account.\nSame trade, same size — very different worst case.\nShare this with your best mate who left cross margin on by default, before one position takes the rest with it.\n\nWhich difference should I explain next? 👇\n\n#trading #crypto #leverage #riskmanagement #daytrading #futurestrading #tradingtips #tradingeducation #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-02T18:00:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-02-spread-vs-slippage",
+      "slug": "spread-vs-slippage",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/spread-vs-slippage.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between the spread and slippage?\nThe spread is on your screen before you click. Slippage only shows up after.\nOne you can see coming. The other lands in the statement.\nShare this with your best mate who only counts the commission, before he wonders why the numbers never match.\n\nWhich difference should I explain next? 👇\n\n#trading #daytrading #scalping #forex #tradingcosts #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-02T23:00:00Z",
       "status": "ready"
     }
   ]
