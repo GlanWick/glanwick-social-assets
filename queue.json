@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:25:45.858Z",
+  "generated_at": "2026-09-03T13:00:30.791Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -110,7 +110,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-liquidation.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a liquidation?\nYou set the stop. The exchange sets the liquidation.\nAt 20x leverage, a 5% move against you is enough.\nShare this with your best mate who trades on high leverage without a stop, before the exchange makes the decision for him.\n\nWhich difference should I explain next? 👇\n\n#trading #crypto #daytrading #riskmanagement #leverage #tradingtips #futurestrading #tradingeducation #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-02T13:30:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106361054136556",
+      "media_id": "18113714050785094",
+      "permalink": "https://www.instagram.com/reel/DcyXZoPEW9o/",
+      "published_at": "2026-09-02T13:40:51.810Z"
     },
     {
       "id": "2026-09-02-isolated-vs-cross-margin",
@@ -118,7 +122,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/isolated-vs-cross-margin.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between isolated and cross margin?\nIsolated risks one position. Cross risks the whole account.\nSame trade, same size — very different worst case.\nShare this with your best mate who left cross margin on by default, before one position takes the rest with it.\n\nWhich difference should I explain next? 👇\n\n#trading #crypto #leverage #riskmanagement #daytrading #futurestrading #tradingtips #tradingeducation #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-02T18:00:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106399721136556",
+      "media_id": "18122846710897050",
+      "permalink": "https://www.instagram.com/reel/DczCj5ZE0qu/",
+      "published_at": "2026-09-02T19:58:01.968Z"
     },
     {
       "id": "2026-09-02-spread-vs-slippage",
@@ -126,6 +134,34 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/spread-vs-slippage.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between the spread and slippage?\nThe spread is on your screen before you click. Slippage only shows up after.\nOne you can see coming. The other lands in the statement.\nShare this with your best mate who only counts the commission, before he wonders why the numbers never match.\n\nWhich difference should I explain next? 👇\n\n#trading #daytrading #scalping #forex #tradingcosts #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-02T23:00:00Z",
+      "status": "published",
+      "container_id": "18106417772136556",
+      "media_id": "18363581485209096",
+      "permalink": "https://www.instagram.com/reel/DczhLC8AAw2/",
+      "published_at": "2026-09-03T00:25:27.105Z"
+    },
+    {
+      "id": "2026-09-03-margin-call-vs-liquidation",
+      "slug": "margin-call-vs-liquidation",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/margin-call-vs-liquidation.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a margin call and a liquidation?\nA margin call is a warning: add money, or close it yourself.\nA liquidation is the exchange closing it for you. On crypto exchanges, nobody waits for your answer.\nOne gives you a choice. The other gives you a receipt.\nShare this with your best mate who trades on leverage and thinks he'll get a warning first.\n\nWhich difference should I explain next? 👇\n\n#trading #leverage #margincall #liquidation #cryptotrading #futures #riskmanagement #tradingtips #tradingeducation #knowthedifference",
+      "scheduled_at": "2026-09-03T13:30:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-03-stop-loss-vs-trailing-stop",
+      "slug": "stop-loss-vs-trailing-stop",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-trailing-stop.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a trailing stop?\nA stop loss stays where you put it. A trailing stop follows the price up, and never comes back down.\nBuy at 100, stop at 95, price climbs to 120: the stop loss still sits at 95. The trailing stop moved to 115.\nShare this with your best mate who keeps watching a winner turn back into a loser.\n\nWhich difference should I explain next? 👇\n\n#trading #stoploss #trailingstop #daytrading #swingtrading #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-03T18:00:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-03-stop-loss-vs-daily-loss-limit",
+      "slug": "stop-loss-vs-daily-loss-limit",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-daily-loss-limit.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a daily loss limit?\nA stop loss protects one trade. A daily loss limit caps the whole day.\nDaily limit 5,000. Three trades, each stopped at 2,000. Every stop worked. The day is at 6,000. Challenge over.\nMost failed prop challenges die on a drawdown rule, not on the profit target.\nShare this with your best mate who is on his third challenge and still counts trades, not days.\n\nWhich difference should I explain next? 👇\n\n#propfirm #propfirmchallenge #fundedtrader #stoploss #drawdown #riskmanagement #daytrading #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-03T23:00:00Z",
       "status": "ready"
     }
   ]
