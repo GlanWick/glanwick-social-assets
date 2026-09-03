@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:00:30.791Z",
+  "generated_at": "2026-09-03T19:16:47.404Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -146,7 +146,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/margin-call-vs-liquidation.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a margin call and a liquidation?\nA margin call is a warning: add money, or close it yourself.\nA liquidation is the exchange closing it for you. On crypto exchanges, nobody waits for your answer.\nOne gives you a choice. The other gives you a receipt.\nShare this with your best mate who trades on leverage and thinks he'll get a warning first.\n\nWhich difference should I explain next? 👇\n\n#trading #leverage #margincall #liquidation #cryptotrading #futures #riskmanagement #tradingtips #tradingeducation #knowthedifference",
       "scheduled_at": "2026-09-03T13:30:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106490675136556",
+      "media_id": "18112943234099716",
+      "permalink": "https://www.instagram.com/reel/Dc08Z6Nm4BY/",
+      "published_at": "2026-09-03T13:42:38.560Z"
     },
     {
       "id": "2026-09-03-stop-loss-vs-trailing-stop",
@@ -154,13 +158,29 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-trailing-stop.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a trailing stop?\nA stop loss stays where you put it. A trailing stop follows the price up, and never comes back down.\nBuy at 100, stop at 95, price climbs to 120: the stop loss still sits at 95. The trailing stop moved to 115.\nShare this with your best mate who keeps watching a winner turn back into a loser.\n\nWhich difference should I explain next? 👇\n\n#trading #stoploss #trailingstop #daytrading #swingtrading #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-03T18:00:00Z",
-      "status": "ready"
+      "status": "draft"
     },
     {
       "id": "2026-09-03-stop-loss-vs-daily-loss-limit",
       "slug": "stop-loss-vs-daily-loss-limit",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-daily-loss-limit.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a daily loss limit?\nA stop loss protects one trade. A daily loss limit caps the whole day.\nDaily limit 5,000. Three trades, each stopped at 2,000. Every stop worked. The day is at 6,000. Challenge over.\nMost failed prop challenges die on a drawdown rule, not on the profit target.\nShare this with your best mate who is on his third challenge and still counts trades, not days.\n\nWhich difference should I explain next? 👇\n\n#propfirm #propfirmchallenge #fundedtrader #stoploss #drawdown #riskmanagement #daytrading #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-03T23:00:00Z",
+      "status": "draft"
+    },
+    {
+      "id": "2026-09-03-leverage-vs-liquidation",
+      "slug": "leverage-vs-liquidation",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/leverage-vs-liquidation.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between leverage and liquidation?\nLeverage is how big your trade is. Liquidation is how close the end is.\nAt 10x, roughly a 10% move against you ends the trade. At 50x, 2%. At 100x, 1%. Bitcoin moves 1% while you make coffee.\nThe leverage number is not your size. It is your distance to zero.\nShare this with your best mate who just switched to 100x because 20x felt slow.\n\nWhich difference should I explain next? 👇\n\n#leverage #liquidation #cryptotrading #futures #bitcoin #leveragetrading #riskmanagement #tradingtips #tradingeducation #knowthedifference",
+      "scheduled_at": "2026-09-03T18:00:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-03-liquidation-vs-adl",
+      "slug": "liquidation-vs-adl",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/liquidation-vs-adl.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a liquidation and auto-deleveraging (ADL)?\nLiquidation closes a losing trade. ADL closes a winning one.\nIn a crash, losers get liquidated faster than the exchange can close them. The insurance fund runs dry. So the exchange takes it from the winners: your trade, closed early, at a price you did not pick.\nShare this with your best mate who thinks being right is enough on a futures exchange.\n\nWhich difference should I explain next? 👇\n\n#liquidation #adl #cryptotrading #futures #bitcoin #leveragetrading #riskmanagement #tradingtips #tradingeducation #knowthedifference",
       "scheduled_at": "2026-09-03T23:00:00Z",
       "status": "ready"
     }
