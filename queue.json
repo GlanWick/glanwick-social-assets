@@ -152,12 +152,12 @@
       "published_at": "2026-09-03T13:42:38.560Z"
     },
     {
-      "id": "2026-09-03-stop-loss-vs-trailing-stop",
+      "id": "2026-09-04-stop-loss-vs-trailing-stop",
       "slug": "stop-loss-vs-trailing-stop",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-trailing-stop.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a trailing stop?\nA stop loss stays where you put it. A trailing stop follows the price up, and never comes back down.\nBuy at 100, stop at 95, price climbs to 120: the stop loss still sits at 95. The trailing stop moved to 115.\nShare this with your best mate who keeps watching a winner turn back into a loser.\n\nWhich difference should I explain next? 👇\n\n#trading #stoploss #trailingstop #daytrading #swingtrading #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
-      "scheduled_at": "2026-09-03T18:00:00Z",
-      "status": "draft"
+      "scheduled_at": "2026-09-04T16:55:00Z",
+      "status": "ready"
     },
     {
       "id": "2026-09-03-stop-loss-vs-daily-loss-limit",
