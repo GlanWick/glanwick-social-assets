@@ -1,5 +1,4 @@
 {
-  "generated_at": "2026-09-03T19:16:47.404Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -174,7 +173,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/leverage-vs-liquidation.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between leverage and liquidation?\nLeverage is how big your trade is. Liquidation is how close the end is.\nAt 10x, roughly a 10% move against you ends the trade. At 50x, 2%. At 100x, 1%. Bitcoin moves 1% while you make coffee.\nThe leverage number is not your size. It is your distance to zero.\nShare this with your best mate who just switched to 100x because 20x felt slow.\n\nWhich difference should I explain next? 👇\n\n#leverage #liquidation #cryptotrading #futures #bitcoin #leveragetrading #riskmanagement #tradingtips #tradingeducation #knowthedifference",
       "scheduled_at": "2026-09-03T18:00:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106523198136556",
+      "media_id": "18372898066241649",
+      "permalink": "https://www.instagram.com/reel/Dc1i6l1iaTO/",
+      "published_at": "2026-09-03T19:19:10.110Z"
     },
     {
       "id": "2026-09-03-liquidation-vs-adl",
@@ -182,7 +185,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/liquidation-vs-adl.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a liquidation and auto-deleveraging (ADL)?\nLiquidation closes a losing trade. ADL closes a winning one.\nIn a crash, losers get liquidated faster than the exchange can close them. The insurance fund runs dry. So the exchange takes it from the winners: your trade, closed early, at a price you did not pick.\nShare this with your best mate who thinks being right is enough on a futures exchange.\n\nWhich difference should I explain next? 👇\n\n#liquidation #adl #cryptotrading #futures #bitcoin #leveragetrading #riskmanagement #tradingtips #tradingeducation #knowthedifference",
       "scheduled_at": "2026-09-03T23:00:00Z",
-      "status": "ready"
+      "status": "published",
+      "container_id": "18106540136136556",
+      "media_id": "18101613926630366",
+      "permalink": "https://www.instagram.com/reel/Dc1-DvbjmHL/",
+      "published_at": "2026-09-03T23:16:11.685Z"
     }
   ]
 }

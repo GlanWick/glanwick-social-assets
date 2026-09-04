@@ -1,0 +1,43 @@
+# Dauerwaechter fuer die Instagram-Slots. Die ausfuehrliche Begruendung, warum
+# er hier und nicht im privaten Repo laeuft, steht oben in post-due.mjs.
+#
+# Kurz: GitHub drosselt geplante Laeufe (gemessen 4 bis 5 statt 96 pro Tag).
+# Also wartet ein Job, statt oft neu zu starten. Warten kostet Actions-Minuten,
+# und die sind nur in oeffentlichen Repos frei. Dieses Repo ist oeffentlich.
+#
+# concurrency ohne cancel-in-progress: Ein neuer geplanter Lauf wird in die
+# Warteschlange gestellt und startet, sobald der laufende Waechter endet. So
+# loesen sich die Waechter ab, ohne sich zu ueberholen.
+name: Instagram Watch
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+    inputs:
+      watch_minutes:
+        description: 'Laufzeit in Minuten (hoechstens 350)'
+        required: false
+        default: '350'
+
+concurrency:
+  group: instagram-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Faellige Eintraege posten
+        env:
+          IG_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          WATCH_MINUTES: ${{ github.event.inputs.watch_minutes || '350' }}
+        run: node post-due.mjs
