@@ -164,12 +164,12 @@
       "published_at": "2026-09-04T16:43:25.445Z"
     },
     {
-      "id": "2026-09-03-stop-loss-vs-daily-loss-limit",
+      "id": "2026-09-05-stop-loss-vs-daily-loss-limit",
       "slug": "stop-loss-vs-daily-loss-limit",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-daily-loss-limit.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a daily loss limit?\nA stop loss protects one trade. A daily loss limit caps the whole day.\nDaily limit 5,000. Three trades, each stopped at 2,000. Every stop worked. The day is at 6,000. Challenge over.\nMost failed prop challenges die on a drawdown rule, not on the profit target.\nShare this with your best mate who is on his third challenge and still counts trades, not days.\n\nWhich difference should I explain next? 👇\n\n#propfirm #propfirmchallenge #fundedtrader #stoploss #drawdown #riskmanagement #daytrading #tradingtips #tradingjournal #knowthedifference",
-      "scheduled_at": "2026-09-03T23:00:00Z",
-      "status": "draft"
+      "scheduled_at": "2026-09-05T07:45:00Z",
+      "status": "ready"
     },
     {
       "id": "2026-09-03-leverage-vs-liquidation",
