@@ -170,10 +170,10 @@
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a daily loss limit?\nA stop loss protects one trade. A daily loss limit caps the whole day.\nDaily limit 5,000. Three trades, each stopped at 2,000. Every stop worked. The day is at 6,000. Challenge over.\nMost failed prop challenges die on a drawdown rule, not on the profit target.\nShare this with your best mate who is on his third challenge and still counts trades, not days.\n\nWhich difference should I explain next? 👇\n\n#propfirm #propfirmchallenge #fundedtrader #stoploss #drawdown #riskmanagement #daytrading #tradingtips #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-05T07:45:00Z",
       "status": "published",
-      "container_id": "18106740224136556",
       "media_id": "17927631738161572",
       "permalink": "https://www.instagram.com/reel/Dc5dJytjJJ6/",
-      "published_at": "2026-09-05T07:45:36.504Z"
+      "published_at": "2026-09-05T07:45:36.504Z",
+      "container_id": "18106740224136556"
     },
     {
       "id": "2026-09-03-leverage-vs-liquidation",
@@ -222,6 +222,30 @@
       "permalink": "https://www.instagram.com/reel/Dc4hGJyjEjr/",
       "published_at": "2026-09-04T23:01:07.694Z",
       "container_id": "18106689845136556"
+    },
+    {
+      "id": "2026-09-05-break-even-vs-trailing-stop",
+      "slug": "break-even-vs-trailing-stop",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/break-even-vs-trailing-stop.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a break-even stop and a trailing stop?\nBoth start in the same place: buy at 100, stop at 95. Price climbs to 120.\nThe break-even stop moves once, to your entry, and stays. The trailing stop keeps following, five below the high. Price falls back: one closes at 100 with nothing, the other at 115 with 15.\nSame trade. The only difference is how often the stop moved.\nShare this with your best mate who moves his stop to break-even and calls it risk management.\n\nWhich difference should I explain next? 👇\n\n#stoploss #trailingstop #breakeven #daytrading #swingtrading #riskmanagement #tradingtips #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-05T13:30:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-05-funding-rate-vs-interest",
+      "slug": "funding-rate-vs-interest",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/funding-rate-vs-interest.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between interest and a funding rate?\nInterest is what you pay to borrow. A funding rate is what you pay to hold.\nOn a perpetual futures exchange, every 8 hours one side pays the other. At 0.01% on a $10,000 position that is $1, three times a day. Hold it a month and you paid $90 without a single trade.\nAnd when the crowd is long, the longs pay.\nShare this with your best mate who holds perps for weeks and wonders where the money went.\n\nWhich difference should I explain next? 👇\n\n#fundingrate #perpetuals #cryptotrading #futures #bitcoin #tradingcosts #tradingtips #tradingeducation #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-05T18:00:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-05-slippage-vs-gap",
+      "slug": "slippage-vs-gap",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/slippage-vs-gap.mp4",
+      "caption": "Follow for more differences.\n\nWhat's the difference between slippage and a gap?\nSlippage happens in seconds: you buy at 100, the fill comes at 100.30.\nA gap happens while the market is closed: you hold at 100 with a stop at 95, bad news overnight, the market opens at 88. Your stop fills there, not at 95.\nOne costs cents. The other jumps right over your stop.\nShare this with your best mate who thinks a stop loss is a guarantee.\n\nWhich difference should I explain next? 👇\n\n#slippage #gap #stoploss #stocks #daytrading #swingtrading #riskmanagement #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-05T23:00:00Z",
+      "status": "ready"
     }
   ]
 }
