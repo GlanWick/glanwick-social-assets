@@ -253,8 +253,11 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/slippage-vs-gap.mp4",
       "caption": "Follow for more differences.\n\nWhat's the difference between slippage and a gap?\nSlippage happens in seconds: you buy at 100, the fill comes at 100.30.\nA gap happens while the market is closed: you hold at 100 with a stop at 95, bad news overnight, the market opens at 88. Your stop fills there, not at 95.\nOne costs cents. The other jumps right over your stop.\nShare this with your best mate who thinks a stop loss is a guarantee.\n\nWhich difference should I explain next? 👇\n\n#slippage #gap #stoploss #stocks #daytrading #swingtrading #riskmanagement #tradingtips #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-05T23:00:00Z",
-      "status": "posting",
-      "posting_started_at": "2026-09-05T23:00:21.404Z"
+      "status": "published",
+      "container_id": "18106841147136556",
+      "media_id": "17982279063118925",
+      "permalink": "https://www.instagram.com/reel/Dc7F5W1gX8V/",
+      "published_at": "2026-09-05T23:01:01.187Z"
     }
   ]
 }
