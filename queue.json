@@ -460,10 +460,10 @@
       "caption": "Follow for more differences.\n\nWhat's the difference between a call and theta?\nA call is what you bought. Theta is what it loses every day you hold it.\nBuy a call for 200 on Monday. The stock does not move all week. Friday, the call is worth 120. Nothing happened, and you lost 80.\nTheta is the rent you pay for waiting.\nShare this with your best mate who buys weeklies and waits.\n\nWhich difference should I explain next? 👇\n\n#options #optionstrading #theta #0dte #daytrading #stockmarket #riskmanagement #tradingtips #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-08T18:30:00Z",
       "status": "published",
-      "container_id": "18107227706136556",
       "media_id": "18428129503150858",
       "permalink": "https://www.instagram.com/reel/DdCVdUlE6n5/",
-      "published_at": "2026-09-08T18:31:43.453Z"
+      "published_at": "2026-09-08T18:31:43.453Z",
+      "container_id": "18107227706136556"
     },
     {
       "id": "2026-09-10-bitcoin-vs-bitcoin-etf",
@@ -484,10 +484,10 @@
       "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a take profit?\nOne closes the trade when you were wrong, the other when you were right.\nBuy at 100, stop at 95, target at 110. Price dips, most traders move the stop to 93. Price rises, most traders take the profit at 105. The stop gets wider, the target gets closer. That is why the plan and the account never match.\n\nWhich one do you move more often? Comment STOP or TARGET.\n\n#stoploss #takeprofit #riskmanagement #daytrading #swingtrading #forex #cryptotrading #tradingpsychology #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-09T07:45:00Z",
       "status": "published",
-      "container_id": "18107296898136556",
       "media_id": "17867781000645340",
       "permalink": "https://www.instagram.com/reel/DdD3HeejDXs/",
-      "published_at": "2026-09-09T08:45:03.641Z"
+      "published_at": "2026-09-09T08:45:03.641Z",
+      "container_id": "18107296898136556"
     },
     {
       "id": "2026-09-09-drawdown-vs-trailing-drawdown",
@@ -517,7 +517,22 @@
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/revenge-trade-vs-re-entry-cover.jpg",
       "caption": "Follow for more differences.\n\nWhat's the difference between a revenge trade and a re-entry?\nBoth happen right after a loss. A re-entry has a reason on the chart. A revenge trade has a reason in your chest.\nStopped at 95. Price comes back and breaks the level again: re-entry, same size, same stop. Price does nothing, but you need the 5 back: revenge, double size, no stop. Same click, different trader.\n\nWhich one was your last trade after a loss? Comment CHART or CHEST.\n\n#revengetrading #tradingpsychology #riskmanagement #daytrading #swingtrading #forex #cryptotrading #tilt #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-10T10:30:00Z",
-      "status": "draft"
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-09-comic-witness",
+      "slug": "comic-witness",
+      "kind": "carousel",
+      "image_urls": [
+        "https://glanwick.github.io/glanwick-social-assets/comic-witness-1.jpg",
+        "https://glanwick.github.io/glanwick-social-assets/comic-witness-2.jpg",
+        "https://glanwick.github.io/glanwick-social-assets/comic-witness-3.jpg",
+        "https://glanwick.github.io/glanwick-social-assets/comic-witness-4.jpg",
+        "https://glanwick.github.io/glanwick-social-assets/comic-witness-5.jpg"
+      ],
+      "caption": "You remember the big win. The journal remembers the ten before it.\nYou remember a terrible month. The journal remembers it was one week.\nYou remember “I always get stopped out.” The journal says it was three times.\n\nMemory keeps the story. The journal keeps the numbers.\n\nYou are not a reliable witness. Everyone's memory works this way, it keeps what felt loud and drops what was ordinary. That is why traders write it down.\n\nSave this for the next time you are sure about a pattern you never counted, and send it to the one trader who trades from memory.\n\n#tradingpsychology #tradingjournal #daytrading #swingtrading #riskmanagement #forex #cryptotrading #tradingmindset #knowthedifference",
+      "scheduled_at": "2026-09-09T16:00:00Z",
+      "status": "ready"
     }
   ]
 }
