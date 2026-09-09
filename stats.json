@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T21:10:57.952Z",
+ "updated": "2026-09-09T21:59:59.839Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -631,6 +631,11 @@
    "ts": "2026-09-09T21:10:57.952Z",
    "followers": 151,
    "media_count": 38
+  },
+  {
+   "ts": "2026-09-09T21:59:59.839Z",
+   "followers": 151,
+   "media_count": 38
   }
  ],
  "posts": [
@@ -641,8 +646,8 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 14,
-   "likes": 0,
+   "views": 28,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -652,8 +657,8 @@
    "timestamp": "2026-09-09T16:00:36+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "You remember the big win. The journal remembers the ten before it.",
-   "views": 14,
-   "likes": 1,
+   "views": 17,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -663,8 +668,8 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 126,
-   "likes": 3,
+   "views": 133,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -674,8 +679,8 @@
    "timestamp": "2026-09-09T08:44:56+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 163,
-   "likes": 3,
+   "views": 165,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -685,8 +690,8 @@
    "timestamp": "2026-09-08T18:31:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 141,
-   "likes": 3,
+   "views": 143,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -696,8 +701,8 @@
    "timestamp": "2026-09-08T16:01:06+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "The cost of a trade is five things. Only one of them is printed on your screen.",
-   "views": 29,
-   "likes": 3,
+   "views": 32,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -707,8 +712,8 @@
    "timestamp": "2026-09-08T13:31:41+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 201,
-   "likes": 3,
+   "views": 202,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -718,8 +723,8 @@
    "timestamp": "2026-09-08T10:31:24+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 241,
-   "likes": 6,
+   "views": 243,
+   "likes": 7,
    "comments": 2
   },
   {
@@ -729,7 +734,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1504,
+   "views": 1506,
    "likes": 22,
    "comments": 0
   },
@@ -740,8 +745,8 @@
    "timestamp": "2026-09-07T18:30:32+0000",
    "type": "IMAGE",
    "caption": "Nobody sees the trades you did not take. The journal does.",
-   "views": 15,
-   "likes": 2,
+   "views": 16,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -751,8 +756,8 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2536,
-   "likes": 37,
+   "views": 2538,
+   "likes": 38,
    "comments": 0
   },
   {
