@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-09T15:20:26.601Z",
+ "updated": "2026-09-09T16:09:43.665Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 152,
-  "media_count": 36
+  "followers": 151,
+  "media_count": 37
  },
  "history": [
   {
@@ -601,9 +601,25 @@
    "ts": "2026-09-09T15:20:26.601Z",
    "followers": 152,
    "media_count": 36
+  },
+  {
+   "ts": "2026-09-09T16:09:43.665Z",
+   "followers": 151,
+   "media_count": 37
   }
  ],
  "posts": [
+  {
+   "id": "18071075900722543",
+   "slug": "comic-witness",
+   "permalink": "https://www.instagram.com/p/DdEpAKoFsMH/",
+   "timestamp": "2026-09-09T16:00:36+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "You remember the big win. The journal remembers the ten before it.",
+   "views": 4,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17945343471312785",
    "slug": "loss-vs-losing-streak",
@@ -611,8 +627,8 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 62,
-   "likes": 2,
+   "views": 73,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -677,7 +693,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1443,
+   "views": 1456,
    "likes": 21,
    "comments": 0
   },
@@ -688,7 +704,7 @@
    "timestamp": "2026-09-07T18:30:32+0000",
    "type": "IMAGE",
    "caption": "Nobody sees the trades you did not take. The journal does.",
-   "views": 14,
+   "views": 15,
    "likes": 2,
    "comments": 0
   },
@@ -699,7 +715,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2526,
+   "views": 2528,
    "likes": 37,
    "comments": 0
   },
@@ -754,7 +770,7 @@
    "timestamp": "2026-09-06T17:41:33+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "One red trade is not a red day.",
-   "views": 137,
+   "views": 138,
    "likes": 8,
    "comments": 1
   },
