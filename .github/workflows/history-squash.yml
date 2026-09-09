@@ -1,0 +1,54 @@
+# Monatlicher Neustart der Historie. Jedes Reel wiegt 19 bis 28 MB; der
+# Waechter loescht Assets nach dem Posten aus dem Arbeitsstand, aber die
+# Git-Historie behaelt jede Datei. Ohne diesen Lauf waechst das Repo um rund
+# 100 MB am Tag, Klone werden langsam, GitHub warnt.
+#
+# Der Lauf ersetzt main durch EINEN Commit mit dem aktuellen Arbeitsstand
+# (nur Queue, Stats, Skripte und die noch anstehenden Videos). Alte Videos
+# sind nach dem Posten wertlos, Instagram hostet sie selbst.
+#
+# Gleiche concurrency-Gruppe wie der Waechter, aber MIT Abbruch: Ein laufender
+# Waechter wird gestoppt, damit er nicht gegen die neue Historie pusht. Der
+# naechste geplante Waechter (alle 20 Minuten) klont frisch. Deshalb laeuft
+# der Squash nachts, wenn kein Slot ansteht.
+name: History Squash
+
+on:
+  schedule:
+    - cron: '30 2 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: instagram-watch
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Veroeffentlichte Assets entfernen (Sicherheitsnetz)
+        run: |
+          python3 - <<'PY'
+          import json, os
+          q = json.load(open('queue.json'))['entries']
+          keep = {e['slug'] for e in q if e['status'] in ('ready', 'draft', 'posting', 'error')}
+          for f in os.listdir('.'):
+              slug = f[:-4] if f.endswith('.mp4') else f[:-10] if f.endswith('-cover.jpg') else None
+              if slug and slug not in keep:
+                  os.remove(f); print('entfernt', f)
+          PY
+      - name: Historie auf einen Commit setzen
+        run: |
+          git config user.name glanwick-social-bot
+          git config user.email noreply@glanwick.com
+          git checkout --orphan fresh
+          git add -A
+          git commit -qm "Neustart der Historie $(date -u +%Y-%m-%d) (Assets nach dem Posten sind wertlos)"
+          git branch -M main
+          git push --force origin main
+          echo "Dateien im Stand: $(git ls-files | wc -l), davon Videos: $(git ls-files | grep -c '\.mp4$' || true)"

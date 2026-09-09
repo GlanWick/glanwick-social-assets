@@ -1,0 +1,963 @@
+{
+ "updated": "2026-09-09T09:59:29.605Z",
+ "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
+ "account": {
+  "username": "glanwick_com",
+  "followers": 151,
+  "media_count": 35
+ },
+ "history": [
+  {
+   "ts": "2026-08-15T16:54:50.419Z",
+   "followers": 3,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-15T16:57:00.878Z",
+   "followers": 3,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-16T09:07:52.947Z",
+   "followers": 5,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-16T19:38:56.225Z",
+   "followers": 5,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-17T00:00:10.983Z",
+   "followers": 6,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-18T00:00:34.228Z",
+   "followers": 6,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-19T00:00:13.969Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-20T00:00:10.123Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-21T00:00:32.239Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-22T00:00:09.329Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-23T00:08:36.500Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-24T00:00:11.067Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-25T00:03:01.265Z",
+   "followers": 7,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-26T00:00:12.273Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-27T00:00:12.294Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-28T06:00:11.717Z",
+   "followers": 7,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-29T06:00:13.633Z",
+   "followers": 7,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-30T06:00:10.425Z",
+   "followers": 7,
+   "media_count": 3
+  },
+  {
+   "ts": "2026-08-30T22:39:52.029Z",
+   "followers": 9,
+   "media_count": 3
+  },
+  {
+   "ts": "2026-08-31T06:00:05.698Z",
+   "followers": 9,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-31T07:30:22.634Z",
+   "followers": 9,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-31T14:48:31.204Z",
+   "followers": 8,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-09-01T06:22:41.719Z",
+   "followers": 9,
+   "media_count": 6
+  },
+  {
+   "ts": "2026-09-01T06:24:15.105Z",
+   "followers": 9,
+   "media_count": 6
+  },
+  {
+   "ts": "2026-09-02T06:00:13.848Z",
+   "followers": 11,
+   "media_count": 9
+  },
+  {
+   "ts": "2026-09-02T12:53:21.428Z",
+   "followers": 11,
+   "media_count": 9
+  },
+  {
+   "ts": "2026-09-02T13:44:30.900Z",
+   "followers": 11,
+   "media_count": 10
+  },
+  {
+   "ts": "2026-09-03T07:48:23.241Z",
+   "followers": 19,
+   "media_count": 12
+  },
+  {
+   "ts": "2026-09-03T18:19:52.199Z",
+   "followers": 26,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T06:06:30.046Z",
+   "followers": 32,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T12:38:06.968Z",
+   "followers": 31,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T19:28:32.394Z",
+   "followers": 34,
+   "media_count": 15
+  },
+  {
+   "ts": "2026-09-05T06:13:24.606Z",
+   "followers": 56,
+   "media_count": 16
+  },
+  {
+   "ts": "2026-09-05T07:33:21.463Z",
+   "followers": 61,
+   "media_count": 16
+  },
+  {
+   "ts": "2026-09-05T23:02:51.862Z",
+   "followers": 78,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-05T23:05:01.603Z",
+   "followers": 78,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-06T06:06:37.995Z",
+   "followers": 80,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-06T09:35:08.717Z",
+   "followers": 81,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T10:35:11.973Z",
+   "followers": 82,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T11:35:15.724Z",
+   "followers": 82,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T12:35:19.634Z",
+   "followers": 83,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T13:35:36.442Z",
+   "followers": 83,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T14:35:40.156Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T15:25:45.270Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T16:26:13.955Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T17:27:11.579Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T17:39:30.825Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T18:39:51.424Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T19:39:56.348Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T20:40:00.715Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T21:40:05.351Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T22:40:09.835Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T23:30:17.572Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T00:30:18.908Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T01:30:20.219Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T02:30:22.811Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T03:30:24.205Z",
+   "followers": 86,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T04:30:26.174Z",
+   "followers": 88,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T05:21:03.431Z",
+   "followers": 91,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T06:21:05.393Z",
+   "followers": 96,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T07:21:08.479Z",
+   "followers": 99,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T08:21:30.508Z",
+   "followers": 102,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T09:21:36.363Z",
+   "followers": 103,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T10:21:39.554Z",
+   "followers": 103,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T11:11:58.719Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T12:12:29.325Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T13:12:28.998Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T14:12:30.960Z",
+   "followers": 105,
+   "media_count": 27
+  },
+  {
+   "ts": "2026-09-07T15:13:02.904Z",
+   "followers": 107,
+   "media_count": 27
+  },
+  {
+   "ts": "2026-09-07T16:13:17.210Z",
+   "followers": 107,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T17:02:39.603Z",
+   "followers": 111,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T18:02:56.132Z",
+   "followers": 115,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T19:03:03.031Z",
+   "followers": 118,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T20:03:17.513Z",
+   "followers": 121,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T21:03:37.328Z",
+   "followers": 123,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T22:03:51.959Z",
+   "followers": 123,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T22:53:40.868Z",
+   "followers": 124,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T23:54:05.000Z",
+   "followers": 125,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T00:54:23.518Z",
+   "followers": 126,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T01:54:52.705Z",
+   "followers": 128,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T02:55:11.669Z",
+   "followers": 131,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T03:55:31.849Z",
+   "followers": 133,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T04:44:14.875Z",
+   "followers": 134,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T05:44:17.283Z",
+   "followers": 134,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T06:44:35.654Z",
+   "followers": 136,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T07:44:44.792Z",
+   "followers": 136,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T08:45:00.183Z",
+   "followers": 136,
+   "media_count": 30
+  },
+  {
+   "ts": "2026-09-08T09:45:05.514Z",
+   "followers": 137,
+   "media_count": 30
+  },
+  {
+   "ts": "2026-09-08T10:35:48.704Z",
+   "followers": 137,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T11:36:14.198Z",
+   "followers": 139,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T12:36:40.277Z",
+   "followers": 139,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T13:37:00.537Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T14:37:28.268Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T15:37:57.312Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T16:26:48.439Z",
+   "followers": 139,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T17:27:03.651Z",
+   "followers": 139,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T18:27:18.870Z",
+   "followers": 140,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T19:27:25.858Z",
+   "followers": 140,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T20:27:40.592Z",
+   "followers": 140,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T21:27:55.582Z",
+   "followers": 141,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T22:17:38.845Z",
+   "followers": 141,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T23:17:45.485Z",
+   "followers": 142,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T00:17:56.034Z",
+   "followers": 142,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T01:18:04.818Z",
+   "followers": 144,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T02:18:25.936Z",
+   "followers": 145,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T03:18:32.949Z",
+   "followers": 148,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T04:08:35.462Z",
+   "followers": 148,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T05:09:01.955Z",
+   "followers": 149,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T06:09:28.887Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T07:09:56.185Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T08:10:24.620Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T09:10:32.032Z",
+   "followers": 150,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T09:59:29.605Z",
+   "followers": 151,
+   "media_count": 35
+  }
+ ],
+ "posts": [
+  {
+   "id": "17867781000645340",
+   "slug": "stop-loss-vs-take-profit",
+   "permalink": "https://www.instagram.com/reel/DdD3HeejDXs/",
+   "timestamp": "2026-09-09T08:44:56+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 104,
+   "likes": 3,
+   "comments": 1
+  },
+  {
+   "id": "18428129503150858",
+   "slug": "call-vs-theta",
+   "permalink": "https://www.instagram.com/reel/DdCVdUlE6n5/",
+   "timestamp": "2026-09-08T18:31:36+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 119,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18108883958149425",
+   "slug": "notizbuch-kosten",
+   "permalink": "https://www.instagram.com/p/DdCEQyhmw6F/",
+   "timestamp": "2026-09-08T16:01:06+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "The cost of a trade is five things. Only one of them is printed on your screen.",
+   "views": 27,
+   "likes": 3,
+   "comments": 1
+  },
+  {
+   "id": "18017995367936689",
+   "slug": "stop-loss-vs-hedge",
+   "permalink": "https://www.instagram.com/reel/DdBzImWgsVD/",
+   "timestamp": "2026-09-08T13:31:41+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 197,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18114575012055571",
+   "slug": "streak-vs-edge",
+   "permalink": "https://www.instagram.com/reel/DdBehHgE585/",
+   "timestamp": "2026-09-08T10:31:24+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 240,
+   "likes": 6,
+   "comments": 2
+  },
+  {
+   "id": "18006235721781657",
+   "slug": "loss-vs-cost",
+   "permalink": "https://www.instagram.com/reel/DdBLjrnFc3t/",
+   "timestamp": "2026-09-08T07:45:49+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1306,
+   "likes": 20,
+   "comments": 0
+  },
+  {
+   "id": "17908700394470042",
+   "slug": "tweet-skipped-trade",
+   "permalink": "https://www.instagram.com/p/Dc_wkbuGgR8/",
+   "timestamp": "2026-09-07T18:30:32+0000",
+   "type": "IMAGE",
+   "caption": "Nobody sees the trades you did not take. The journal does.",
+   "views": 14,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "17955342930015013",
+   "slug": "stop-loss-vs-stop-hunt",
+   "permalink": "https://www.instagram.com/reel/Dc_fZ7GEobx/",
+   "timestamp": "2026-09-07T16:00:46+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 2518,
+   "likes": 37,
+   "comments": 0
+  },
+  {
+   "id": "18165075046414654",
+   "slug": "comic-feelings",
+   "permalink": "https://www.instagram.com/p/Dc_ORMmjQ_y/",
+   "timestamp": "2026-09-07T13:30:48+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "It feels like the market is against you. The market does not know you exist.",
+   "views": 39,
+   "likes": 5,
+   "comments": 0
+  },
+  {
+   "id": "18339837460271064",
+   "slug": "loss-vs-drawdown",
+   "permalink": "https://www.instagram.com/reel/Dc-5pLtlaqc/",
+   "timestamp": "2026-09-07T10:30:48+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1717,
+   "likes": 30,
+   "comments": 1
+  },
+  {
+   "id": "18103228247238423",
+   "slug": "tweet-one-red-trade",
+   "permalink": "https://www.instagram.com/p/Dc-mxD5Fq2T/",
+   "timestamp": "2026-09-07T07:45:37+0000",
+   "type": "IMAGE",
+   "caption": "The market forgets your red Tuesday by Wednesday. You do not. That is the only p",
+   "views": 15,
+   "likes": 4,
+   "comments": 1
+  },
+  {
+   "id": "18103271459350947",
+   "slug": "risk-vs-stop-distance",
+   "permalink": "https://www.instagram.com/reel/Dc9LwgaD1yp/",
+   "timestamp": "2026-09-06T18:30:36+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 880,
+   "likes": 17,
+   "comments": 0
+  },
+  {
+   "id": "18419100694154937",
+   "slug": "comic-one-red-trade",
+   "permalink": "https://www.instagram.com/p/Dc9GK9EoBWH/",
+   "timestamp": "2026-09-06T17:41:33+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "One red trade is not a red day.",
+   "views": 136,
+   "likes": 8,
+   "comments": 1
+  },
+  {
+   "id": "17874671784562153",
+   "slug": "profit-vs-realized-profit",
+   "permalink": "https://www.instagram.com/reel/Dc8pdHpDX1z/",
+   "timestamp": "2026-09-06T13:30:53+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 317,
+   "likes": 5,
+   "comments": 0
+  },
+  {
+   "id": "18414986497156428",
+   "slug": "stop-loss-vs-mental-stop",
+   "permalink": "https://www.instagram.com/reel/Dc8B9AKjHqR/",
+   "timestamp": "2026-09-06T07:45:42+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 2569,
+   "likes": 40,
+   "comments": 0
+  },
+  {
+   "id": "17982279063118925",
+   "slug": "slippage-vs-gap",
+   "permalink": "https://www.instagram.com/reel/Dc7F5W1gX8V/",
+   "timestamp": "2026-09-05T23:00:55+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 260,
+   "likes": 10,
+   "comments": 0
+  },
+  {
+   "id": "18079980842352541",
+   "slug": "funding-rate-vs-interest",
+   "permalink": "https://www.instagram.com/reel/Dc6jjYWEYMY/",
+   "timestamp": "2026-09-05T18:00:50+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 152,
+   "likes": 4,
+   "comments": 0
+  },
+  {
+   "id": "18121789282882094",
+   "slug": "break-even-vs-trailing-stop",
+   "permalink": "https://www.instagram.com/reel/Dc6EpeUAC-A/",
+   "timestamp": "2026-09-05T13:30:46+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 260,
+   "likes": 7,
+   "comments": 0
+  },
+  {
+   "id": "17927631738161572",
+   "slug": "stop-loss-vs-daily-loss-limit",
+   "permalink": "https://www.instagram.com/reel/Dc5dJytjJJ6/",
+   "timestamp": "2026-09-05T07:45:30+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1980,
+   "likes": 28,
+   "comments": 0
+  },
+  {
+   "id": "18057278282795178",
+   "slug": "balance-vs-equity",
+   "permalink": "https://www.instagram.com/reel/Dc4hGJyjEjr/",
+   "timestamp": "2026-09-04T23:00:55+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 393,
+   "likes": 6,
+   "comments": 0
+  },
+  {
+   "id": "18100504127610336",
+   "slug": "maker-vs-taker-fee",
+   "permalink": "https://www.instagram.com/reel/Dc3-xRhDzgX/",
+   "timestamp": "2026-09-04T18:00:54+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 198,
+   "likes": 8,
+   "comments": 0
+  },
+  {
+   "id": "18177206440428578",
+   "slug": "stop-loss-vs-trailing-stop",
+   "permalink": "https://www.instagram.com/reel/Dc315ABkthT/",
+   "timestamp": "2026-09-04T16:43:19+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 3400,
+   "likes": 56,
+   "comments": 0
+  },
+  {
+   "id": "18101613926630366",
+   "slug": "liquidation-vs-adl",
+   "permalink": "https://www.instagram.com/reel/Dc1-DvbjmHL/",
+   "timestamp": "2026-09-03T23:16:04+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 231,
+   "likes": 6,
+   "comments": 0
+  },
+  {
+   "id": "18372898066241649",
+   "slug": "leverage-vs-liquidation",
+   "permalink": "https://www.instagram.com/reel/Dc1i6l1iaTO/",
+   "timestamp": "2026-09-03T19:19:03+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 213,
+   "likes": 5,
+   "comments": 0
+  },
+  {
+   "id": "18112943234099716",
+   "slug": "margin-call-vs-liquidation",
+   "permalink": "https://www.instagram.com/reel/Dc08Z6Nm4BY/",
+   "timestamp": "2026-09-03T13:42:31+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 195,
+   "likes": 6,
+   "comments": 0
+  },
+  {
+   "id": "18363581485209096",
+   "slug": "spread-vs-slippage",
+   "permalink": "https://www.instagram.com/reel/DczhLC8AAw2/",
+   "timestamp": "2026-09-03T00:25:21+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1996,
+   "likes": 33,
+   "comments": 0
+  },
+  {
+   "id": "18122846710897050",
+   "slug": "isolated-vs-cross-margin",
+   "permalink": "https://www.instagram.com/reel/DczCj5ZE0qu/",
+   "timestamp": "2026-09-02T19:57:55+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 503,
+   "likes": 6,
+   "comments": 0
+  },
+  {
+   "id": "18113714050785094",
+   "slug": "stop-loss-vs-liquidation",
+   "permalink": "https://www.instagram.com/reel/DcyXZoPEW9o/",
+   "timestamp": "2026-09-02T13:40:42+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1484,
+   "likes": 19,
+   "comments": 0
+  },
+  {
+   "id": "18126885631704058",
+   "slug": "win-rate-vs-expectancy",
+   "permalink": "https://www.instagram.com/reel/DcwywOICCCy/",
+   "timestamp": "2026-09-01T23:01:13+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 131,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18104376434253630",
+   "slug": "long-vs-short",
+   "permalink": "https://www.instagram.com/reel/DcwQYXDjQEr/",
+   "timestamp": "2026-09-01T18:00:54+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 104,
+   "likes": 4,
+   "comments": 0
+  },
+  {
+   "id": "18131676391645001",
+   "slug": "margin-vs-leverage",
+   "permalink": "https://www.instagram.com/reel/DcvxtysAN2_/",
+   "timestamp": "2026-09-01T13:32:56+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 305,
+   "likes": 5,
+   "comments": 0
+  },
+  {
+   "id": "18124689778889570",
+   "slug": "market-vs-limit-order",
+   "permalink": "https://www.instagram.com/reel/DcuCWBrFVpD/",
+   "timestamp": "2026-08-31T21:19:48+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 130,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18377648677238561",
+   "slug": "correction-vs-bear-market",
+   "permalink": "https://www.instagram.com/reel/DctHMxED0Qh/",
+   "timestamp": "2026-08-31T12:42:57+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 163,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18088295714652829",
+   "slug": "million-vs-billion",
+   "permalink": "https://www.instagram.com/reel/DcrpHd4CdSH/",
+   "timestamp": "2026-08-30T23:00:41+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 219,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "17974814693919150",
+   "slug": "stop-loss-vs-stop-limit",
+   "permalink": "https://www.instagram.com/reel/DcrG2UeEoNx/",
+   "timestamp": "2026-08-30T18:01:24+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 484,
+   "likes": 5,
+   "comments": 0
+  }
+ ]
+}
