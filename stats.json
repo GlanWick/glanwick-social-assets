@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-09T13:19:59.842Z",
+ "updated": "2026-09-09T14:20:04.976Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 152,
-  "media_count": 35
+  "media_count": 36
  },
  "history": [
   {
@@ -591,9 +591,25 @@
    "ts": "2026-09-09T13:19:59.842Z",
    "followers": 152,
    "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T14:20:04.976Z",
+   "followers": 152,
+   "media_count": 36
   }
  ],
  "posts": [
+  {
+   "id": "17945343471312785",
+   "slug": "loss-vs-losing-streak",
+   "permalink": "https://www.instagram.com/reel/DdEX1AECIuF/",
+   "timestamp": "2026-09-09T13:30:43+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 51,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "17867781000645340",
    "slug": "stop-loss-vs-take-profit",
@@ -612,7 +628,7 @@
    "timestamp": "2026-09-08T18:31:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 135,
+   "views": 136,
    "likes": 3,
    "comments": 0
   },
@@ -656,7 +672,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1400,
+   "views": 1423,
    "likes": 21,
    "comments": 0
   },
@@ -678,7 +694,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2523,
+   "views": 2525,
    "likes": 37,
    "comments": 0
   },
