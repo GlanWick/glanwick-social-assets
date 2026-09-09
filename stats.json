@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-09T11:19:14.249Z",
+ "updated": "2026-09-09T12:19:39.599Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 151,
+  "followers": 152,
   "media_count": 35
  },
  "history": [
@@ -581,6 +581,11 @@
    "ts": "2026-09-09T11:19:14.249Z",
    "followers": 151,
    "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T12:19:39.599Z",
+   "followers": 152,
+   "media_count": 35
   }
  ],
  "posts": [
@@ -591,7 +596,7 @@
    "timestamp": "2026-09-09T08:44:56+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 142,
+   "views": 161,
    "likes": 3,
    "comments": 1
   },
@@ -602,7 +607,7 @@
    "timestamp": "2026-09-08T18:31:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 130,
+   "views": 133,
    "likes": 3,
    "comments": 0
   },
@@ -646,7 +651,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1350,
+   "views": 1375,
    "likes": 20,
    "comments": 0
   },
@@ -668,7 +673,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2521,
+   "views": 2522,
    "likes": 37,
    "comments": 0
   },
@@ -723,7 +728,7 @@
    "timestamp": "2026-09-06T17:41:33+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "One red trade is not a red day.",
-   "views": 136,
+   "views": 137,
    "likes": 8,
    "comments": 1
   },
@@ -866,7 +871,7 @@
    "timestamp": "2026-09-03T00:25:21+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1996,
+   "views": 1997,
    "likes": 33,
    "comments": 0
   },
