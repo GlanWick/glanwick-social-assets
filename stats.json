@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T17:09:44.289Z",
+ "updated": "2026-09-09T18:09:45.611Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -611,6 +611,11 @@
    "ts": "2026-09-09T17:09:44.289Z",
    "followers": 151,
    "media_count": 37
+  },
+  {
+   "ts": "2026-09-09T18:09:45.611Z",
+   "followers": 151,
+   "media_count": 37
   }
  ],
  "posts": [
@@ -621,7 +626,7 @@
    "timestamp": "2026-09-09T16:00:36+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "You remember the big win. The journal remembers the ten before it.",
-   "views": 7,
+   "views": 11,
    "likes": 1,
    "comments": 1
   },
@@ -632,7 +637,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 91,
+   "views": 114,
    "likes": 3,
    "comments": 0
   },
@@ -654,7 +659,7 @@
    "timestamp": "2026-09-08T18:31:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 137,
+   "views": 141,
    "likes": 3,
    "comments": 0
   },
@@ -698,7 +703,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1476,
+   "views": 1492,
    "likes": 22,
    "comments": 0
   },
@@ -720,7 +725,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2532,
+   "views": 2534,
    "likes": 37,
    "comments": 0
   },
@@ -775,7 +780,7 @@
    "timestamp": "2026-09-06T17:41:33+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "One red trade is not a red day.",
-   "views": 139,
+   "views": 140,
    "likes": 8,
    "comments": 1
   },
@@ -1006,7 +1011,7 @@
    "timestamp": "2026-08-30T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 219,
+   "views": 222,
    "likes": 3,
    "comments": 0
   },
