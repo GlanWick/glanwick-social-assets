@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T11:41:31.718Z",
+ "updated": "2026-09-10T12:41:32.081Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -706,6 +706,11 @@
    "ts": "2026-09-10T11:41:31.718Z",
    "followers": 152,
    "media_count": 40
+  },
+  {
+   "ts": "2026-09-10T12:41:32.081Z",
+   "followers": 152,
+   "media_count": 40
   }
  ],
  "posts": [
@@ -716,7 +721,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 25,
+   "views": 33,
    "likes": 2,
    "comments": 0
   },
@@ -727,7 +732,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 74,
+   "views": 80,
    "likes": 3,
    "comments": 0
   },
@@ -738,7 +743,7 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 54,
+   "views": 55,
    "likes": 3,
    "comments": 0
   },
@@ -760,7 +765,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 165,
+   "views": 166,
    "likes": 6,
    "comments": 0
   },
