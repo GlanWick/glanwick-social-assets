@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-10T06:51:01.945Z",
+ "updated": "2026-09-10T07:51:30.901Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 151,
-  "media_count": 38
+  "media_count": 39
  },
  "history": [
   {
@@ -681,9 +681,25 @@
    "ts": "2026-09-10T06:51:01.945Z",
    "followers": 151,
    "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T07:51:30.901Z",
+   "followers": 151,
+   "media_count": 39
   }
  ],
  "posts": [
+  {
+   "id": "18339606589253794",
+   "slug": "stop-loss-vs-spread",
+   "permalink": "https://www.instagram.com/reel/DdGVIjQj2S3/",
+   "timestamp": "2026-09-10T07:45:43+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17943951999301581",
    "slug": "drawdown-vs-trailing-drawdown",
@@ -691,7 +707,7 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 45,
+   "views": 48,
    "likes": 3,
    "comments": 0
   },
@@ -713,7 +729,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 152,
+   "views": 153,
    "likes": 5,
    "comments": 0
   },
@@ -746,7 +762,7 @@
    "timestamp": "2026-09-08T16:01:06+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "The cost of a trade is five things. Only one of them is printed on your screen.",
-   "views": 33,
+   "views": 34,
    "likes": 5,
    "comments": 1
   },
