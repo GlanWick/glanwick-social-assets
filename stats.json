@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T21:21:59.310Z",
+ "updated": "2026-09-10T22:22:18.291Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -756,6 +756,11 @@
    "ts": "2026-09-10T21:21:59.310Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T22:22:18.291Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -766,7 +771,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 16,
+   "views": 17,
    "likes": 1,
    "comments": 0
   },
@@ -788,7 +793,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 68,
+   "views": 71,
    "likes": 3,
    "comments": 0
   },
@@ -799,7 +804,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 99,
+   "views": 101,
    "likes": 3,
    "comments": 0
   },
@@ -821,7 +826,7 @@
    "timestamp": "2026-09-09T16:00:36+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "You remember the big win. The journal remembers the ten before it.",
-   "views": 38,
+   "views": 40,
    "likes": 3,
    "comments": 1
   },
