@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-10T12:41:32.081Z",
+ "updated": "2026-09-10T13:41:36.697Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 152,
-  "media_count": 40
+  "media_count": 41
  },
  "history": [
   {
@@ -711,9 +711,25 @@
    "ts": "2026-09-10T12:41:32.081Z",
    "followers": 152,
    "media_count": 40
+  },
+  {
+   "ts": "2026-09-10T13:41:36.697Z",
+   "followers": 152,
+   "media_count": 41
   }
  ],
  "posts": [
+  {
+   "id": "18071049578772887",
+   "slug": "stop-loss-vs-wick",
+   "permalink": "https://www.instagram.com/reel/DdG8oWKgJ2u/",
+   "timestamp": "2026-09-10T13:30:39+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 2,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18095485358434484",
    "slug": "loss-vs-gap",
@@ -721,7 +737,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 33,
+   "views": 38,
    "likes": 2,
    "comments": 0
   },
@@ -732,7 +748,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 80,
+   "views": 81,
    "likes": 3,
    "comments": 0
   },
@@ -743,7 +759,7 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 55,
+   "views": 56,
    "likes": 3,
    "comments": 0
   },
@@ -765,7 +781,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 166,
+   "views": 171,
    "likes": 6,
    "comments": 0
   },
@@ -1141,17 +1157,6 @@
    "caption": "Follow for more differences.",
    "views": 223,
    "likes": 3,
-   "comments": 0
-  },
-  {
-   "id": "17974814693919150",
-   "slug": "stop-loss-vs-stop-limit",
-   "permalink": "https://www.instagram.com/reel/DcrG2UeEoNx/",
-   "timestamp": "2026-08-30T18:01:24+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 484,
-   "likes": 5,
    "comments": 0
   }
  ]
