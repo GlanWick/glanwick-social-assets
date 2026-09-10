@@ -498,10 +498,10 @@
       "caption": "Follow for more differences.\n\nWhat's the difference between a drawdown and a trailing drawdown?\nA drawdown is measured from your starting balance. A trailing drawdown is measured from your highest point.\nStart at 100,000 with a 5,000 limit and make 4,000. Static: you can still lose 9,000. Trailing: the floor moved up with you, you can lose 5,000. Same account, same profit, different floor.\n\nWhich one does your firm use? Comment STATIC or TRAILING.\n\n#propfirm #drawdown #trailingdrawdown #fundedtrader #riskmanagement #daytrading #futures #forex #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-09T18:30:00Z",
       "status": "published",
-      "container_id": "18107356808136556",
       "media_id": "17943951999301581",
       "permalink": "https://www.instagram.com/reel/DdE6JrZCuGF/",
-      "published_at": "2026-09-09T18:30:46.538Z"
+      "published_at": "2026-09-09T18:30:46.538Z",
+      "container_id": "18107356808136556"
     },
     {
       "id": "2026-09-09-loss-vs-losing-streak",
@@ -512,10 +512,10 @@
       "caption": "Follow for more differences.\n\nWhat's the difference between a loss and a losing streak?\nA loss is one trade. A streak is what one loss does to the next trade.\nYou lose 50, that was the plan. You lose 50 again, now you want it back. Trade three is bigger, faster, and outside the plan. The first two losses cost 100. The third one costs the week.\n\nAfter three losses in a row, what do you do? Comment TRADE or CLOSE.\n\n#tradingpsychology #losingstreak #riskmanagement #daytrading #swingtrading #forex #cryptotrading #tilt #tradingjournal #knowthedifference",
       "scheduled_at": "2026-09-09T13:30:00Z",
       "status": "published",
-      "container_id": "18107322896136556",
       "media_id": "17945343471312785",
       "permalink": "https://www.instagram.com/reel/DdEX1AECIuF/",
-      "published_at": "2026-09-09T13:30:51.783Z"
+      "published_at": "2026-09-09T13:30:51.783Z",
+      "container_id": "18107322896136556"
     },
     {
       "id": "2026-09-09-revenge-trade-vs-re-entry",
@@ -541,10 +541,40 @@
       "caption": "You remember the big win. The journal remembers the ten before it.\nYou remember a terrible month. The journal remembers it was one week.\nYou remember “I always get stopped out.” The journal says it was three times.\n\nMemory keeps the story. The journal keeps the numbers.\n\nYou are not a reliable witness. Everyone's memory works this way, it keeps what felt loud and drops what was ordinary. That is why traders write it down.\n\nSave this for the next time you are sure about a pattern you never counted, and send it to the one trader who trades from memory.\n\n#tradingpsychology #tradingjournal #daytrading #swingtrading #riskmanagement #forex #cryptotrading #tradingmindset #knowthedifference",
       "scheduled_at": "2026-09-09T16:00:00Z",
       "status": "published",
-      "container_id": "18107339330136556",
       "media_id": "18071075900722543",
       "permalink": "https://www.instagram.com/p/DdEpAKoFsMH/",
-      "published_at": "2026-09-09T16:00:39.854Z"
+      "published_at": "2026-09-09T16:00:39.854Z",
+      "container_id": "18107339330136556"
+    },
+    {
+      "id": "2026-09-10-stop-loss-vs-spread",
+      "slug": "stop-loss-vs-spread",
+      "kind": "reel",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-spread.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-spread-cover.jpg",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and the spread?\nYour stop is a price. The spread is the gap between the two prices you actually get.\nStop at 95. The chart shows 95.20 and never lower. You still get stopped out. The chart shows the last trade, your stop fires on the bid, and during news the spread widened from 1 to 4. The chart never touched 95. The bid did.\n\nHow wide is your spread during news? Comment the number.\n\n#stoploss #spread #forex #daytrading #scalping #cryptotrading #riskmanagement #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-10T07:45:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-10-loss-vs-gap",
+      "slug": "loss-vs-gap",
+      "kind": "reel",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-gap.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-gap-cover.jpg",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a loss and a gap?\nA loss is what you planned to risk. A gap is what the market does while it is closed.\nBuy at 100, stop at 95, bad news overnight. The market opens at 88 and your stop fires at the first price. You planned to lose 5. You lost 12. A stop is a promise the market only keeps while it is open.\n\nWhat was your worst gap? Comment the number.\n\n#stoploss #gap #swingtrading #daytrading #stockmarket #forex #riskmanagement #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-10T10:30:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-10-stop-loss-vs-wick",
+      "slug": "stop-loss-vs-wick",
+      "kind": "reel",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-wick.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-wick-cover.jpg",
+      "caption": "Follow for more differences.\n\nWhat's the difference between a stop loss and a wick?\nYour stop is a line. A wick is how far price went before it came back.\nStop at 95, right under the last low. The candle dips to 94.80 for three seconds, then closes at 99. You are out, and the candle looks fine. The wick is where the orders were, yours included. Put the stop where the wick would have to be wrong.\n\nHow far below the low is your stop? Comment the number.\n\n#stoploss #wick #priceaction #daytrading #forex #cryptotrading #riskmanagement #tradingtips #tradingjournal #knowthedifference",
+      "scheduled_at": "2026-09-10T13:30:00Z",
+      "status": "ready"
     }
   ]
 }
