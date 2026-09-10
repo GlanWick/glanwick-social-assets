@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T19:32:26.539Z",
+ "updated": "2026-09-10T20:32:35.494Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -746,6 +746,11 @@
    "ts": "2026-09-10T19:32:26.539Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T20:32:35.494Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -756,8 +761,8 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 8,
-   "likes": 0,
+   "views": 14,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -778,7 +783,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 62,
+   "views": 67,
    "likes": 3,
    "comments": 0
   },
@@ -789,7 +794,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 97,
+   "views": 99,
    "likes": 3,
    "comments": 0
   },
@@ -965,7 +970,7 @@
    "timestamp": "2026-09-06T17:41:33+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "One red trade is not a red day.",
-   "views": 144,
+   "views": 145,
    "likes": 8,
    "comments": 1
   },
