@@ -1,12 +1,11 @@
 {
- "updated": "2026-09-11T13:15:41.381Z",
+ "updated": "2026-09-11T14:16:02.567Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-10: 236 gegen Mittel 3158",
-   "Sehdauer letzte 3 Reels: 7.1 s"
+   "Reichweite 2026-09-10: 236 gegen Mittel 3158"
   ],
-  "checked": "2026-09-11T13:15:42.600Z",
+  "checked": "2026-09-11T14:16:03.832Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -37,13 +36,13 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 7.1
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 151,
-  "media_count": 37
+  "media_count": 38
  },
  "history": [
   {
@@ -880,9 +879,25 @@
    "ts": "2026-09-11T13:15:41.381Z",
    "followers": 151,
    "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T14:16:02.567Z",
+   "followers": 151,
+   "media_count": 38
   }
  ],
  "posts": [
+  {
+   "id": "18116570846061709",
+   "slug": "stop-loss-vs-break-even",
+   "permalink": "https://www.instagram.com/reel/DdJhgRoEVyf/",
+   "timestamp": "2026-09-11T13:31:32+0000",
+   "type": "VIDEO",
+   "caption": "The free trade that cost you the trade.",
+   "views": 12,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18008934374986590",
    "slug": "stop-loss-vs-risk",
@@ -890,7 +905,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 62,
+   "views": 63,
    "likes": 2,
    "comments": 0
   },
@@ -901,7 +916,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 36,
+   "views": 37,
    "likes": 3,
    "comments": 0
   },
