@@ -1,11 +1,12 @@
 {
- "updated": "2026-09-11T09:25:27.530Z",
+ "updated": "2026-09-11T10:25:30.881Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-10: 236 gegen Mittel 3158"
+   "Reichweite 2026-09-10: 236 gegen Mittel 3158",
+   "Sehdauer letzte 3 Reels: 6.5 s"
   ],
-  "checked": "2026-09-11T09:25:28.753Z",
+  "checked": "2026-09-11T10:25:32.424Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -36,13 +37,13 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 16.8
+  "avg_watch_last_reels": 6.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 151,
-  "media_count": 43
+  "media_count": 37
  },
  "history": [
   {
@@ -859,6 +860,11 @@
    "ts": "2026-09-11T09:25:27.530Z",
    "followers": 151,
    "media_count": 43
+  },
+  {
+   "ts": "2026-09-11T10:25:30.881Z",
+   "followers": 151,
+   "media_count": 37
   }
  ],
  "posts": [
@@ -869,7 +875,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 10,
+   "views": 31,
    "likes": 1,
    "comments": 0
   },
@@ -880,7 +886,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 27,
+   "views": 29,
    "likes": 2,
    "comments": 0
   },
@@ -891,7 +897,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 41,
+   "views": 42,
    "likes": 2,
    "comments": 0
   },
@@ -902,7 +908,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 82,
+   "views": 85,
    "likes": 4,
    "comments": 0
   },
@@ -913,7 +919,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 139,
+   "views": 140,
    "likes": 3,
    "comments": 0
   },
@@ -927,17 +933,6 @@
    "views": 56,
    "likes": 3,
    "comments": 0
-  },
-  {
-   "id": "18071075900722543",
-   "slug": "comic-witness",
-   "permalink": "https://www.instagram.com/p/DdEpAKoFsMH/",
-   "timestamp": "2026-09-09T16:00:36+0000",
-   "type": "CAROUSEL_ALBUM",
-   "caption": "You remember the big win. The journal remembers the ten before it.",
-   "views": 41,
-   "likes": 3,
-   "comments": 1
   },
   {
    "id": "17945343471312785",
@@ -973,17 +968,6 @@
    "comments": 0
   },
   {
-   "id": "18108883958149425",
-   "slug": "notizbuch-kosten",
-   "permalink": "https://www.instagram.com/p/DdCEQyhmw6F/",
-   "timestamp": "2026-09-08T16:01:06+0000",
-   "type": "CAROUSEL_ALBUM",
-   "caption": "The cost of a trade is five things. Only one of them is printed on your screen.",
-   "views": 34,
-   "likes": 5,
-   "comments": 1
-  },
-  {
    "id": "18017995367936689",
    "slug": "stop-loss-vs-hedge",
    "permalink": "https://www.instagram.com/reel/DdBzImWgsVD/",
@@ -1017,17 +1001,6 @@
    "comments": 0
   },
   {
-   "id": "17908700394470042",
-   "slug": "tweet-skipped-trade",
-   "permalink": "https://www.instagram.com/p/Dc_wkbuGgR8/",
-   "timestamp": "2026-09-07T18:30:32+0000",
-   "type": "IMAGE",
-   "caption": "Nobody sees the trades you did not take. The journal does.",
-   "views": 16,
-   "likes": 3,
-   "comments": 0
-  },
-  {
    "id": "17955342930015013",
    "slug": "stop-loss-vs-stop-hunt",
    "permalink": "https://www.instagram.com/reel/Dc_fZ7GEobx/",
@@ -1036,17 +1009,6 @@
    "caption": "Follow for more differences.",
    "views": 2540,
    "likes": 38,
-   "comments": 0
-  },
-  {
-   "id": "18165075046414654",
-   "slug": "comic-feelings",
-   "permalink": "https://www.instagram.com/p/Dc_ORMmjQ_y/",
-   "timestamp": "2026-09-07T13:30:48+0000",
-   "type": "CAROUSEL_ALBUM",
-   "caption": "It feels like the market is against you. The market does not know you exist.",
-   "views": 43,
-   "likes": 5,
    "comments": 0
   },
   {
@@ -1061,17 +1023,6 @@
    "comments": 1
   },
   {
-   "id": "18103228247238423",
-   "slug": "tweet-one-red-trade",
-   "permalink": "https://www.instagram.com/p/Dc-mxD5Fq2T/",
-   "timestamp": "2026-09-07T07:45:37+0000",
-   "type": "IMAGE",
-   "caption": "The market forgets your red Tuesday by Wednesday. You do not. That is the only p",
-   "views": 16,
-   "likes": 4,
-   "comments": 1
-  },
-  {
    "id": "18103271459350947",
    "slug": "risk-vs-stop-distance",
    "permalink": "https://www.instagram.com/reel/Dc9LwgaD1yp/",
@@ -1081,17 +1032,6 @@
    "views": 880,
    "likes": 17,
    "comments": 0
-  },
-  {
-   "id": "18419100694154937",
-   "slug": "comic-one-red-trade",
-   "permalink": "https://www.instagram.com/p/Dc9GK9EoBWH/",
-   "timestamp": "2026-09-06T17:41:33+0000",
-   "type": "CAROUSEL_ALBUM",
-   "caption": "One red trade is not a red day.",
-   "views": 147,
-   "likes": 8,
-   "comments": 1
   },
   {
    "id": "17874671784562153",
@@ -1300,6 +1240,39 @@
    "caption": "Follow for more differences.",
    "views": 130,
    "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18377648677238561",
+   "slug": "correction-vs-bear-market",
+   "permalink": "https://www.instagram.com/reel/DctHMxED0Qh/",
+   "timestamp": "2026-08-31T12:42:57+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 163,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18088295714652829",
+   "slug": "million-vs-billion",
+   "permalink": "https://www.instagram.com/reel/DcrpHd4CdSH/",
+   "timestamp": "2026-08-30T23:00:41+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 223,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "17974814693919150",
+   "slug": "stop-loss-vs-stop-limit",
+   "permalink": "https://www.instagram.com/reel/DcrG2UeEoNx/",
+   "timestamp": "2026-08-30T18:01:24+0000",
+   "type": "VIDEO",
+   "caption": "Follow for more differences.",
+   "views": 484,
+   "likes": 5,
    "comments": 0
   }
  ]
