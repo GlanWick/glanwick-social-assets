@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T06:12:22.436Z",
+ "updated": "2026-09-11T07:12:30.563Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -801,6 +801,11 @@
    "ts": "2026-09-11T06:12:22.436Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T07:12:30.563Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -822,7 +827,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 36,
+   "views": 40,
    "likes": 2,
    "comments": 0
   },
@@ -844,7 +849,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 118,
+   "views": 131,
    "likes": 3,
    "comments": 0
   },
@@ -866,7 +871,7 @@
    "timestamp": "2026-09-09T16:00:36+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "You remember the big win. The journal remembers the ten before it.",
-   "views": 40,
+   "views": 41,
    "likes": 3,
    "comments": 1
   },
@@ -976,7 +981,7 @@
    "timestamp": "2026-09-07T13:30:48+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "It feels like the market is against you. The market does not know you exist.",
-   "views": 42,
+   "views": 43,
    "likes": 5,
    "comments": 0
   },
@@ -998,7 +1003,7 @@
    "timestamp": "2026-09-07T07:45:37+0000",
    "type": "IMAGE",
    "caption": "The market forgets your red Tuesday by Wednesday. You do not. That is the only p",
-   "views": 15,
+   "views": 16,
    "likes": 4,
    "comments": 1
   },
