@@ -39,5 +39,7 @@ jobs:
       - name: Faellige Eintraege posten
         env:
           IG_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           WATCH_MINUTES: ${{ github.event.inputs.watch_minutes || '350' }}
         run: node post-due.mjs

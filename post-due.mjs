@@ -76,6 +76,21 @@ const assetFilesOf = (entry) => {
   return urls.map((u) => u.split('/').pop()).filter((f) => /^[\w.-]+$/.test(f))
 }
 
+
+// Telegram-Nachricht an Jan, sobald ein Beitrag live ist: Die erste Stunde
+// entscheidet (Sends und Antworten auf Kommentare sind die staerksten
+// Signale). Ohne die beiden Secrets passiert still nichts.
+async function notify(text) {
+  const tok = process.env.TELEGRAM_BOT_TOKEN, chat = process.env.TELEGRAM_CHAT_ID
+  if (!tok || !chat) return
+  try {
+    await fetch(`https://api.telegram.org/bot${tok}/sendMessage`, {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ chat_id: chat, text }),
+    })
+  } catch (e) { log(`Telegram fehlgeschlagen: ${e.message}`) }
+}
+
 function saveAndPush(queue, message) {
   writeFileSync(QUEUE_PATH, JSON.stringify(queue, null, 2) + '\n')
   git('config', 'user.name', 'glanwick-social-bot')
@@ -189,6 +204,8 @@ async function postEntry(entry, queue) {
     }
     saveAndPush(queue, `[skip ci] Queue: ${entry.id} veroeffentlicht, Assets entfernt`)
     log(`VEROEFFENTLICHT ${entry.id} ${media.permalink}`)
+    const berlin = new Date().toLocaleTimeString('de-DE', { timeZone: 'Europe/Berlin', hour: '2-digit', minute: '2-digit' })
+    await notify(`Live um ${berlin} Berlin: ${entry.slug}\n${media.permalink}\n\nJetzt: in die Story teilen, an 3 Trader senden, Kommentare beantworten.`)
     return true
   } catch (e) {
     entry.status = 'error'
