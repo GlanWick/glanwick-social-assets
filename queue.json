@@ -601,10 +601,10 @@
       "caption": "A tighter stop feels safer. What it actually changes is your size.\n\n100 shares with the stop 5 below: risk 500. Stop 1 below, so you buy 500 shares: risk 500. Same money on the line, five times the chance of being stopped out before the move.\n\nMost traders will disagree with this one. Tell me where I'm wrong.\n\n#stoploss #positionsizing #riskmanagement #daytrading #tradingjournal",
       "scheduled_at": "2026-09-11T09:00:00Z",
       "status": "published",
-      "container_id": "18107567756136556",
       "media_id": "18008934374986590",
       "permalink": "https://www.instagram.com/reel/DdJCho3jCdm/",
-      "published_at": "2026-09-11T09:00:57.253Z"
+      "published_at": "2026-09-11T09:00:57.253Z",
+      "container_id": "18107567756136556"
     },
     {
       "id": "2026-09-11-stop-loss-vs-break-even",
@@ -615,10 +615,30 @@
       "caption": "The free trade that cost you the trade.\n\nBuy at 100, stop at 95. Price reaches 103, the stop goes to 100, and it feels like nothing can go wrong now. Then 99, stopped out, then 110 without you. A stop loss protects the account. A break-even stop protects your feelings, and it charges you the trades that needed room.\n\nMost traders swear by it. Tell me where I'm wrong.\n\n#breakeven #stoploss #swingtrading #tradingpsychology #tradingjournal",
       "scheduled_at": "2026-09-11T13:30:00Z",
       "status": "published",
-      "container_id": "18107610248136556",
       "media_id": "18116570846061709",
       "permalink": "https://www.instagram.com/reel/DdJhgRoEVyf/",
-      "published_at": "2026-09-11T13:31:41.813Z"
+      "published_at": "2026-09-11T13:31:41.813Z",
+      "container_id": "18107610248136556"
+    },
+    {
+      "id": "2026-09-12-loss-vs-recovery",
+      "slug": "loss-vs-recovery",
+      "kind": "reel",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-recovery.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-recovery-cover.jpg",
+      "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. The recovery is always bigger than the loss, and that is why one bad stretch takes so long to undo.\n\nWhat is your worst drawdown? Comment the number.\n\n#drawdown #riskmanagement #tradingpsychology #daytrading #tradingjournal",
+      "scheduled_at": "2026-09-12T07:45:00Z",
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-12-stop-loss-vs-time-stop",
+      "slug": "stop-loss-vs-time-stop",
+      "kind": "reel",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-time-stop.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-time-stop-cover.jpg",
+      "caption": "A stop loss asks where. A time stop asks how long.\n\nBuy at 100 with a stop at 95. Three weeks later it is still 100. Nothing hit your stop, and nothing happened, while your money sat in a trade that had no reason to exist. A time stop closes it on day five.\n\nHow long do you hold a trade that does nothing? Comment the days.\n\n#timestop #stoploss #swingtrading #riskmanagement #tradingjournal",
+      "scheduled_at": "2026-09-12T13:30:00Z",
+      "status": "ready"
     }
   ]
 }
