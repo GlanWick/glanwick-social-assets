@@ -1,5 +1,43 @@
 {
- "updated": "2026-09-11T07:12:30.563Z",
+ "updated": "2026-09-11T07:25:12.571Z",
+ "guardrail": {
+  "status": "warn",
+  "reasons": [
+   "Reichweite 2026-09-10: 236 gegen Mittel 3158"
+  ],
+  "checked": "2026-09-11T07:25:13.815Z",
+  "reach_days": [
+   {
+    "day": "2026-09-04",
+    "reach": 3245
+   },
+   {
+    "day": "2026-09-05",
+    "reach": 3521
+   },
+   {
+    "day": "2026-09-06",
+    "reach": 3566
+   },
+   {
+    "day": "2026-09-07",
+    "reach": 6221
+   },
+   {
+    "day": "2026-09-08",
+    "reach": 1756
+   },
+   {
+    "day": "2026-09-09",
+    "reach": 640
+   },
+   {
+    "day": "2026-09-10",
+    "reach": 236
+   }
+  ],
+  "avg_watch_last_reels": 8.3
+ },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -806,6 +844,11 @@
    "ts": "2026-09-11T07:12:30.563Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T07:25:12.571Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -849,7 +892,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 131,
+   "views": 136,
    "likes": 3,
    "comments": 0
   },
