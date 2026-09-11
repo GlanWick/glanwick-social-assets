@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11T07:25:12.571Z",
+ "updated": "2026-09-11T08:25:13.650Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-10: 236 gegen Mittel 3158"
   ],
-  "checked": "2026-09-11T07:25:13.815Z",
+  "checked": "2026-09-11T08:25:15.257Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -849,6 +849,11 @@
    "ts": "2026-09-11T07:25:12.571Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T08:25:13.650Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -892,7 +897,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 136,
+   "views": 139,
    "likes": 3,
    "comments": 0
   },
