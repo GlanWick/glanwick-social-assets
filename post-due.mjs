@@ -229,6 +229,60 @@ const STATS_PATH = join(ROOT, 'stats.json')
 const STATS_EVERY_MS = 60 * 60_000
 let lastStatsAt = 0
 
+
+// ---------------------------------------------------------------------------
+// Fruehwarnung (seit 11.09.2026). Zwischen 07.09. und 10.09. fiel die
+// Tagesreichweite von 6.221 auf 226, und niemand hat es gesehen, weil nur die
+// Followerzahl beobachtet wurde. Zwei Signale, stuendlich geprueft:
+//   1. Tagesreichweite gestern unter 40 % des Mittels der sechs Tage davor.
+//   2. Die letzten drei Reels halten im Mittel unter 8 Sekunden.
+// Jede Aenderung des Zustands geht per Telegram raus; der Zustand steht in
+// stats.json (nur Aggregate, keine privaten Kennzahlen je Beitrag).
+// ---------------------------------------------------------------------------
+async function guardrail(posts, prevGuard) {
+  const day = 86_400_000
+  const until = new Date(); until.setUTCHours(0, 0, 0, 0)
+  const since = new Date(until.getTime() - 7 * day)
+  let reachDays = []
+  try {
+    const r = await api('GET', '/me/insights', {
+      metric: 'reach', period: 'day',
+      since: since.toISOString().slice(0, 10), until: until.toISOString().slice(0, 10),
+    })
+    reachDays = (r?.data?.[0]?.values || []).map((v) => ({ day: v.end_time.slice(0, 10), reach: v.value }))
+  } catch (e) { log(`Fruehwarnung: Reichweite nicht lesbar (${e.message})`) }
+  const reels = posts.filter((p) => p.type === 'VIDEO').slice(0, 3)
+  const watch = []
+  for (const p of reels) {
+    try {
+      const ins = await api('GET', `/${p.id}/insights`, { metric: 'ig_reels_avg_watch_time' })
+      const ms = ins?.data?.[0]?.values?.[0]?.value
+      if (typeof ms === 'number') watch.push(ms / 1000)
+    } catch { /* zu jung oder kein Reel */ }
+  }
+  const reasons = []
+  if (reachDays.length >= 4) {
+    const last = reachDays[reachDays.length - 1]
+    const before = reachDays.slice(0, -1).map((d) => d.reach)
+    const avg = before.reduce((a, b) => a + b, 0) / before.length
+    if (avg > 0 && last.reach < 0.4 * avg) reasons.push(`Reichweite ${last.day}: ${last.reach} gegen Mittel ${Math.round(avg)}`)
+  }
+  const avgWatch = watch.length ? watch.reduce((a, b) => a + b, 0) / watch.length : null
+  if (avgWatch !== null && watch.length >= 2 && avgWatch < 8) reasons.push(`Sehdauer letzte ${watch.length} Reels: ${avgWatch.toFixed(1)} s`)
+  const status = reasons.length ? 'warn' : 'ok'
+  const guard = {
+    status, reasons, checked: new Date().toISOString(),
+    reach_days: reachDays, avg_watch_last_reels: avgWatch === null ? null : +avgWatch.toFixed(1),
+  }
+  if (prevGuard?.status !== status) {
+    await notify(status === 'warn'
+      ? `FRUEHWARNUNG Instagram:\n${reasons.join('\n')}\n\nRegel: nur 2 Reels/Tag, nur erprobte Familien, kein Experiment, bis die Reichweite drei Tage steigt.`
+      : 'Instagram: Fruehwarnung aufgehoben, Reichweite und Sehdauer wieder im Rahmen.')
+    log(`Fruehwarnung: ${status} ${reasons.join('; ')}`)
+  }
+  return guard
+}
+
 async function writeStats(queue) {
   const me = await api('GET', '/me', { fields: 'username,followers_count,media_count' })
   const media = await api('GET', '/me/media', {
@@ -267,8 +321,10 @@ async function writeStats(queue) {
     ts, followers: me.followers_count, media_count: me.media_count,
   }].slice(-4000)
 
+  const guard = await guardrail(posts, prev.guardrail)
   const out = {
     updated: ts,
+    guardrail: guard,
     source: 'Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen',
     account: { username: me.username, followers: me.followers_count, media_count: me.media_count },
     history,
