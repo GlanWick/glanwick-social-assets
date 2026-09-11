@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11T20:06:09.382Z",
+ "updated": "2026-09-11T21:06:11.421Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-10: 236 gegen Mittel 3158"
   ],
-  "checked": "2026-09-11T20:06:11.563Z",
+  "checked": "2026-09-11T21:06:12.447Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -36,7 +36,7 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 9.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -914,6 +914,11 @@
    "ts": "2026-09-11T20:06:09.382Z",
    "followers": 151,
    "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T21:06:11.421Z",
+   "followers": 151,
+   "media_count": 38
   }
  ],
  "posts": [
@@ -924,7 +929,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 48,
+   "views": 55,
    "likes": 1,
    "comments": 0
   },
@@ -935,7 +940,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 70,
+   "views": 71,
    "likes": 2,
    "comments": 0
   },
