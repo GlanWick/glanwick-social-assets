@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-11T12:25:34.256Z",
+ "updated": "2026-09-11T13:15:41.381Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-10: 236 gegen Mittel 3158",
-   "Sehdauer letzte 3 Reels: 6.8 s"
+   "Sehdauer letzte 3 Reels: 7.1 s"
   ],
-  "checked": "2026-09-11T12:25:35.586Z",
+  "checked": "2026-09-11T13:15:42.600Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -37,7 +37,7 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 6.8
+  "avg_watch_last_reels": 7.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -875,6 +875,11 @@
    "ts": "2026-09-11T12:25:34.256Z",
    "followers": 151,
    "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T13:15:41.381Z",
+   "followers": 151,
+   "media_count": 37
   }
  ],
  "posts": [
@@ -885,7 +890,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 53,
+   "views": 62,
    "likes": 2,
    "comments": 0
   },
