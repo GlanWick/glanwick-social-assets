@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T02:23:20.586Z",
+ "updated": "2026-09-11T03:12:08.717Z",
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
@@ -781,6 +781,11 @@
    "ts": "2026-09-11T02:23:20.586Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T03:12:08.717Z",
+   "followers": 151,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -791,7 +796,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 24,
+   "views": 25,
    "likes": 2,
    "comments": 0
   },
@@ -802,7 +807,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 33,
+   "views": 34,
    "likes": 2,
    "comments": 0
   },
@@ -824,7 +829,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 105,
+   "views": 106,
    "likes": 3,
    "comments": 0
   },
@@ -956,7 +961,7 @@
    "timestamp": "2026-09-07T13:30:48+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "It feels like the market is against you. The market does not know you exist.",
-   "views": 41,
+   "views": 42,
    "likes": 5,
    "comments": 0
   },
