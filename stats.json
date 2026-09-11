@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11T14:16:02.567Z",
+ "updated": "2026-09-11T15:16:03.487Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-10: 236 gegen Mittel 3158"
   ],
-  "checked": "2026-09-11T14:16:03.832Z",
+  "checked": "2026-09-11T15:16:04.734Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -36,7 +36,7 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 10
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -884,6 +884,11 @@
    "ts": "2026-09-11T14:16:02.567Z",
    "followers": 151,
    "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T15:16:03.487Z",
+   "followers": 151,
+   "media_count": 38
   }
  ],
  "posts": [
@@ -894,7 +899,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 12,
+   "views": 22,
    "likes": 1,
    "comments": 0
   },
@@ -916,7 +921,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 37,
+   "views": 39,
    "likes": 3,
    "comments": 0
   },
