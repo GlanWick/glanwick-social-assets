@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11T08:25:13.650Z",
+ "updated": "2026-09-11T09:25:27.530Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-10: 236 gegen Mittel 3158"
   ],
-  "checked": "2026-09-11T08:25:15.257Z",
+  "checked": "2026-09-11T09:25:28.753Z",
   "reach_days": [
    {
     "day": "2026-09-04",
@@ -36,13 +36,13 @@
     "reach": 236
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 16.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 151,
-  "media_count": 42
+  "media_count": 43
  },
  "history": [
   {
@@ -854,9 +854,25 @@
    "ts": "2026-09-11T08:25:13.650Z",
    "followers": 151,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T09:25:27.530Z",
+   "followers": 151,
+   "media_count": 43
   }
  ],
  "posts": [
+  {
+   "id": "18008934374986590",
+   "slug": "stop-loss-vs-risk",
+   "permalink": "https://www.instagram.com/reel/DdJCho3jCdm/",
+   "timestamp": "2026-09-11T09:00:50+0000",
+   "type": "VIDEO",
+   "caption": "A tighter stop feels safer. What it actually changes is your size.",
+   "views": 10,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18021473663873014",
    "slug": "bitcoin-vs-bitcoin-etf",
@@ -864,7 +880,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 25,
+   "views": 27,
    "likes": 2,
    "comments": 0
   },
@@ -875,7 +891,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 40,
+   "views": 41,
    "likes": 2,
    "comments": 0
   },
@@ -1283,17 +1299,6 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 130,
-   "likes": 3,
-   "comments": 0
-  },
-  {
-   "id": "18377648677238561",
-   "slug": "correction-vs-bear-market",
-   "permalink": "https://www.instagram.com/reel/DctHMxED0Qh/",
-   "timestamp": "2026-08-31T12:42:57+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 163,
    "likes": 3,
    "comments": 0
   }
