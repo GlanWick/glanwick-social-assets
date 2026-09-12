@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T20:29:14.813Z",
+ "updated": "2026-09-12T21:29:41.879Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T20:29:15.946Z",
+  "checked": "2026-09-12T21:29:43.009Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,7 +36,7 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1039,6 +1039,11 @@
    "ts": "2026-09-12T20:29:14.813Z",
    "followers": 155,
    "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T21:29:41.879Z",
+   "followers": 155,
+   "media_count": 40
   }
  ],
  "posts": [
@@ -1049,7 +1054,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 44,
+   "views": 52,
    "likes": 2,
    "comments": 0
   },
@@ -1060,7 +1065,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 160,
+   "views": 161,
    "likes": 7,
    "comments": 0
   },
@@ -1071,7 +1076,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 161,
+   "views": 163,
    "likes": 4,
    "comments": 0
   },
