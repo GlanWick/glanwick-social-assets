@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T11:47:59.153Z",
+ "updated": "2026-09-12T12:37:52.741Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T11:48:00.301Z",
+  "checked": "2026-09-12T12:37:53.828Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,7 +36,7 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 8.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -994,6 +994,11 @@
    "ts": "2026-09-12T11:47:59.153Z",
    "followers": 155,
    "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T12:37:52.741Z",
+   "followers": 155,
+   "media_count": 39
   }
  ],
  "posts": [
@@ -1015,8 +1020,8 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 151,
-   "likes": 3,
+   "views": 155,
+   "likes": 4,
    "comments": 0
   },
   {
