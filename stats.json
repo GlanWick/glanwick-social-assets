@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T19:28:46.423Z",
+ "updated": "2026-09-12T20:29:14.813Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T19:28:47.682Z",
+  "checked": "2026-09-12T20:29:15.946Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,7 +36,7 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1034,6 +1034,11 @@
    "ts": "2026-09-12T19:28:46.423Z",
    "followers": 155,
    "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T20:29:14.813Z",
+   "followers": 155,
+   "media_count": 40
   }
  ],
  "posts": [
@@ -1044,7 +1049,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 32,
+   "views": 44,
    "likes": 2,
    "comments": 0
   },
@@ -1374,7 +1379,7 @@
    "timestamp": "2026-09-03T00:25:21+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2008,
+   "views": 2011,
    "likes": 33,
    "comments": 0
   },
