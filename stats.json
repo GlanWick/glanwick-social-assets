@@ -1,12 +1,11 @@
 {
- "updated": "2026-09-12T07:47:14.269Z",
+ "updated": "2026-09-12T08:47:25.404Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-11: 191 gegen Mittel 2657",
-   "Sehdauer letzte 3 Reels: 6.6 s"
+   "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T07:47:15.611Z",
+  "checked": "2026-09-12T08:47:26.374Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -37,7 +36,7 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 6.6
+  "avg_watch_last_reels": 9.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -975,6 +974,11 @@
    "ts": "2026-09-12T07:47:14.269Z",
    "followers": 153,
    "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T08:47:25.404Z",
+   "followers": 153,
+   "media_count": 39
   }
  ],
  "posts": [
@@ -985,8 +989,8 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 0,
-   "likes": 0,
+   "views": 33,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -996,7 +1000,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 128,
+   "views": 137,
    "likes": 3,
    "comments": 0
   },
@@ -1007,7 +1011,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 87,
+   "views": 90,
    "likes": 3,
    "comments": 0
   },
