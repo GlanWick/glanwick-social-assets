@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T15:39:13.640Z",
+ "updated": "2026-09-12T16:39:21.967Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T15:39:14.746Z",
+  "checked": "2026-09-12T16:39:23.318Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,13 +36,13 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 155,
-  "media_count": 39
+  "media_count": 40
  },
  "history": [
   {
@@ -1014,9 +1014,25 @@
    "ts": "2026-09-12T15:39:13.640Z",
    "followers": 155,
    "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T16:39:21.967Z",
+   "followers": 155,
+   "media_count": 40
   }
  ],
  "posts": [
+  {
+   "id": "18112617371022925",
+   "slug": "stop-loss-vs-time-stop",
+   "permalink": "https://www.instagram.com/reel/DdMXXTKiCPp/",
+   "timestamp": "2026-09-12T16:00:36+0000",
+   "type": "VIDEO",
+   "caption": "A stop loss asks where. A time stop asks how long.",
+   "views": 24,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "18473586919119617",
    "slug": "loss-vs-recovery",
