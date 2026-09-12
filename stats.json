@@ -1,11 +1,12 @@
 {
- "updated": "2026-09-12T06:47:12.412Z",
+ "updated": "2026-09-12T07:47:14.269Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-11: 191 gegen Mittel 2657"
+   "Reichweite 2026-09-11: 191 gegen Mittel 2657",
+   "Sehdauer letzte 3 Reels: 6.6 s"
   ],
-  "checked": "2026-09-12T06:47:13.427Z",
+  "checked": "2026-09-12T07:47:15.611Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,13 +37,13 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 6.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 152,
-  "media_count": 38
+  "followers": 153,
+  "media_count": 39
  },
  "history": [
   {
@@ -969,9 +970,25 @@
    "ts": "2026-09-12T06:47:12.412Z",
    "followers": 152,
    "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T07:47:14.269Z",
+   "followers": 153,
+   "media_count": 39
   }
  ],
  "posts": [
+  {
+   "id": "18473586919119617",
+   "slug": "loss-vs-recovery",
+   "permalink": "https://www.instagram.com/reel/DdLe1AZCfhm/",
+   "timestamp": "2026-09-12T07:46:31+0000",
+   "type": "VIDEO",
+   "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18116570846061709",
    "slug": "stop-loss-vs-break-even",
@@ -979,7 +996,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 121,
+   "views": 128,
    "likes": 3,
    "comments": 0
   },
@@ -990,7 +1007,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 82,
+   "views": 87,
    "likes": 3,
    "comments": 0
   },
@@ -1122,7 +1139,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2541,
+   "views": 2542,
    "likes": 38,
    "comments": 0
   },
