@@ -1,4 +1,5 @@
 {
+  "generated_at": "2026-09-12T23:12:25.951Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -628,11 +629,7 @@
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-recovery-cover.jpg",
       "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. The recovery is always bigger than the loss, and that is why one bad stretch takes so long to undo.\n\nWhat is your worst drawdown? Comment the number.\n\n#drawdown #riskmanagement #tradingpsychology #daytrading #tradingjournal",
       "scheduled_at": "2026-09-12T07:45:00Z",
-      "status": "published",
-      "container_id": "18107724959136556",
-      "media_id": "18473586919119617",
-      "permalink": "https://www.instagram.com/reel/DdLe1AZCfhm/",
-      "published_at": "2026-09-12T07:46:37.091Z"
+      "status": "ready"
     },
     {
       "id": "2026-09-12-stop-loss-vs-time-stop",
@@ -642,11 +639,34 @@
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-time-stop-cover.jpg",
       "caption": "A stop loss asks where. A time stop asks how long.\n\nBuy at 100 with a stop at 95. Three weeks later it is still 100. Nothing hit your stop, and nothing happened, while your money sat in a trade that had no reason to exist. A time stop closes it on day five.\n\nHow long do you hold a trade that does nothing? Comment the days.\n\n#timestop #stoploss #swingtrading #riskmanagement #tradingjournal",
       "scheduled_at": "2026-09-12T16:00:00Z",
-      "status": "published",
-      "container_id": "18107781296136556",
-      "media_id": "18112617371022925",
-      "permalink": "https://www.instagram.com/reel/DdMXXTKiCPp/",
-      "published_at": "2026-09-12T16:00:42.149Z"
+      "status": "ready"
+    },
+    {
+      "id": "2026-09-12-cash-vs-margin-account",
+      "slug": "cash-vs-margin-account",
+      "status": "ready",
+      "scheduled_at": "2026-09-12T23:25:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account-cover.jpg",
+      "caption": "A cash account spends your money. A margin account spends the broker's money too.\n\nSay you have 10,000 and the stock falls 40 percent. In the cash account you are down 4,000, and nothing else happens. On margin you bought 20,000 worth, so the same drop leaves 12,000, and 10,000 of that is the loan. Your 10,000 became 2,000, and the broker can close the position without asking you first.\n\nSame stock, same 40 percent. The difference is who decides when you are out.\n\nCash or margin? Comment which one you trade."
+    },
+    {
+      "id": "2026-09-13-short-selling-vs-short-squeeze",
+      "slug": "short-selling-vs-short-squeeze",
+      "status": "ready",
+      "scheduled_at": "2026-09-13T07:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze-cover.jpg",
+      "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is all of them buying it back at once.\n\nSell at 100 and buy it back at 70, you made 30. Sell at 100 and watch it run to 200, you lost 100. And you cannot wait it out, because the borrowed share has to be returned. So you buy. That buying lifts the price, which forces the next short to buy.\n\nA long can lose everything. A short has no ceiling to lose against.\n\nEver been squeezed? Comment the ticker."
+    },
+    {
+      "id": "2026-09-13-track-record-vs-survivorship-bias",
+      "slug": "track-record-vs-survivorship-bias",
+      "status": "ready",
+      "scheduled_at": "2026-09-13T16:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias-cover.jpg",
+      "caption": "A track record shows what happened. Survivorship bias is everything that never made it into the screenshot.\n\nTake 1,000 traders who only flip a coin. After ten days, about one of them is green every single day. That one posts the screenshot. The other 999 delete the app.\n\nEvery strategy you copy was picked because it survived. Your own history is the only record where nothing was deleted.\n\nHow many losing months are in yours? Comment the number."
     }
   ]
 }
