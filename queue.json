@@ -652,11 +652,12 @@
     {
       "id": "2026-09-12-cash-vs-margin-account",
       "slug": "cash-vs-margin-account",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-12T23:25:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account-cover.jpg",
-      "caption": "A cash account spends your money. A margin account spends the broker's money too.\n\nSay you have 10,000 and the stock falls 40 percent. In the cash account you are down 4,000, and nothing else happens. On margin you bought 20,000 worth, so the same drop leaves 12,000, and 10,000 of that is the loan. Your 10,000 became 2,000, and the broker can close the position without asking you first.\n\nSame stock, same 40 percent. The difference is who decides when you are out.\n\nCash or margin? Comment which one you trade."
+      "caption": "A cash account spends your money. A margin account spends the broker's money too.\n\nSay you have 10,000 and the stock falls 40 percent. In the cash account you are down 4,000, and nothing else happens. On margin you bought 20,000 worth, so the same drop leaves 12,000, and 10,000 of that is the loan. Your 10,000 became 2,000, and the broker can close the position without asking you first.\n\nSame stock, same 40 percent. The difference is who decides when you are out.\n\nCash or margin? Comment which one you trade.",
+      "posting_started_at": "2026-09-12T23:25:01.729Z"
     },
     {
       "id": "2026-09-13-short-selling-vs-short-squeeze",
