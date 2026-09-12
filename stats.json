@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T13:38:20.204Z",
+ "updated": "2026-09-12T14:38:47.390Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-11: 191 gegen Mittel 2657"
   ],
-  "checked": "2026-09-12T13:38:21.489Z",
+  "checked": "2026-09-12T14:38:48.514Z",
   "reach_days": [
    {
     "day": "2026-09-05",
@@ -36,7 +36,7 @@
     "reach": 191
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1004,6 +1004,11 @@
    "ts": "2026-09-12T13:38:20.204Z",
    "followers": 155,
    "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T14:38:47.390Z",
+   "followers": 155,
+   "media_count": 39
   }
  ],
  "posts": [
@@ -1014,8 +1019,8 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 155,
-   "likes": 6,
+   "views": 159,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -1025,7 +1030,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 160,
+   "views": 161,
    "likes": 4,
    "comments": 0
   },
@@ -1289,7 +1294,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3405,
+   "views": 3406,
    "likes": 56,
    "comments": 0
   },
