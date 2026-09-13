@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-13T14:00:08.232Z",
+ "updated": "2026-09-13T15:00:16.246Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-12: 335 gegen Mittel 2102",
-   "Sehdauer letzte 3 Reels: 7.9 s"
+   "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-09-13T14:00:09.914Z",
+  "checked": "2026-09-13T15:00:17.413Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -37,7 +37,7 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 7.9
+  "avg_watch_last_reels": 7.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1130,6 +1130,11 @@
    "ts": "2026-09-13T14:00:08.232Z",
    "followers": 155,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T15:00:16.246Z",
+   "followers": 155,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -1151,7 +1156,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 189,
+   "views": 191,
    "likes": 6,
    "comments": 0
   },
@@ -1162,7 +1167,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 99,
+   "views": 100,
    "likes": 4,
    "comments": 0
   },
