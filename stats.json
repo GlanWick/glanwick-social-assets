@@ -1,11 +1,12 @@
 {
- "updated": "2026-09-13T11:10:30.777Z",
+ "updated": "2026-09-13T11:59:51.670Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-12: 335 gegen Mittel 2102"
+   "Reichweite 2026-09-12: 335 gegen Mittel 2102",
+   "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-09-13T11:10:31.914Z",
+  "checked": "2026-09-13T11:59:52.733Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -36,12 +37,12 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 156,
+  "followers": 155,
   "media_count": 42
  },
  "history": [
@@ -1114,6 +1115,11 @@
    "ts": "2026-09-13T11:10:30.777Z",
    "followers": 156,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T11:59:51.670Z",
+   "followers": 155,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -1124,7 +1130,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 63,
+   "views": 66,
    "likes": 3,
    "comments": 0
   },
@@ -1135,7 +1141,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 168,
+   "views": 176,
    "likes": 6,
    "comments": 0
   },
