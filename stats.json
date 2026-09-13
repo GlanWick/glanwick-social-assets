@@ -1,11 +1,12 @@
 {
- "updated": "2026-09-13T21:50:48.685Z",
+ "updated": "2026-09-13T22:50:54.836Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-12: 335 gegen Mittel 2102"
+   "Reichweite 2026-09-12: 335 gegen Mittel 2102",
+   "Sehdauer letzte 3 Reels: 8.0 s"
   ],
-  "checked": "2026-09-13T21:50:49.877Z",
+  "checked": "2026-09-13T22:50:56.571Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -36,7 +37,7 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1169,6 +1170,11 @@
    "ts": "2026-09-13T21:50:48.685Z",
    "followers": 155,
    "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T22:50:54.836Z",
+   "followers": 155,
+   "media_count": 43
   }
  ],
  "posts": [
@@ -1179,7 +1185,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 52,
+   "views": 55,
    "likes": 1,
    "comments": 0
   },
@@ -1190,7 +1196,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 77,
+   "views": 78,
    "likes": 3,
    "comments": 0
   },
@@ -1344,7 +1350,7 @@
    "timestamp": "2026-09-08T13:31:41+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 203,
+   "views": 204,
    "likes": 5,
    "comments": 0
   },
@@ -1355,7 +1361,7 @@
    "timestamp": "2026-09-08T10:31:24+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 243,
+   "views": 244,
    "likes": 7,
    "comments": 2
   },
@@ -1366,7 +1372,7 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1508,
+   "views": 1510,
    "likes": 22,
    "comments": 0
   },
@@ -1377,7 +1383,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2544,
+   "views": 2545,
    "likes": 38,
    "comments": 0
   },
