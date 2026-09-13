@@ -678,11 +678,12 @@
     {
       "id": "2026-09-13-track-record-vs-survivorship-bias",
       "slug": "track-record-vs-survivorship-bias",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-13T16:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias-cover.jpg",
-      "caption": "A track record shows what happened. Survivorship bias is everything that never made it into the screenshot.\n\nTake 1,000 traders who only flip a coin. After ten days, about one of them is green every single day. That one posts the screenshot. The other 999 delete the app.\n\nEvery strategy you copy was picked because it survived. Your own history is the only record where nothing was deleted.\n\nHow many losing months are in yours? Comment the number."
+      "caption": "A track record shows what happened. Survivorship bias is everything that never made it into the screenshot.\n\nTake 1,000 traders who only flip a coin. After ten days, about one of them is green every single day. That one posts the screenshot. The other 999 delete the app.\n\nEvery strategy you copy was picked because it survived. Your own history is the only record where nothing was deleted.\n\nHow many losing months are in yours? Comment the number.",
+      "posting_started_at": "2026-09-13T16:00:25.480Z"
     }
   ]
 }
