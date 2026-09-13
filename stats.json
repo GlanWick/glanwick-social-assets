@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-13T19:50:38.292Z",
+ "updated": "2026-09-13T20:50:43.324Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-12: 335 gegen Mittel 2102"
   ],
-  "checked": "2026-09-13T19:50:39.534Z",
+  "checked": "2026-09-13T20:50:44.452Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -36,7 +36,7 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1159,6 +1159,11 @@
    "ts": "2026-09-13T19:50:38.292Z",
    "followers": 155,
    "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T20:50:43.324Z",
+   "followers": 155,
+   "media_count": 43
   }
  ],
  "posts": [
@@ -1169,7 +1174,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 43,
+   "views": 52,
    "likes": 1,
    "comments": 0
   },
@@ -1180,7 +1185,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 75,
+   "views": 76,
    "likes": 3,
    "comments": 0
   },
@@ -1191,7 +1196,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 219,
+   "views": 224,
    "likes": 6,
    "comments": 0
   },
