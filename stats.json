@@ -1,12 +1,11 @@
 {
- "updated": "2026-09-13T07:09:30.284Z",
+ "updated": "2026-09-13T08:09:44.100Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-12: 335 gegen Mittel 2102",
-   "Sehdauer letzte 3 Reels: 4.9 s"
+   "Reichweite 2026-09-12: 335 gegen Mittel 2102"
   ],
-  "checked": "2026-09-13T07:09:31.154Z",
+  "checked": "2026-09-13T08:09:45.089Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -37,7 +36,7 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 4.9
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1095,6 +1094,11 @@
    "ts": "2026-09-13T07:09:30.284Z",
    "followers": 156,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T08:09:44.100Z",
+   "followers": 156,
+   "media_count": 42
   }
  ],
  "posts": [
@@ -1105,8 +1109,8 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 0,
-   "likes": 0,
+   "views": 27,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -1116,7 +1120,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 140,
+   "views": 142,
    "likes": 5,
    "comments": 0
   },
@@ -1127,7 +1131,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 86,
+   "views": 88,
    "likes": 4,
    "comments": 0
   },
