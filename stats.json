@@ -1,17 +1,12 @@
 {
- "updated": "2026-09-12T23:30:25.885Z",
+ "updated": "2026-09-13T00:18:55.596Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-11: 191 gegen Mittel 2657",
-   "Sehdauer letzte 3 Reels: 4.2 s"
+   "Reichweite 2026-09-12: 213 gegen Mittel 2102"
   ],
-  "checked": "2026-09-12T23:30:27.059Z",
+  "checked": "2026-09-13T00:18:56.735Z",
   "reach_days": [
-   {
-    "day": "2026-09-05",
-    "reach": 3521
-   },
    {
     "day": "2026-09-06",
     "reach": 3566
@@ -35,9 +30,13 @@
    {
     "day": "2026-09-11",
     "reach": 191
+   },
+   {
+    "day": "2026-09-12",
+    "reach": 213
    }
   ],
-  "avg_watch_last_reels": 4.2
+  "avg_watch_last_reels": 9.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1055,6 +1054,11 @@
    "ts": "2026-09-12T23:30:25.885Z",
    "followers": 155,
    "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T00:18:55.596Z",
+   "followers": 155,
+   "media_count": 41
   }
  ],
  "posts": [
@@ -1065,8 +1069,8 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 1,
-   "likes": 0,
+   "views": 26,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -1142,7 +1146,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 88,
+   "views": 90,
    "likes": 4,
    "comments": 0
   },
@@ -1153,7 +1157,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 142,
+   "views": 143,
    "likes": 3,
    "comments": 0
   },
@@ -1164,7 +1168,7 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 57,
+   "views": 58,
    "likes": 4,
    "comments": 0
   },
@@ -1175,7 +1179,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 172,
+   "views": 173,
    "likes": 6,
    "comments": 0
   },
