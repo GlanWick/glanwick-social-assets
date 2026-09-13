@@ -665,11 +665,12 @@
     {
       "id": "2026-09-13-short-selling-vs-short-squeeze",
       "slug": "short-selling-vs-short-squeeze",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-13T07:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze-cover.jpg",
-      "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is all of them buying it back at once.\n\nSell at 100 and buy it back at 70, you made 30. Sell at 100 and watch it run to 200, you lost 100. And you cannot wait it out, because the borrowed share has to be returned. So you buy. That buying lifts the price, which forces the next short to buy.\n\nA long can lose everything. A short has no ceiling to lose against.\n\nEver been squeezed? Comment the ticker."
+      "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is all of them buying it back at once.\n\nSell at 100 and buy it back at 70, you made 30. Sell at 100 and watch it run to 200, you lost 100. And you cannot wait it out, because the borrowed share has to be returned. So you buy. That buying lifts the price, which forces the next short to buy.\n\nA long can lose everything. A short has no ceiling to lose against.\n\nEver been squeezed? Comment the ticker.",
+      "posting_started_at": "2026-09-13T07:00:16.917Z"
     },
     {
       "id": "2026-09-13-track-record-vs-survivorship-bias",
