@@ -1,12 +1,11 @@
 {
- "updated": "2026-09-13T16:00:23.076Z",
+ "updated": "2026-09-13T17:00:43.697Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-12: 335 gegen Mittel 2102",
-   "Sehdauer letzte 3 Reels: 7.6 s"
+   "Reichweite 2026-09-12: 335 gegen Mittel 2102"
   ],
-  "checked": "2026-09-13T16:00:24.221Z",
+  "checked": "2026-09-13T17:00:45.052Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -37,13 +36,13 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 13.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 155,
-  "media_count": 42
+  "media_count": 43
  },
  "history": [
   {
@@ -1140,9 +1139,25 @@
    "ts": "2026-09-13T16:00:23.076Z",
    "followers": 155,
    "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T17:00:43.697Z",
+   "followers": 155,
+   "media_count": 43
   }
  ],
  "posts": [
+  {
+   "id": "18407335213086886",
+   "slug": "track-record-vs-survivorship-bias",
+   "permalink": "https://www.instagram.com/reel/DdO8NLCkiXi/",
+   "timestamp": "2026-09-13T16:00:59+0000",
+   "type": "VIDEO",
+   "caption": "A track record shows what happened. Survivorship bias is everything that never m",
+   "views": 11,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18113826394823304",
    "slug": "short-selling-vs-short-squeeze",
@@ -1161,7 +1176,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 194,
+   "views": 204,
    "likes": 6,
    "comments": 0
   },
@@ -1337,7 +1352,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2543,
+   "views": 2544,
    "likes": 38,
    "comments": 0
   },
@@ -1569,17 +1584,6 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 130,
-   "likes": 3,
-   "comments": 0
-  },
-  {
-   "id": "18377648677238561",
-   "slug": "correction-vs-bear-market",
-   "permalink": "https://www.instagram.com/reel/DctHMxED0Qh/",
-   "timestamp": "2026-08-31T12:42:57+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 163,
    "likes": 3,
    "comments": 0
   }
