@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-13T22:50:54.836Z",
+ "updated": "2026-09-13T23:40:55.257Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-12: 335 gegen Mittel 2102",
-   "Sehdauer letzte 3 Reels: 8.0 s"
+   "Sehdauer letzte 3 Reels: 5.8 s"
   ],
-  "checked": "2026-09-13T22:50:56.571Z",
+  "checked": "2026-09-13T23:40:56.378Z",
   "reach_days": [
    {
     "day": "2026-09-06",
@@ -37,13 +37,13 @@
     "reach": 335
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 5.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 155,
-  "media_count": 43
+  "media_count": 44
  },
  "history": [
   {
@@ -1175,9 +1175,25 @@
    "ts": "2026-09-13T22:50:54.836Z",
    "followers": 155,
    "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T23:40:55.257Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
+  {
+   "id": "18122111804298252",
+   "slug": "market-vs-limit-iphone",
+   "permalink": "https://www.instagram.com/reel/DdPsN8NCYjd/",
+   "timestamp": "2026-09-13T23:00:35+0000",
+   "type": "VIDEO",
+   "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
+   "views": 8,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18407335213086886",
    "slug": "track-record-vs-survivorship-bias",
@@ -1207,7 +1223,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 225,
+   "views": 227,
    "likes": 6,
    "comments": 0
   },
@@ -1605,17 +1621,6 @@
    "caption": "Follow for more differences.",
    "views": 306,
    "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18124689778889570",
-   "slug": "market-vs-limit-order",
-   "permalink": "https://www.instagram.com/reel/DcuCWBrFVpD/",
-   "timestamp": "2026-08-31T21:19:48+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 130,
-   "likes": 3,
    "comments": 0
   }
  ]
