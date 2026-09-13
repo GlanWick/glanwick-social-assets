@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:12:50.047Z",
+  "generated_at": "2026-09-13T16:50:50.670Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -657,10 +657,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/cash-vs-margin-account-cover.jpg",
       "caption": "A cash account spends your money. A margin account spends the broker's money too.\n\nSay you have 10,000 and the stock falls 40 percent. In the cash account you are down 4,000, and nothing else happens. On margin you bought 20,000 worth, so the same drop leaves 12,000, and 10,000 of that is the loan. Your 10,000 became 2,000, and the broker can close the position without asking you first.\n\nSame stock, same 40 percent. The difference is who decides when you are out.\n\nCash or margin? Comment which one you trade.",
-      "container_id": "18107821310136556",
       "media_id": "17941064985089528",
       "permalink": "https://www.instagram.com/reel/DdNKSFdEz7K/",
-      "published_at": "2026-09-12T23:25:43.729Z"
+      "published_at": "2026-09-12T23:25:43.729Z",
+      "container_id": "18107821310136556"
     },
     {
       "id": "2026-09-13-short-selling-vs-short-squeeze",
@@ -670,10 +670,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/short-selling-vs-short-squeeze-cover.jpg",
       "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is all of them buying it back at once.\n\nSell at 100 and buy it back at 70, you made 30. Sell at 100 and watch it run to 200, you lost 100. And you cannot wait it out, because the borrowed share has to be returned. So you buy. That buying lifts the price, which forces the next short to buy.\n\nA long can lose everything. A short has no ceiling to lose against.\n\nEver been squeezed? Comment the ticker.",
-      "container_id": "18107869664136556",
       "media_id": "18113826394823304",
       "permalink": "https://www.instagram.com/reel/DdN-YljjZbY/",
-      "published_at": "2026-09-13T07:01:18.469Z"
+      "published_at": "2026-09-13T07:01:18.469Z",
+      "container_id": "18107869664136556"
     },
     {
       "id": "2026-09-13-track-record-vs-survivorship-bias",
@@ -683,10 +683,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/track-record-vs-survivorship-bias-cover.jpg",
       "caption": "A track record shows what happened. Survivorship bias is everything that never made it into the screenshot.\n\nTake 1,000 traders who only flip a coin. After ten days, about one of them is green every single day. That one posts the screenshot. The other 999 delete the app.\n\nEvery strategy you copy was picked because it survived. Your own history is the only record where nothing was deleted.\n\nHow many losing months are in yours? Comment the number.",
-      "container_id": "18107931428136556",
       "media_id": "18407335213086886",
       "permalink": "https://www.instagram.com/reel/DdO8NLCkiXi/",
-      "published_at": "2026-09-13T16:01:06.437Z"
+      "published_at": "2026-09-13T16:01:06.437Z",
+      "container_id": "18107931428136556"
     }
   ]
 }
