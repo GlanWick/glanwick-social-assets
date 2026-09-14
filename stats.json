@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-14T11:21:49.418Z",
+ "updated": "2026-09-14T12:21:56.109Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563",
    "Sehdauer letzte 3 Reels: 7.4 s"
   ],
-  "checked": "2026-09-14T11:21:51.583Z",
+  "checked": "2026-09-14T12:21:58.944Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -1240,6 +1240,11 @@
    "ts": "2026-09-14T11:21:49.418Z",
    "followers": 155,
    "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T12:21:56.109Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
@@ -1261,7 +1266,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 62,
+   "views": 63,
    "likes": 1,
    "comments": 0
   },
