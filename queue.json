@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:45:03.585Z",
+  "generated_at": "2026-09-14T15:43:00.607Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -704,11 +704,15 @@
     {
       "id": "2026-09-14-stickman-stop",
       "slug": "stickman-stop",
-      "status": "ready",
+      "status": "published",
       "scheduled_at": "2026-09-14T16:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stop-cover.jpg",
-      "caption": "The most expensive habit in trading takes one second: moving the stop.\n\nA stop at −2 % dragged down to −12 % is six times the planned loss. If your average winner is +2 %, that single trade erased six of them.\n\nThe stop is a decision you already made. Moving it is a new one, taken by the worst version of you.\n\nSend this to the friend who says „it will come back\".\n\nHave you ever moved a stop? 👇\n\n#stoploss #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
+      "caption": "The most expensive habit in trading takes one second: moving the stop.\n\nA stop at −2 % dragged down to −12 % is six times the planned loss. If your average winner is +2 %, that single trade erased six of them.\n\nThe stop is a decision you already made. Moving it is a new one, taken by the worst version of you.\n\nSend this to the friend who says „it will come back\".\n\nHave you ever moved a stop? 👇\n\n#stoploss #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "container_id": "18108088709136556",
+      "media_id": "18108413675146396",
+      "permalink": "https://www.instagram.com/reel/DdRe6YXDTIv/",
+      "published_at": "2026-09-14T15:42:52.444Z"
     }
   ]
 }
