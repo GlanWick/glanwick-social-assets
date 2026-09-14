@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-14T03:42:21.102Z",
+ "updated": "2026-09-14T04:42:47.337Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-13: 196 gegen Mittel 1563",
-   "Sehdauer letzte 3 Reels: 6.2 s"
+   "Reichweite 2026-09-13: 198 gegen Mittel 1563",
+   "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-09-14T03:42:22.373Z",
+  "checked": "2026-09-14T04:42:48.301Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -34,10 +34,10 @@
    },
    {
     "day": "2026-09-13",
-    "reach": 196
+    "reach": 198
    }
   ],
-  "avg_watch_last_reels": 6.2
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1200,6 +1200,11 @@
    "ts": "2026-09-14T03:42:21.102Z",
    "followers": 155,
    "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T04:42:47.337Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
@@ -1210,7 +1215,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 10,
+   "views": 14,
    "likes": 0,
    "comments": 0
   },
@@ -1232,7 +1237,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 78,
+   "views": 79,
    "likes": 3,
    "comments": 0
   },
