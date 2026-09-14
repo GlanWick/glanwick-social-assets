@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14T18:12:21.625Z",
+ "updated": "2026-09-14T19:12:24.214Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563"
   ],
-  "checked": "2026-09-14T18:12:22.712Z",
+  "checked": "2026-09-14T19:12:25.808Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -1274,6 +1274,11 @@
    "ts": "2026-09-14T18:12:21.625Z",
    "followers": 155,
    "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T19:12:24.214Z",
+   "followers": 155,
+   "media_count": 45
   }
  ],
  "posts": [
@@ -1284,7 +1289,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 215,
+   "views": 248,
    "likes": 7,
    "comments": 0
   },
@@ -1350,7 +1355,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 164,
+   "views": 165,
    "likes": 8,
    "comments": 0
   },
@@ -1691,7 +1696,7 @@
    "timestamp": "2026-09-02T13:40:42+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1484,
+   "views": 1485,
    "likes": 19,
    "comments": 0
   },
@@ -1702,7 +1707,7 @@
    "timestamp": "2026-09-01T23:01:13+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 131,
+   "views": 132,
    "likes": 3,
    "comments": 0
   },
