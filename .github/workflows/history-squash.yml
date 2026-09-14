@@ -9,13 +9,19 @@
 #
 # Gleiche concurrency-Gruppe wie der Waechter, aber MIT Abbruch: Ein laufender
 # Waechter wird gestoppt, damit er nicht gegen die neue Historie pusht. Der
-# naechste geplante Waechter (alle 20 Minuten) klont frisch. Deshalb laeuft
-# der Squash nachts, wenn kein Slot ansteht.
+# naechste geplante Waechter (alle 20 Minuten) klont frisch. Deshalb muss der
+# Squash in einer Stunde liegen, in der kein Slot ansteht.
+#
+# 14.09.2026: von 02:30 auf 06:00 UTC verlegt. Die Sendeplaetze laufen seit
+# heute nach New Yorker Zeit (08:00, 13:00, 19:00, 22:30 ET), und 22:30 ET ist
+# 02:30 UTC - der Squash haette den Waechter genau im Slot abgeschossen.
+# 06:00 UTC ist 02:00 in New York und 08:00 in Berlin, also von allen vier
+# Plaetzen weit weg, auch nach der Zeitumstellung.
 name: History Squash
 
 on:
   schedule:
-    - cron: '30 2 1 * *'
+    - cron: '0 6 1 * *'
   workflow_dispatch:
 
 concurrency:
