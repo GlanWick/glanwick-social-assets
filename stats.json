@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-14T02:42:20.036Z",
+ "updated": "2026-09-14T03:42:21.102Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 196 gegen Mittel 1563",
    "Sehdauer letzte 3 Reels: 6.2 s"
   ],
-  "checked": "2026-09-14T02:42:21.496Z",
+  "checked": "2026-09-14T03:42:22.373Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -1195,6 +1195,11 @@
    "ts": "2026-09-14T02:42:20.036Z",
    "followers": 155,
    "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T03:42:21.102Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
@@ -1238,7 +1243,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 229,
+   "views": 230,
    "likes": 6,
    "comments": 0
   },
