@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14T20:12:27.861Z",
+ "updated": "2026-09-14T21:12:29.588Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563"
   ],
-  "checked": "2026-09-14T20:12:28.960Z",
+  "checked": "2026-09-14T21:12:30.385Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -36,7 +36,7 @@
     "reach": 203
    }
   ],
-  "avg_watch_last_reels": 9.3
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1284,6 +1284,11 @@
    "ts": "2026-09-14T20:12:27.861Z",
    "followers": 155,
    "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T21:12:29.588Z",
+   "followers": 155,
+   "media_count": 45
   }
  ],
  "posts": [
@@ -1294,7 +1299,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 296,
+   "views": 327,
    "likes": 8,
    "comments": 0
   },
@@ -1305,7 +1310,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 28,
+   "views": 30,
    "likes": 3,
    "comments": 0
   },
@@ -1338,7 +1343,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 242,
+   "views": 243,
    "likes": 6,
    "comments": 0
   },
