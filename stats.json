@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14T16:22:49.963Z",
+ "updated": "2026-09-14T17:12:21.438Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563"
   ],
-  "checked": "2026-09-14T16:22:51.340Z",
+  "checked": "2026-09-14T17:12:22.464Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -36,7 +36,7 @@
     "reach": 203
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 8.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1264,6 +1264,11 @@
    "ts": "2026-09-14T16:22:49.963Z",
    "followers": 155,
    "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T17:12:21.438Z",
+   "followers": 155,
+   "media_count": 45
   }
  ],
  "posts": [
@@ -1274,8 +1279,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 90,
-   "likes": 3,
+   "views": 192,
+   "likes": 6,
    "comments": 0
   },
   {
