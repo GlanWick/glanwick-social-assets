@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14T19:12:24.214Z",
+ "updated": "2026-09-14T20:12:27.861Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563"
   ],
-  "checked": "2026-09-14T19:12:25.808Z",
+  "checked": "2026-09-14T20:12:28.960Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -36,7 +36,7 @@
     "reach": 203
    }
   ],
-  "avg_watch_last_reels": 8.9
+  "avg_watch_last_reels": 9.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1279,6 +1279,11 @@
    "ts": "2026-09-14T19:12:24.214Z",
    "followers": 155,
    "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T20:12:27.861Z",
+   "followers": 155,
+   "media_count": 45
   }
  ],
  "posts": [
@@ -1289,8 +1294,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 248,
-   "likes": 7,
+   "views": 296,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -1300,7 +1305,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 26,
+   "views": 28,
    "likes": 3,
    "comments": 0
   },
