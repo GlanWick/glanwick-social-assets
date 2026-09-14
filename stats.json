@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-14T05:31:13.617Z",
+ "updated": "2026-09-14T06:31:23.969Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-09-13: 200 gegen Mittel 1563",
-   "Sehdauer letzte 3 Reels: 7.2 s"
+   "Reichweite 2026-09-13: 202 gegen Mittel 1563",
+   "Sehdauer letzte 3 Reels: 7.0 s"
   ],
-  "checked": "2026-09-14T05:31:14.639Z",
+  "checked": "2026-09-14T06:31:25.857Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -34,10 +34,10 @@
    },
    {
     "day": "2026-09-13",
-    "reach": 200
+    "reach": 202
    }
   ],
-  "avg_watch_last_reels": 7.2
+  "avg_watch_last_reels": 7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1210,6 +1210,11 @@
    "ts": "2026-09-14T05:31:13.617Z",
    "followers": 155,
    "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T06:31:23.969Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
@@ -1220,7 +1225,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 15,
+   "views": 16,
    "likes": 0,
    "comments": 0
   },
@@ -1231,7 +1236,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 56,
+   "views": 57,
    "likes": 1,
    "comments": 0
   },
@@ -1242,7 +1247,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 79,
+   "views": 80,
    "likes": 3,
    "comments": 0
   },
@@ -1253,7 +1258,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 230,
+   "views": 231,
    "likes": 6,
    "comments": 0
   },
