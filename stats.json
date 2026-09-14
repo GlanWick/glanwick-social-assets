@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-14T12:21:56.109Z",
+ "updated": "2026-09-14T13:21:51.958Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-09-13: 203 gegen Mittel 1563",
-   "Sehdauer letzte 3 Reels: 7.4 s"
+   "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-09-14T12:21:58.944Z",
+  "checked": "2026-09-14T13:21:53.046Z",
   "reach_days": [
    {
     "day": "2026-09-07",
@@ -37,7 +37,7 @@
     "reach": 203
    }
   ],
-  "avg_watch_last_reels": 7.4
+  "avg_watch_last_reels": 7.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1245,6 +1245,11 @@
    "ts": "2026-09-14T12:21:56.109Z",
    "followers": 155,
    "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T13:21:51.958Z",
+   "followers": 155,
+   "media_count": 44
   }
  ],
  "posts": [
@@ -1255,7 +1260,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 19,
+   "views": 21,
    "likes": 1,
    "comments": 0
   },
@@ -1266,7 +1271,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 63,
+   "views": 64,
    "likes": 1,
    "comments": 0
   },
