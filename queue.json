@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:40:52.644Z",
+  "generated_at": "2026-09-15T21:05:45.228Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -735,10 +735,19 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-drawdown.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-drawdown-cover.jpg",
       "caption": "Lose half your account and you need +100 % just to get back to flat.\n\nDown 10 % you need 11 %. Down 25 % you need 33 %. Down 50 % you need 100 %. Every step down steepens the climb, because the money left to do the climbing got smaller.\n\nThe size of the position is the part you set before the trade. The depth of the hole is the part you never get to choose.\n\nSend this to the friend who says he will make it back next week.\n\nWhat is your hard stop for a bad week? 👇\n\n#drawdown #riskmanagement #positionsizing #tradingjournal #knowthedifference",
-      "container_id": "18108154262136556",
       "media_id": "18392797954201422",
       "permalink": "https://www.instagram.com/reel/DdSpGb6jdBV/",
-      "published_at": "2026-09-15T02:31:12.542Z"
+      "published_at": "2026-09-15T02:31:12.542Z",
+      "container_id": "18108154262136556"
+    },
+    {
+      "id": "2026-09-15-positionsgroesse",
+      "slug": "stickman-size",
+      "status": "ready",
+      "scheduled_at": "2026-09-15T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-size.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-size-cover.jpg",
+      "caption": "Ten winning trades can die in one afternoon.\n\nHe risked 1 % a trade and won ten in a row. Plus 10 %. Then one setup felt certain, so he risked 10 % on that one. It lost. Ten winners, erased by a single trade.\n\nThe size is the part you control before the trade. The outcome is the part you never did.\n\nSend this to the friend who sizes up when he feels sure.\n\nHave you ever sized up on a setup that felt certain? 👇\n\n#positionsizing #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
     }
   ]
 }
