@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T14:44:05.961Z",
+ "updated": "2026-09-15T15:44:16.679Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T14:44:07.285Z",
+  "checked": "2026-09-15T15:44:17.756Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -1377,6 +1377,11 @@
    "ts": "2026-09-15T14:44:05.961Z",
    "followers": 160,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T15:44:16.679Z",
+   "followers": 160,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1387,7 +1392,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 1953,
+   "views": 1964,
    "likes": 29,
    "comments": 0
   },
@@ -1398,7 +1403,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 148,
+   "views": 149,
    "likes": 1,
    "comments": 0
   },
@@ -1409,7 +1414,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1396,
+   "views": 1414,
    "likes": 29,
    "comments": 0
   },
