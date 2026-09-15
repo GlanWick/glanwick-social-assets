@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T19:35:20.512Z",
+ "updated": "2026-09-15T20:35:13.756Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T19:35:24.052Z",
+  "checked": "2026-09-15T20:35:14.694Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -1402,6 +1402,11 @@
    "ts": "2026-09-15T19:35:20.512Z",
    "followers": 160,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T20:35:13.756Z",
+   "followers": 160,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1412,7 +1417,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2004,
+   "views": 2015,
    "likes": 30,
    "comments": 0
   },
@@ -1434,7 +1439,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1437,
+   "views": 1440,
    "likes": 29,
    "comments": 0
   },
