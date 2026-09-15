@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T21:35:48.248Z",
+ "updated": "2026-09-15T22:24:49.854Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T21:35:50.123Z",
+  "checked": "2026-09-15T22:24:50.765Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -1412,6 +1412,11 @@
    "ts": "2026-09-15T21:35:48.248Z",
    "followers": 160,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T22:24:49.854Z",
+   "followers": 160,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1422,7 +1427,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2024,
+   "views": 2029,
    "likes": 30,
    "comments": 0
   },
@@ -1433,8 +1438,8 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 151,
-   "likes": 2,
+   "views": 153,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -1444,7 +1449,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1441,
+   "views": 1444,
    "likes": 29,
    "comments": 0
   },
@@ -1455,7 +1460,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 31,
+   "views": 32,
    "likes": 3,
    "comments": 0
   },
@@ -1466,7 +1471,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 75,
+   "views": 76,
    "likes": 3,
    "comments": 0
   },
@@ -1477,8 +1482,8 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 81,
-   "likes": 3,
+   "views": 82,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -1488,7 +1493,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 246,
+   "views": 247,
    "likes": 6,
    "comments": 0
   },
@@ -1499,8 +1504,8 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 104,
-   "likes": 4,
+   "views": 105,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1510,7 +1515,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 166,
+   "views": 167,
    "likes": 8,
    "comments": 0
   },
@@ -1521,7 +1526,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 166,
+   "views": 167,
    "likes": 5,
    "comments": 0
   },
@@ -1532,7 +1537,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 99,
+   "views": 100,
    "likes": 4,
    "comments": 0
   },
@@ -1543,7 +1548,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 49,
+   "views": 50,
    "likes": 3,
    "comments": 0
   },
@@ -1554,7 +1559,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 48,
+   "views": 49,
    "likes": 4,
    "comments": 0
   },
@@ -1565,7 +1570,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 90,
+   "views": 91,
    "likes": 4,
    "comments": 0
   },
@@ -1576,7 +1581,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 146,
+   "views": 147,
    "likes": 4,
    "comments": 0
   },
@@ -1587,7 +1592,7 @@
    "timestamp": "2026-09-09T18:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 59,
+   "views": 60,
    "likes": 4,
    "comments": 0
   },
@@ -1598,7 +1603,7 @@
    "timestamp": "2026-09-09T13:30:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 173,
+   "views": 174,
    "likes": 6,
    "comments": 0
   },
@@ -1609,8 +1614,8 @@
    "timestamp": "2026-09-09T08:44:56+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 167,
-   "likes": 4,
+   "views": 168,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -1620,7 +1625,7 @@
    "timestamp": "2026-09-08T18:31:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 151,
+   "views": 152,
    "likes": 5,
    "comments": 0
   },
@@ -1631,7 +1636,7 @@
    "timestamp": "2026-09-08T13:31:41+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 204,
+   "views": 205,
    "likes": 5,
    "comments": 0
   },
@@ -1642,7 +1647,7 @@
    "timestamp": "2026-09-08T10:31:24+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 244,
+   "views": 245,
    "likes": 7,
    "comments": 2
   },
@@ -1653,8 +1658,8 @@
    "timestamp": "2026-09-08T07:45:49+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1510,
-   "likes": 22,
+   "views": 1511,
+   "likes": 23,
    "comments": 0
   },
   {
@@ -1664,7 +1669,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2549,
+   "views": 2550,
    "likes": 38,
    "comments": 0
   },
@@ -1675,7 +1680,7 @@
    "timestamp": "2026-09-07T10:30:48+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1720,
+   "views": 1721,
    "likes": 30,
    "comments": 1
   },
@@ -1686,7 +1691,7 @@
    "timestamp": "2026-09-06T18:30:36+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 880,
+   "views": 881,
    "likes": 17,
    "comments": 0
   },
@@ -1697,8 +1702,8 @@
    "timestamp": "2026-09-06T13:30:53+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 317,
-   "likes": 5,
+   "views": 320,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -1708,7 +1713,7 @@
    "timestamp": "2026-09-06T07:45:42+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2580,
+   "views": 2581,
    "likes": 40,
    "comments": 0
   },
@@ -1719,7 +1724,7 @@
    "timestamp": "2026-09-05T23:00:55+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 260,
+   "views": 261,
    "likes": 10,
    "comments": 0
   },
@@ -1730,7 +1735,7 @@
    "timestamp": "2026-09-05T18:00:50+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 153,
+   "views": 154,
    "likes": 4,
    "comments": 0
   },
@@ -1741,7 +1746,7 @@
    "timestamp": "2026-09-05T13:30:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 262,
+   "views": 263,
    "likes": 7,
    "comments": 0
   },
@@ -1752,7 +1757,7 @@
    "timestamp": "2026-09-05T07:45:30+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1981,
+   "views": 1982,
    "likes": 28,
    "comments": 0
   },
@@ -1763,7 +1768,7 @@
    "timestamp": "2026-09-04T23:00:55+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 393,
+   "views": 394,
    "likes": 6,
    "comments": 0
   },
@@ -1774,7 +1779,7 @@
    "timestamp": "2026-09-04T18:00:54+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 198,
+   "views": 199,
    "likes": 8,
    "comments": 0
   },
@@ -1785,7 +1790,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3410,
+   "views": 3411,
    "likes": 56,
    "comments": 0
   },
@@ -1796,7 +1801,7 @@
    "timestamp": "2026-09-03T23:16:04+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 231,
+   "views": 232,
    "likes": 6,
    "comments": 0
   },
@@ -1807,7 +1812,7 @@
    "timestamp": "2026-09-03T19:19:03+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 213,
+   "views": 214,
    "likes": 5,
    "comments": 0
   },
@@ -1818,7 +1823,7 @@
    "timestamp": "2026-09-03T13:42:31+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 195,
+   "views": 196,
    "likes": 6,
    "comments": 0
   },
@@ -1829,7 +1834,7 @@
    "timestamp": "2026-09-03T00:25:21+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2011,
+   "views": 2012,
    "likes": 33,
    "comments": 0
   },
@@ -1840,7 +1845,7 @@
    "timestamp": "2026-09-02T19:57:55+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 504,
+   "views": 505,
    "likes": 6,
    "comments": 0
   },
@@ -1851,7 +1856,7 @@
    "timestamp": "2026-09-02T13:40:42+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 1485,
+   "views": 1486,
    "likes": 19,
    "comments": 0
   }
