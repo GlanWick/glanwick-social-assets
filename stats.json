@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T05:53:12.736Z",
+ "updated": "2026-09-15T06:53:20.230Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T05:53:13.750Z",
+  "checked": "2026-09-15T06:53:21.330Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-14",
-    "reach": 809
+    "reach": 1133
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 158,
+  "followers": 159,
   "media_count": 47
  },
  "history": [
@@ -1332,6 +1332,11 @@
    "ts": "2026-09-15T05:53:12.736Z",
    "followers": 158,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T06:53:20.230Z",
+   "followers": 159,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1342,8 +1347,8 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 385,
-   "likes": 5,
+   "views": 705,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -1353,7 +1358,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 84,
+   "views": 115,
    "likes": 1,
    "comments": 0
   },
@@ -1364,8 +1369,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 693,
-   "likes": 17,
+   "views": 812,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -1705,7 +1710,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3407,
+   "views": 3408,
    "likes": 56,
    "comments": 0
   },
