@@ -1,16 +1,10 @@
 {
- "updated": "2026-09-14T23:02:50.569Z",
+ "updated": "2026-09-15T00:02:50.013Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Reichweite 2026-09-13: 203 gegen Mittel 1563"
-  ],
-  "checked": "2026-09-14T23:02:52.300Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-15T00:02:51.011Z",
   "reach_days": [
-   {
-    "day": "2026-09-07",
-    "reach": 6221
-   },
    {
     "day": "2026-09-08",
     "reach": 1756
@@ -34,15 +28,19 @@
    {
     "day": "2026-09-13",
     "reach": 203
+   },
+   {
+    "day": "2026-09-14",
+    "reach": 346
    }
   ],
-  "avg_watch_last_reels": 9.3
+  "avg_watch_last_reels": 11.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 155,
-  "media_count": 45
+  "media_count": 46
  },
  "history": [
   {
@@ -1299,9 +1297,25 @@
    "ts": "2026-09-14T23:02:50.569Z",
    "followers": 155,
    "media_count": 45
+  },
+  {
+   "ts": "2026-09-15T00:02:50.013Z",
+   "followers": 155,
+   "media_count": 46
   }
  ],
  "posts": [
+  {
+   "id": "17969542503152083",
+   "slug": "trailing-drawdown-screencast",
+   "permalink": "https://www.instagram.com/reel/DdSSA4fDhzZ/",
+   "timestamp": "2026-09-14T23:09:21+0000",
+   "type": "VIDEO",
+   "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
+   "views": 20,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18108413675146396",
    "slug": "stickman-stop",
@@ -1309,7 +1323,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 376,
+   "views": 396,
    "likes": 11,
    "comments": 0
   },
@@ -1729,17 +1743,6 @@
    "caption": "Follow for more differences.",
    "views": 132,
    "likes": 3,
-   "comments": 0
-  },
-  {
-   "id": "18104376434253630",
-   "slug": "long-vs-short",
-   "permalink": "https://www.instagram.com/reel/DcwQYXDjQEr/",
-   "timestamp": "2026-09-01T18:00:54+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 104,
-   "likes": 4,
    "comments": 0
   }
  ]
