@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T09:53:48.745Z",
+ "updated": "2026-09-15T10:43:35.330Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T09:53:49.650Z",
+  "checked": "2026-09-15T10:43:36.255Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -1352,6 +1352,11 @@
    "ts": "2026-09-15T09:53:48.745Z",
    "followers": 160,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T10:43:35.330Z",
+   "followers": 160,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1362,8 +1367,8 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 1772,
-   "likes": 26,
+   "views": 1885,
+   "likes": 29,
    "comments": 0
   },
   {
@@ -1373,7 +1378,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 140,
+   "views": 141,
    "likes": 1,
    "comments": 0
   },
@@ -1384,8 +1389,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1201,
-   "likes": 23,
+   "views": 1280,
+   "likes": 27,
    "comments": 0
   },
   {
@@ -1725,7 +1730,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3408,
+   "views": 3409,
    "likes": 56,
    "comments": 0
   },
