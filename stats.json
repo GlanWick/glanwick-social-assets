@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T04:53:04.195Z",
+ "updated": "2026-09-15T05:53:12.736Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T04:53:05.208Z",
+  "checked": "2026-09-15T05:53:13.750Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-14",
-    "reach": 671
+    "reach": 809
    }
   ],
-  "avg_watch_last_reels": 8.9
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1327,6 +1327,11 @@
    "ts": "2026-09-15T04:53:04.195Z",
    "followers": 158,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T05:53:12.736Z",
+   "followers": 158,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1337,8 +1342,8 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 211,
-   "likes": 3,
+   "views": 385,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1348,7 +1353,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 61,
+   "views": 84,
    "likes": 1,
    "comments": 0
   },
@@ -1359,8 +1364,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 610,
-   "likes": 15,
+   "views": 693,
+   "likes": 17,
    "comments": 0
   },
   {
