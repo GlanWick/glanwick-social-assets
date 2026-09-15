@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-15T08:53:37.638Z",
+ "updated": "2026-09-15T09:53:48.745Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-15T08:53:38.653Z",
+  "checked": "2026-09-15T09:53:49.650Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-14",
-    "reach": 1264
+    "reach": 1266
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 159,
+  "followers": 160,
   "media_count": 47
  },
  "history": [
@@ -1347,6 +1347,11 @@
    "ts": "2026-09-15T08:53:37.638Z",
    "followers": 159,
    "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T09:53:48.745Z",
+   "followers": 160,
+   "media_count": 47
   }
  ],
  "posts": [
@@ -1357,8 +1362,8 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 1589,
-   "likes": 24,
+   "views": 1772,
+   "likes": 26,
    "comments": 0
   },
   {
@@ -1379,8 +1384,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1104,
-   "likes": 22,
+   "views": 1201,
+   "likes": 23,
    "comments": 0
   },
   {
