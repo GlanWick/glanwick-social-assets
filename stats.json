@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-15T02:03:35.099Z",
+ "updated": "2026-09-15T03:04:02.404Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-15T02:03:36.464Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.2 s"
+  ],
+  "checked": "2026-09-15T03:04:05.470Z",
   "reach_days": [
    {
     "day": "2026-09-08",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-09-14",
-    "reach": 383
+    "reach": 438
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 7.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 156,
-  "media_count": 46
+  "followers": 157,
+  "media_count": 47
  },
  "history": [
   {
@@ -1312,9 +1314,25 @@
    "ts": "2026-09-15T02:03:35.099Z",
    "followers": 156,
    "media_count": 46
+  },
+  {
+   "ts": "2026-09-15T03:04:02.404Z",
+   "followers": 157,
+   "media_count": 47
   }
  ],
  "posts": [
+  {
+   "id": "18392797954201422",
+   "slug": "stickman-drawdown",
+   "permalink": "https://www.instagram.com/reel/DdSpGb6jdBV/",
+   "timestamp": "2026-09-15T02:31:03+0000",
+   "type": "VIDEO",
+   "caption": "Lose half your account and you need +100 % just to get back to flat.",
+   "views": 69,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "17969542503152083",
    "slug": "trailing-drawdown-screencast",
@@ -1322,7 +1340,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 41,
+   "views": 46,
    "likes": 1,
    "comments": 0
   },
@@ -1333,8 +1351,8 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 431,
-   "likes": 13,
+   "views": 484,
+   "likes": 15,
    "comments": 0
   },
   {
@@ -1344,7 +1362,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 30,
+   "views": 31,
    "likes": 3,
    "comments": 0
   },
@@ -1355,7 +1373,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 74,
+   "views": 75,
    "likes": 3,
    "comments": 0
   },
@@ -1366,7 +1384,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 80,
+   "views": 81,
    "likes": 3,
    "comments": 0
   },
@@ -1377,7 +1395,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 244,
+   "views": 246,
    "likes": 6,
    "comments": 0
   },
@@ -1388,7 +1406,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 103,
+   "views": 104,
    "likes": 4,
    "comments": 0
   },
@@ -1399,7 +1417,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 165,
+   "views": 166,
    "likes": 8,
    "comments": 0
   },
@@ -1410,7 +1428,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 165,
+   "views": 166,
    "likes": 5,
    "comments": 0
   },
@@ -1553,7 +1571,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2546,
+   "views": 2549,
    "likes": 38,
    "comments": 0
   },
@@ -1597,7 +1615,7 @@
    "timestamp": "2026-09-06T07:45:42+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2576,
+   "views": 2577,
    "likes": 40,
    "comments": 0
   },
@@ -1742,17 +1760,6 @@
    "caption": "Follow for more differences.",
    "views": 1485,
    "likes": 19,
-   "comments": 0
-  },
-  {
-   "id": "18126885631704058",
-   "slug": "win-rate-vs-expectancy",
-   "permalink": "https://www.instagram.com/reel/DcwywOICCCy/",
-   "timestamp": "2026-09-01T23:01:13+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 132,
-   "likes": 3,
    "comments": 0
   }
  ]
