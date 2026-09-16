@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T00:25:23.448Z",
+ "updated": "2026-09-16T01:25:48.661Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T00:25:24.239Z",
+  "checked": "2026-09-16T01:25:49.400Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-15",
-    "reach": 1462
+    "reach": 1497
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1427,6 +1427,11 @@
    "ts": "2026-09-16T00:25:23.448Z",
    "followers": 160,
    "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T01:25:48.661Z",
+   "followers": 160,
+   "media_count": 48
   }
  ],
  "posts": [
@@ -1437,7 +1442,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 141,
+   "views": 194,
    "likes": 3,
    "comments": 0
   },
