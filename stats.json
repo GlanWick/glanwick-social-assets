@@ -1,16 +1,10 @@
 {
- "updated": "2026-09-15T23:24:58.068Z",
+ "updated": "2026-09-16T00:25:23.448Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 6.2 s"
-  ],
-  "checked": "2026-09-15T23:24:59.104Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-16T00:25:24.239Z",
   "reach_days": [
-   {
-    "day": "2026-09-08",
-    "reach": 1756
-   },
    {
     "day": "2026-09-09",
     "reach": 640
@@ -34,9 +28,13 @@
    {
     "day": "2026-09-14",
     "reach": 1266
+   },
+   {
+    "day": "2026-09-15",
+    "reach": 1462
    }
   ],
-  "avg_watch_last_reels": 6.2
+  "avg_watch_last_reels": 8.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1424,6 +1422,11 @@
    "ts": "2026-09-15T23:24:58.068Z",
    "followers": 160,
    "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T00:25:23.448Z",
+   "followers": 160,
+   "media_count": 48
   }
  ],
  "posts": [
@@ -1434,8 +1437,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 6,
-   "likes": 0,
+   "views": 141,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -1445,7 +1448,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2030,
+   "views": 2034,
    "likes": 30,
    "comments": 0
   },
@@ -1467,7 +1470,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1444,
+   "views": 1449,
    "likes": 29,
    "comments": 0
   },
@@ -1478,7 +1481,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 32,
+   "views": 33,
    "likes": 3,
    "comments": 0
   },
@@ -1489,7 +1492,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 76,
+   "views": 77,
    "likes": 3,
    "comments": 0
   },
@@ -1500,7 +1503,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 82,
+   "views": 83,
    "likes": 4,
    "comments": 0
   },
@@ -1511,7 +1514,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 247,
+   "views": 248,
    "likes": 6,
    "comments": 0
   },
@@ -1522,7 +1525,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 105,
+   "views": 106,
    "likes": 5,
    "comments": 0
   },
@@ -1533,7 +1536,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 167,
+   "views": 168,
    "likes": 8,
    "comments": 0
   },
@@ -1544,7 +1547,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 167,
+   "views": 168,
    "likes": 5,
    "comments": 0
   },
@@ -1555,7 +1558,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 100,
+   "views": 101,
    "likes": 4,
    "comments": 0
   },
@@ -1566,7 +1569,7 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 50,
+   "views": 51,
    "likes": 3,
    "comments": 0
   },
@@ -1577,7 +1580,7 @@
    "timestamp": "2026-09-10T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 49,
+   "views": 50,
    "likes": 4,
    "comments": 0
   },
@@ -1588,7 +1591,7 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 91,
+   "views": 92,
    "likes": 4,
    "comments": 0
   },
@@ -1599,7 +1602,7 @@
    "timestamp": "2026-09-10T07:45:43+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 147,
+   "views": 148,
    "likes": 4,
    "comments": 0
   },
@@ -1808,7 +1811,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3411,
+   "views": 3415,
    "likes": 56,
    "comments": 0
   },
