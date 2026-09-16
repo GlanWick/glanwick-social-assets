@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T10:05:44.910Z",
+ "updated": "2026-09-16T11:06:12.367Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T10:05:45.911Z",
+  "checked": "2026-09-16T11:06:13.208Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -34,7 +34,7 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 11.8
+  "avg_watch_last_reels": 11.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1477,6 +1477,11 @@
    "ts": "2026-09-16T10:05:44.910Z",
    "followers": 166,
    "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T11:06:12.367Z",
+   "followers": 166,
+   "media_count": 49
   }
  ],
  "posts": [
@@ -1487,8 +1492,8 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2127,
-   "likes": 42,
+   "views": 2454,
+   "likes": 45,
    "comments": 0
   },
   {
@@ -1498,8 +1503,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 526,
-   "likes": 9,
+   "views": 597,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -1509,7 +1514,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2063,
+   "views": 2065,
    "likes": 30,
    "comments": 2
   },
