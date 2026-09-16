@@ -795,11 +795,12 @@
     {
       "id": "2026-09-17-erinnerung-vs-aufzeichnung",
       "slug": "stickman-journal",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-16T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal-cover.jpg",
-      "caption": "Ask a trader about last month and he names three trades. Two of them worked.\n\nThe record says he took 41. The three he remembers are the ones with a story attached, and a story attaches itself to the ones that moved. The other 38 left nothing behind to remember them by.\n\nMemory keeps the story. The record keeps the count.\n\nSend this to the friend who says his last month was fine.\n\nHow many trades did you take last month, without looking? 👇\n\n#tradingjournal #tradingpsychology #riskmanagement #daytrading #knowthedifference"
+      "caption": "Ask a trader about last month and he names three trades. Two of them worked.\n\nThe record says he took 41. The three he remembers are the ones with a story attached, and a story attaches itself to the ones that moved. The other 38 left nothing behind to remember them by.\n\nMemory keeps the story. The record keeps the count.\n\nSend this to the friend who says his last month was fine.\n\nHow many trades did you take last month, without looking? 👇\n\n#tradingjournal #tradingpsychology #riskmanagement #daytrading #knowthedifference",
+      "posting_started_at": "2026-09-16T23:00:14.208Z"
     },
     {
       "id": "2026-09-17-enger-stop",
