@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T02:26:12.748Z",
+ "updated": "2026-09-16T03:26:39.581Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T02:26:13.786Z",
+  "checked": "2026-09-16T03:26:40.402Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-09-15",
-    "reach": 1522
+    "reach": 1679
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 160,
-  "media_count": 48
+  "media_count": 49
  },
  "history": [
   {
@@ -1437,9 +1437,25 @@
    "ts": "2026-09-16T02:26:12.748Z",
    "followers": 160,
    "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T03:26:39.581Z",
+   "followers": 160,
+   "media_count": 49
   }
  ],
  "posts": [
+  {
+   "id": "18098194787169358",
+   "slug": "stickman-winrate",
+   "permalink": "https://www.instagram.com/reel/DdVN31DjpGp/",
+   "timestamp": "2026-09-16T02:30:41+0000",
+   "type": "VIDEO",
+   "caption": "He won 7 trades out of 10 and still lost money.",
+   "views": 187,
+   "likes": 3,
+   "comments": 0
+  },
   {
    "id": "18116330248950437",
    "slug": "stickman-size",
@@ -1447,7 +1463,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 220,
+   "views": 235,
    "likes": 3,
    "comments": 0
   },
@@ -1480,7 +1496,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1457,
+   "views": 1458,
    "likes": 29,
    "comments": 0
   },
@@ -1867,17 +1883,6 @@
    "caption": "Follow for more differences.",
    "views": 2012,
    "likes": 33,
-   "comments": 0
-  },
-  {
-   "id": "18122846710897050",
-   "slug": "isolated-vs-cross-margin",
-   "permalink": "https://www.instagram.com/reel/DczCj5ZE0qu/",
-   "timestamp": "2026-09-02T19:57:55+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 505,
-   "likes": 6,
    "comments": 0
   }
  ]
