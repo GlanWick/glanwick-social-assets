@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T20:58:40.700Z",
+ "updated": "2026-09-16T21:46:53.784Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T20:58:43.816Z",
+  "checked": "2026-09-16T21:46:54.577Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -1532,6 +1532,11 @@
    "ts": "2026-09-16T20:58:40.700Z",
    "followers": 169,
    "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T21:46:53.784Z",
+   "followers": 169,
+   "media_count": 50
   }
  ],
  "posts": [
@@ -1542,7 +1547,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 339,
+   "views": 342,
    "likes": 8,
    "comments": 0
   },
@@ -1553,7 +1558,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 237,
+   "views": 242,
    "likes": 5,
    "comments": 0
   },
@@ -1564,7 +1569,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2670,
+   "views": 2683,
    "likes": 50,
    "comments": 0
   },
@@ -1575,8 +1580,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1279,
-   "likes": 28,
+   "views": 1329,
+   "likes": 30,
    "comments": 0
   },
   {
