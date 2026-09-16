@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:21:02.528Z",
+  "generated_at": "2026-09-16T21:17:47.682Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -774,10 +774,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge-cover.jpg",
       "caption": "The second loss is never about the chart.\n\nHe lost 2 %. Then he wanted it back in one trade, so he doubled the size. That one lost 4 %. Down 2 % and then 4 % leaves him needing +6.3 % just to get back to where he woke up.\n\nThe first loss was the trade. The second one was the mood.\n\nSend this to the friend who always takes one more after a red morning.\n\nHow long do you wait after a loss? 👇\n\n#revengetrading #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
-      "container_id": "18108375860136556",
       "media_id": "18113727373825575",
       "permalink": "https://www.instagram.com/reel/DdWxib3icq8/",
-      "published_at": "2026-09-16T17:01:51.353Z"
+      "published_at": "2026-09-16T17:01:51.353Z",
+      "container_id": "18108375860136556"
     },
     {
       "id": "2026-09-16-kosten-von-kostenlos",
@@ -787,10 +787,19 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-spread.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-spread-cover.jpg",
       "caption": "Zero commission still has a cost.\n\nEvery market order pays the spread. Call it 0.1 % going in and 0.1 % coming out, so 0.2 % a round trip. If your average winner is 0.8 %, a quarter of every winner is gone before you count it.\n\nThe fee you can see is rarely the one that hurts.\n\nSend this to the friend who picked his broker because the trades were free.\n\nWhat spread do you actually pay? 👇\n\n#spread #tradingcosts #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18108339479136556",
       "media_id": "18105878972219275",
       "permalink": "https://www.instagram.com/reel/DdWPIscCoNy/",
-      "published_at": "2026-09-16T12:01:14.505Z"
+      "published_at": "2026-09-16T12:01:14.505Z",
+      "container_id": "18108339479136556"
+    },
+    {
+      "id": "2026-09-17-erinnerung-vs-aufzeichnung",
+      "slug": "stickman-journal",
+      "status": "ready",
+      "scheduled_at": "2026-09-16T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal-cover.jpg",
+      "caption": "Ask a trader about last month and he names three trades. Two of them worked.\n\nThe record says he took 41. The three he remembers are the ones with a story attached, and a story attaches itself to the ones that moved. The other 38 left nothing behind to remember them by.\n\nMemory keeps the story. The record keeps the count.\n\nSend this to the friend who says his last month was fine.\n\nHow many trades did you take last month, without looking? 👇\n\n#tradingjournal #tradingpsychology #riskmanagement #daytrading #knowthedifference"
     }
   ]
 }
