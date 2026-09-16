@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T03:26:39.581Z",
+ "updated": "2026-09-16T04:15:13.918Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T03:26:40.402Z",
+  "checked": "2026-09-16T04:15:15.116Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-15",
-    "reach": 1679
+    "reach": 1711
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1442,6 +1442,11 @@
    "ts": "2026-09-16T03:26:39.581Z",
    "followers": 160,
    "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T04:15:13.918Z",
+   "followers": 160,
+   "media_count": 49
   }
  ],
  "posts": [
@@ -1452,7 +1457,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 187,
+   "views": 207,
    "likes": 3,
    "comments": 0
   },
@@ -1463,7 +1468,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 235,
+   "views": 244,
    "likes": 3,
    "comments": 0
   },
@@ -1474,7 +1479,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2037,
+   "views": 2040,
    "likes": 30,
    "comments": 0
   },
@@ -1496,7 +1501,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1458,
+   "views": 1462,
    "likes": 29,
    "comments": 0
   },
