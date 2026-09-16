@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T19:58:02.187Z",
+ "updated": "2026-09-16T20:58:40.700Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T19:58:03.646Z",
+  "checked": "2026-09-16T20:58:43.816Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -34,7 +34,7 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 9.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1527,6 +1527,11 @@
    "ts": "2026-09-16T19:58:02.187Z",
    "followers": 169,
    "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T20:58:40.700Z",
+   "followers": 169,
+   "media_count": 50
   }
  ],
  "posts": [
@@ -1537,8 +1542,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 331,
-   "likes": 6,
+   "views": 339,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -1548,8 +1553,8 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 230,
-   "likes": 4,
+   "views": 237,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1559,7 +1564,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2659,
+   "views": 2670,
    "likes": 50,
    "comments": 0
   },
@@ -1570,7 +1575,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1236,
+   "views": 1279,
    "likes": 28,
    "comments": 0
   },
@@ -1933,8 +1938,8 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3420,
-   "likes": 56,
+   "views": 3425,
+   "likes": 57,
    "comments": 0
   },
   {
