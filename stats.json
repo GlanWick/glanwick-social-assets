@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-16T11:06:12.367Z",
+ "updated": "2026-09-16T12:06:33.625Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-16T11:06:13.208Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.9 s"
+  ],
+  "checked": "2026-09-16T12:06:35.324Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -34,7 +36,7 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 11.5
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1482,9 +1484,25 @@
    "ts": "2026-09-16T11:06:12.367Z",
    "followers": 166,
    "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T12:06:33.625Z",
+   "followers": 166,
+   "media_count": 49
   }
  ],
  "posts": [
+  {
+   "id": "18105878972219275",
+   "slug": "stickman-spread",
+   "permalink": "https://www.instagram.com/reel/DdWPIscCoNy/",
+   "timestamp": "2026-09-16T12:01:07+0000",
+   "type": "VIDEO",
+   "caption": "Zero commission still has a cost.",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18098194787169358",
    "slug": "stickman-winrate",
@@ -1492,8 +1510,8 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2454,
-   "likes": 45,
+   "views": 2544,
+   "likes": 46,
    "comments": 0
   },
   {
@@ -1503,8 +1521,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 597,
-   "likes": 11,
+   "views": 674,
+   "likes": 15,
    "comments": 0
   },
   {
@@ -1514,20 +1532,9 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2065,
+   "views": 2067,
    "likes": 30,
    "comments": 2
-  },
-  {
-   "id": "17969542503152083",
-   "slug": "trailing-drawdown-screencast",
-   "permalink": "https://www.instagram.com/reel/DdSSA4fDhzZ/",
-   "timestamp": "2026-09-14T23:09:21+0000",
-   "type": "VIDEO",
-   "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 157,
-   "likes": 3,
-   "comments": 0
   },
   {
    "id": "18108413675146396",
