@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T17:57:13.884Z",
+ "updated": "2026-09-16T18:57:37.468Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T17:57:15.146Z",
+  "checked": "2026-09-16T18:57:38.479Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 168,
+  "followers": 169,
   "media_count": 50
  },
  "history": [
@@ -1517,6 +1517,11 @@
    "ts": "2026-09-16T17:57:13.884Z",
    "followers": 168,
    "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T18:57:37.468Z",
+   "followers": 169,
+   "media_count": 50
   }
  ],
  "posts": [
@@ -1527,7 +1532,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 270,
+   "views": 310,
    "likes": 5,
    "comments": 0
   },
@@ -1538,7 +1543,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 226,
+   "views": 228,
    "likes": 4,
    "comments": 0
   },
@@ -1549,7 +1554,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2642,
+   "views": 2647,
    "likes": 50,
    "comments": 0
   },
@@ -1560,8 +1565,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1156,
-   "likes": 25,
+   "views": 1192,
+   "likes": 26,
    "comments": 0
   },
   {
