@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:11:37.216Z",
+  "generated_at": "2026-09-16T08:20:13.289Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -748,10 +748,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-size.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-size-cover.jpg",
       "caption": "Ten winning trades can die in one afternoon.\n\nHe risked 1 % a trade and won ten in a row. Plus 10 %. Then one setup felt certain, so he risked 10 % on that one. It lost. Ten winners, erased by a single trade.\n\nThe size is the part you control before the trade. The outcome is the part you never did.\n\nSend this to the friend who sizes up when he feels sure.\n\nHave you ever sized up on a setup that felt certain? 👇\n\n#positionsizing #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
-      "container_id": "18108274547136556",
       "media_id": "18116330248950437",
       "permalink": "https://www.instagram.com/reel/DdU12GpiBg2/",
-      "published_at": "2026-09-15T23:01:01.762Z"
+      "published_at": "2026-09-15T23:01:01.762Z",
+      "container_id": "18108274547136556"
     },
     {
       "id": "2026-09-16-trefferquote",
@@ -761,10 +761,19 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-winrate.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-winrate-cover.jpg",
       "caption": "He won 7 trades out of 10 and still lost money.\n\nSeven winners at $40 is $280. Three losers at $180 is $540. That is minus $26 on every trade he takes. To break even at that ratio he needed more than 8 winners out of 10.\n\nHe left the win rate alone and cut the average loss to $60. The same 7 out of 10 turned into plus $10 a trade.\n\nSend this to the friend who posts his win rate and never his average loss.\n\nWhat is your average loss? 👇\n\n#winrate #expectancy #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18108290879136556",
       "media_id": "18098194787169358",
       "permalink": "https://www.instagram.com/reel/DdVN31DjpGp/",
-      "published_at": "2026-09-16T02:30:49.133Z"
+      "published_at": "2026-09-16T02:30:49.133Z",
+      "container_id": "18108290879136556"
+    },
+    {
+      "id": "2026-09-16-revenge-trade",
+      "slug": "stickman-revenge",
+      "status": "ready",
+      "scheduled_at": "2026-09-16T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge-cover.jpg",
+      "caption": "The second loss is never about the chart.\n\nHe lost 2 %. Then he wanted it back in one trade, so he doubled the size. That one lost 4 %. Down 2 % and then 4 % leaves him needing +6.3 % just to get back to where he woke up.\n\nThe first loss was the trade. The second one was the mood.\n\nSend this to the friend who always takes one more after a red morning.\n\nHow long do you wait after a loss? 👇\n\n#revengetrading #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
     }
   ]
 }
