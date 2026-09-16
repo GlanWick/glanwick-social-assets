@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T09:15:53.683Z",
+ "updated": "2026-09-16T10:05:44.910Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T09:15:54.965Z",
+  "checked": "2026-09-16T10:05:45.911Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -34,12 +34,12 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 11.9
+  "avg_watch_last_reels": 11.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 165,
+  "followers": 166,
   "media_count": 49
  },
  "history": [
@@ -1472,6 +1472,11 @@
    "ts": "2026-09-16T09:15:53.683Z",
    "followers": 165,
    "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T10:05:44.910Z",
+   "followers": 166,
+   "media_count": 49
   }
  ],
  "posts": [
@@ -1482,8 +1487,8 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 1709,
-   "likes": 37,
+   "views": 2127,
+   "likes": 42,
    "comments": 0
   },
   {
@@ -1493,8 +1498,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 440,
-   "likes": 8,
+   "views": 526,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -1504,9 +1509,9 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2052,
+   "views": 2063,
    "likes": 30,
-   "comments": 0
+   "comments": 2
   },
   {
    "id": "17969542503152083",
@@ -1515,7 +1520,7 @@
    "timestamp": "2026-09-14T23:09:21+0000",
    "type": "VIDEO",
    "caption": "Your prop account says $100,000. Your real buffer is $5,000.",
-   "views": 153,
+   "views": 157,
    "likes": 3,
    "comments": 0
   },
@@ -1526,7 +1531,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1462,
+   "views": 1466,
    "likes": 29,
    "comments": 0
   },
@@ -1537,7 +1542,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 33,
+   "views": 36,
    "likes": 3,
    "comments": 0
   },
@@ -1548,7 +1553,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 79,
+   "views": 82,
    "likes": 3,
    "comments": 0
   },
@@ -1559,7 +1564,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 84,
+   "views": 86,
    "likes": 4,
    "comments": 0
   },
@@ -1570,7 +1575,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 249,
+   "views": 250,
    "likes": 6,
    "comments": 0
   },
