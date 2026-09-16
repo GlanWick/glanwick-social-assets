@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:17:47.682Z",
+  "generated_at": "2026-09-16T21:20:01.392Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -800,6 +800,15 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal-cover.jpg",
       "caption": "Ask a trader about last month and he names three trades. Two of them worked.\n\nThe record says he took 41. The three he remembers are the ones with a story attached, and a story attaches itself to the ones that moved. The other 38 left nothing behind to remember them by.\n\nMemory keeps the story. The record keeps the count.\n\nSend this to the friend who says his last month was fine.\n\nHow many trades did you take last month, without looking? 👇\n\n#tradingjournal #tradingpsychology #riskmanagement #daytrading #knowthedifference"
+    },
+    {
+      "id": "2026-09-17-enger-stop",
+      "slug": "stickman-tightstop",
+      "status": "ready",
+      "scheduled_at": "2026-09-17T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tightstop.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tightstop-cover.jpg",
+      "caption": "He halved his stop to risk less. He got stopped out twice as often.\n\nThe position size stayed the same, so the stop moved closer to the entry and landed inside the daily noise. Less money leaves on each loss. More trades reach the stop at all. Both of those are risk, and only one of them is on the screen.\n\nA stop has two dimensions. Most people only tune one.\n\nSend this to the friend who keeps tightening after a red day.\n\nWhere does your stop actually sit, in noise or in structure? 👇\n\n#stoploss #riskmanagement #positionsizing #tradingjournal #knowthedifference"
     }
   ]
 }
