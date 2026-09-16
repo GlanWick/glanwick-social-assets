@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T22:47:30.626Z",
+ "updated": "2026-09-16T23:47:42.185Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T22:47:31.657Z",
+  "checked": "2026-09-16T23:47:43.113Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -34,13 +34,13 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 169,
-  "media_count": 50
+  "followers": 170,
+  "media_count": 51
  },
  "history": [
   {
@@ -1542,9 +1542,25 @@
    "ts": "2026-09-16T22:47:30.626Z",
    "followers": 169,
    "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T23:47:42.185Z",
+   "followers": 170,
+   "media_count": 51
   }
  ],
  "posts": [
+  {
+   "id": "18132495043656282",
+   "slug": "stickman-journal",
+   "permalink": "https://www.instagram.com/reel/DdXaoKijfb9/",
+   "timestamp": "2026-09-16T23:00:48+0000",
+   "type": "VIDEO",
+   "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
+   "views": 179,
+   "likes": 5,
+   "comments": 0
+  },
   {
    "id": "18113727373825575",
    "slug": "stickman-revenge",
@@ -1552,8 +1568,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 434,
-   "likes": 9,
+   "views": 538,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -1563,7 +1579,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 246,
+   "views": 253,
    "likes": 5,
    "comments": 0
   },
@@ -1574,8 +1590,8 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2687,
-   "likes": 50,
+   "views": 2700,
+   "likes": 51,
    "comments": 0
   },
   {
@@ -1585,8 +1601,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1350,
-   "likes": 30,
+   "views": 1357,
+   "likes": 32,
    "comments": 0
   },
   {
@@ -1596,7 +1612,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2069,
+   "views": 2070,
    "likes": 30,
    "comments": 3
   },
@@ -1607,7 +1623,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1467,
+   "views": 1468,
    "likes": 29,
    "comments": 0
   },
@@ -1728,8 +1744,8 @@
    "timestamp": "2026-09-10T10:30:37+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 92,
-   "likes": 4,
+   "views": 93,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1972,17 +1988,6 @@
    "caption": "Follow for more differences.",
    "views": 214,
    "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18112943234099716",
-   "slug": "margin-call-vs-liquidation",
-   "permalink": "https://www.instagram.com/reel/Dc08Z6Nm4BY/",
-   "timestamp": "2026-09-03T13:42:31+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 197,
-   "likes": 6,
    "comments": 0
   }
  ]
