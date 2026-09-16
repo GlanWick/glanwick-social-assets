@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-16T05:15:21.152Z",
+ "updated": "2026-09-16T06:15:29.325Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T05:15:22.161Z",
+  "checked": "2026-09-16T06:15:30.263Z",
   "reach_days": [
    {
     "day": "2026-09-09",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-15",
-    "reach": 1732
+    "reach": 1789
    }
   ],
-  "avg_watch_last_reels": 9.8
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 160,
+  "followers": 161,
   "media_count": 49
  },
  "history": [
@@ -1452,6 +1452,11 @@
    "ts": "2026-09-16T05:15:21.152Z",
    "followers": 160,
    "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T06:15:29.325Z",
+   "followers": 161,
+   "media_count": 49
   }
  ],
  "posts": [
@@ -1462,8 +1467,8 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 220,
-   "likes": 3,
+   "views": 352,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -1473,8 +1478,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 257,
-   "likes": 3,
+   "views": 288,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -1484,7 +1489,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2042,
+   "views": 2047,
    "likes": 30,
    "comments": 0
   },
