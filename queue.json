@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:20:13.289Z",
+  "generated_at": "2026-09-16T08:21:02.528Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -774,6 +774,15 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge-cover.jpg",
       "caption": "The second loss is never about the chart.\n\nHe lost 2 %. Then he wanted it back in one trade, so he doubled the size. That one lost 4 %. Down 2 % and then 4 % leaves him needing +6.3 % just to get back to where he woke up.\n\nThe first loss was the trade. The second one was the mood.\n\nSend this to the friend who always takes one more after a red morning.\n\nHow long do you wait after a loss? 👇\n\n#revengetrading #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-16-kosten-von-kostenlos",
+      "slug": "stickman-spread",
+      "status": "ready",
+      "scheduled_at": "2026-09-16T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-spread.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-spread-cover.jpg",
+      "caption": "Zero commission still has a cost.\n\nEvery market order pays the spread. Call it 0.1 % going in and 0.1 % coming out, so 0.2 % a round trip. If your average winner is 0.8 %, a quarter of every winner is gone before you count it.\n\nThe fee you can see is rarely the one that hurts.\n\nSend this to the friend who picked his broker because the trades were free.\n\nWhat spread do you actually pay? 👇\n\n#spread #tradingcosts #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
