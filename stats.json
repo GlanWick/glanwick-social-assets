@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-17T22:09:22.481Z",
+ "updated": "2026-09-17T23:09:28.011Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-17T22:09:23.351Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.6 s"
+  ],
+  "checked": "2026-09-17T23:09:29.957Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -34,13 +36,13 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 6.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 176,
-  "media_count": 53
+  "media_count": 54
  },
  "history": [
   {
@@ -1662,9 +1664,25 @@
    "ts": "2026-09-17T22:09:22.481Z",
    "followers": 176,
    "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T23:09:28.011Z",
+   "followers": 176,
+   "media_count": 54
   }
  ],
  "posts": [
+  {
+   "id": "18026254904910324",
+   "slug": "stickman-disposition",
+   "permalink": "https://www.instagram.com/reel/DdZ_gJDD-XM/",
+   "timestamp": "2026-09-17T23:01:32+0000",
+   "type": "VIDEO",
+   "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18459561292136405",
    "slug": "stickman-hitrate90",
@@ -1672,8 +1690,8 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1618,
-   "likes": 29,
+   "views": 1685,
+   "likes": 31,
    "comments": 0
   },
   {
@@ -1683,7 +1701,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 327,
+   "views": 331,
    "likes": 7,
    "comments": 0
   },
@@ -1694,7 +1712,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1892,
+   "views": 1895,
    "likes": 22,
    "comments": 0
   },
@@ -1705,8 +1723,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1164,
-   "likes": 22,
+   "views": 1176,
+   "likes": 24,
    "comments": 0
   },
   {
@@ -1716,7 +1734,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 306,
+   "views": 307,
    "likes": 6,
    "comments": 0
   },
@@ -1727,7 +1745,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2744,
+   "views": 2747,
    "likes": 52,
    "comments": 0
   },
@@ -2092,17 +2110,6 @@
    "caption": "Follow for more differences.",
    "views": 199,
    "likes": 8,
-   "comments": 0
-  },
-  {
-   "id": "18177206440428578",
-   "slug": "stop-loss-vs-trailing-stop",
-   "permalink": "https://www.instagram.com/reel/Dc315ABkthT/",
-   "timestamp": "2026-09-04T16:43:19+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 3431,
-   "likes": 57,
    "comments": 0
   }
  ]
