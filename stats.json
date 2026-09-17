@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T18:20:17.886Z",
+ "updated": "2026-09-17T19:20:18.105Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T18:20:19.529Z",
+  "checked": "2026-09-17T19:20:19.264Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -34,7 +34,7 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 9.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1642,6 +1642,11 @@
    "ts": "2026-09-17T18:20:17.886Z",
    "followers": 175,
    "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T19:20:18.105Z",
+   "followers": 175,
+   "media_count": 53
   }
  ],
  "posts": [
@@ -1652,8 +1657,8 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 582,
-   "likes": 17,
+   "views": 889,
+   "likes": 23,
    "comments": 0
   },
   {
@@ -1663,7 +1668,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 289,
+   "views": 297,
    "likes": 6,
    "comments": 0
   },
@@ -1674,7 +1679,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1887,
+   "views": 1888,
    "likes": 21,
    "comments": 0
   },
@@ -1685,8 +1690,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1127,
-   "likes": 19,
+   "views": 1131,
+   "likes": 20,
    "comments": 0
   },
   {
@@ -1696,7 +1701,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 300,
+   "views": 301,
    "likes": 6,
    "comments": 0
   },
@@ -1707,7 +1712,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2736,
+   "views": 2737,
    "likes": 52,
    "comments": 0
   },
