@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-17T12:28:40.534Z",
+ "updated": "2026-09-17T13:28:48.026Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 5.7 s"
-  ],
-  "checked": "2026-09-17T12:28:41.676Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-17T13:28:49.971Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -36,12 +34,12 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 5.7
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 173,
+  "followers": 174,
   "media_count": 53
  },
  "history": [
@@ -1614,6 +1612,11 @@
    "ts": "2026-09-17T12:28:40.534Z",
    "followers": 173,
    "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T13:28:48.026Z",
+   "followers": 174,
+   "media_count": 53
   }
  ],
  "posts": [
@@ -1624,8 +1627,8 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 93,
-   "likes": 3,
+   "views": 166,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1635,7 +1638,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 248,
+   "views": 254,
    "likes": 4,
    "comments": 0
   },
@@ -1646,8 +1649,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1841,
-   "likes": 20,
+   "views": 1851,
+   "likes": 21,
    "comments": 0
   },
   {
@@ -1657,7 +1660,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1005,
+   "views": 1027,
    "likes": 19,
    "comments": 0
   },
@@ -1668,7 +1671,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 289,
+   "views": 291,
    "likes": 5,
    "comments": 0
   },
@@ -1679,7 +1682,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2714,
+   "views": 2716,
    "likes": 51,
    "comments": 0
   },
@@ -1690,7 +1693,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1492,
+   "views": 1493,
    "likes": 36,
    "comments": 0
   },
@@ -1701,7 +1704,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2074,
+   "views": 2076,
    "likes": 30,
    "comments": 3
   },
@@ -1712,7 +1715,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1469,
+   "views": 1471,
    "likes": 29,
    "comments": 0
   },
@@ -1723,7 +1726,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 36,
+   "views": 38,
    "likes": 3,
    "comments": 0
   },
@@ -1734,7 +1737,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 82,
+   "views": 83,
    "likes": 3,
    "comments": 0
   },
@@ -1745,7 +1748,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 86,
+   "views": 88,
    "likes": 4,
    "comments": 0
   },
@@ -1756,7 +1759,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 250,
+   "views": 252,
    "likes": 6,
    "comments": 0
   },
@@ -1767,7 +1770,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 108,
+   "views": 110,
    "likes": 5,
    "comments": 0
   },
@@ -1778,7 +1781,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 170,
+   "views": 171,
    "likes": 8,
    "comments": 0
   },
@@ -1789,7 +1792,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 169,
+   "views": 170,
    "likes": 5,
    "comments": 0
   },
@@ -1800,7 +1803,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 101,
+   "views": 102,
    "likes": 4,
    "comments": 0
   },
@@ -1932,7 +1935,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2551,
+   "views": 2553,
    "likes": 38,
    "comments": 0
   },
