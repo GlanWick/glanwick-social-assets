@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T21:09:21.905Z",
+ "updated": "2026-09-17T22:09:22.481Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T21:09:22.628Z",
+  "checked": "2026-09-17T22:09:23.351Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -34,7 +34,7 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 9.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1657,6 +1657,11 @@
    "ts": "2026-09-17T21:09:21.905Z",
    "followers": 176,
    "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T22:09:22.481Z",
+   "followers": 176,
+   "media_count": 53
   }
  ],
  "posts": [
@@ -1667,8 +1672,8 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1457,
-   "likes": 25,
+   "views": 1618,
+   "likes": 29,
    "comments": 0
   },
   {
@@ -1678,8 +1683,8 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 320,
-   "likes": 6,
+   "views": 327,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -1689,8 +1694,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1890,
-   "likes": 21,
+   "views": 1892,
+   "likes": 22,
    "comments": 0
   },
   {
@@ -1700,7 +1705,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1150,
+   "views": 1164,
    "likes": 22,
    "comments": 0
   },
@@ -1711,7 +1716,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 305,
+   "views": 306,
    "likes": 6,
    "comments": 0
   },
@@ -1722,7 +1727,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2740,
+   "views": 2744,
    "likes": 52,
    "comments": 0
   },
@@ -1744,7 +1749,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2085,
+   "views": 2087,
    "likes": 30,
    "comments": 3
   },
