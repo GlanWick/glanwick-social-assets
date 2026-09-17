@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T17:19:49.327Z",
+ "updated": "2026-09-17T18:20:17.886Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T17:19:50.339Z",
+  "checked": "2026-09-17T18:20:19.529Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -34,7 +34,7 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1637,6 +1637,11 @@
    "ts": "2026-09-17T17:19:49.327Z",
    "followers": 175,
    "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T18:20:17.886Z",
+   "followers": 175,
+   "media_count": 53
   }
  ],
  "posts": [
@@ -1647,8 +1652,8 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 388,
-   "likes": 13,
+   "views": 582,
+   "likes": 17,
    "comments": 0
   },
   {
@@ -1658,7 +1663,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 287,
+   "views": 289,
    "likes": 6,
    "comments": 0
   },
@@ -1669,7 +1674,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1882,
+   "views": 1887,
    "likes": 21,
    "comments": 0
   },
@@ -1680,7 +1685,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1117,
+   "views": 1127,
    "likes": 19,
    "comments": 0
   },
@@ -1702,7 +1707,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2735,
+   "views": 2736,
    "likes": 52,
    "comments": 0
   },
@@ -1713,7 +1718,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1494,
+   "views": 1495,
    "likes": 36,
    "comments": 0
   },
@@ -1812,7 +1817,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 170,
+   "views": 171,
    "likes": 5,
    "comments": 0
   },
@@ -2054,7 +2059,7 @@
    "timestamp": "2026-09-04T23:00:55+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 394,
+   "views": 395,
    "likes": 6,
    "comments": 0
   },
