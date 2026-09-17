@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:20:01.392Z",
+  "generated_at": "2026-09-17T07:20:53.014Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -800,10 +800,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-journal-cover.jpg",
       "caption": "Ask a trader about last month and he names three trades. Two of them worked.\n\nThe record says he took 41. The three he remembers are the ones with a story attached, and a story attaches itself to the ones that moved. The other 38 left nothing behind to remember them by.\n\nMemory keeps the story. The record keeps the count.\n\nSend this to the friend who says his last month was fine.\n\nHow many trades did you take last month, without looking? 👇\n\n#tradingjournal #tradingpsychology #riskmanagement #daytrading #knowthedifference",
-      "container_id": "18108408056136556",
       "media_id": "18132495043656282",
       "permalink": "https://www.instagram.com/reel/DdXaoKijfb9/",
-      "published_at": "2026-09-16T23:00:55.592Z"
+      "published_at": "2026-09-16T23:00:55.592Z",
+      "container_id": "18108408056136556"
     },
     {
       "id": "2026-09-17-enger-stop",
@@ -813,10 +813,19 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tightstop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tightstop-cover.jpg",
       "caption": "He halved his stop to risk less. He got stopped out twice as often.\n\nThe position size stayed the same, so the stop moved closer to the entry and landed inside the daily noise. Less money leaves on each loss. More trades reach the stop at all. Both of those are risk, and only one of them is on the screen.\n\nA stop has two dimensions. Most people only tune one.\n\nSend this to the friend who keeps tightening after a red day.\n\nWhere does your stop actually sit, in noise or in structure? 👇\n\n#stoploss #riskmanagement #positionsizing #tradingjournal #knowthedifference",
-      "container_id": "18108425339136556",
       "media_id": "18091305086537595",
       "permalink": "https://www.instagram.com/reel/DdXyqdTj89t/",
-      "published_at": "2026-09-17T02:30:55.878Z"
+      "published_at": "2026-09-17T02:30:55.878Z",
+      "container_id": "18108425339136556"
+    },
+    {
+      "id": "2026-09-17-trefferquote-90",
+      "slug": "stickman-hitrate90",
+      "status": "ready",
+      "scheduled_at": "2026-09-17T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hitrate90.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hitrate90-cover.jpg",
+      "caption": "He won 90 of his last 100 trades and the account is down.\n\n90 wins at 1R is plus 90R. 10 losses at 10R is minus 100R. He is sitting at minus 10R with a 90 % hit rate, and every one of those 90 winners was real.\n\nA win rate without the ratio beside it describes nothing at all. The same arithmetic is what ends most prop firm challenges.\n\nSend this to the friend who leads with his win rate.\n\nWhat is your average loss against your average win? 👇\n\nPart 9 of the series.\n\n#winrate #expectancy #riskmanagement #propfirm #knowthedifference"
     }
   ]
 }
