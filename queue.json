@@ -834,11 +834,12 @@
     {
       "id": "2026-09-18-gewinner-verkaufen",
       "slug": "stickman-disposition",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-17T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-disposition.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-disposition-cover.jpg",
-      "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.\n\nSix years of trades from one discount broker. Of the positions sitting in profit, 14.8 % got closed. Of the positions sitting in loss, 9.8 % got closed. Half again as likely to close the one that was working.\n\nClosing a winner books a decision that felt right. Closing a loser books one that felt wrong. The account never knew the difference.\n\nSend this to the friend whose open positions are all red.\n\nHow long has your oldest open loser been open? 👇\n\nPart 10 of the series. Source: Odean, Journal of Finance 53(5), 1998.\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.\n\nSix years of trades from one discount broker. Of the positions sitting in profit, 14.8 % got closed. Of the positions sitting in loss, 9.8 % got closed. Half again as likely to close the one that was working.\n\nClosing a winner books a decision that felt right. Closing a loser books one that felt wrong. The account never knew the difference.\n\nSend this to the friend whose open positions are all red.\n\nHow long has your oldest open loser been open? 👇\n\nPart 10 of the series. Source: Odean, Journal of Finance 53(5), 1998.\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-17T23:00:06.951Z"
     },
     {
       "id": "2026-09-18-positionsgroessen-regel",
