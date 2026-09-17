@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T10:28:12.592Z",
+ "updated": "2026-09-17T11:28:20.044Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T10:28:15.225Z",
+  "checked": "2026-09-17T11:28:21.308Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -1602,6 +1602,11 @@
    "ts": "2026-09-17T10:28:12.592Z",
    "followers": 173,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T11:28:20.044Z",
+   "followers": 173,
+   "media_count": 52
   }
  ],
  "posts": [
@@ -1612,7 +1617,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 234,
+   "views": 239,
    "likes": 4,
    "comments": 0
   },
@@ -1623,7 +1628,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1737,
+   "views": 1812,
    "likes": 20,
    "comments": 0
   },
@@ -1634,7 +1639,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 977,
+   "views": 991,
    "likes": 19,
    "comments": 0
   },
@@ -1645,7 +1650,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 286,
+   "views": 287,
    "likes": 5,
    "comments": 0
   },
@@ -1667,7 +1672,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1484,
+   "views": 1492,
    "likes": 36,
    "comments": 0
   },
@@ -2030,7 +2035,7 @@
    "timestamp": "2026-09-04T16:43:19+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 3425,
+   "views": 3426,
    "likes": 57,
    "comments": 0
   },
