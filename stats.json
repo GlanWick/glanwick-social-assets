@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T06:38:07.717Z",
+ "updated": "2026-09-17T07:38:25.112Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T06:38:09.537Z",
+  "checked": "2026-09-17T07:38:26.151Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-16",
-    "reach": 3532
+    "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 9.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1582,6 +1582,11 @@
    "ts": "2026-09-17T06:38:07.717Z",
    "followers": 172,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T07:38:25.112Z",
+   "followers": 172,
+   "media_count": 52
   }
  ],
  "posts": [
@@ -1592,7 +1597,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 215,
+   "views": 223,
    "likes": 4,
    "comments": 0
   },
@@ -1603,8 +1608,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 913,
-   "likes": 16,
+   "views": 1279,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -1614,8 +1619,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 828,
-   "likes": 17,
+   "views": 878,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -1625,7 +1630,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 269,
+   "views": 274,
    "likes": 5,
    "comments": 0
   },
@@ -1636,7 +1641,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2709,
+   "views": 2712,
    "likes": 51,
    "comments": 0
   },
@@ -1647,7 +1652,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1414,
+   "views": 1427,
    "likes": 34,
    "comments": 0
   },
