@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T04:37:37.431Z",
+ "updated": "2026-09-17T05:37:51.840Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T04:37:38.431Z",
+  "checked": "2026-09-17T05:37:53.984Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-09-16",
-    "reach": 3206
+    "reach": 3345
    }
   ],
   "avg_watch_last_reels": 8.9
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 170,
+  "followers": 171,
   "media_count": 52
  },
  "history": [
@@ -1572,6 +1572,11 @@
    "ts": "2026-09-17T04:37:37.431Z",
    "followers": 170,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T05:37:51.840Z",
+   "followers": 171,
+   "media_count": 52
   }
  ],
  "posts": [
@@ -1582,8 +1587,8 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 201,
-   "likes": 3,
+   "views": 207,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -1593,8 +1598,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 566,
-   "likes": 11,
+   "views": 732,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -1604,8 +1609,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 734,
-   "likes": 16,
+   "views": 777,
+   "likes": 17,
    "comments": 0
   },
   {
@@ -1615,7 +1620,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 262,
+   "views": 264,
    "likes": 5,
    "comments": 0
   },
@@ -1626,7 +1631,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2706,
+   "views": 2707,
    "likes": 51,
    "comments": 0
   },
@@ -1637,8 +1642,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1395,
-   "likes": 32,
+   "views": 1403,
+   "likes": 33,
    "comments": 0
   },
   {
