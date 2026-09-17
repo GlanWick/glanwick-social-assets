@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T09:28:06.356Z",
+ "updated": "2026-09-17T10:28:12.592Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T09:28:07.767Z",
+  "checked": "2026-09-17T10:28:15.225Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 172,
+  "followers": 173,
   "media_count": 52
  },
  "history": [
@@ -1597,6 +1597,11 @@
    "ts": "2026-09-17T09:28:06.356Z",
    "followers": 172,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T10:28:12.592Z",
+   "followers": 173,
+   "media_count": 52
   }
  ],
  "posts": [
@@ -1607,7 +1612,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 230,
+   "views": 234,
    "likes": 4,
    "comments": 0
   },
@@ -1618,8 +1623,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1593,
-   "likes": 19,
+   "views": 1737,
+   "likes": 20,
    "comments": 0
   },
   {
@@ -1629,7 +1634,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 946,
+   "views": 977,
    "likes": 19,
    "comments": 0
   },
@@ -1640,7 +1645,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 282,
+   "views": 286,
    "likes": 5,
    "comments": 0
   },
@@ -1651,7 +1656,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2712,
+   "views": 2714,
    "likes": 51,
    "comments": 0
   },
@@ -1662,8 +1667,8 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1465,
-   "likes": 34,
+   "views": 1484,
+   "likes": 36,
    "comments": 0
   },
   {
@@ -1673,7 +1678,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2073,
+   "views": 2074,
    "likes": 30,
    "comments": 3
   },
