@@ -1,14 +1,10 @@
 {
- "updated": "2026-09-16T23:47:42.185Z",
+ "updated": "2026-09-17T00:48:10.824Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-16T23:47:43.113Z",
+  "checked": "2026-09-17T00:48:11.693Z",
   "reach_days": [
-   {
-    "day": "2026-09-09",
-    "reach": 640
-   },
    {
     "day": "2026-09-10",
     "reach": 236
@@ -32,9 +28,13 @@
    {
     "day": "2026-09-15",
     "reach": 1982
+   },
+   {
+    "day": "2026-09-16",
+    "reach": 2761
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1547,6 +1547,11 @@
    "ts": "2026-09-16T23:47:42.185Z",
    "followers": 170,
    "media_count": 51
+  },
+  {
+   "ts": "2026-09-17T00:48:10.824Z",
+   "followers": 170,
+   "media_count": 51
   }
  ],
  "posts": [
@@ -1557,8 +1562,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 179,
-   "likes": 5,
+   "views": 190,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -1568,8 +1573,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 538,
-   "likes": 12,
+   "views": 591,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -1579,7 +1584,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 253,
+   "views": 256,
    "likes": 5,
    "comments": 0
   },
@@ -1590,7 +1595,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2700,
+   "views": 2702,
    "likes": 51,
    "comments": 0
   },
@@ -1601,7 +1606,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1357,
+   "views": 1362,
    "likes": 32,
    "comments": 0
   },
@@ -1612,7 +1617,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2070,
+   "views": 2072,
    "likes": 30,
    "comments": 3
   },
@@ -1722,8 +1727,8 @@
    "timestamp": "2026-09-10T18:30:57+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 51,
-   "likes": 3,
+   "views": 52,
+   "likes": 4,
    "comments": 0
   },
   {
