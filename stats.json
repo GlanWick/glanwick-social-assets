@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-17T11:28:20.044Z",
+ "updated": "2026-09-17T12:28:40.534Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-17T11:28:21.308Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 5.7 s"
+  ],
+  "checked": "2026-09-17T12:28:41.676Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -34,13 +36,13 @@
     "reach": 3666
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 5.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 173,
-  "media_count": 52
+  "media_count": 53
  },
  "history": [
   {
@@ -1607,9 +1609,25 @@
    "ts": "2026-09-17T11:28:20.044Z",
    "followers": 173,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T12:28:40.534Z",
+   "followers": 173,
+   "media_count": 53
   }
  ],
  "posts": [
+  {
+   "id": "18459561292136405",
+   "slug": "stickman-hitrate90",
+   "permalink": "https://www.instagram.com/reel/DdYz4Yakh_Z/",
+   "timestamp": "2026-09-17T12:00:41+0000",
+   "type": "VIDEO",
+   "caption": "He won 90 of his last 100 trades and the account is down.",
+   "views": 93,
+   "likes": 3,
+   "comments": 0
+  },
   {
    "id": "18091305086537595",
    "slug": "stickman-tightstop",
@@ -1617,7 +1635,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 239,
+   "views": 248,
    "likes": 4,
    "comments": 0
   },
@@ -1628,7 +1646,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1812,
+   "views": 1841,
    "likes": 20,
    "comments": 0
   },
@@ -1639,7 +1657,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 991,
+   "views": 1005,
    "likes": 19,
    "comments": 0
   },
@@ -1650,7 +1668,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 287,
+   "views": 289,
    "likes": 5,
    "comments": 0
   },
@@ -2037,17 +2055,6 @@
    "caption": "Follow for more differences.",
    "views": 3426,
    "likes": 57,
-   "comments": 0
-  },
-  {
-   "id": "18101613926630366",
-   "slug": "liquidation-vs-adl",
-   "permalink": "https://www.instagram.com/reel/Dc1-DvbjmHL/",
-   "timestamp": "2026-09-03T23:16:04+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 232,
-   "likes": 6,
    "comments": 0
   }
  ]
