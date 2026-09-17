@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-17T03:37:22.111Z",
+ "updated": "2026-09-17T04:37:37.431Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-17T03:37:23.107Z",
+  "checked": "2026-09-17T04:37:38.431Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-16",
-    "reach": 3028
+    "reach": 3206
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 8.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1567,6 +1567,11 @@
    "ts": "2026-09-17T03:37:22.111Z",
    "followers": 170,
    "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T04:37:37.431Z",
+   "followers": 170,
+   "media_count": 52
   }
  ],
  "posts": [
@@ -1577,8 +1582,8 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 142,
-   "likes": 1,
+   "views": 201,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -1588,8 +1593,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 413,
-   "likes": 9,
+   "views": 566,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -1599,8 +1604,8 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 685,
-   "likes": 14,
+   "views": 734,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -1621,7 +1626,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2704,
+   "views": 2706,
    "likes": 51,
    "comments": 0
   },
@@ -1632,7 +1637,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1387,
+   "views": 1395,
    "likes": 32,
    "comments": 0
   },
