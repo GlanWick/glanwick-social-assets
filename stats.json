@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-17T01:48:39.030Z",
+ "updated": "2026-09-17T02:48:48.502Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-17T01:48:40.015Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.2 s"
+  ],
+  "checked": "2026-09-17T02:48:49.491Z",
   "reach_days": [
    {
     "day": "2026-09-10",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-09-16",
-    "reach": 2792
+    "reach": 2855
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 6.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 170,
-  "media_count": 51
+  "media_count": 52
  },
  "history": [
   {
@@ -1557,9 +1559,25 @@
    "ts": "2026-09-17T01:48:39.030Z",
    "followers": 170,
    "media_count": 51
+  },
+  {
+   "ts": "2026-09-17T02:48:48.502Z",
+   "followers": 170,
+   "media_count": 52
   }
  ],
  "posts": [
+  {
+   "id": "18091305086537595",
+   "slug": "stickman-tightstop",
+   "permalink": "https://www.instagram.com/reel/DdXyqdTj89t/",
+   "timestamp": "2026-09-17T02:30:49+0000",
+   "type": "VIDEO",
+   "caption": "He halved his stop to risk less. He got stopped out twice as often.",
+   "views": 14,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18132495043656282",
    "slug": "stickman-journal",
@@ -1567,8 +1585,8 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 222,
-   "likes": 6,
+   "views": 314,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -1578,7 +1596,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 625,
+   "views": 653,
    "likes": 14,
    "comments": 0
   },
@@ -1589,7 +1607,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 259,
+   "views": 262,
    "likes": 5,
    "comments": 0
   },
@@ -1600,7 +1618,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2702,
+   "views": 2704,
    "likes": 51,
    "comments": 0
   },
@@ -1611,7 +1629,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1368,
+   "views": 1378,
    "likes": 32,
    "comments": 0
   },
@@ -1987,17 +2005,6 @@
    "caption": "Follow for more differences.",
    "views": 232,
    "likes": 6,
-   "comments": 0
-  },
-  {
-   "id": "18372898066241649",
-   "slug": "leverage-vs-liquidation",
-   "permalink": "https://www.instagram.com/reel/Dc1i6l1iaTO/",
-   "timestamp": "2026-09-03T19:19:03+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 214,
-   "likes": 5,
    "comments": 0
   }
  ]
