@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T05:00:52.556Z",
+ "updated": "2026-09-18T06:01:19.915Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T05:00:53.646Z",
+  "checked": "2026-09-18T06:01:21.393Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-17",
-    "reach": 3010
+    "reach": 3455
    }
   ],
-  "avg_watch_last_reels": 12.1
+  "avg_watch_last_reels": 11.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1697,6 +1697,11 @@
    "ts": "2026-09-18T05:00:52.556Z",
    "followers": 176,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T06:01:19.915Z",
+   "followers": 176,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1707,8 +1712,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 662,
-   "likes": 8,
+   "views": 1227,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -1718,7 +1723,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 622,
+   "views": 770,
    "likes": 6,
    "comments": 0
   },
@@ -1729,7 +1734,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1731,
+   "views": 1734,
    "likes": 31,
    "comments": 0
   },
@@ -1762,7 +1767,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1222,
+   "views": 1224,
    "likes": 25,
    "comments": 0
   },
