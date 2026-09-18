@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T16:41:42.551Z",
+ "updated": "2026-09-18T17:42:09.607Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T16:41:43.765Z",
+  "checked": "2026-09-18T17:42:10.729Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -34,7 +34,7 @@
     "reach": 3941
    }
   ],
-  "avg_watch_last_reels": 12.3
+  "avg_watch_last_reels": 12.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1757,6 +1757,11 @@
    "ts": "2026-09-18T16:41:42.551Z",
    "followers": 178,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T17:42:09.607Z",
+   "followers": 178,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1767,8 +1772,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2565,
-   "likes": 20,
+   "views": 2685,
+   "likes": 21,
    "comments": 0
   },
   {
@@ -1778,7 +1783,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1494,
+   "views": 1517,
    "likes": 8,
    "comments": 0
   },
@@ -1789,7 +1794,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1806,
+   "views": 1809,
    "likes": 32,
    "comments": 0
   },
@@ -1943,7 +1948,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 172,
+   "views": 174,
    "likes": 8,
    "comments": 0
   },
@@ -2097,7 +2102,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2555,
+   "views": 2559,
    "likes": 38,
    "comments": 0
   },
