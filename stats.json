@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T18:42:36.198Z",
+ "updated": "2026-09-18T19:43:04.155Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T18:42:37.101Z",
+  "checked": "2026-09-18T19:43:05.024Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -34,12 +34,12 @@
     "reach": 3941
    }
   ],
-  "avg_watch_last_reels": 12.2
+  "avg_watch_last_reels": 12.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 178,
+  "followers": 179,
   "media_count": 55
  },
  "history": [
@@ -1767,6 +1767,11 @@
    "ts": "2026-09-18T18:42:36.198Z",
    "followers": 178,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T19:43:04.155Z",
+   "followers": 179,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1777,7 +1782,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2779,
+   "views": 2873,
    "likes": 24,
    "comments": 1
   },
@@ -1788,7 +1793,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1539,
+   "views": 1563,
    "likes": 8,
    "comments": 0
   },
@@ -1799,7 +1804,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1809,
+   "views": 1815,
    "likes": 32,
    "comments": 0
   },
@@ -1810,7 +1815,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 350,
+   "views": 351,
    "likes": 7,
    "comments": 0
   },
@@ -1821,7 +1826,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1905,
+   "views": 1906,
    "likes": 22,
    "comments": 0
   },
@@ -1832,7 +1837,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1228,
+   "views": 1230,
    "likes": 25,
    "comments": 0
   },
