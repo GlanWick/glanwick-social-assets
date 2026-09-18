@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T14:40:46.943Z",
+ "updated": "2026-09-18T15:41:15.117Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T14:40:47.945Z",
+  "checked": "2026-09-18T15:41:16.132Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 177,
+  "followers": 178,
   "media_count": 55
  },
  "history": [
@@ -1747,6 +1747,11 @@
    "ts": "2026-09-18T14:40:46.943Z",
    "followers": 177,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T15:41:15.117Z",
+   "followers": 178,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1757,8 +1762,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2303,
-   "likes": 16,
+   "views": 2437,
+   "likes": 17,
    "comments": 0
   },
   {
@@ -1768,8 +1773,8 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1443,
-   "likes": 7,
+   "views": 1470,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -1779,7 +1784,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1787,
+   "views": 1798,
    "likes": 32,
    "comments": 0
   },
@@ -1944,7 +1949,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 173,
+   "views": 174,
    "likes": 5,
    "comments": 0
   },
