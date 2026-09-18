@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:36:55.866Z",
+  "generated_at": "2026-09-18T23:15:00.893Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -839,10 +839,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-disposition.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-disposition-cover.jpg",
       "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.\n\nSix years of trades from one discount broker. Of the positions sitting in profit, 14.8 % got closed. Of the positions sitting in loss, 9.8 % got closed. Half again as likely to close the one that was working.\n\nClosing a winner books a decision that felt right. Closing a loser books one that felt wrong. The account never knew the difference.\n\nSend this to the friend whose open positions are all red.\n\nHow long has your oldest open loser been open? 👇\n\nPart 10 of the series. Source: Odean, Journal of Finance 53(5), 1998.\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18108546866136556",
       "media_id": "18026254904910324",
       "permalink": "https://www.instagram.com/reel/DdZ_gJDD-XM/",
-      "published_at": "2026-09-17T23:01:41.222Z"
+      "published_at": "2026-09-17T23:01:41.222Z",
+      "container_id": "18108546866136556"
     },
     {
       "id": "2026-09-18-positionsgroessen-regel",
@@ -852,10 +852,28 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing-cover.jpg",
       "caption": "Two traders take the same ten losing trades and end up with different accounts.\n\nBoth start at $10,000. One risks $500 a trade, flat. The other risks 5 % of whatever is left. After ten losses the flat account holds $5,000 and the percentage account holds $5,987.\n\nOne needs +100 % to get back to even. The other needs +67 %. Same trades, same order, same everything. The sizing rule did that.\n\nSend this to the friend who risks the same dollar amount no matter what the account says.\n\nFixed amount or fixed percent, which one are you running? 👇\n\nPart 11 of the series.\n\n#positionsizing #riskmanagement #drawdown #tradingjournal #knowthedifference",
-      "container_id": "18108566501136556",
       "media_id": "18109390660977779",
       "permalink": "https://www.instagram.com/reel/DdaXh7MjONN/",
-      "published_at": "2026-09-18T02:31:36.355Z"
+      "published_at": "2026-09-18T02:31:36.355Z",
+      "container_id": "18108566501136556"
+    },
+    {
+      "id": "2026-09-19-glatte-kurve",
+      "slug": "stickman-smoothcurve",
+      "status": "ready",
+      "scheduled_at": "2026-09-19T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-smoothcurve.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-smoothcurve-cover.jpg",
+      "caption": "Eleven green months and the year still closes red.\n\nPlus 2 % a month for eleven months compounds to plus 24.3 %. Then one month gives back 30 %. The year ends at minus 13 %. Every one of those eleven months was real, and none of them said anything about the twelfth.\n\nA smooth curve describes the months you have already seen. The one that breaks it has not happened yet.\n\nSend this to the friend whose track record has no red months in it.\n\nWhat is the worst month your system could have? 👇\n\nPart 13 of the series.\n\n#drawdown #riskmanagement #trackrecord #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-19-verlustserie",
+      "slug": "stickman-losingstreak",
+      "status": "ready",
+      "scheduled_at": "2026-09-19T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losingstreak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losingstreak-cover.jpg",
+      "caption": "Six losses in a row is arithmetic.\n\nAt a 50 % hit rate, six losses back to back has a 1 in 64 chance on any six trades. Over 200 trades you should expect that run to show up about three times. It is the coin doing what a coin does.\n\nMost people rebuild the system after four. Write your worst expected run down before it arrives and it stops counting as evidence.\n\nSend this to the friend who is rewriting his rules after a bad week.\n\nWhat is the longest losing run you have had? 👇\n\nPart 12 of the series.\n\n#losingstreak #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
     }
   ]
 }
