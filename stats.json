@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-18T02:10:46.779Z",
+ "updated": "2026-09-18T02:59:57.740Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-18T02:10:47.719Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.6 s"
+  ],
+  "checked": "2026-09-18T02:59:58.775Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-09-17",
-    "reach": 2341
+    "reach": 2427
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 7.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 176,
-  "media_count": 54
+  "media_count": 55
  },
  "history": [
   {
@@ -1682,9 +1684,25 @@
    "ts": "2026-09-18T02:10:46.779Z",
    "followers": 176,
    "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T02:59:57.740Z",
+   "followers": 176,
+   "media_count": 55
   }
  ],
  "posts": [
+  {
+   "id": "18109390660977779",
+   "slug": "stickman-sizing",
+   "permalink": "https://www.instagram.com/reel/DdaXh7MjONN/",
+   "timestamp": "2026-09-18T02:31:28+0000",
+   "type": "VIDEO",
+   "caption": "Two traders take the same ten losing trades and end up with different accounts.",
+   "views": 87,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18026254904910324",
    "slug": "stickman-disposition",
@@ -1692,7 +1710,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 232,
+   "views": 353,
    "likes": 5,
    "comments": 0
   },
@@ -1714,7 +1732,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 339,
+   "views": 342,
    "likes": 7,
    "comments": 0
   },
@@ -1736,7 +1754,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1196,
+   "views": 1202,
    "likes": 24,
    "comments": 0
   },
@@ -1758,7 +1776,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2748,
+   "views": 2750,
    "likes": 52,
    "comments": 0
   },
@@ -2112,17 +2130,6 @@
    "caption": "Follow for more differences.",
    "views": 395,
    "likes": 6,
-   "comments": 0
-  },
-  {
-   "id": "18100504127610336",
-   "slug": "maker-vs-taker-fee",
-   "permalink": "https://www.instagram.com/reel/Dc3-xRhDzgX/",
-   "timestamp": "2026-09-04T18:00:54+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 199,
-   "likes": 8,
    "comments": 0
   }
  ]
