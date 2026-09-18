@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T23:32:52.465Z",
+ "updated": "2026-09-18T23:38:05.223Z",
  "hinweis": "Instagram laeuft automatisch. Threads, X und YouTube sind Handarbeit.",
  "plaetze": [
   {
@@ -521,6 +521,20 @@
      "text": "TITEL (max 100 Zeichen)\nThree positions at 2 % each is one bet at 6 %, if they all point the same way.\n\nBESCHREIBUNG\nThe risk rule counts trades. The market counts direction. Three long tech names on the same morning move together when the morning turns, and the 2 % rule never saw it coming because it was busy counting to three.\n\nBefore you add the third one, ask what the first two already have in common.\n\nRun your own numbers: https://glanwick.com/tools/breakeven-calculator\n\n#correlation #riskmanagement #positionsizing #tradingjournal #knowthedifference #shorts\n\nHINWEISE\n- Sichtbarkeit: Oeffentlich\n- \"Altered or synthetic content\" anhaken: JA (Zeichnungen und Stimme sind generiert)\n- Kategorie: Bildung\n- Kein Link in den ersten drei Zeilen, die stehen unter dem Video\n",
      "anhang": "video-output/stickman-correlation/versand/video.mp4",
      "hinweis": "Sichtbarkeit oeffentlich, \"Altered or synthetic content\" anhaken."
+    },
+    {
+     "utc": "2026-09-20T02:30:00Z",
+     "berlin": "04:30",
+     "ny": "22:30",
+     "anlass": "vor dem Schlafen",
+     "titel": "Test 20 settings and one of them will look brilliant by luck alone.",
+     "slug": "stickman-overfit",
+     "kanal": "instagram",
+     "automatisch": true,
+     "status": "ready",
+     "text": "Test 20 settings and one of them will look brilliant by luck alone.\n\nAt a 5 % threshold, one false winner per 20 tests is the expected outcome. That is what the threshold means. The setting you kept is the one that fit the noise in your sample better than the others did, and noise does not repeat.\n\nRun it on the years you never looked at. Whatever survives that was probably never about the settings.\n\nSend this to the friend who optimised his way to a perfect backtest.\n\nHow many parameter combinations did you try before you picked one? 👇\n\nPart 16 of the series.\n\n#backtesting #overfitting #riskmanagement #tradingjournal #knowthedifference",
+     "permalink": null,
+     "hinweis": "Laeuft automatisch ueber den Waechter. Nichts zu tun."
     }
    ]
   }
