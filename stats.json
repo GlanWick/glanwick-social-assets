@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T21:31:27.407Z",
+ "updated": "2026-09-18T22:31:39.092Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T21:31:28.549Z",
+  "checked": "2026-09-18T22:31:40.064Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -1782,6 +1782,11 @@
    "ts": "2026-09-18T21:31:27.407Z",
    "followers": 179,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T22:31:39.092Z",
+   "followers": 179,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1792,7 +1797,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2944,
+   "views": 2954,
    "likes": 24,
    "comments": 1
   },
@@ -1803,7 +1808,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1595,
+   "views": 1604,
    "likes": 9,
    "comments": 0
   },
@@ -1814,7 +1819,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1815,
+   "views": 1816,
    "likes": 32,
    "comments": 0
   },
@@ -1880,7 +1885,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1503,
+   "views": 1504,
    "likes": 36,
    "comments": 0
   },
@@ -2122,7 +2127,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2559,
+   "views": 2561,
    "likes": 38,
    "comments": 0
   },
