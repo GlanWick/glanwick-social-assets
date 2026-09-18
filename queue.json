@@ -847,11 +847,12 @@
     {
       "id": "2026-09-18-positionsgroessen-regel",
       "slug": "stickman-sizing",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-18T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing-cover.jpg",
-      "caption": "Two traders take the same ten losing trades and end up with different accounts.\n\nBoth start at $10,000. One risks $500 a trade, flat. The other risks 5 % of whatever is left. After ten losses the flat account holds $5,000 and the percentage account holds $5,987.\n\nOne needs +100 % to get back to even. The other needs +67 %. Same trades, same order, same everything. The sizing rule did that.\n\nSend this to the friend who risks the same dollar amount no matter what the account says.\n\nFixed amount or fixed percent, which one are you running? 👇\n\nPart 11 of the series.\n\n#positionsizing #riskmanagement #drawdown #tradingjournal #knowthedifference"
+      "caption": "Two traders take the same ten losing trades and end up with different accounts.\n\nBoth start at $10,000. One risks $500 a trade, flat. The other risks 5 % of whatever is left. After ten losses the flat account holds $5,000 and the percentage account holds $5,987.\n\nOne needs +100 % to get back to even. The other needs +67 %. Same trades, same order, same everything. The sizing rule did that.\n\nSend this to the friend who risks the same dollar amount no matter what the account says.\n\nFixed amount or fixed percent, which one are you running? 👇\n\nPart 11 of the series.\n\n#positionsizing #riskmanagement #drawdown #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-18T02:30:04.480Z"
     }
   ]
 }
