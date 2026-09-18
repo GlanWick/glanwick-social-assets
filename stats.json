@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T00:09:57.173Z",
+ "updated": "2026-09-18T01:10:21.003Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T00:09:58.085Z",
+  "checked": "2026-09-18T01:10:21.902Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-17",
-    "reach": 2243
+    "reach": 2301
    }
   ],
-  "avg_watch_last_reels": 10.2
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1672,6 +1672,11 @@
    "ts": "2026-09-18T00:09:57.173Z",
    "followers": 176,
    "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T01:10:21.003Z",
+   "followers": 176,
+   "media_count": 54
   }
  ],
  "posts": [
@@ -1682,8 +1687,8 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 121,
-   "likes": 1,
+   "views": 170,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -1693,7 +1698,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1701,
+   "views": 1707,
    "likes": 31,
    "comments": 0
   },
@@ -1726,7 +1731,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1180,
+   "views": 1186,
    "likes": 24,
    "comments": 0
   },
