@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-18T12:52:13.296Z",
+ "updated": "2026-09-18T13:52:12.603Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-18T12:52:14.925Z",
+  "checked": "2026-09-18T13:52:14.138Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 176,
+  "followers": 177,
   "media_count": 55
  },
  "history": [
@@ -1737,6 +1737,11 @@
    "ts": "2026-09-18T12:52:13.296Z",
    "followers": 176,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T13:52:12.603Z",
+   "followers": 177,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1747,8 +1752,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2099,
-   "likes": 15,
+   "views": 2214,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -1758,7 +1763,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1411,
+   "views": 1429,
    "likes": 7,
    "comments": 0
   },
@@ -1769,7 +1774,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1784,
+   "views": 1785,
    "likes": 32,
    "comments": 0
   },
@@ -1802,7 +1807,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1225,
+   "views": 1226,
    "likes": 25,
    "comments": 0
   },
@@ -1824,7 +1829,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2752,
+   "views": 2753,
    "likes": 52,
    "comments": 0
   },
@@ -1835,7 +1840,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1501,
+   "views": 1502,
    "likes": 36,
    "comments": 0
   },
@@ -1846,7 +1851,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2088,
+   "views": 2090,
    "likes": 30,
    "comments": 3
   },
@@ -1857,7 +1862,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1474,
+   "views": 1475,
    "likes": 29,
    "comments": 0
   },
@@ -1868,7 +1873,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 40,
+   "views": 41,
    "likes": 3,
    "comments": 0
   },
@@ -1879,7 +1884,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 85,
+   "views": 86,
    "likes": 3,
    "comments": 0
   },
@@ -1890,7 +1895,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 91,
+   "views": 92,
    "likes": 4,
    "comments": 0
   },
@@ -1901,7 +1906,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 253,
+   "views": 254,
    "likes": 6,
    "comments": 0
   },
@@ -1912,7 +1917,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 111,
+   "views": 112,
    "likes": 5,
    "comments": 0
   },
