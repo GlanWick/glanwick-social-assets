@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-18T02:59:57.740Z",
+ "updated": "2026-09-18T04:00:24.751Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
-  ],
-  "checked": "2026-09-18T02:59:58.775Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-18T04:00:25.738Z",
   "reach_days": [
    {
     "day": "2026-09-11",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-09-17",
-    "reach": 2427
+    "reach": 2689
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 12.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1689,6 +1687,11 @@
    "ts": "2026-09-18T02:59:57.740Z",
    "followers": 176,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T04:00:24.751Z",
+   "followers": 176,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1699,8 +1702,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 87,
-   "likes": 1,
+   "views": 348,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -1710,7 +1713,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 353,
+   "views": 488,
    "likes": 5,
    "comments": 0
   },
@@ -1721,7 +1724,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1718,
+   "views": 1722,
    "likes": 31,
    "comments": 0
   },
@@ -1732,7 +1735,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 342,
+   "views": 346,
    "likes": 7,
    "comments": 0
   },
@@ -1754,7 +1757,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1202,
+   "views": 1209,
    "likes": 24,
    "comments": 0
   },
