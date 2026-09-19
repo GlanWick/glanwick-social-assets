@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T12:22:04.136Z",
+ "updated": "2026-09-19T13:22:09.174Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T12:22:05.292Z",
+  "checked": "2026-09-19T13:22:10.525Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -34,7 +34,7 @@
     "reach": 1830
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1857,6 +1857,11 @@
    "ts": "2026-09-19T12:22:04.136Z",
    "followers": 179,
    "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T13:22:09.174Z",
+   "followers": 179,
+   "media_count": 57
   }
  ],
  "posts": [
@@ -1867,8 +1872,8 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 105,
-   "likes": 1,
+   "views": 339,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -1878,7 +1883,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1748,
+   "views": 1776,
    "likes": 11,
    "comments": 0
   },
@@ -1889,7 +1894,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3073,
+   "views": 3078,
    "likes": 25,
    "comments": 1
   },
@@ -1977,7 +1982,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1506,
+   "views": 1507,
    "likes": 37,
    "comments": 0
   },
