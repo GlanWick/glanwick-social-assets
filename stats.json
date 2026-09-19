@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-19T22:13:17.345Z",
+ "updated": "2026-09-19T23:13:32.980Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-19T22:13:18.323Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 5.8 s"
+  ],
+  "checked": "2026-09-19T23:13:33.784Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -34,13 +36,13 @@
     "reach": 1830
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 5.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 179,
-  "media_count": 58
+  "media_count": 59
  },
  "history": [
   {
@@ -1907,9 +1909,25 @@
    "ts": "2026-09-19T22:13:17.345Z",
    "followers": 179,
    "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T23:13:32.980Z",
+   "followers": 179,
+   "media_count": 59
   }
  ],
  "posts": [
+  {
+   "id": "18123770185895974",
+   "slug": "stickman-correlation",
+   "permalink": "https://www.instagram.com/reel/DdfJAZeiTQD/",
+   "timestamp": "2026-09-19T23:00:44+0000",
+   "type": "VIDEO",
+   "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
+   "views": 39,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18115959235961950",
    "slug": "stickman-gap",
@@ -1917,8 +1935,8 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 240,
-   "likes": 4,
+   "views": 256,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1928,7 +1946,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2057,
+   "views": 2070,
    "likes": 35,
    "comments": 1
   },
@@ -1939,7 +1957,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1832,
+   "views": 1834,
    "likes": 12,
    "comments": 0
   },
@@ -2027,7 +2045,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2779,
+   "views": 2780,
    "likes": 52,
    "comments": 0
   },
@@ -2038,7 +2056,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1509,
+   "views": 1510,
    "likes": 37,
    "comments": 0
   },
@@ -2337,17 +2355,6 @@
    "caption": "Follow for more differences.",
    "views": 261,
    "likes": 10,
-   "comments": 0
-  },
-  {
-   "id": "18079980842352541",
-   "slug": "funding-rate-vs-interest",
-   "permalink": "https://www.instagram.com/reel/Dc6jjYWEYMY/",
-   "timestamp": "2026-09-05T18:00:50+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 154,
-   "likes": 4,
    "comments": 0
   }
  ]
