@@ -886,12 +886,15 @@
     {
       "id": "2026-09-19-kursluecke",
       "slug": "stickman-gap",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-09-19T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gap.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gap-cover.jpg",
       "caption": "A stop loss is an instruction. The fill is whatever comes next.\n\nThe moment price touches your level it becomes a market order, and a market order takes the next available price. If the market opens below your stop, you fill at the open. A 2 % stop can settle as an 8 % loss across a weekend, and nothing about that is a malfunction.\n\nThe size of the position is the only part a gap cannot change.\n\nSend this to the friend who holds through earnings because the stop will protect him.\n\nHave you ever been filled far below your stop? 👇\n\nPart 14 of the series.\n\n#stoploss #gaprisk #riskmanagement #tradingjournal #knowthedifference",
-      "posting_started_at": "2026-09-19T17:00:24.815Z"
+      "container_id": "18108808058136556",
+      "media_id": "18115959235961950",
+      "permalink": "https://www.instagram.com/reel/Ddef1T4lKQH/",
+      "published_at": "2026-09-19T17:01:06.646Z"
     },
     {
       "id": "2026-09-20-korrelation",
