@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:35:47.058Z",
+  "generated_at": "2026-09-19T09:40:52.994Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -865,10 +865,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-smoothcurve.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-smoothcurve-cover.jpg",
       "caption": "Eleven green months and the year still closes red.\n\nPlus 2 % a month for eleven months compounds to plus 24.3 %. Then one month gives back 30 %. The year ends at minus 13 %. Every one of those eleven months was real, and none of them said anything about the twelfth.\n\nA smooth curve describes the months you have already seen. The one that breaks it has not happened yet.\n\nSend this to the friend whose track record has no red months in it.\n\nWhat is the worst month your system could have? 👇\n\nPart 13 of the series.\n\n#drawdown #riskmanagement #trackrecord #tradingjournal #knowthedifference",
-      "container_id": "18108709613136556",
       "media_id": "18619433599055521",
       "permalink": "https://www.instagram.com/reel/Ddc8XKCjp7B/",
-      "published_at": "2026-09-19T02:31:49.253Z"
+      "published_at": "2026-09-19T02:31:49.253Z",
+      "container_id": "18108709613136556"
     },
     {
       "id": "2026-09-19-verlustserie",
@@ -905,6 +905,15 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit-cover.jpg",
       "caption": "Test 20 settings and one of them will look brilliant by luck alone.\n\nAt a 5 % threshold, one false winner per 20 tests is the expected outcome. That is what the threshold means. The setting you kept is the one that fit the noise in your sample better than the others did, and noise does not repeat.\n\nRun it on the years you never looked at. Whatever survives that was probably never about the settings.\n\nSend this to the friend who optimised his way to a perfect backtest.\n\nHow many parameter combinations did you try before you picked one? 👇\n\nPart 16 of the series.\n\n#backtesting #overfitting #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-20-ergebnis-verzerrung",
+      "slug": "stickman-outcomebias",
+      "status": "ready",
+      "scheduled_at": "2026-09-20T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outcomebias.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outcomebias-cover.jpg",
+      "caption": "A losing trade can still be the right trade.\n\nA setup that wins 3 out of 10 at 3R pays 0.3 × 3 minus 0.7 × 1, so plus 0.2R every single time you take it. Seven of those ten will lose money. All ten were correct decisions, and the seven losers are what the edge costs.\n\nThe outcome grades the sample. The process grades the decision. Only one of those two is yours to set.\n\nSend this to the friend who changes his rules after every red trade.\n\nDo you grade your trades by the result or by the plan? 👇\n\nPart 17 of the series.\n\n#expectancy #tradingpsychology #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
