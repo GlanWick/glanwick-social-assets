@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T00:40:43.645Z",
+ "updated": "2026-09-19T01:41:07.888Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T00:40:44.461Z",
+  "checked": "2026-09-19T01:41:09.002Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-09-18",
-    "reach": 1406
+    "reach": 1412
    }
   ],
   "avg_watch_last_reels": 12.3
@@ -1797,6 +1797,11 @@
    "ts": "2026-09-19T00:40:43.645Z",
    "followers": 179,
    "media_count": 55
+  },
+  {
+   "ts": "2026-09-19T01:41:07.888Z",
+   "followers": 179,
+   "media_count": 55
   }
  ],
  "posts": [
@@ -1807,7 +1812,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 2961,
+   "views": 2962,
    "likes": 24,
    "comments": 1
   },
@@ -1818,7 +1823,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1626,
+   "views": 1635,
    "likes": 9,
    "comments": 0
   },
@@ -1829,7 +1834,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1820,
+   "views": 1821,
    "likes": 32,
    "comments": 0
   },
