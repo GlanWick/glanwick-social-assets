@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T13:22:09.174Z",
+ "updated": "2026-09-19T14:22:19.059Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T13:22:10.525Z",
+  "checked": "2026-09-19T14:22:22.318Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -34,7 +34,7 @@
     "reach": 1830
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1862,6 +1862,11 @@
    "ts": "2026-09-19T13:22:09.174Z",
    "followers": 179,
    "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T14:22:19.059Z",
+   "followers": 179,
+   "media_count": 57
   }
  ],
  "posts": [
@@ -1872,8 +1877,8 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 339,
-   "likes": 4,
+   "views": 418,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1883,7 +1888,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1776,
+   "views": 1794,
    "likes": 11,
    "comments": 0
   },
@@ -1894,9 +1899,9 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3078,
+   "views": 3081,
    "likes": 25,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18026254904910324",
@@ -1905,7 +1910,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1750,
+   "views": 1751,
    "likes": 10,
    "comments": 0
   },
@@ -1927,7 +1932,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 352,
+   "views": 353,
    "likes": 7,
    "comments": 0
   },
@@ -1971,7 +1976,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2774,
+   "views": 2775,
    "likes": 52,
    "comments": 0
   },
