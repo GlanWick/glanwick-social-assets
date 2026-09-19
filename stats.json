@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T19:12:56.508Z",
+ "updated": "2026-09-19T20:13:03.922Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T19:12:57.707Z",
+  "checked": "2026-09-19T20:13:05.069Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 178,
+  "followers": 179,
   "media_count": 58
  },
  "history": [
@@ -1892,6 +1892,11 @@
    "ts": "2026-09-19T19:12:56.508Z",
    "followers": 178,
    "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T20:13:03.922Z",
+   "followers": 179,
+   "media_count": 58
   }
  ],
  "posts": [
@@ -1902,7 +1907,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 194,
+   "views": 202,
    "likes": 1,
    "comments": 0
   },
@@ -1913,8 +1918,8 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 1760,
-   "likes": 25,
+   "views": 1933,
+   "likes": 31,
    "comments": 1
   },
   {
@@ -1924,7 +1929,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1827,
+   "views": 1828,
    "likes": 11,
    "comments": 0
   },
@@ -2012,7 +2017,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2778,
+   "views": 2779,
    "likes": 52,
    "comments": 0
   },
