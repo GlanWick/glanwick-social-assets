@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T07:31:36.404Z",
+ "updated": "2026-09-19T08:31:42.388Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T07:31:37.661Z",
+  "checked": "2026-09-19T08:31:43.380Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -34,7 +34,7 @@
     "reach": 1830
    }
   ],
-  "avg_watch_last_reels": 11.4
+  "avg_watch_last_reels": 11.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1832,6 +1832,11 @@
    "ts": "2026-09-19T07:31:36.404Z",
    "followers": 179,
    "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T08:31:42.388Z",
+   "followers": 179,
+   "media_count": 56
   }
  ],
  "posts": [
@@ -1842,8 +1847,8 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 514,
-   "likes": 2,
+   "views": 825,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -1853,7 +1858,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3000,
+   "views": 3006,
    "likes": 24,
    "comments": 1
   },
@@ -1864,7 +1869,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1744,
+   "views": 1745,
    "likes": 10,
    "comments": 0
   },
@@ -1875,7 +1880,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1830,
+   "views": 1831,
    "likes": 32,
    "comments": 0
   },
@@ -1930,7 +1935,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2766,
+   "views": 2767,
    "likes": 52,
    "comments": 0
   },
@@ -1952,7 +1957,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2092,
+   "views": 2093,
    "likes": 30,
    "comments": 3
   },
@@ -2183,7 +2188,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2562,
+   "views": 2563,
    "likes": 38,
    "comments": 0
   },
