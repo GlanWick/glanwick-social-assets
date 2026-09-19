@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-19T09:31:47.913Z",
+ "updated": "2026-09-19T10:31:56.668Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-19T09:31:48.794Z",
+  "checked": "2026-09-19T10:31:57.565Z",
   "reach_days": [
    {
     "day": "2026-09-12",
@@ -34,7 +34,7 @@
     "reach": 1830
    }
   ],
-  "avg_watch_last_reels": 11.6
+  "avg_watch_last_reels": 11.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1842,6 +1842,11 @@
    "ts": "2026-09-19T09:31:47.913Z",
    "followers": 179,
    "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T10:31:56.668Z",
+   "followers": 179,
+   "media_count": 56
   }
  ],
  "posts": [
@@ -1852,8 +1857,8 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1003,
-   "likes": 7,
+   "views": 1484,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -1863,8 +1868,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3015,
-   "likes": 24,
+   "views": 3037,
+   "likes": 25,
    "comments": 1
   },
   {
@@ -1874,7 +1879,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1745,
+   "views": 1746,
    "likes": 10,
    "comments": 0
   },
