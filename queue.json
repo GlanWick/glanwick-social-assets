@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:40:52.994Z",
+  "generated_at": "2026-09-19T09:46:50.418Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -914,6 +914,15 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outcomebias.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outcomebias-cover.jpg",
       "caption": "A losing trade can still be the right trade.\n\nA setup that wins 3 out of 10 at 3R pays 0.3 × 3 minus 0.7 × 1, so plus 0.2R every single time you take it. Seven of those ten will lose money. All ten were correct decisions, and the seven losers are what the edge costs.\n\nThe outcome grades the sample. The process grades the decision. Only one of those two is yours to set.\n\nSend this to the friend who changes his rules after every red trade.\n\nDo you grade your trades by the result or by the plan? 👇\n\nPart 17 of the series.\n\n#expectancy #tradingpsychology #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-20-nachkaufen",
+      "slug": "stickman-averagedown",
+      "status": "ready",
+      "scheduled_at": "2026-09-20T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-averagedown.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-averagedown-cover.jpg",
+      "caption": "Averaging down is a second decision about a trade you already got wrong.\n\n100 shares at $50. It falls to $40, so you buy 100 more and your average is $45. Your loss is still $1,000, exactly what it was before you added. What changed is the money riding on the next move: $4,000 became $8,000.\n\nThe first decision was a trade. The second one was a bet that you were early rather than wrong.\n\nSend this to the friend who calls it \"building a position\" on the way down.\n\nHave you ever averaged down and been right? 👇\n\nPart 18 of the series.\n\n#averagingdown #riskmanagement #positionsizing #tradingjournal #knowthedifference"
     }
   ]
 }
