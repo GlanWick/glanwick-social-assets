@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-20T22:37:34.351Z",
+ "updated": "2026-09-20T23:26:11.415Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-20T22:37:35.582Z",
+  "checked": "2026-09-20T23:26:12.730Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -34,13 +34,13 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 190,
-  "media_count": 62
+  "media_count": 63
  },
  "history": [
   {
@@ -2032,9 +2032,25 @@
    "ts": "2026-09-20T22:37:34.351Z",
    "followers": 190,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T23:26:11.415Z",
+   "followers": 190,
+   "media_count": 63
   }
  ],
  "posts": [
+  {
+   "id": "18110304674125225",
+   "slug": "stickman-cutwinners",
+   "permalink": "https://www.instagram.com/reel/Ddht7bpAGyR/",
+   "timestamp": "2026-09-20T23:01:49+0000",
+   "type": "VIDEO",
+   "caption": "Your winners cost you more than your losers do.",
+   "views": 27,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18627642856033801",
    "slug": "stickman-averagedown",
@@ -2042,8 +2058,8 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 400,
-   "likes": 2,
+   "views": 467,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -2053,8 +2069,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1249,
-   "likes": 16,
+   "views": 1270,
+   "likes": 17,
    "comments": 0
   },
   {
@@ -2064,8 +2080,8 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 301,
-   "likes": 2,
+   "views": 305,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2075,7 +2091,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1872,
+   "views": 1880,
    "likes": 7,
    "comments": 0
   },
@@ -2086,7 +2102,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 363,
+   "views": 364,
    "likes": 5,
    "comments": 0
   },
@@ -2097,7 +2113,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2151,
+   "views": 2152,
    "likes": 36,
    "comments": 1
   },
@@ -2119,7 +2135,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3101,
+   "views": 3103,
    "likes": 26,
    "comments": 2
   },
@@ -2141,7 +2157,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1842,
+   "views": 1843,
    "likes": 32,
    "comments": 0
   },
@@ -2463,17 +2479,6 @@
    "views": 1721,
    "likes": 30,
    "comments": 1
-  },
-  {
-   "id": "18103271459350947",
-   "slug": "risk-vs-stop-distance",
-   "permalink": "https://www.instagram.com/reel/Dc9LwgaD1yp/",
-   "timestamp": "2026-09-06T18:30:36+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 881,
-   "likes": 17,
-   "comments": 0
   }
  ]
 }
