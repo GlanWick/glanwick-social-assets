@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T11:44:58.312Z",
+ "updated": "2026-09-20T12:45:24.271Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.0 s"
+   "Sehdauer letzte 3 Reels: 6.9 s"
   ],
-  "checked": "2026-09-20T11:44:59.364Z",
+  "checked": "2026-09-20T12:45:25.320Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,13 +36,13 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7
+  "avg_watch_last_reels": 6.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 184,
-  "media_count": 60
+  "media_count": 61
  },
  "history": [
   {
@@ -1979,9 +1979,25 @@
    "ts": "2026-09-20T11:44:58.312Z",
    "followers": 184,
    "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T12:45:24.271Z",
+   "followers": 184,
+   "media_count": 61
   }
  ],
  "posts": [
+  {
+   "id": "18076480589399338",
+   "slug": "stickman-outcomebias",
+   "permalink": "https://www.instagram.com/reel/DdgiRSxgpA_/",
+   "timestamp": "2026-09-20T12:00:51+0000",
+   "type": "VIDEO",
+   "caption": "A losing trade can still be the right trade.",
+   "views": 159,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18125196421842593",
    "slug": "stickman-overfit",
@@ -1989,7 +2005,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 236,
+   "views": 245,
    "likes": 2,
    "comments": 0
   },
@@ -2000,7 +2016,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1441,
+   "views": 1538,
    "likes": 6,
    "comments": 0
   },
@@ -2011,7 +2027,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 335,
+   "views": 341,
    "likes": 5,
    "comments": 0
   },
@@ -2121,7 +2137,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2782,
+   "views": 2784,
    "likes": 52,
    "comments": 0
   },
@@ -2409,17 +2425,6 @@
    "caption": "Follow for more differences.",
    "views": 321,
    "likes": 6,
-   "comments": 0
-  },
-  {
-   "id": "18414986497156428",
-   "slug": "stop-loss-vs-mental-stop",
-   "permalink": "https://www.instagram.com/reel/Dc8B9AKjHqR/",
-   "timestamp": "2026-09-06T07:45:42+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 2586,
-   "likes": 40,
    "comments": 0
   }
  ]
