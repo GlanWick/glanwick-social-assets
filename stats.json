@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T04:05:09.508Z",
+ "updated": "2026-09-20T05:05:34.086Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 6.0 s"
   ],
-  "checked": "2026-09-20T04:05:10.396Z",
+  "checked": "2026-09-20T05:05:34.990Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-09-19",
-    "reach": 3010
+    "reach": 3099
    }
   ],
   "avg_watch_last_reels": 6
@@ -1939,6 +1939,11 @@
    "ts": "2026-09-20T04:05:09.508Z",
    "followers": 182,
    "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T05:05:34.086Z",
+   "followers": 182,
+   "media_count": 60
   }
  ],
  "posts": [
@@ -1949,7 +1954,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 170,
+   "views": 180,
    "likes": 0,
    "comments": 0
   },
@@ -1960,7 +1965,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 380,
+   "views": 460,
    "likes": 1,
    "comments": 0
   },
@@ -1971,7 +1976,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 289,
+   "views": 293,
    "likes": 5,
    "comments": 0
   },
@@ -1982,7 +1987,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2118,
+   "views": 2119,
    "likes": 35,
    "comments": 1
   },
@@ -1993,7 +1998,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1837,
+   "views": 1839,
    "likes": 12,
    "comments": 0
   },
@@ -2004,7 +2009,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3092,
+   "views": 3094,
    "likes": 25,
    "comments": 2
   },
@@ -2048,7 +2053,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1910,
+   "views": 1911,
    "likes": 22,
    "comments": 0
   },
