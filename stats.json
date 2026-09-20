@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T14:45:35.535Z",
+ "updated": "2026-09-20T15:45:41.090Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.2 s"
+   "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-09-20T14:45:36.523Z",
+  "checked": "2026-09-20T15:45:42.136Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7.2
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1994,6 +1994,11 @@
    "ts": "2026-09-20T14:45:35.535Z",
    "followers": 188,
    "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T15:45:41.090Z",
+   "followers": 188,
+   "media_count": 61
   }
  ],
  "posts": [
@@ -2004,8 +2009,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 426,
-   "likes": 4,
+   "views": 716,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -2015,7 +2020,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 258,
+   "views": 270,
    "likes": 2,
    "comments": 0
   },
@@ -2026,7 +2031,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1660,
+   "views": 1711,
    "likes": 6,
    "comments": 0
   },
@@ -2037,7 +2042,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 350,
+   "views": 355,
    "likes": 5,
    "comments": 0
   },
@@ -2114,7 +2119,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1913,
+   "views": 1915,
    "likes": 22,
    "comments": 0
   },
