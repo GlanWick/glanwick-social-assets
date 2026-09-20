@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:46:50.418Z",
+  "generated_at": "2026-09-20T11:23:57.302Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -878,10 +878,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losingstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losingstreak-cover.jpg",
       "caption": "Six losses in a row is arithmetic.\n\nAt a 50 % hit rate, six losses back to back has a 1 in 64 chance on any six trades. Over 200 trades you should expect that run to show up about three times. It is the coin doing what a coin does.\n\nMost people rebuild the system after four. Write your worst expected run down before it arrives and it stops counting as evidence.\n\nSend this to the friend who is rewriting his rules after a bad week.\n\nWhat is the longest losing run you have had? 👇\n\nPart 12 of the series.\n\n#losingstreak #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
-      "container_id": "18108765344136556",
       "media_id": "18450081523124382",
       "permalink": "https://www.instagram.com/reel/Ddd9fWJD1qn/",
-      "published_at": "2026-09-19T12:00:57.762Z"
+      "published_at": "2026-09-19T12:00:57.762Z",
+      "container_id": "18108765344136556"
     },
     {
       "id": "2026-09-19-kursluecke",
@@ -891,10 +891,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gap.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gap-cover.jpg",
       "caption": "A stop loss is an instruction. The fill is whatever comes next.\n\nThe moment price touches your level it becomes a market order, and a market order takes the next available price. If the market opens below your stop, you fill at the open. A 2 % stop can settle as an 8 % loss across a weekend, and nothing about that is a malfunction.\n\nThe size of the position is the only part a gap cannot change.\n\nSend this to the friend who holds through earnings because the stop will protect him.\n\nHave you ever been filled far below your stop? 👇\n\nPart 14 of the series.\n\n#stoploss #gaprisk #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18108808058136556",
       "media_id": "18115959235961950",
       "permalink": "https://www.instagram.com/reel/Ddef1T4lKQH/",
-      "published_at": "2026-09-19T17:01:06.646Z"
+      "published_at": "2026-09-19T17:01:06.646Z",
+      "container_id": "18108808058136556"
     },
     {
       "id": "2026-09-20-korrelation",
@@ -904,10 +904,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-correlation.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-correlation-cover.jpg",
       "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.\n\nThe risk rule counts trades. The market counts direction. Three long tech names on the same morning move together when the morning turns, and the 2 % rule never saw it coming because it was busy counting to three.\n\nBefore you add the third one, ask what the first two already have in common.\n\nSend this to the friend whose whole watchlist is one sector.\n\nHow many of your open positions would move together today? 👇\n\nPart 15 of the series.\n\n#correlation #riskmanagement #positionsizing #tradingjournal #knowthedifference",
-      "container_id": "18108845624136556",
       "media_id": "18123770185895974",
       "permalink": "https://www.instagram.com/reel/DdfJAZeiTQD/",
-      "published_at": "2026-09-19T23:00:50.488Z"
+      "published_at": "2026-09-19T23:00:50.488Z",
+      "container_id": "18108845624136556"
     },
     {
       "id": "2026-09-20-ueberanpassung",
@@ -917,10 +917,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit-cover.jpg",
       "caption": "Test 20 settings and one of them will look brilliant by luck alone.\n\nAt a 5 % threshold, one false winner per 20 tests is the expected outcome. That is what the threshold means. The setting you kept is the one that fit the noise in your sample better than the others did, and noise does not repeat.\n\nRun it on the years you never looked at. Whatever survives that was probably never about the settings.\n\nSend this to the friend who optimised his way to a perfect backtest.\n\nHow many parameter combinations did you try before you picked one? 👇\n\nPart 16 of the series.\n\n#backtesting #overfitting #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18108866354136556",
       "media_id": "18125196421842593",
       "permalink": "https://www.instagram.com/reel/DdfhCROFWL4/",
-      "published_at": "2026-09-20T02:30:40.081Z"
+      "published_at": "2026-09-20T02:30:40.081Z",
+      "container_id": "18108866354136556"
     },
     {
       "id": "2026-09-20-ergebnis-verzerrung",
@@ -939,6 +939,33 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-averagedown.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-averagedown-cover.jpg",
       "caption": "Averaging down is a second decision about a trade you already got wrong.\n\n100 shares at $50. It falls to $40, so you buy 100 more and your average is $45. Your loss is still $1,000, exactly what it was before you added. What changed is the money riding on the next move: $4,000 became $8,000.\n\nThe first decision was a trade. The second one was a bet that you were early rather than wrong.\n\nSend this to the friend who calls it \"building a position\" on the way down.\n\nHave you ever averaged down and been right? 👇\n\nPart 18 of the series.\n\n#averagingdown #riskmanagement #positionsizing #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-21-gewinner-abschneiden",
+      "slug": "stickman-cutwinners",
+      "status": "ready",
+      "scheduled_at": "2026-09-20T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-cutwinners.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-cutwinners-cover.jpg",
+      "caption": "Your winners cost you more than your losers do.\n\nSay your average winner would run 2R if you let it, and you close it at 1R because green feels safer than right. That is 1R handed back every time you were correct. Forty winners in a hundred trades is 40R gone.\n\nOne losing trade costs you 1R. You count those. They are the smaller number.\n\nSend this to the friend who takes profit the moment it turns green.\n\nWhere do you actually exit a winner? 👇\n\nPart 19 of the series.\n\n#takeprofit #expectancy #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-21-schlimmste-serie",
+      "slug": "stickman-worststreak",
+      "status": "ready",
+      "scheduled_at": "2026-09-21T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-worststreak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-worststreak-cover.jpg",
+      "caption": "Your worst losing streak is longer than the one you planned for.\n\nMost people brace for three. At a 50 % hit rate over 500 trades the longest run you should expect is about eight. At 60 % it is still about six. Someone here reported eleven at a 60 % win rate over 350 trades, and the maths says that is a rare draw rather than a broken system.\n\nWrite your number down before the run arrives. Afterwards you will not believe it.\n\nSend this to the friend who is on trade four of a bad run right now.\n\nWhat is the longest run you have survived? 👇\n\nPart 20 of the series.\n\n#losingstreak #riskmanagement #tradingpsychology #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-21-regel-wildwuchs",
+      "slug": "stickman-rulecreep",
+      "status": "ready",
+      "scheduled_at": "2026-09-21T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rulecreep.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rulecreep-cover.jpg",
+      "caption": "Every rule you added after a bad trade is still charging you rent.\n\nFive filters, each one throwing out a fifth of your setups, leaves you 33 % of the trades you started with. Each filter felt reasonable on the evening you added it, and every one of them was written by the version of you that had just lost.\n\nIf the edge lived in the whole set, you are running a third of it and wondering where it went.\n\nSend this to the friend whose checklist grew after every red week.\n\nHow many rules did you add this year? 👇\n\nPart 21 of the series.\n\n#tradingrules #backtesting #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
