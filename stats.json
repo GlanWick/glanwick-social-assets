@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-20T21:37:11.662Z",
+ "updated": "2026-09-20T22:37:34.351Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.9 s"
-  ],
-  "checked": "2026-09-20T21:37:12.875Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-20T22:37:35.582Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +34,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7.9
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2029,6 +2027,11 @@
    "ts": "2026-09-20T21:37:11.662Z",
    "followers": 190,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T22:37:34.351Z",
+   "followers": 190,
+   "media_count": 62
   }
  ],
  "posts": [
@@ -2039,7 +2042,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 342,
+   "views": 400,
    "likes": 2,
    "comments": 0
   },
@@ -2050,7 +2053,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1228,
+   "views": 1249,
    "likes": 16,
    "comments": 0
   },
@@ -2061,7 +2064,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 299,
+   "views": 301,
    "likes": 2,
    "comments": 0
   },
@@ -2072,7 +2075,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1858,
+   "views": 1872,
    "likes": 7,
    "comments": 0
   },
@@ -2083,7 +2086,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 362,
+   "views": 363,
    "likes": 5,
    "comments": 0
   },
@@ -2127,7 +2130,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1755,
+   "views": 1756,
    "likes": 10,
    "comments": 0
   },
