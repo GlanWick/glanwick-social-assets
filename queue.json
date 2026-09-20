@@ -912,12 +912,15 @@
     {
       "id": "2026-09-20-ueberanpassung",
       "slug": "stickman-overfit",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-09-20T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit-cover.jpg",
       "caption": "Test 20 settings and one of them will look brilliant by luck alone.\n\nAt a 5 % threshold, one false winner per 20 tests is the expected outcome. That is what the threshold means. The setting you kept is the one that fit the noise in your sample better than the others did, and noise does not repeat.\n\nRun it on the years you never looked at. Whatever survives that was probably never about the settings.\n\nSend this to the friend who optimised his way to a perfect backtest.\n\nHow many parameter combinations did you try before you picked one? 👇\n\nPart 16 of the series.\n\n#backtesting #overfitting #riskmanagement #tradingjournal #knowthedifference",
-      "posting_started_at": "2026-09-20T02:30:10.137Z"
+      "container_id": "18108866354136556",
+      "media_id": "18125196421842593",
+      "permalink": "https://www.instagram.com/reel/DdfhCROFWL4/",
+      "published_at": "2026-09-20T02:30:40.081Z"
     },
     {
       "id": "2026-09-20-ergebnis-verzerrung",
