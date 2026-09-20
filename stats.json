@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-20T17:35:30.664Z",
+ "updated": "2026-09-20T18:35:55.559Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-20T17:35:31.885Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.5 s"
+  ],
+  "checked": "2026-09-20T18:35:56.958Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -34,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2007,6 +2009,11 @@
    "ts": "2026-09-20T17:35:30.664Z",
    "followers": 189,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T18:35:55.559Z",
+   "followers": 189,
+   "media_count": 62
   }
  ],
  "posts": [
@@ -2017,7 +2024,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 129,
+   "views": 207,
    "likes": 0,
    "comments": 0
   },
@@ -2028,8 +2035,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1026,
-   "likes": 13,
+   "views": 1083,
+   "likes": 14,
    "comments": 0
   },
   {
@@ -2039,7 +2046,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 282,
+   "views": 287,
    "likes": 2,
    "comments": 0
   },
@@ -2050,7 +2057,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1768,
+   "views": 1808,
    "likes": 7,
    "comments": 0
   },
