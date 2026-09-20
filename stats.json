@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-20T00:03:27.750Z",
+ "updated": "2026-09-20T01:03:52.102Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-20T00:03:29.231Z",
+  "checked": "2026-09-20T01:03:52.924Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-19",
-    "reach": 2772
+    "reach": 2803
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1917,6 +1917,11 @@
    "ts": "2026-09-20T00:03:27.750Z",
    "followers": 180,
    "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T01:03:52.102Z",
+   "followers": 180,
+   "media_count": 59
   }
  ],
  "posts": [
@@ -1927,7 +1932,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 213,
+   "views": 219,
    "likes": 0,
    "comments": 0
   },
@@ -1938,7 +1943,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 260,
+   "views": 265,
    "likes": 5,
    "comments": 0
   },
@@ -1949,7 +1954,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2088,
+   "views": 2106,
    "likes": 35,
    "comments": 1
   },
