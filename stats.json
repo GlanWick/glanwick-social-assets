@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T18:35:55.559Z",
+ "updated": "2026-09-20T19:36:19.183Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.5 s"
+   "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-09-20T18:35:56.958Z",
+  "checked": "2026-09-20T19:36:21.485Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7.5
+  "avg_watch_last_reels": 7.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2014,6 +2014,11 @@
    "ts": "2026-09-20T18:35:55.559Z",
    "followers": 189,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T19:36:19.183Z",
+   "followers": 189,
+   "media_count": 62
   }
  ],
  "posts": [
@@ -2024,7 +2029,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 207,
+   "views": 228,
    "likes": 0,
    "comments": 0
   },
@@ -2035,7 +2040,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1083,
+   "views": 1137,
    "likes": 14,
    "comments": 0
   },
@@ -2046,7 +2051,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 287,
+   "views": 294,
    "likes": 2,
    "comments": 0
   },
@@ -2057,7 +2062,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1808,
+   "views": 1829,
    "likes": 7,
    "comments": 0
   },
@@ -2101,7 +2106,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3100,
+   "views": 3101,
    "likes": 26,
    "comments": 2
   },
@@ -2431,7 +2436,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2566,
+   "views": 2567,
    "likes": 38,
    "comments": 0
   },
