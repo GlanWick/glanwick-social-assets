@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T08:54:28.189Z",
+ "updated": "2026-09-20T09:54:31.395Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.5 s"
+   "Sehdauer letzte 3 Reels: 6.6 s"
   ],
-  "checked": "2026-09-20T08:54:29.198Z",
+  "checked": "2026-09-20T09:54:32.340Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 6.5
+  "avg_watch_last_reels": 6.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1964,6 +1964,11 @@
    "ts": "2026-09-20T08:54:28.189Z",
    "followers": 184,
    "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T09:54:31.395Z",
+   "followers": 184,
+   "media_count": 60
   }
  ],
  "posts": [
@@ -1974,8 +1979,8 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 210,
-   "likes": 1,
+   "views": 216,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -1985,8 +1990,8 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 962,
-   "likes": 2,
+   "views": 1100,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -1996,7 +2001,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 304,
+   "views": 311,
    "likes": 5,
    "comments": 0
   },
@@ -2007,7 +2012,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2126,
+   "views": 2135,
    "likes": 35,
    "comments": 1
   },
@@ -2018,7 +2023,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1847,
+   "views": 1849,
    "likes": 12,
    "comments": 0
   },
@@ -2029,7 +2034,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3095,
+   "views": 3097,
    "likes": 25,
    "comments": 2
   },
@@ -2040,7 +2045,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1754,
+   "views": 1755,
    "likes": 10,
    "comments": 0
   },
@@ -2051,7 +2056,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1839,
+   "views": 1841,
    "likes": 32,
    "comments": 0
   },
@@ -2062,7 +2067,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 357,
+   "views": 358,
    "likes": 7,
    "comments": 0
   },
@@ -2073,7 +2078,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1911,
+   "views": 1912,
    "likes": 22,
    "comments": 0
   },
@@ -2084,7 +2089,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1234,
+   "views": 1235,
    "likes": 25,
    "comments": 0
   },
@@ -2095,7 +2100,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 313,
+   "views": 314,
    "likes": 6,
    "comments": 0
   },
@@ -2106,7 +2111,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2780,
+   "views": 2782,
    "likes": 52,
    "comments": 0
   },
@@ -2117,7 +2122,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1510,
+   "views": 1511,
    "likes": 37,
    "comments": 0
   },
@@ -2128,7 +2133,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2097,
+   "views": 2098,
    "likes": 30,
    "comments": 3
   },
@@ -2139,7 +2144,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1478,
+   "views": 1479,
    "likes": 29,
    "comments": 0
   },
@@ -2150,7 +2155,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 43,
+   "views": 44,
    "likes": 3,
    "comments": 0
   },
@@ -2161,7 +2166,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 88,
+   "views": 89,
    "likes": 3,
    "comments": 0
   },
