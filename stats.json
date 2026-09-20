@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T12:45:24.271Z",
+ "updated": "2026-09-20T13:45:30.721Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.9 s"
+   "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-09-20T12:45:25.320Z",
+  "checked": "2026-09-20T13:45:32.086Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,12 +36,12 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 6.9
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 184,
+  "followers": 185,
   "media_count": 61
  },
  "history": [
@@ -1984,6 +1984,11 @@
    "ts": "2026-09-20T12:45:24.271Z",
    "followers": 184,
    "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T13:45:30.721Z",
+   "followers": 185,
+   "media_count": 61
   }
  ],
  "posts": [
@@ -1994,8 +1999,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 159,
-   "likes": 1,
+   "views": 227,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -2005,7 +2010,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 245,
+   "views": 250,
    "likes": 2,
    "comments": 0
   },
@@ -2016,7 +2021,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1538,
+   "views": 1596,
    "likes": 6,
    "comments": 0
   },
@@ -2027,7 +2032,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 341,
+   "views": 345,
    "likes": 5,
    "comments": 0
   },
@@ -2038,7 +2043,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2141,
+   "views": 2144,
    "likes": 36,
    "comments": 1
   },
@@ -2380,7 +2385,7 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 1511,
-   "likes": 23,
+   "likes": 22,
    "comments": 0
   },
   {
