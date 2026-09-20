@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T15:45:41.090Z",
+ "updated": "2026-09-20T16:45:45.635Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-09-20T15:45:42.136Z",
+  "checked": "2026-09-20T16:45:46.535Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 188,
+  "followers": 189,
   "media_count": 61
  },
  "history": [
@@ -1999,6 +1999,11 @@
    "ts": "2026-09-20T15:45:41.090Z",
    "followers": 188,
    "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T16:45:45.635Z",
+   "followers": 189,
+   "media_count": 61
   }
  ],
  "posts": [
@@ -2009,8 +2014,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 716,
-   "likes": 9,
+   "views": 911,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2020,7 +2025,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 270,
+   "views": 276,
    "likes": 2,
    "comments": 0
   },
@@ -2031,8 +2036,8 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1711,
-   "likes": 6,
+   "views": 1747,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -2042,7 +2047,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 355,
+   "views": 360,
    "likes": 5,
    "comments": 0
   },
@@ -2053,7 +2058,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2147,
+   "views": 2149,
    "likes": 36,
    "comments": 1
   },
@@ -2064,7 +2069,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1849,
+   "views": 1850,
    "likes": 12,
    "comments": 0
   },
@@ -2075,8 +2080,8 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3097,
-   "likes": 25,
+   "views": 3100,
+   "likes": 26,
    "comments": 2
   },
   {
