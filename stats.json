@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-20T02:04:17.292Z",
+ "updated": "2026-09-20T03:04:44.183Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-20T02:04:18.522Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.0 s"
+  ],
+  "checked": "2026-09-20T03:04:45.206Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-09-19",
-    "reach": 2823
+    "reach": 2917
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 180,
-  "media_count": 59
+  "followers": 182,
+  "media_count": 60
  },
  "history": [
   {
@@ -1927,9 +1929,25 @@
    "ts": "2026-09-20T02:04:17.292Z",
    "followers": 180,
    "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T03:04:44.183Z",
+   "followers": 182,
+   "media_count": 60
   }
  ],
  "posts": [
+  {
+   "id": "18125196421842593",
+   "slug": "stickman-overfit",
+   "permalink": "https://www.instagram.com/reel/DdfhCROFWL4/",
+   "timestamp": "2026-09-20T02:30:33+0000",
+   "type": "VIDEO",
+   "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
+   "views": 118,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18123770185895974",
    "slug": "stickman-correlation",
@@ -1937,8 +1955,8 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 237,
-   "likes": 0,
+   "views": 277,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -1948,7 +1966,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 273,
+   "views": 278,
    "likes": 5,
    "comments": 0
   },
@@ -1959,7 +1977,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2111,
+   "views": 2115,
    "likes": 35,
    "comments": 1
   },
@@ -1970,7 +1988,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1835,
+   "views": 1837,
    "likes": 12,
    "comments": 0
   },
@@ -1981,7 +1999,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3090,
+   "views": 3092,
    "likes": 25,
    "comments": 2
   },
@@ -1992,7 +2010,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1753,
+   "views": 1754,
    "likes": 10,
    "comments": 0
   },
@@ -2003,7 +2021,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1838,
+   "views": 1839,
    "likes": 32,
    "comments": 0
   },
@@ -2014,7 +2032,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 356,
+   "views": 357,
    "likes": 7,
    "comments": 0
   },
@@ -2311,7 +2329,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2564,
+   "views": 2565,
    "likes": 38,
    "comments": 0
   },
@@ -2357,17 +2375,6 @@
    "caption": "Follow for more differences.",
    "views": 2584,
    "likes": 40,
-   "comments": 0
-  },
-  {
-   "id": "17982279063118925",
-   "slug": "slippage-vs-gap",
-   "permalink": "https://www.instagram.com/reel/Dc7F5W1gX8V/",
-   "timestamp": "2026-09-05T23:00:55+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 261,
-   "likes": 10,
    "comments": 0
   }
  ]
