@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T07:54:23.076Z",
+ "updated": "2026-09-20T08:54:28.189Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 6.5 s"
   ],
-  "checked": "2026-09-20T07:54:24.079Z",
+  "checked": "2026-09-20T08:54:29.198Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -1959,6 +1959,11 @@
    "ts": "2026-09-20T07:54:23.076Z",
    "followers": 184,
    "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T08:54:28.189Z",
+   "followers": 184,
+   "media_count": 60
   }
  ],
  "posts": [
@@ -1969,8 +1974,8 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 202,
-   "likes": 0,
+   "views": 210,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -1980,8 +1985,8 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 876,
-   "likes": 1,
+   "views": 962,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -1991,7 +1996,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 301,
+   "views": 304,
    "likes": 5,
    "comments": 0
   },
@@ -2002,7 +2007,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2125,
+   "views": 2126,
    "likes": 35,
    "comments": 1
   },
@@ -2013,7 +2018,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1846,
+   "views": 1847,
    "likes": 12,
    "comments": 0
   },
@@ -2024,7 +2029,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3094,
+   "views": 3095,
    "likes": 25,
    "comments": 2
   },
@@ -2398,7 +2403,7 @@
    "timestamp": "2026-09-06T07:45:42+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2584,
+   "views": 2586,
    "likes": 40,
    "comments": 0
   }
