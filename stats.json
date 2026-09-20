@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-20T16:45:45.635Z",
+ "updated": "2026-09-20T17:35:30.664Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.5 s"
-  ],
-  "checked": "2026-09-20T16:45:46.535Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-20T17:35:31.885Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,13 +34,13 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7.5
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 189,
-  "media_count": 61
+  "media_count": 62
  },
  "history": [
   {
@@ -2004,9 +2002,25 @@
    "ts": "2026-09-20T16:45:45.635Z",
    "followers": 189,
    "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T17:35:30.664Z",
+   "followers": 189,
+   "media_count": 62
   }
  ],
  "posts": [
+  {
+   "id": "18627642856033801",
+   "slug": "stickman-averagedown",
+   "permalink": "https://www.instagram.com/reel/DdhEpNaD3aq/",
+   "timestamp": "2026-09-20T17:01:07+0000",
+   "type": "VIDEO",
+   "caption": "Averaging down is a second decision about a trade you already got wrong.",
+   "views": 129,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18076480589399338",
    "slug": "stickman-outcomebias",
@@ -2014,8 +2028,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 911,
-   "likes": 12,
+   "views": 1026,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -2025,7 +2039,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 276,
+   "views": 282,
    "likes": 2,
    "comments": 0
   },
@@ -2036,7 +2050,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1747,
+   "views": 1768,
    "likes": 7,
    "comments": 0
   },
@@ -2047,7 +2061,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 360,
+   "views": 362,
    "likes": 5,
    "comments": 0
   },
@@ -2434,17 +2448,6 @@
    "caption": "Follow for more differences.",
    "views": 881,
    "likes": 17,
-   "comments": 0
-  },
-  {
-   "id": "17874671784562153",
-   "slug": "profit-vs-realized-profit",
-   "permalink": "https://www.instagram.com/reel/Dc8pdHpDX1z/",
-   "timestamp": "2026-09-06T13:30:53+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 321,
-   "likes": 6,
    "comments": 0
   }
  ]
