@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T19:36:19.183Z",
+ "updated": "2026-09-20T20:36:46.156Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.8 s"
+   "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-09-20T19:36:21.485Z",
+  "checked": "2026-09-20T20:36:47.786Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 7.8
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2019,6 +2019,11 @@
    "ts": "2026-09-20T19:36:19.183Z",
    "followers": 189,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T20:36:46.156Z",
+   "followers": 189,
+   "media_count": 62
   }
  ],
  "posts": [
@@ -2029,8 +2034,8 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 228,
-   "likes": 0,
+   "views": 281,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -2040,8 +2045,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1137,
-   "likes": 14,
+   "views": 1166,
+   "likes": 15,
    "comments": 0
   },
   {
@@ -2051,7 +2056,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 294,
+   "views": 296,
    "likes": 2,
    "comments": 0
   },
@@ -2062,7 +2067,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1829,
+   "views": 1846,
    "likes": 7,
    "comments": 0
   },
@@ -2183,7 +2188,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2785,
+   "views": 2788,
    "likes": 52,
    "comments": 0
   },
