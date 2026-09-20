@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T10:54:34.932Z",
+ "updated": "2026-09-20T11:44:58.312Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.9 s"
+   "Sehdauer letzte 3 Reels: 7.0 s"
   ],
-  "checked": "2026-09-20T10:54:35.942Z",
+  "checked": "2026-09-20T11:44:59.364Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -36,7 +36,7 @@
     "reach": 3334
    }
   ],
-  "avg_watch_last_reels": 6.9
+  "avg_watch_last_reels": 7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -1974,6 +1974,11 @@
    "ts": "2026-09-20T10:54:34.932Z",
    "followers": 184,
    "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T11:44:58.312Z",
+   "followers": 184,
+   "media_count": 60
   }
  ],
  "posts": [
@@ -1984,7 +1989,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 226,
+   "views": 236,
    "likes": 2,
    "comments": 0
   },
@@ -1995,8 +2000,8 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1285,
-   "likes": 5,
+   "views": 1441,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2006,7 +2011,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 325,
+   "views": 335,
    "likes": 5,
    "comments": 0
   },
@@ -2017,8 +2022,8 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2136,
-   "likes": 35,
+   "views": 2141,
+   "likes": 36,
    "comments": 1
   },
   {
@@ -2369,7 +2374,7 @@
    "timestamp": "2026-09-07T16:00:46+0000",
    "type": "VIDEO",
    "caption": "Follow for more differences.",
-   "views": 2565,
+   "views": 2566,
    "likes": 38,
    "comments": 0
   },
