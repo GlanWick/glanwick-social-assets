@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T20:36:46.156Z",
+ "updated": "2026-09-20T21:37:11.662Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-09-20T20:36:47.786Z",
+  "checked": "2026-09-20T21:37:12.875Z",
   "reach_days": [
    {
     "day": "2026-09-13",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 189,
+  "followers": 190,
   "media_count": 62
  },
  "history": [
@@ -2024,6 +2024,11 @@
    "ts": "2026-09-20T20:36:46.156Z",
    "followers": 189,
    "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T21:37:11.662Z",
+   "followers": 190,
+   "media_count": 62
   }
  ],
  "posts": [
@@ -2034,8 +2039,8 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 281,
-   "likes": 1,
+   "views": 342,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -2045,8 +2050,8 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1166,
-   "likes": 15,
+   "views": 1228,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -2056,7 +2061,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 296,
+   "views": 299,
    "likes": 2,
    "comments": 0
   },
@@ -2067,7 +2072,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1846,
+   "views": 1858,
    "likes": 7,
    "comments": 0
   },
@@ -2089,7 +2094,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2149,
+   "views": 2151,
    "likes": 36,
    "comments": 1
   },
