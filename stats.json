@@ -1,16 +1,10 @@
 {
- "updated": "2026-09-19T23:13:32.980Z",
+ "updated": "2026-09-20T00:03:27.750Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 5.8 s"
-  ],
-  "checked": "2026-09-19T23:13:33.784Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-20T00:03:29.231Z",
   "reach_days": [
-   {
-    "day": "2026-09-12",
-    "reach": 335
-   },
    {
     "day": "2026-09-13",
     "reach": 203
@@ -34,14 +28,18 @@
    {
     "day": "2026-09-18",
     "reach": 1830
+   },
+   {
+    "day": "2026-09-19",
+    "reach": 2772
    }
   ],
-  "avg_watch_last_reels": 5.8
+  "avg_watch_last_reels": 8.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 179,
+  "followers": 180,
   "media_count": 59
  },
  "history": [
@@ -1914,6 +1912,11 @@
    "ts": "2026-09-19T23:13:32.980Z",
    "followers": 179,
    "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T00:03:27.750Z",
+   "followers": 180,
+   "media_count": 59
   }
  ],
  "posts": [
@@ -1924,7 +1927,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 39,
+   "views": 213,
    "likes": 0,
    "comments": 0
   },
@@ -1935,7 +1938,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 256,
+   "views": 260,
    "likes": 5,
    "comments": 0
   },
@@ -1946,7 +1949,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2070,
+   "views": 2088,
    "likes": 35,
    "comments": 1
   },
@@ -1957,7 +1960,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1834,
+   "views": 1835,
    "likes": 12,
    "comments": 0
   },
@@ -1968,7 +1971,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3089,
+   "views": 3090,
    "likes": 25,
    "comments": 2
   },
@@ -1979,7 +1982,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1752,
+   "views": 1753,
    "likes": 10,
    "comments": 0
   },
