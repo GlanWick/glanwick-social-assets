@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T16:57:54.033Z",
+ "updated": "2026-09-21T17:57:54.514Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T16:57:56.499Z",
+  "checked": "2026-09-21T17:57:56.913Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -2127,6 +2127,11 @@
    "ts": "2026-09-21T16:57:54.033Z",
    "followers": 194,
    "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T17:57:54.514Z",
+   "followers": 194,
+   "media_count": 65
   }
  ],
  "posts": [
@@ -2137,8 +2142,8 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 453,
-   "likes": 3,
+   "views": 496,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2148,7 +2153,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2105,
+   "views": 2108,
    "likes": 20,
    "comments": 1
   },
@@ -2159,7 +2164,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 865,
+   "views": 906,
    "likes": 10,
    "comments": 0
   },
@@ -2170,7 +2175,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1583,
+   "views": 1591,
    "likes": 10,
    "comments": 0
   },
@@ -2181,7 +2186,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1462,
+   "views": 1482,
    "likes": 18,
    "comments": 0
   },
@@ -2192,7 +2197,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 330,
+   "views": 333,
    "likes": 3,
    "comments": 0
   },
