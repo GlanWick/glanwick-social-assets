@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T02:27:11.419Z",
+ "updated": "2026-09-21T03:27:26.039Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T02:27:12.552Z",
+  "checked": "2026-09-21T03:27:27.644Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-09-20",
-    "reach": 2447
+    "reach": 2634
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 192,
-  "media_count": 63
+  "followers": 193,
+  "media_count": 64
  },
  "history": [
   {
@@ -2052,9 +2052,25 @@
    "ts": "2026-09-21T02:27:11.419Z",
    "followers": 192,
    "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T03:27:26.039Z",
+   "followers": 193,
+   "media_count": 64
   }
  ],
  "posts": [
+  {
+   "id": "18033801728848172",
+   "slug": "stickman-worststreak",
+   "permalink": "https://www.instagram.com/reel/DdiF3dxALWM/",
+   "timestamp": "2026-09-21T02:31:00+0000",
+   "type": "VIDEO",
+   "caption": "Your worst losing streak is longer than the one you planned for.",
+   "views": 147,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18110304674125225",
    "slug": "stickman-cutwinners",
@@ -2062,8 +2078,8 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 211,
-   "likes": 3,
+   "views": 230,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -2073,8 +2089,8 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 851,
-   "likes": 8,
+   "views": 979,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -2084,7 +2100,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1295,
+   "views": 1298,
    "likes": 17,
    "comments": 0
   },
@@ -2095,7 +2111,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 314,
+   "views": 315,
    "likes": 3,
    "comments": 0
   },
@@ -2106,7 +2122,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1889,
+   "views": 1893,
    "likes": 7,
    "comments": 0
   },
@@ -2117,7 +2133,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 365,
+   "views": 368,
    "likes": 5,
    "comments": 0
   },
@@ -2128,7 +2144,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2153,
+   "views": 2155,
    "likes": 36,
    "comments": 1
   },
@@ -2139,7 +2155,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1850,
+   "views": 1852,
    "likes": 12,
    "comments": 0
   },
@@ -2150,7 +2166,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3103,
+   "views": 3105,
    "likes": 26,
    "comments": 2
   },
@@ -2227,7 +2243,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2788,
+   "views": 2789,
    "likes": 52,
    "comments": 0
   },
@@ -2483,17 +2499,6 @@
    "views": 2567,
    "likes": 38,
    "comments": 0
-  },
-  {
-   "id": "18339837460271064",
-   "slug": "loss-vs-drawdown",
-   "permalink": "https://www.instagram.com/reel/Dc-5pLtlaqc/",
-   "timestamp": "2026-09-07T10:30:48+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 1721,
-   "likes": 30,
-   "comments": 1
   }
  ]
 }
