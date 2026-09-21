@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-21T11:07:19.951Z",
+ "updated": "2026-09-21T12:07:41.567Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-21T11:07:20.826Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.6 s"
+  ],
+  "checked": "2026-09-21T12:07:42.444Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -34,13 +36,13 @@
     "reach": 3154
    }
   ],
-  "avg_watch_last_reels": 10
+  "avg_watch_last_reels": 6.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 193,
-  "media_count": 64
+  "media_count": 65
  },
  "history": [
   {
@@ -2097,9 +2099,25 @@
    "ts": "2026-09-21T11:07:19.951Z",
    "followers": 193,
    "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T12:07:41.567Z",
+   "followers": 193,
+   "media_count": 65
   }
  ],
  "posts": [
+  {
+   "id": "17906108166481712",
+   "slug": "stickman-rulecreep",
+   "permalink": "https://www.instagram.com/reel/DdjHIPygil8/",
+   "timestamp": "2026-09-21T12:01:20+0000",
+   "type": "VIDEO",
+   "caption": "Every rule you added after a bad trade is still charging you rent.",
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18033801728848172",
    "slug": "stickman-worststreak",
@@ -2107,8 +2125,8 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 1544,
-   "likes": 17,
+   "views": 2045,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -2118,7 +2136,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 558,
+   "views": 605,
    "likes": 7,
    "comments": 0
   },
@@ -2129,7 +2147,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1429,
+   "views": 1462,
    "likes": 10,
    "comments": 0
   },
@@ -2140,7 +2158,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1399,
+   "views": 1423,
    "likes": 18,
    "comments": 0
   },
@@ -2151,7 +2169,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 328,
+   "views": 329,
    "likes": 3,
    "comments": 0
   },
@@ -2162,7 +2180,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1949,
+   "views": 1955,
    "likes": 7,
    "comments": 0
   },
@@ -2173,7 +2191,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 370,
+   "views": 371,
    "likes": 5,
    "comments": 0
   },
@@ -2184,7 +2202,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2157,
+   "views": 2158,
    "likes": 36,
    "comments": 1
   },
@@ -2195,7 +2213,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1855,
+   "views": 1856,
    "likes": 12,
    "comments": 0
   },
@@ -2206,7 +2224,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3106,
+   "views": 3107,
    "likes": 26,
    "comments": 2
   },
@@ -2283,7 +2301,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2792,
+   "views": 2793,
    "likes": 52,
    "comments": 0
   },
@@ -2527,17 +2545,6 @@
    "caption": "Follow for more differences.",
    "views": 1511,
    "likes": 23,
-   "comments": 0
-  },
-  {
-   "id": "17955342930015013",
-   "slug": "stop-loss-vs-stop-hunt",
-   "permalink": "https://www.instagram.com/reel/Dc_fZ7GEobx/",
-   "timestamp": "2026-09-07T16:00:46+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 2569,
-   "likes": 38,
    "comments": 0
   }
  ]
