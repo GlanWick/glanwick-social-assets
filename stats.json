@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T07:17:11.009Z",
+ "updated": "2026-09-21T08:17:23.939Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T07:17:12.138Z",
+  "checked": "2026-09-21T08:17:24.889Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -34,12 +34,12 @@
     "reach": 3154
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 193,
+  "followers": 192,
   "media_count": 64
  },
  "history": [
@@ -2077,6 +2077,11 @@
    "ts": "2026-09-21T07:17:11.009Z",
    "followers": 193,
    "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T08:17:23.939Z",
+   "followers": 192,
+   "media_count": 64
   }
  ],
  "posts": [
@@ -2087,8 +2092,8 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 517,
-   "likes": 5,
+   "views": 677,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -2098,8 +2103,8 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 388,
-   "likes": 5,
+   "views": 470,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2109,7 +2114,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1277,
+   "views": 1346,
    "likes": 10,
    "comments": 0
   },
@@ -2120,7 +2125,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1351,
+   "views": 1363,
    "likes": 17,
    "comments": 0
   },
@@ -2131,7 +2136,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 318,
+   "views": 320,
    "likes": 3,
    "comments": 0
   },
@@ -2142,7 +2147,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1909,
+   "views": 1920,
    "likes": 7,
    "comments": 0
   },
@@ -2197,7 +2202,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1757,
+   "views": 1758,
    "likes": 10,
    "comments": 0
   },
