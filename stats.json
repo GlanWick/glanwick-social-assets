@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T22:48:46.103Z",
+ "updated": "2026-09-21T23:48:55.532Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T22:48:47.422Z",
+  "checked": "2026-09-21T23:48:56.811Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -2157,6 +2157,11 @@
    "ts": "2026-09-21T22:48:46.103Z",
    "followers": 194,
    "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T23:48:55.532Z",
+   "followers": 194,
+   "media_count": 65
   }
  ],
  "posts": [
@@ -2167,7 +2172,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 695,
+   "views": 728,
    "likes": 9,
    "comments": 0
   },
@@ -2178,7 +2183,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2139,
+   "views": 2143,
    "likes": 22,
    "comments": 1
   },
@@ -2189,7 +2194,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1053,
+   "views": 1078,
    "likes": 13,
    "comments": 1
   },
@@ -2211,7 +2216,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1539,
+   "views": 1544,
    "likes": 21,
    "comments": 0
   },
