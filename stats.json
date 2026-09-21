@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T00:26:33.274Z",
+ "updated": "2026-09-21T01:26:51.647Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T00:26:34.769Z",
+  "checked": "2026-09-21T01:26:52.691Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-20",
-    "reach": 2255
+    "reach": 2398
    }
   ],
-  "avg_watch_last_reels": 8.9
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 191,
+  "followers": 192,
   "media_count": 63
  },
  "history": [
@@ -2042,6 +2042,11 @@
    "ts": "2026-09-21T00:26:33.274Z",
    "followers": 191,
    "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T01:26:51.647Z",
+   "followers": 192,
+   "media_count": 63
   }
  ],
  "posts": [
@@ -2052,8 +2057,8 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 172,
-   "likes": 2,
+   "views": 200,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2063,7 +2068,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 640,
+   "views": 759,
    "likes": 8,
    "comments": 0
   },
@@ -2074,7 +2079,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1286,
+   "views": 1289,
    "likes": 17,
    "comments": 0
   },
@@ -2085,7 +2090,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 306,
+   "views": 310,
    "likes": 3,
    "comments": 0
   },
@@ -2096,7 +2101,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1885,
+   "views": 1889,
    "likes": 7,
    "comments": 0
   },
