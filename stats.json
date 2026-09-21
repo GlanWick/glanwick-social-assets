@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-21T03:27:26.039Z",
+ "updated": "2026-09-21T04:27:45.908Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-21T03:27:27.644Z",
+  "checked": "2026-09-21T04:27:46.941Z",
   "reach_days": [
    {
     "day": "2026-09-14",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-20",
-    "reach": 2634
+    "reach": 2780
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2057,6 +2057,11 @@
    "ts": "2026-09-21T03:27:26.039Z",
    "followers": 193,
    "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T04:27:45.908Z",
+   "followers": 193,
+   "media_count": 64
   }
  ],
  "posts": [
@@ -2067,8 +2072,8 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 147,
-   "likes": 2,
+   "views": 203,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -2078,7 +2083,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 230,
+   "views": 262,
    "likes": 4,
    "comments": 0
   },
@@ -2089,7 +2094,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 979,
+   "views": 1067,
    "likes": 9,
    "comments": 0
   },
@@ -2100,7 +2105,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1298,
+   "views": 1311,
    "likes": 17,
    "comments": 0
   },
@@ -2122,7 +2127,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1893,
+   "views": 1899,
    "likes": 7,
    "comments": 0
   },
@@ -2243,7 +2248,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2789,
+   "views": 2790,
    "likes": 52,
    "comments": 0
   },
