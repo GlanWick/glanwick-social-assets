@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-22T12:30:50.469Z",
+ "updated": "2026-09-22T13:30:51.240Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 5.3 s"
-  ],
-  "checked": "2026-09-22T12:30:51.545Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-22T13:30:52.659Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -36,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 5.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2224,6 +2222,11 @@
    "ts": "2026-09-22T12:30:50.469Z",
    "followers": 195,
    "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T13:30:51.240Z",
+   "followers": 195,
+   "media_count": 67
   }
  ],
  "posts": [
@@ -2234,8 +2237,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 11,
-   "likes": 1,
+   "views": 186,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2245,8 +2248,8 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 203,
-   "likes": 1,
+   "views": 205,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -2256,7 +2259,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1329,
+   "views": 1389,
    "likes": 12,
    "comments": 0
   },
@@ -2278,7 +2281,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1229,
+   "views": 1236,
    "likes": 13,
    "comments": 1
   },
@@ -2322,7 +2325,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1962,
+   "views": 1965,
    "likes": 9,
    "comments": 0
   },
