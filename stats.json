@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-22T15:30:55.621Z",
+ "updated": "2026-09-22T16:20:38.123Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-22T15:30:56.573Z",
+  "checked": "2026-09-22T16:20:39.816Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2237,6 +2237,11 @@
    "ts": "2026-09-22T15:30:55.621Z",
    "followers": 195,
    "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T16:20:38.123Z",
+   "followers": 195,
+   "media_count": 67
   }
  ],
  "posts": [
@@ -2247,7 +2252,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 237,
+   "views": 264,
    "likes": 4,
    "comments": 0
   },
@@ -2258,7 +2263,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 220,
+   "views": 225,
    "likes": 2,
    "comments": 0
   },
@@ -2269,7 +2274,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1454,
+   "views": 1469,
    "likes": 13,
    "comments": 0
   },
