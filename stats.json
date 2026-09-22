@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-22T11:30:38.885Z",
+ "updated": "2026-09-22T12:30:50.469Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-22T11:30:39.844Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 5.3 s"
+  ],
+  "checked": "2026-09-22T12:30:51.545Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,13 +36,13 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 5.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 195,
-  "media_count": 66
+  "media_count": 67
  },
  "history": [
   {
@@ -2217,9 +2219,25 @@
    "ts": "2026-09-22T11:30:38.885Z",
    "followers": 195,
    "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T12:30:50.469Z",
+   "followers": 195,
+   "media_count": 67
   }
  ],
  "posts": [
+  {
+   "id": "17953064058255479",
+   "slug": "stickman-stopsize",
+   "permalink": "https://www.instagram.com/reel/Ddlr2ZJjF8E/",
+   "timestamp": "2026-09-22T12:00:40+0000",
+   "type": "VIDEO",
+   "caption": "Your stop distance picks your position size, whether you meant it to or not.",
+   "views": 11,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18490946881100120",
    "slug": "stickman-scratch",
@@ -2227,7 +2245,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 200,
+   "views": 203,
    "likes": 1,
    "comments": 0
   },
@@ -2238,8 +2256,8 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1211,
-   "likes": 11,
+   "views": 1329,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2293,7 +2311,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 340,
+   "views": 341,
    "likes": 4,
    "comments": 0
   },
@@ -2648,17 +2666,6 @@
    "views": 205,
    "likes": 5,
    "comments": 0
-  },
-  {
-   "id": "18114575012055571",
-   "slug": "streak-vs-edge",
-   "permalink": "https://www.instagram.com/reel/DdBehHgE585/",
-   "timestamp": "2026-09-08T10:31:24+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 245,
-   "likes": 7,
-   "comments": 2
   }
  ]
 }
