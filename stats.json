@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-22T16:20:38.123Z",
+ "updated": "2026-09-22T17:21:03.826Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-22T16:20:39.816Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.2 s"
+  ],
+  "checked": "2026-09-22T17:21:04.886Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,13 +36,13 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 6.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 195,
-  "media_count": 67
+  "media_count": 68
  },
  "history": [
   {
@@ -2242,9 +2244,25 @@
    "ts": "2026-09-22T16:20:38.123Z",
    "followers": 195,
    "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T17:21:03.826Z",
+   "followers": 195,
+   "media_count": 68
   }
  ],
  "posts": [
+  {
+   "id": "18113691628819082",
+   "slug": "stickman-kelly",
+   "permalink": "https://www.instagram.com/reel/DdmOLlilIo9/",
+   "timestamp": "2026-09-22T17:00:39+0000",
+   "type": "VIDEO",
+   "caption": "Bet twice as much and your account stops growing.",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17953064058255479",
    "slug": "stickman-stopsize",
@@ -2252,8 +2270,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 264,
-   "likes": 4,
+   "views": 316,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -2263,7 +2281,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 225,
+   "views": 234,
    "likes": 2,
    "comments": 0
   },
@@ -2274,7 +2292,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1469,
+   "views": 1492,
    "likes": 13,
    "comments": 0
   },
@@ -2384,7 +2402,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3114,
+   "views": 3116,
    "likes": 26,
    "comments": 2
   },
@@ -2472,7 +2490,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1513,
+   "views": 1514,
    "likes": 37,
    "comments": 0
   },
@@ -2671,17 +2689,6 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 153,
-   "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18017995367936689",
-   "slug": "stop-loss-vs-hedge",
-   "permalink": "https://www.instagram.com/reel/DdBzImWgsVD/",
-   "timestamp": "2026-09-08T13:31:41+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 205,
    "likes": 5,
    "comments": 0
   }
