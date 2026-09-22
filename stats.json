@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-22T02:49:42.724Z",
+ "updated": "2026-09-22T03:49:51.769Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 6.3 s"
-  ],
-  "checked": "2026-09-22T02:49:43.915Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-22T03:49:52.710Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-09-21",
-    "reach": 2521
+    "reach": 2601
    }
   ],
-  "avg_watch_last_reels": 6.3
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2179,6 +2177,11 @@
    "ts": "2026-09-22T02:49:42.724Z",
    "followers": 194,
    "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T03:49:51.769Z",
+   "followers": 194,
+   "media_count": 66
   }
  ],
  "posts": [
@@ -2189,7 +2192,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 1,
+   "views": 131,
    "likes": 0,
    "comments": 0
   },
@@ -2200,7 +2203,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 805,
+   "views": 843,
    "likes": 9,
    "comments": 0
   },
@@ -2222,7 +2225,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1119,
+   "views": 1135,
    "likes": 13,
    "comments": 1
   },
@@ -2233,7 +2236,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1637,
+   "views": 1639,
    "likes": 10,
    "comments": 0
   },
@@ -2310,7 +2313,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3112,
+   "views": 3113,
    "likes": 26,
    "comments": 2
   },
