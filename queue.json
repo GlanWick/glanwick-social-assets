@@ -1029,12 +1029,15 @@
     {
       "id": "2026-09-23-bestaetigung",
       "slug": "stickman-confirmation",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-09-22T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirmation.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirmation-cover.jpg",
       "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.\n\nEntry at 100, stop at 98, target at 106. That is 3 to 1. Wait for the candle to close and you get filled at 102 instead. Same stop, same target, and the trade is now 1 to 1.\n\nThe setup never changed. The chart never changed. Your entry did, and it took two thirds of the reward with it.\n\nSend this to the friend who always waits for one more candle.\n\nWhat does confirmation actually cost you? 👇\n\nPart 25 of the series.\n\n#entry #riskreward #riskmanagement #tradingjournal #knowthedifference",
-      "posting_started_at": "2026-09-22T23:00:11.512Z"
+      "container_id": "18109300757136556",
+      "media_id": "18169092430463023",
+      "permalink": "https://www.instagram.com/reel/Ddm3c_LErSG/",
+      "published_at": "2026-09-22T23:01:23.338Z"
     }
   ]
 }
