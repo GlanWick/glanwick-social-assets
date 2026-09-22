@@ -1003,11 +1003,12 @@
     {
       "id": "2026-09-22-stop-bestimmt-groesse",
       "slug": "stickman-stopsize",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-22T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stopsize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stopsize-cover.jpg",
-      "caption": "Your stop distance picks your position size, whether you meant it to or not.\n\n$10,000 account, 1 % at risk, so $100. If your stop sits 2 % away that is a $5,000 position. Move the stop to 0.5 % away and the same $100 buys you $20,000 of it.\n\nSame risk on the spreadsheet. Four times the position in the market, four times the exposure to a gap, four times the slippage on the way out.\n\nSend this to the friend who picks the size first and then looks for a place to put the stop.\n\nWhich one do you decide first? 👇\n\nPart 23 of the series.\n\n#positionsizing #stoploss #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "Your stop distance picks your position size, whether you meant it to or not.\n\n$10,000 account, 1 % at risk, so $100. If your stop sits 2 % away that is a $5,000 position. Move the stop to 0.5 % away and the same $100 buys you $20,000 of it.\n\nSame risk on the spreadsheet. Four times the position in the market, four times the exposure to a gap, four times the slippage on the way out.\n\nSend this to the friend who picks the size first and then looks for a place to put the stop.\n\nWhich one do you decide first? 👇\n\nPart 23 of the series.\n\n#positionsizing #stoploss #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-22T12:00:05.716Z"
     },
     {
       "id": "2026-09-22-doppelter-einsatz",
