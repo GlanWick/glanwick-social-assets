@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-22T22:11:00.999Z",
+ "updated": "2026-09-22T23:11:09.072Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-22T22:11:01.797Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.6 s"
+  ],
+  "checked": "2026-09-22T23:11:10.153Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,13 +36,13 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 10.1
+  "avg_watch_last_reels": 7.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 196,
-  "media_count": 68
+  "media_count": 69
  },
  "history": [
   {
@@ -2272,9 +2274,25 @@
    "ts": "2026-09-22T22:11:00.999Z",
    "followers": 196,
    "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T23:11:09.072Z",
+   "followers": 196,
+   "media_count": 69
   }
  ],
  "posts": [
+  {
+   "id": "18169092430463023",
+   "slug": "stickman-confirmation",
+   "permalink": "https://www.instagram.com/reel/Ddm3c_LErSG/",
+   "timestamp": "2026-09-22T23:01:15+0000",
+   "type": "VIDEO",
+   "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
+   "views": 6,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "18113691628819082",
    "slug": "stickman-kelly",
@@ -2282,8 +2300,8 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 599,
-   "likes": 4,
+   "views": 752,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -2293,8 +2311,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 800,
-   "likes": 11,
+   "views": 834,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2304,8 +2322,8 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 264,
-   "likes": 2,
+   "views": 265,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2315,7 +2333,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1519,
+   "views": 1522,
    "likes": 13,
    "comments": 0
   },
@@ -2425,7 +2443,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3118,
+   "views": 3119,
    "likes": 26,
    "comments": 2
   },
@@ -2436,7 +2454,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1762,
+   "views": 1763,
    "likes": 11,
    "comments": 0
   },
@@ -2447,7 +2465,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1847,
+   "views": 1850,
    "likes": 32,
    "comments": 0
   },
@@ -2458,7 +2476,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 361,
+   "views": 362,
    "likes": 8,
    "comments": 0
   },
@@ -2703,17 +2721,6 @@
    "views": 168,
    "likes": 5,
    "comments": 1
-  },
-  {
-   "id": "18428129503150858",
-   "slug": "call-vs-theta",
-   "permalink": "https://www.instagram.com/reel/DdCVdUlE6n5/",
-   "timestamp": "2026-09-08T18:31:36+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 153,
-   "likes": 5,
-   "comments": 0
   }
  ]
 }
