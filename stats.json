@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-22T09:41:24.385Z",
+ "updated": "2026-09-22T10:30:09.133Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-22T09:41:25.288Z",
+  "checked": "2026-09-22T10:30:10.240Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,12 +34,12 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 194,
+  "followers": 195,
   "media_count": 66
  },
  "history": [
@@ -2207,6 +2207,11 @@
    "ts": "2026-09-22T09:41:24.385Z",
    "followers": 194,
    "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T10:30:09.133Z",
+   "followers": 195,
+   "media_count": 66
   }
  ],
  "posts": [
@@ -2217,7 +2222,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 193,
+   "views": 200,
    "likes": 1,
    "comments": 0
   },
@@ -2228,8 +2233,8 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1048,
-   "likes": 9,
+   "views": 1089,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -2239,7 +2244,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2148,
+   "views": 2151,
    "likes": 22,
    "comments": 1
   },
@@ -2250,7 +2255,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1213,
+   "views": 1224,
    "likes": 13,
    "comments": 1
   },
@@ -2261,7 +2266,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1641,
+   "views": 1642,
    "likes": 10,
    "comments": 0
   },
@@ -2272,7 +2277,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1547,
+   "views": 1549,
    "likes": 21,
    "comments": 0
   },
@@ -2283,7 +2288,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 339,
+   "views": 340,
    "likes": 4,
    "comments": 0
   },
@@ -2294,7 +2299,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1961,
+   "views": 1962,
    "likes": 9,
    "comments": 0
   },
@@ -2305,7 +2310,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 378,
+   "views": 379,
    "likes": 6,
    "comments": 0
   },
@@ -2316,7 +2321,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2164,
+   "views": 2166,
    "likes": 37,
    "comments": 1
   },
@@ -2327,7 +2332,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1859,
+   "views": 1863,
    "likes": 12,
    "comments": 0
   },
@@ -2360,7 +2365,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1846,
+   "views": 1847,
    "likes": 32,
    "comments": 0
   },
@@ -2393,7 +2398,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1238,
+   "views": 1240,
    "likes": 25,
    "comments": 0
   },
@@ -2437,7 +2442,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2101,
+   "views": 2102,
    "likes": 30,
    "comments": 3
   },
