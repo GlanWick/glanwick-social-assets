@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-22T14:30:51.821Z",
+ "updated": "2026-09-22T15:30:55.621Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-22T14:30:52.944Z",
+  "checked": "2026-09-22T15:30:56.573Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2232,6 +2232,11 @@
    "ts": "2026-09-22T14:30:51.821Z",
    "followers": 195,
    "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T15:30:55.621Z",
+   "followers": 195,
+   "media_count": 67
   }
  ],
  "posts": [
@@ -2242,8 +2247,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 205,
-   "likes": 3,
+   "views": 237,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -2253,7 +2258,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 215,
+   "views": 220,
    "likes": 2,
    "comments": 0
   },
@@ -2264,7 +2269,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1427,
+   "views": 1454,
    "likes": 13,
    "comments": 0
   },
@@ -2374,7 +2379,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3113,
+   "views": 3114,
    "likes": 26,
    "comments": 2
   },
