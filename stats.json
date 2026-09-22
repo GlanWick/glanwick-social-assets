@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-22T17:21:03.826Z",
+ "updated": "2026-09-22T18:21:22.025Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 6.2 s"
-  ],
-  "checked": "2026-09-22T17:21:04.886Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-22T18:21:24.155Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -36,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 6.2
+  "avg_watch_last_reels": 9.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2249,6 +2247,11 @@
    "ts": "2026-09-22T17:21:03.826Z",
    "followers": 195,
    "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T18:21:22.025Z",
+   "followers": 195,
+   "media_count": 68
   }
  ],
  "posts": [
@@ -2259,8 +2262,8 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 0,
-   "likes": 0,
+   "views": 217,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -2270,7 +2273,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 316,
+   "views": 392,
    "likes": 5,
    "comments": 0
   },
@@ -2281,7 +2284,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 234,
+   "views": 240,
    "likes": 2,
    "comments": 0
   },
@@ -2292,7 +2295,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1492,
+   "views": 1500,
    "likes": 13,
    "comments": 0
   },
@@ -2303,7 +2306,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2151,
+   "views": 2152,
    "likes": 22,
    "comments": 1
   },
@@ -2314,7 +2317,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1237,
+   "views": 1238,
    "likes": 13,
    "comments": 1
   },
