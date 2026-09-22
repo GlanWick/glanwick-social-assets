@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-22T10:30:09.133Z",
+ "updated": "2026-09-22T11:30:38.885Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-22T10:30:10.240Z",
+  "checked": "2026-09-22T11:30:39.844Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 8.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2212,6 +2212,11 @@
    "ts": "2026-09-22T10:30:09.133Z",
    "followers": 195,
    "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T11:30:38.885Z",
+   "followers": 195,
+   "media_count": 66
   }
  ],
  "posts": [
@@ -2233,7 +2238,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1089,
+   "views": 1211,
    "likes": 11,
    "comments": 0
   },
@@ -2255,7 +2260,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1224,
+   "views": 1229,
    "likes": 13,
    "comments": 1
   },
