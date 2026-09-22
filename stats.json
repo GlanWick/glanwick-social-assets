@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-22T21:22:04.882Z",
+ "updated": "2026-09-22T22:11:00.999Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-22T21:22:05.888Z",
+  "checked": "2026-09-22T22:11:01.797Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -34,7 +34,7 @@
     "reach": 2792
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 10.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2267,6 +2267,11 @@
    "ts": "2026-09-22T21:22:04.882Z",
    "followers": 196,
    "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T22:11:00.999Z",
+   "followers": 196,
+   "media_count": 68
   }
  ],
  "posts": [
@@ -2277,7 +2282,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 456,
+   "views": 599,
    "likes": 4,
    "comments": 0
   },
@@ -2288,7 +2293,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 759,
+   "views": 800,
    "likes": 11,
    "comments": 0
   },
@@ -2299,7 +2304,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 263,
+   "views": 264,
    "likes": 2,
    "comments": 0
   },
