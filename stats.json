@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-22T01:49:19.960Z",
+ "updated": "2026-09-22T02:49:42.724Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-22T01:49:21.134Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.3 s"
+  ],
+  "checked": "2026-09-22T02:49:43.915Z",
   "reach_days": [
    {
     "day": "2026-09-15",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-09-21",
-    "reach": 2494
+    "reach": 2521
    }
   ],
-  "avg_watch_last_reels": 10
+  "avg_watch_last_reels": 6.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 194,
-  "media_count": 65
+  "media_count": 66
  },
  "history": [
   {
@@ -2172,9 +2174,25 @@
    "ts": "2026-09-22T01:49:19.960Z",
    "followers": 194,
    "media_count": 65
+  },
+  {
+   "ts": "2026-09-22T02:49:42.724Z",
+   "followers": 194,
+   "media_count": 66
   }
  ],
  "posts": [
+  {
+   "id": "18490946881100120",
+   "slug": "stickman-scratch",
+   "permalink": "https://www.instagram.com/reel/DdkqoZbk-5e/",
+   "timestamp": "2026-09-22T02:30:45+0000",
+   "type": "VIDEO",
+   "caption": "Breaking even costs you money.",
+   "views": 1,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17906108166481712",
    "slug": "stickman-rulecreep",
@@ -2182,7 +2200,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 773,
+   "views": 805,
    "likes": 9,
    "comments": 0
   },
@@ -2204,7 +2222,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1110,
+   "views": 1119,
    "likes": 13,
    "comments": 1
   },
@@ -2215,7 +2233,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1633,
+   "views": 1637,
    "likes": 10,
    "comments": 0
   },
@@ -2603,17 +2621,6 @@
    "views": 245,
    "likes": 7,
    "comments": 2
-  },
-  {
-   "id": "18006235721781657",
-   "slug": "loss-vs-cost",
-   "permalink": "https://www.instagram.com/reel/DdBLjrnFc3t/",
-   "timestamp": "2026-09-08T07:45:49+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 1511,
-   "likes": 23,
-   "comments": 0
   }
  ]
 }
