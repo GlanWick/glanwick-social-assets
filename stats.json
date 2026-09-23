@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-23T03:12:47.235Z",
+ "updated": "2026-09-23T04:01:16.198Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-23T03:12:48.189Z",
+  "checked": "2026-09-23T04:01:17.116Z",
   "reach_days": [
    {
     "day": "2026-09-16",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-09-22",
-    "reach": 2101
+    "reach": 2181
    }
   ],
   "avg_watch_last_reels": 10.6
@@ -2297,6 +2297,11 @@
    "ts": "2026-09-23T03:12:47.235Z",
    "followers": 197,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T04:01:16.198Z",
+   "followers": 197,
+   "media_count": 69
   }
  ],
  "posts": [
@@ -2307,7 +2312,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 204,
+   "views": 225,
    "likes": 6,
    "comments": 0
   },
@@ -2318,8 +2323,8 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 1372,
-   "likes": 9,
+   "views": 1487,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2329,7 +2334,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 930,
+   "views": 954,
    "likes": 14,
    "comments": 0
   },
@@ -2340,7 +2345,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 279,
+   "views": 281,
    "likes": 3,
    "comments": 0
   },
@@ -2549,7 +2554,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1514,
+   "views": 1517,
    "likes": 37,
    "comments": 0
   },
