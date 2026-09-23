@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-23T08:02:07.097Z",
+ "updated": "2026-09-23T09:02:19.580Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-23T08:02:08.020Z",
+  "checked": "2026-09-23T09:02:20.569Z",
   "reach_days": [
    {
     "day": "2026-09-16",
@@ -34,7 +34,7 @@
     "reach": 2385
    }
   ],
-  "avg_watch_last_reels": 11
+  "avg_watch_last_reels": 11.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2322,6 +2322,11 @@
    "ts": "2026-09-23T08:02:07.097Z",
    "followers": 197,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T09:02:19.580Z",
+   "followers": 197,
+   "media_count": 69
   }
  ],
  "posts": [
@@ -2332,7 +2337,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 334,
+   "views": 360,
    "likes": 7,
    "comments": 0
   },
@@ -2343,7 +2348,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 1815,
+   "views": 1884,
    "likes": 11,
    "comments": 0
   },
@@ -2354,8 +2359,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1070,
-   "likes": 14,
+   "views": 1108,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -2365,7 +2370,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 283,
+   "views": 285,
    "likes": 3,
    "comments": 0
   },
@@ -2376,7 +2381,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1524,
+   "views": 1525,
    "likes": 13,
    "comments": 0
   },
