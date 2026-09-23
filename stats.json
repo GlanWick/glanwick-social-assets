@@ -1,16 +1,10 @@
 {
- "updated": "2026-09-22T23:11:09.072Z",
+ "updated": "2026-09-23T00:11:35.410Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
-  ],
-  "checked": "2026-09-22T23:11:10.153Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-23T00:11:36.517Z",
   "reach_days": [
-   {
-    "day": "2026-09-15",
-    "reach": 1982
-   },
    {
     "day": "2026-09-16",
     "reach": 3666
@@ -34,9 +28,13 @@
    {
     "day": "2026-09-21",
     "reach": 2792
+   },
+   {
+    "day": "2026-09-22",
+    "reach": 1693
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 10.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2279,6 +2277,11 @@
    "ts": "2026-09-22T23:11:09.072Z",
    "followers": 196,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T00:11:35.410Z",
+   "followers": 196,
+   "media_count": 69
   }
  ],
  "posts": [
@@ -2289,8 +2292,8 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 6,
-   "likes": 2,
+   "views": 84,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -2300,8 +2303,8 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 752,
-   "likes": 7,
+   "views": 910,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -2311,8 +2314,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 834,
-   "likes": 12,
+   "views": 866,
+   "likes": 14,
    "comments": 0
   },
   {
@@ -2322,7 +2325,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 265,
+   "views": 269,
    "likes": 3,
    "comments": 0
   },
@@ -2333,7 +2336,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1522,
+   "views": 1524,
    "likes": 13,
    "comments": 0
   },
