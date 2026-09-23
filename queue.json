@@ -1042,11 +1042,12 @@
     {
       "id": "2026-09-24-stichprobe",
       "slug": "stickman-samplesize",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-23T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize-cover.jpg",
-      "caption": "You can be profitable and still have no edge.\n\n30 green trades feel like proof. At a 55 % hit rate your true rate after 30 trades sits anywhere between 37 % and 73 %. A coin flip is inside that range.\n\nTo tell 55 % apart from a coin you need about 380 trades. Until then your equity curve is a sample.\n\nSend this to the friend who went full size after one good month.\n\nHow many trades did it take before you trusted your numbers? 👇\n\nPart 26 of the series.\n\n#samplesize #tradingedge #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "You can be profitable and still have no edge.\n\n30 green trades feel like proof. At a 55 % hit rate your true rate after 30 trades sits anywhere between 37 % and 73 %. A coin flip is inside that range.\n\nTo tell 55 % apart from a coin you need about 380 trades. Until then your equity curve is a sample.\n\nSend this to the friend who went full size after one good month.\n\nHow many trades did it take before you trusted your numbers? 👇\n\nPart 26 of the series.\n\n#samplesize #tradingedge #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-23T23:00:19.599Z"
     },
     {
       "id": "2026-09-24-hebel",
