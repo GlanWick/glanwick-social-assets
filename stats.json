@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-23T06:01:41.714Z",
+ "updated": "2026-09-23T07:01:55.504Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-23T06:01:43.406Z",
+  "checked": "2026-09-23T07:01:56.404Z",
   "reach_days": [
    {
     "day": "2026-09-16",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-22",
-    "reach": 2307
+    "reach": 2379
    }
   ],
-  "avg_watch_last_reels": 10.8
+  "avg_watch_last_reels": 10.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2312,6 +2312,11 @@
    "ts": "2026-09-23T06:01:41.714Z",
    "followers": 197,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T07:01:55.504Z",
+   "followers": 197,
+   "media_count": 69
   }
  ],
  "posts": [
@@ -2322,8 +2327,8 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 277,
-   "likes": 6,
+   "views": 301,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -2333,7 +2338,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 1638,
+   "views": 1712,
    "likes": 10,
    "comments": 0
   },
@@ -2344,7 +2349,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1004,
+   "views": 1041,
    "likes": 14,
    "comments": 0
   },
