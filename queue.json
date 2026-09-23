@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:27:56.855Z",
+  "generated_at": "2026-09-23T21:34:49.179Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1047,6 +1047,33 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize-cover.jpg",
       "caption": "You can be profitable and still have no edge.\n\n30 green trades feel like proof. At a 55 % hit rate your true rate after 30 trades sits anywhere between 37 % and 73 %. A coin flip is inside that range.\n\nTo tell 55 % apart from a coin you need about 380 trades. Until then your equity curve is a sample.\n\nSend this to the friend who went full size after one good month.\n\nHow many trades did it take before you trusted your numbers? 👇\n\nPart 26 of the series.\n\n#samplesize #tradingedge #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-24-hebel",
+      "slug": "stickman-leverage",
+      "status": "ready",
+      "scheduled_at": "2026-09-24T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage-cover.jpg",
+      "caption": "At 100x, a 1 % move against you is your whole account.\n\n$1,000 at 100x controls $100,000. The market dips 1 %, that is $1,000, and the position is closed for you. At 10x the same dip costs $100 and you are still in the trade.\n\nYour stop 2 % away never gets the chance. The liquidation at 1 % comes first.\n\nSend this to the friend who calls 50x \"a bit of leverage\".\n\nWhat is the highest leverage you have ever used? 👇\n\nPart 27 of the series.\n\n#leverage #liquidation #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-24-schwankung",
+      "slug": "stickman-voldrag",
+      "status": "ready",
+      "scheduled_at": "2026-09-24T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag-cover.jpg",
+      "caption": "Make 20 %, then lose 20 %, and you are down 4 %.\n\n10,000 grows to 12,000. Then 12,000 loses 20 % and lands at 9,600. Do it the other way round, down first and up second, and you still land at 9,600.\n\nAt +50 % and −50 % the hole is 25 %. The swing itself costs money, whichever order it comes in.\n\nSend this to the friend whose month was \"up 30, down 30, so basically flat\".\n\nWhat was your wildest month, up and down? 👇\n\nPart 28 of the series.\n\n#volatility #drawdown #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-24-risiko-je-trade",
+      "slug": "stickman-riskstreak",
+      "status": "ready",
+      "scheduled_at": "2026-09-24T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak-cover.jpg",
+      "caption": "10 losses in a row at 5 % risk takes 40 % of your account.\n\nAt 1 % risk the same 10 losses take about 10 %. And 10 in a row at a 50 % hit rate is 1 in 1,024, so across 2,000 trades you should expect it about once.\n\nGetting back from −40 % needs +67 %. From −10 % it needs +11 %. Same streak, same hit rate. Only the risk per trade was different.\n\nSend this to the friend who risks 5 % because \"it's only 5 %\".\n\nHow much do you risk per trade? 👇\n\nPart 29 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
