@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-23T22:59:46.380Z",
+ "updated": "2026-09-23T23:59:48.954Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-23T22:59:47.689Z",
+  "checked": "2026-09-23T23:59:49.934Z",
   "reach_days": [
    {
     "day": "2026-09-16",
@@ -34,13 +34,13 @@
     "reach": 2389
    }
   ],
-  "avg_watch_last_reels": 11.6
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 198,
-  "media_count": 69
+  "media_count": 70
  },
  "history": [
   {
@@ -2402,9 +2402,25 @@
    "ts": "2026-09-23T22:59:46.380Z",
    "followers": 198,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T23:59:48.954Z",
+   "followers": 198,
+   "media_count": 70
   }
  ],
  "posts": [
+  {
+   "id": "17981486649092897",
+   "slug": "stickman-samplesize",
+   "permalink": "https://www.instagram.com/reel/DdpcMxnlR7S/",
+   "timestamp": "2026-09-23T23:00:53+0000",
+   "type": "VIDEO",
+   "caption": "You can be profitable and still have no edge.",
+   "views": 130,
+   "likes": 4,
+   "comments": 0
+  },
   {
    "id": "18169092430463023",
    "slug": "stickman-confirmation",
@@ -2412,7 +2428,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 858,
+   "views": 859,
    "likes": 8,
    "comments": 0
   },
@@ -2423,7 +2439,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2164,
+   "views": 2166,
    "likes": 12,
    "comments": 0
   },
@@ -2434,7 +2450,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1419,
+   "views": 1425,
    "likes": 18,
    "comments": 0
   },
@@ -2833,17 +2849,6 @@
    "views": 174,
    "likes": 6,
    "comments": 0
-  },
-  {
-   "id": "17867781000645340",
-   "slug": "stop-loss-vs-take-profit",
-   "permalink": "https://www.instagram.com/reel/DdD3HeejDXs/",
-   "timestamp": "2026-09-09T08:44:56+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 168,
-   "likes": 5,
-   "comments": 1
   }
  ]
 }
