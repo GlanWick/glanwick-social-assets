@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-23T13:53:09.946Z",
+ "updated": "2026-09-23T14:53:41.643Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-23T13:53:10.977Z",
+  "checked": "2026-09-23T14:53:43.498Z",
   "reach_days": [
    {
     "day": "2026-09-16",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-22",
-    "reach": 2385
+    "reach": 2389
    }
   ],
-  "avg_watch_last_reels": 11.9
+  "avg_watch_last_reels": 11.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 197,
+  "followers": 198,
   "media_count": 69
  },
  "history": [
@@ -2352,6 +2352,11 @@
    "ts": "2026-09-23T13:53:09.946Z",
    "followers": 197,
    "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T14:53:41.643Z",
+   "followers": 198,
+   "media_count": 69
   }
  ],
  "posts": [
@@ -2362,8 +2367,8 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 554,
-   "likes": 7,
+   "views": 629,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -2373,8 +2378,8 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2101,
-   "likes": 11,
+   "views": 2110,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2384,8 +2389,8 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1298,
-   "likes": 17,
+   "views": 1321,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -2395,7 +2400,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 290,
+   "views": 291,
    "likes": 3,
    "comments": 0
   },
@@ -2406,7 +2411,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1527,
+   "views": 1529,
    "likes": 13,
    "comments": 0
   },
@@ -2417,7 +2422,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2156,
+   "views": 2157,
    "likes": 22,
    "comments": 1
   },
@@ -2428,7 +2433,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1247,
+   "views": 1249,
    "likes": 13,
    "comments": 1
   },
@@ -2439,7 +2444,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1646,
+   "views": 1647,
    "likes": 10,
    "comments": 0
   },
@@ -2450,7 +2455,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1551,
+   "views": 1554,
    "likes": 21,
    "comments": 0
   },
@@ -2461,7 +2466,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 343,
+   "views": 345,
    "likes": 4,
    "comments": 0
   },
@@ -2472,7 +2477,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1966,
+   "views": 1968,
    "likes": 9,
    "comments": 0
   },
@@ -2483,7 +2488,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 379,
+   "views": 381,
    "likes": 6,
    "comments": 0
   },
@@ -2494,7 +2499,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2166,
+   "views": 2168,
    "likes": 37,
    "comments": 1
   },
@@ -2505,7 +2510,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1863,
+   "views": 1865,
    "likes": 12,
    "comments": 0
   },
@@ -2516,7 +2521,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3124,
+   "views": 3126,
    "likes": 26,
    "comments": 2
   },
@@ -2527,7 +2532,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1763,
+   "views": 1764,
    "likes": 11,
    "comments": 0
   },
@@ -2538,7 +2543,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1850,
+   "views": 1851,
    "likes": 32,
    "comments": 0
   },
@@ -2549,7 +2554,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 362,
+   "views": 364,
    "likes": 8,
    "comments": 0
   },
@@ -2560,7 +2565,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1920,
+   "views": 1922,
    "likes": 22,
    "comments": 0
   },
@@ -2571,7 +2576,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1240,
+   "views": 1242,
    "likes": 25,
    "comments": 0
   },
@@ -2582,7 +2587,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 319,
+   "views": 320,
    "likes": 6,
    "comments": 0
   },
