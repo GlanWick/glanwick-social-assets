@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:34:49.179Z",
+  "generated_at": "2026-09-23T21:43:06.069Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1074,6 +1074,15 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak-cover.jpg",
       "caption": "10 losses in a row at 5 % risk takes 40 % of your account.\n\nAt 1 % risk the same 10 losses take about 10 %. And 10 in a row at a 50 % hit rate is 1 in 1,024, so across 2,000 trades you should expect it about once.\n\nGetting back from −40 % needs +67 %. From −10 % it needs +11 %. Same streak, same hit rate. Only the risk per trade was different.\n\nSend this to the friend who risks 5 % because \"it's only 5 %\".\n\nHow much do you risk per trade? 👇\n\nPart 29 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-25-auszahlung",
+      "slug": "stickman-payoff",
+      "status": "ready",
+      "scheduled_at": "2026-09-24T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff-cover.jpg",
+      "caption": "Lose 7 of 10 and still come out ahead.\n\nRisk $100 per trade and take $300 when you are right. 7 losses cost $700, 3 winners bring $900, so the 10 trades close at +$200.\n\nSame 10 trades at 1 to 1 and you are down $400. The win rate did not change. The payoff did.\n\nSend this to the friend who quit a setup because \"it only hits 40 %\".\n\nWhat is your average winner worth compared to your average loser? 👇\n\nPart 30 of the series.\n\n#riskreward #winrate #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
