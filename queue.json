@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:38:04.111Z",
+  "generated_at": "2026-09-23T21:27:56.855Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -995,10 +995,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-scratch.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-scratch-cover.jpg",
       "caption": "Breaking even costs you money.\n\nA trade you close back at your entry still paid the spread on the way in and on the way out. Call it 0.2 % a round trip. Ten of those is 2 % of the position gone while your P&L column sits at zero and tells you nothing happened.\n\nScratches are not free. They are just quiet.\n\nSend this to the friend who says he had a flat week.\n\nHow many scratches did you take last week? 👇\n\nPart 22 of the series.\n\n#tradingcosts #spread #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109169663136556",
       "media_id": "18490946881100120",
       "permalink": "https://www.instagram.com/reel/DdkqoZbk-5e/",
-      "published_at": "2026-09-22T02:30:53.653Z"
+      "published_at": "2026-09-22T02:30:53.653Z",
+      "container_id": "18109169663136556"
     },
     {
       "id": "2026-09-22-stop-bestimmt-groesse",
@@ -1008,10 +1008,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stopsize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stopsize-cover.jpg",
       "caption": "Your stop distance picks your position size, whether you meant it to or not.\n\n$10,000 account, 1 % at risk, so $100. If your stop sits 2 % away that is a $5,000 position. Move the stop to 0.5 % away and the same $100 buys you $20,000 of it.\n\nSame risk on the spreadsheet. Four times the position in the market, four times the exposure to a gap, four times the slippage on the way out.\n\nSend this to the friend who picks the size first and then looks for a place to put the stop.\n\nWhich one do you decide first? 👇\n\nPart 23 of the series.\n\n#positionsizing #stoploss #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109231025136556",
       "media_id": "17953064058255479",
       "permalink": "https://www.instagram.com/reel/Ddlr2ZJjF8E/",
-      "published_at": "2026-09-22T12:00:46.807Z"
+      "published_at": "2026-09-22T12:00:46.807Z",
+      "container_id": "18109231025136556"
     },
     {
       "id": "2026-09-22-doppelter-einsatz",
@@ -1021,10 +1021,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-kelly.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-kelly-cover.jpg",
       "caption": "Bet twice as much and your account stops growing.\n\nAt a 55 % hit rate with even money, the size that compounds fastest is 10 % of the account. Double it to 20 % and the long run growth rate falls to zero. Not slower. Zero.\n\nSame edge, same trades, same order. Twice the size, and the curve goes flat.\n\nSend this to the friend who sizes up after a good week.\n\nWhat percent of the account do you actually risk? 👇\n\nPart 24 of the series.\n\n#positionsizing #riskofruin #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109270979136556",
       "media_id": "18113691628819082",
       "permalink": "https://www.instagram.com/reel/DdmOLlilIo9/",
-      "published_at": "2026-09-22T17:00:45.556Z"
+      "published_at": "2026-09-22T17:00:45.556Z",
+      "container_id": "18109270979136556"
     },
     {
       "id": "2026-09-23-bestaetigung",
@@ -1034,10 +1034,19 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirmation.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirmation-cover.jpg",
       "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.\n\nEntry at 100, stop at 98, target at 106. That is 3 to 1. Wait for the candle to close and you get filled at 102 instead. Same stop, same target, and the trade is now 1 to 1.\n\nThe setup never changed. The chart never changed. Your entry did, and it took two thirds of the reward with it.\n\nSend this to the friend who always waits for one more candle.\n\nWhat does confirmation actually cost you? 👇\n\nPart 25 of the series.\n\n#entry #riskreward #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109300757136556",
       "media_id": "18169092430463023",
       "permalink": "https://www.instagram.com/reel/Ddm3c_LErSG/",
-      "published_at": "2026-09-22T23:01:23.338Z"
+      "published_at": "2026-09-22T23:01:23.338Z",
+      "container_id": "18109300757136556"
+    },
+    {
+      "id": "2026-09-24-stichprobe",
+      "slug": "stickman-samplesize",
+      "status": "ready",
+      "scheduled_at": "2026-09-23T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize-cover.jpg",
+      "caption": "You can be profitable and still have no edge.\n\n30 green trades feel like proof. At a 55 % hit rate your true rate after 30 trades sits anywhere between 37 % and 73 %. A coin flip is inside that range.\n\nTo tell 55 % apart from a coin you need about 380 trades. Until then your equity curve is a sample.\n\nSend this to the friend who went full size after one good month.\n\nHow many trades did it take before you trusted your numbers? 👇\n\nPart 26 of the series.\n\n#samplesize #tradingedge #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
