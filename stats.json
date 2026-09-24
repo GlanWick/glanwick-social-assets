@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T22:21:57.946Z",
+ "updated": "2026-09-24T23:22:12.015Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T22:21:59.736Z",
+  "checked": "2026-09-24T23:22:13.309Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,13 +34,13 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 13.3
+  "avg_watch_last_reels": 9.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 207,
-  "media_count": 73
+  "followers": 208,
+  "media_count": 74
  },
  "history": [
   {
@@ -2522,9 +2522,25 @@
    "ts": "2026-09-24T22:21:57.946Z",
    "followers": 207,
    "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T23:22:12.015Z",
+   "followers": 208,
+   "media_count": 74
   }
  ],
  "posts": [
+  {
+   "id": "18030594071854101",
+   "slug": "stickman-payoff",
+   "permalink": "https://www.instagram.com/reel/DdsA-igjALD/",
+   "timestamp": "2026-09-24T23:00:42+0000",
+   "type": "VIDEO",
+   "caption": "Lose 7 of 10 and still come out ahead.",
+   "views": 6,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18058237244565635",
    "slug": "stickman-riskstreak",
@@ -2532,8 +2548,8 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2486,
-   "likes": 12,
+   "views": 2526,
+   "likes": 13,
    "comments": 2
   },
   {
@@ -2543,7 +2559,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3848,
+   "views": 3910,
    "likes": 32,
    "comments": 0
   },
@@ -2554,7 +2570,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2254,
+   "views": 2256,
    "likes": 18,
    "comments": 0
   },
@@ -2565,7 +2581,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2468,
+   "views": 2476,
    "likes": 26,
    "comments": 0
   },
@@ -2708,7 +2724,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2169,
+   "views": 2170,
    "likes": 37,
    "comments": 1
   },
@@ -2752,7 +2768,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1852,
+   "views": 1853,
    "likes": 32,
    "comments": 0
   },
@@ -2952,17 +2968,6 @@
    "caption": "Follow for more differences.",
    "views": 50,
    "likes": 4,
-   "comments": 0
-  },
-  {
-   "id": "18095485358434484",
-   "slug": "loss-vs-gap",
-   "permalink": "https://www.instagram.com/reel/DdGoBGeAmUF/",
-   "timestamp": "2026-09-10T10:30:37+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 93,
-   "likes": 5,
    "comments": 0
   }
  ]
