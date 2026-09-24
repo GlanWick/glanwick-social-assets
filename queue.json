@@ -1081,12 +1081,15 @@
     {
       "id": "2026-09-24-risiko-je-trade",
       "slug": "stickman-riskstreak",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-09-24T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak-cover.jpg",
       "caption": "10 losses in a row at 5 % risk takes 40 % of your account.\n\nAt 1 % risk the same 10 losses take about 10 %. And 10 in a row at a 50 % hit rate is 1 in 1,024, so across 2,000 trades you should expect it about once.\n\nGetting back from −40 % needs +67 %. From −10 % it needs +11 %. Same streak, same hit rate. Only the risk per trade was different.\n\nSend this to the friend who risks 5 % because \"it's only 5 %\".\n\nHow much do you risk per trade? 👇\n\nPart 29 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference",
-      "posting_started_at": "2026-09-24T17:00:23.691Z"
+      "container_id": "18109557089136556",
+      "media_id": "18058237244565635",
+      "permalink": "https://www.instagram.com/reel/DdrXz1Ajeaz/",
+      "published_at": "2026-09-24T17:00:56.567Z"
     },
     {
       "id": "2026-09-25-auszahlung",
