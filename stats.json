@@ -1,11 +1,9 @@
 {
- "updated": "2026-09-24T03:00:40.867Z",
+ "updated": "2026-09-24T03:49:47.270Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Reichweite 2026-09-23: 1085 gegen Mittel 2907"
-  ],
-  "checked": "2026-09-24T03:00:42.447Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-09-24T03:49:48.221Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-09-23",
-    "reach": 1085
+    "reach": 1286
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 10.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2424,6 +2422,11 @@
    "ts": "2026-09-24T03:00:40.867Z",
    "followers": 198,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T03:49:47.270Z",
+   "followers": 198,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2434,7 +2437,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 5,
+   "views": 144,
    "likes": 0,
    "comments": 0
   },
@@ -2445,7 +2448,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 349,
+   "views": 474,
    "likes": 5,
    "comments": 0
   },
@@ -2478,7 +2481,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1428,
+   "views": 1430,
    "likes": 18,
    "comments": 0
   },
