@@ -1094,12 +1094,15 @@
     {
       "id": "2026-09-25-auszahlung",
       "slug": "stickman-payoff",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-09-24T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff-cover.jpg",
       "caption": "Lose 7 of 10 and still come out ahead.\n\nRisk $100 per trade and take $300 when you are right. 7 losses cost $700, 3 winners bring $900, so the 10 trades close at +$200.\n\nSame 10 trades at 1 to 1 and you are down $400. The win rate did not change. The payoff did.\n\nSend this to the friend who quit a setup because \"it only hits 40 %\".\n\nWhat is your average winner worth compared to your average loser? 👇\n\nPart 30 of the series.\n\n#riskreward #winrate #riskmanagement #tradingjournal #knowthedifference",
-      "posting_started_at": "2026-09-24T23:00:09.335Z"
+      "container_id": "18109592525136556",
+      "media_id": "18030594071854101",
+      "permalink": "https://www.instagram.com/reel/DdsA-igjALD/",
+      "published_at": "2026-09-24T23:00:49.784Z"
     },
     {
       "id": "2026-09-25-tagesverlust",
