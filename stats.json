@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T13:41:04.995Z",
+ "updated": "2026-09-24T14:41:17.920Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T13:41:05.835Z",
+  "checked": "2026-09-24T14:41:19.340Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,12 +34,12 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 12.8
+  "avg_watch_last_reels": 12.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 204,
+  "followers": 205,
   "media_count": 72
  },
  "history": [
@@ -2477,6 +2477,11 @@
    "ts": "2026-09-24T13:41:04.995Z",
    "followers": 204,
    "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T14:41:17.920Z",
+   "followers": 205,
+   "media_count": 72
   }
  ],
  "posts": [
@@ -2487,8 +2492,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 1045,
-   "likes": 10,
+   "views": 2287,
+   "likes": 19,
    "comments": 0
   },
   {
@@ -2498,7 +2503,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 1939,
+   "views": 2110,
    "likes": 16,
    "comments": 0
   },
@@ -2509,8 +2514,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2282,
-   "likes": 22,
+   "views": 2309,
+   "likes": 23,
    "comments": 0
   },
   {
@@ -2531,7 +2536,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2178,
+   "views": 2180,
    "likes": 12,
    "comments": 0
   },
@@ -2608,7 +2613,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1555,
+   "views": 1556,
    "likes": 21,
    "comments": 0
   },
