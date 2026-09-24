@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T10:40:33.322Z",
+ "updated": "2026-09-24T11:40:39.311Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T10:40:34.265Z",
+  "checked": "2026-09-24T11:40:40.146Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,7 +34,7 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 11.4
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2462,6 +2462,11 @@
    "ts": "2026-09-24T10:40:33.322Z",
    "followers": 200,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T11:40:39.311Z",
+   "followers": 200,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2472,8 +2477,8 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 1390,
-   "likes": 10,
+   "views": 1576,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -2483,7 +2488,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2143,
+   "views": 2181,
    "likes": 20,
    "comments": 0
   },
@@ -2494,7 +2499,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 888,
+   "views": 890,
    "likes": 8,
    "comments": 0
   },
