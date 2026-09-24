@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T12:40:56.775Z",
+ "updated": "2026-09-24T13:41:04.995Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T12:40:57.965Z",
+  "checked": "2026-09-24T13:41:05.835Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,12 +34,12 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 10.3
+  "avg_watch_last_reels": 12.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 201,
+  "followers": 204,
   "media_count": 72
  },
  "history": [
@@ -2472,6 +2472,11 @@
    "ts": "2026-09-24T12:40:56.775Z",
    "followers": 201,
    "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T13:41:04.995Z",
+   "followers": 204,
+   "media_count": 72
   }
  ],
  "posts": [
@@ -2482,8 +2487,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 149,
-   "likes": 1,
+   "views": 1045,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2493,8 +2498,8 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 1766,
-   "likes": 13,
+   "views": 1939,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -2504,8 +2509,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2229,
-   "likes": 21,
+   "views": 2282,
+   "likes": 22,
    "comments": 0
   },
   {
@@ -2515,7 +2520,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 890,
+   "views": 891,
    "likes": 8,
    "comments": 0
   },
@@ -2526,7 +2531,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2177,
+   "views": 2178,
    "likes": 12,
    "comments": 0
   },
@@ -2735,7 +2740,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 320,
+   "views": 321,
    "likes": 6,
    "comments": 0
   },
@@ -2779,7 +2784,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1483,
+   "views": 1484,
    "likes": 29,
    "comments": 0
   },
