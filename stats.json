@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T09:40:20.823Z",
+ "updated": "2026-09-24T10:40:33.322Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T09:40:21.689Z",
+  "checked": "2026-09-24T10:40:34.265Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,12 +34,12 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 11.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 201,
+  "followers": 200,
   "media_count": 71
  },
  "history": [
@@ -2457,6 +2457,11 @@
    "ts": "2026-09-24T09:40:20.823Z",
    "followers": 201,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T10:40:33.322Z",
+   "followers": 200,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2467,8 +2472,8 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 1179,
-   "likes": 9,
+   "views": 1390,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2478,8 +2483,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2013,
-   "likes": 18,
+   "views": 2143,
+   "likes": 20,
    "comments": 0
   },
   {
@@ -2489,7 +2494,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 886,
+   "views": 888,
    "likes": 8,
    "comments": 0
   },
