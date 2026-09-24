@@ -1055,11 +1055,12 @@
     {
       "id": "2026-09-24-hebel",
       "slug": "stickman-leverage",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-24T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage-cover.jpg",
-      "caption": "At 100x, a 1 % move against you is your whole account.\n\n$1,000 at 100x controls $100,000. The market dips 1 %, that is $1,000, and the position is closed for you. At 10x the same dip costs $100 and you are still in the trade.\n\nYour stop 2 % away never gets the chance. The liquidation at 1 % comes first.\n\nSend this to the friend who calls 50x \"a bit of leverage\".\n\nWhat is the highest leverage you have ever used? 👇\n\nPart 27 of the series.\n\n#leverage #liquidation #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "At 100x, a 1 % move against you is your whole account.\n\n$1,000 at 100x controls $100,000. The market dips 1 %, that is $1,000, and the position is closed for you. At 10x the same dip costs $100 and you are still in the trade.\n\nYour stop 2 % away never gets the chance. The liquidation at 1 % comes first.\n\nSend this to the friend who calls 50x \"a bit of leverage\".\n\nWhat is the highest leverage you have ever used? 👇\n\nPart 27 of the series.\n\n#leverage #liquidation #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-24T02:30:19.528Z"
     },
     {
       "id": "2026-09-24-schwankung",
