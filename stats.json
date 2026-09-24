@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T16:30:55.652Z",
+ "updated": "2026-09-24T17:31:01.173Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T16:30:56.648Z",
+  "checked": "2026-09-24T17:31:02.586Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,13 +34,13 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 12.3
+  "avg_watch_last_reels": 17.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 204,
-  "media_count": 72
+  "followers": 205,
+  "media_count": 73
  },
  "history": [
   {
@@ -2492,9 +2492,25 @@
    "ts": "2026-09-24T16:30:55.652Z",
    "followers": 204,
    "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T17:31:01.173Z",
+   "followers": 205,
+   "media_count": 73
   }
  ],
  "posts": [
+  {
+   "id": "18058237244565635",
+   "slug": "stickman-riskstreak",
+   "permalink": "https://www.instagram.com/reel/DdrXz1Ajeaz/",
+   "timestamp": "2026-09-24T17:00:48+0000",
+   "type": "VIDEO",
+   "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
+   "views": 66,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17896190130394227",
    "slug": "stickman-voldrag",
@@ -2502,8 +2518,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3396,
-   "likes": 30,
+   "views": 3476,
+   "likes": 31,
    "comments": 0
   },
   {
@@ -2513,7 +2529,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2202,
+   "views": 2207,
    "likes": 18,
    "comments": 0
   },
@@ -2524,7 +2540,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2366,
+   "views": 2374,
    "likes": 24,
    "comments": 0
   },
@@ -2922,17 +2938,6 @@
    "caption": "Follow for more differences.",
    "views": 93,
    "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18339606589253794",
-   "slug": "stop-loss-vs-spread",
-   "permalink": "https://www.instagram.com/reel/DdGVIjQj2S3/",
-   "timestamp": "2026-09-10T07:45:43+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 149,
-   "likes": 4,
    "comments": 0
   }
  ]
