@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T08:50:15.812Z",
+ "updated": "2026-09-24T09:40:20.823Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T08:50:16.878Z",
+  "checked": "2026-09-24T09:40:21.689Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-23",
-    "reach": 2082
+    "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2452,6 +2452,11 @@
    "ts": "2026-09-24T08:50:15.812Z",
    "followers": 201,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T09:40:20.823Z",
+   "followers": 201,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2462,8 +2467,8 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 904,
-   "likes": 8,
+   "views": 1179,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -2473,8 +2478,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 1886,
-   "likes": 17,
+   "views": 2013,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -2484,7 +2489,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 882,
+   "views": 886,
    "likes": 8,
    "comments": 0
   },
@@ -2495,7 +2500,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2173,
+   "views": 2174,
    "likes": 12,
    "comments": 0
   },
@@ -2539,7 +2544,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2157,
+   "views": 2158,
    "likes": 22,
    "comments": 1
   },
@@ -2572,7 +2577,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1554,
+   "views": 1555,
    "likes": 21,
    "comments": 0
   },
@@ -2693,7 +2698,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1243,
+   "views": 1244,
    "likes": 25,
    "comments": 0
   },
