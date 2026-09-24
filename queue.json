@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:43:06.069Z",
+  "generated_at": "2026-09-24T22:43:54.376Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1047,10 +1047,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samplesize-cover.jpg",
       "caption": "You can be profitable and still have no edge.\n\n30 green trades feel like proof. At a 55 % hit rate your true rate after 30 trades sits anywhere between 37 % and 73 %. A coin flip is inside that range.\n\nTo tell 55 % apart from a coin you need about 380 trades. Until then your equity curve is a sample.\n\nSend this to the friend who went full size after one good month.\n\nHow many trades did it take before you trusted your numbers? 👇\n\nPart 26 of the series.\n\n#samplesize #tradingedge #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109437041136556",
       "media_id": "17981486649092897",
       "permalink": "https://www.instagram.com/reel/DdpcMxnlR7S/",
-      "published_at": "2026-09-23T23:01:00.368Z"
+      "published_at": "2026-09-23T23:01:00.368Z",
+      "container_id": "18109437041136556"
     },
     {
       "id": "2026-09-24-hebel",
@@ -1060,10 +1060,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leverage-cover.jpg",
       "caption": "At 100x, a 1 % move against you is your whole account.\n\n$1,000 at 100x controls $100,000. The market dips 1 %, that is $1,000, and the position is closed for you. At 10x the same dip costs $100 and you are still in the trade.\n\nYour stop 2 % away never gets the chance. The liquidation at 1 % comes first.\n\nSend this to the friend who calls 50x \"a bit of leverage\".\n\nWhat is the highest leverage you have ever used? 👇\n\nPart 27 of the series.\n\n#leverage #liquidation #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109458956136556",
       "media_id": "18100574750532665",
       "permalink": "https://www.instagram.com/reel/Ddp0VKkk3Ac/",
-      "published_at": "2026-09-24T02:31:43.345Z"
+      "published_at": "2026-09-24T02:31:43.345Z",
+      "container_id": "18109458956136556"
     },
     {
       "id": "2026-09-24-schwankung",
@@ -1073,10 +1073,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag-cover.jpg",
       "caption": "Make 20 %, then lose 20 %, and you are down 4 %.\n\n10,000 grows to 12,000. Then 12,000 loses 20 % and lands at 9,600. Do it the other way round, down first and up second, and you still land at 9,600.\n\nAt +50 % and −50 % the hole is 25 %. The swing itself costs money, whichever order it comes in.\n\nSend this to the friend whose month was \"up 30, down 30, so basically flat\".\n\nWhat was your wildest month, up and down? 👇\n\nPart 28 of the series.\n\n#volatility #drawdown #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109514678136556",
       "media_id": "17896190130394227",
       "permalink": "https://www.instagram.com/reel/Ddq1ePRipmm/",
-      "published_at": "2026-09-24T12:01:00.481Z"
+      "published_at": "2026-09-24T12:01:00.481Z",
+      "container_id": "18109514678136556"
     },
     {
       "id": "2026-09-24-risiko-je-trade",
@@ -1086,10 +1086,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskstreak-cover.jpg",
       "caption": "10 losses in a row at 5 % risk takes 40 % of your account.\n\nAt 1 % risk the same 10 losses take about 10 %. And 10 in a row at a 50 % hit rate is 1 in 1,024, so across 2,000 trades you should expect it about once.\n\nGetting back from −40 % needs +67 %. From −10 % it needs +11 %. Same streak, same hit rate. Only the risk per trade was different.\n\nSend this to the friend who risks 5 % because \"it's only 5 %\".\n\nHow much do you risk per trade? 👇\n\nPart 29 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109557089136556",
       "media_id": "18058237244565635",
       "permalink": "https://www.instagram.com/reel/DdrXz1Ajeaz/",
-      "published_at": "2026-09-24T17:00:56.567Z"
+      "published_at": "2026-09-24T17:00:56.567Z",
+      "container_id": "18109557089136556"
     },
     {
       "id": "2026-09-25-auszahlung",
@@ -1099,6 +1099,51 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff-cover.jpg",
       "caption": "Lose 7 of 10 and still come out ahead.\n\nRisk $100 per trade and take $300 when you are right. 7 losses cost $700, 3 winners bring $900, so the 10 trades close at +$200.\n\nSame 10 trades at 1 to 1 and you are down $400. The win rate did not change. The payoff did.\n\nSend this to the friend who quit a setup because \"it only hits 40 %\".\n\nWhat is your average winner worth compared to your average loser? 👇\n\nPart 30 of the series.\n\n#riskreward #winrate #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-25-tagesverlust",
+      "slug": "stickman-dailyloss",
+      "status": "ready",
+      "scheduled_at": "2026-09-25T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailyloss.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailyloss-cover.jpg",
+      "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.\n\n20 days at half a percent, compounded, is +10.5 %. One day at −10 % takes it to −0.6 %. Twenty careful days, undone by one.\n\nThat day usually has a name. The stop you moved, the size you doubled, the trade you would not close.\n\nSend this to the friend whose month was fine \"until Thursday\".\n\nDo you have a daily loss limit, in a number? 👇\n\nPart 31 of the series.\n\n#dailylosslimit #tradingpsychology #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-25-verdoppeln",
+      "slug": "stickman-martingale",
+      "status": "ready",
+      "scheduled_at": "2026-09-25T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale-cover.jpg",
+      "caption": "Double after every loss and loss number 7 costs 64 times your first one.\n\n1, 2, 4, 8, 16, 32, 64. Seven losses in a row add up to 127 units, and the win that finally comes pays back exactly 1.\n\nSeven in a row at a 50 % hit rate is 1 in 128. Over a year of trading it shows up. Doubling only works with infinite money, and nobody has that.\n\nSend this to the friend who \"just needs one win to get it all back\".\n\nHave you ever doubled after a loss? 👇\n\nPart 32 of the series.\n\n#martingale #positionsizing #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-25-erholung",
+      "slug": "stickman-recovery",
+      "status": "ready",
+      "scheduled_at": "2026-09-25T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-cover.jpg",
+      "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.\n\nDown 30 % means you need +43 % just to see the old number again. At 2 % a month, compounded, that is 18 months. A year and a half of work for zero progress.\n\nAt 15 % down the same trader is back in 8 months. The depth of the hole sets the length of the climb.\n\nSend this to the friend who says \"I'll make it back next month\".\n\nWhat was your deepest drawdown, and how long did it take? 👇\n\nPart 33 of the series.\n\n#drawdown #recovery #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-26-halbe-groesse",
+      "slug": "stickman-halfsize",
+      "status": "ready",
+      "scheduled_at": "2026-09-25T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfsize.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfsize-cover.jpg",
+      "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.\n\n10 losses at 2 % each, compounded, is −18 %. 3 at 2 % and then 7 at 1 % is −12 %. Same streak, same edge, a third less damage.\n\nGetting back from −12 % needs +14 %. Getting back from −18 % needs +22 %. Sizing down when you are cold is the one rule that pays you during a streak.\n\nSend this to the friend who sizes up after a loss \"to get it back faster\".\n\nWhat do you do with your size after 3 losses? 👇\n\nPart 34 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-26-glueck",
+      "slug": "stickman-luck",
+      "status": "ready",
+      "scheduled_at": "2026-09-26T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-luck.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-luck-cover.jpg",
+      "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both did everything right.\n\n55 % hit rate, 1 to 1, 1 % risk. The expected result after 200 trades is +20 %. The spread around it is 14 % (one standard deviation), so +6 % to +34 % is the normal range.\n\nAbout 1 in 13 of those traders ends the 200 trades below zero. Same edge, same rules. Judge the process, because 200 trades cannot judge the trader.\n\nSend this to the friend who changed strategy after one bad month.\n\nHow many trades do you give a strategy before you judge it? 👇\n\nPart 35 of the series.\n\n#variance #tradingedge #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
