@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T21:21:33.519Z",
+ "updated": "2026-09-24T22:21:57.946Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T21:21:35.024Z",
+  "checked": "2026-09-24T22:21:59.736Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,7 +34,7 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 13.1
+  "avg_watch_last_reels": 13.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2517,6 +2517,11 @@
    "ts": "2026-09-24T21:21:33.519Z",
    "followers": 207,
    "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T22:21:57.946Z",
+   "followers": 207,
+   "media_count": 73
   }
  ],
  "posts": [
@@ -2527,8 +2532,8 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2195,
-   "likes": 10,
+   "views": 2486,
+   "likes": 12,
    "comments": 2
   },
   {
@@ -2538,7 +2543,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3784,
+   "views": 3848,
    "likes": 32,
    "comments": 0
   },
@@ -2549,7 +2554,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2240,
+   "views": 2254,
    "likes": 18,
    "comments": 0
   },
@@ -2560,7 +2565,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2453,
+   "views": 2468,
    "likes": 26,
    "comments": 0
   },
@@ -2670,7 +2675,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 345,
+   "views": 346,
    "likes": 4,
    "comments": 0
   },
