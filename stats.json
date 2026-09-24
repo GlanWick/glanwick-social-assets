@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T04:49:53.332Z",
+ "updated": "2026-09-24T05:50:00.073Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T04:49:54.317Z",
+  "checked": "2026-09-24T05:50:01.114Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-23",
-    "reach": 1428
+    "reach": 1554
    }
   ],
-  "avg_watch_last_reels": 10.8
+  "avg_watch_last_reels": 11
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 198,
+  "followers": 199,
   "media_count": 71
  },
  "history": [
@@ -2432,6 +2432,11 @@
    "ts": "2026-09-24T04:49:53.332Z",
    "followers": 198,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T05:50:00.073Z",
+   "followers": 199,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2442,7 +2447,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 192,
+   "views": 224,
    "likes": 0,
    "comments": 0
   },
@@ -2453,8 +2458,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 668,
-   "likes": 7,
+   "views": 924,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -2464,7 +2469,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 869,
+   "views": 874,
    "likes": 8,
    "comments": 0
   },
@@ -2618,7 +2623,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3132,
+   "views": 3134,
    "likes": 26,
    "comments": 2
   },
@@ -2673,7 +2678,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1242,
+   "views": 1243,
    "likes": 25,
    "comments": 0
   },
