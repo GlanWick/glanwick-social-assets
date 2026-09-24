@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T18:31:04.108Z",
+ "updated": "2026-09-24T19:31:11.409Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T18:31:05.207Z",
+  "checked": "2026-09-24T19:31:13.264Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,12 +34,12 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 12.8
+  "avg_watch_last_reels": 13
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 205,
+  "followers": 206,
   "media_count": 73
  },
  "history": [
@@ -2502,6 +2502,11 @@
    "ts": "2026-09-24T18:31:04.108Z",
    "followers": 205,
    "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T19:31:11.409Z",
+   "followers": 206,
+   "media_count": 73
   }
  ],
  "posts": [
@@ -2512,8 +2517,8 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 514,
-   "likes": 1,
+   "views": 852,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2523,8 +2528,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3545,
-   "likes": 31,
+   "views": 3593,
+   "likes": 32,
    "comments": 0
   },
   {
@@ -2534,7 +2539,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2214,
+   "views": 2220,
    "likes": 18,
    "comments": 0
   },
@@ -2545,7 +2550,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2409,
+   "views": 2419,
    "likes": 25,
    "comments": 0
   },
