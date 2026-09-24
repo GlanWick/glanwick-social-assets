@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T11:40:39.311Z",
+ "updated": "2026-09-24T12:40:56.775Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T11:40:40.146Z",
+  "checked": "2026-09-24T12:40:57.965Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,13 +34,13 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 200,
-  "media_count": 71
+  "followers": 201,
+  "media_count": 72
  },
  "history": [
   {
@@ -2467,9 +2467,25 @@
    "ts": "2026-09-24T11:40:39.311Z",
    "followers": 200,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T12:40:56.775Z",
+   "followers": 201,
+   "media_count": 72
   }
  ],
  "posts": [
+  {
+   "id": "17896190130394227",
+   "slug": "stickman-voldrag",
+   "permalink": "https://www.instagram.com/reel/Ddq1ePRipmm/",
+   "timestamp": "2026-09-24T12:00:54+0000",
+   "type": "VIDEO",
+   "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
+   "views": 149,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18100574750532665",
    "slug": "stickman-leverage",
@@ -2477,7 +2493,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 1576,
+   "views": 1766,
    "likes": 13,
    "comments": 0
   },
@@ -2488,8 +2504,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2181,
-   "likes": 20,
+   "views": 2229,
+   "likes": 21,
    "comments": 0
   },
   {
@@ -2510,7 +2526,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2174,
+   "views": 2177,
    "likes": 12,
    "comments": 0
   },
@@ -2896,17 +2912,6 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 149,
-   "likes": 4,
-   "comments": 0
-  },
-  {
-   "id": "17943951999301581",
-   "slug": "drawdown-vs-trailing-drawdown",
-   "permalink": "https://www.instagram.com/reel/DdE6JrZCuGF/",
-   "timestamp": "2026-09-09T18:30:39+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 60,
    "likes": 4,
    "comments": 0
   }
