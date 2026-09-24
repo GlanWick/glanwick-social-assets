@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T05:50:00.073Z",
+ "updated": "2026-09-24T06:50:04.572Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T05:50:01.114Z",
+  "checked": "2026-09-24T06:50:05.384Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-09-23",
-    "reach": 1554
+    "reach": 1877
    }
   ],
   "avg_watch_last_reels": 11
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 199,
+  "followers": 200,
   "media_count": 71
  },
  "history": [
@@ -2437,6 +2437,11 @@
    "ts": "2026-09-24T05:50:00.073Z",
    "followers": 199,
    "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T06:50:04.572Z",
+   "followers": 200,
+   "media_count": 71
   }
  ],
  "posts": [
@@ -2447,8 +2452,8 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 224,
-   "likes": 0,
+   "views": 354,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -2458,8 +2463,8 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 924,
-   "likes": 8,
+   "views": 1289,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2601,7 +2606,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2168,
+   "views": 2169,
    "likes": 37,
    "comments": 1
   },
