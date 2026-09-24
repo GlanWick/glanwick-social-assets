@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-24T15:30:53.534Z",
+ "updated": "2026-09-24T16:30:55.652Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-24T15:30:54.628Z",
+  "checked": "2026-09-24T16:30:56.648Z",
   "reach_days": [
    {
     "day": "2026-09-17",
@@ -34,7 +34,7 @@
     "reach": 2088
    }
   ],
-  "avg_watch_last_reels": 12.2
+  "avg_watch_last_reels": 12.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2487,6 +2487,11 @@
    "ts": "2026-09-24T15:30:53.534Z",
    "followers": 204,
    "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T16:30:55.652Z",
+   "followers": 204,
+   "media_count": 72
   }
  ],
  "posts": [
@@ -2497,8 +2502,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 2937,
-   "likes": 26,
+   "views": 3396,
+   "likes": 30,
    "comments": 0
   },
   {
@@ -2508,7 +2513,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2187,
+   "views": 2202,
    "likes": 18,
    "comments": 0
   },
@@ -2519,7 +2524,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2342,
+   "views": 2366,
    "likes": 24,
    "comments": 0
   },
@@ -2541,7 +2546,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2181,
+   "views": 2183,
    "likes": 12,
    "comments": 0
   },
@@ -2794,7 +2799,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1485,
+   "views": 1486,
    "likes": 29,
    "comments": 0
   },
@@ -2805,7 +2810,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 44,
+   "views": 45,
    "likes": 3,
    "comments": 0
   },
@@ -2816,7 +2821,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 91,
+   "views": 92,
    "likes": 3,
    "comments": 0
   },
