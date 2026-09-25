@@ -1,9 +1,11 @@
 {
- "updated": "2026-09-25T11:04:10.273Z",
+ "updated": "2026-09-25T12:04:21.861Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-09-25T11:04:11.179Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.2 s"
+  ],
+  "checked": "2026-09-25T12:04:22.813Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,13 +36,13 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 12.1
+  "avg_watch_last_reels": 7.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 211,
-  "media_count": 75
+  "media_count": 76
  },
  "history": [
   {
@@ -2587,9 +2589,25 @@
    "ts": "2026-09-25T11:04:10.273Z",
    "followers": 211,
    "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T12:04:21.861Z",
+   "followers": 211,
+   "media_count": 76
   }
  ],
  "posts": [
+  {
+   "id": "17920753875220904",
+   "slug": "stickman-martingale",
+   "permalink": "https://www.instagram.com/reel/DdtaZMHjd3r/",
+   "timestamp": "2026-09-25T12:02:04+0000",
+   "type": "VIDEO",
+   "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
+   "views": 2,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17900715135376918",
    "slug": "stickman-dailyloss",
@@ -2597,8 +2615,8 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1735,
-   "likes": 13,
+   "views": 1781,
+   "likes": 14,
    "comments": 0
   },
   {
@@ -2608,7 +2626,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1282,
+   "views": 1348,
    "likes": 10,
    "comments": 0
   },
@@ -2630,7 +2648,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4210,
+   "views": 4230,
    "likes": 33,
    "comments": 0
   },
@@ -2641,7 +2659,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2271,
+   "views": 2273,
    "likes": 18,
    "comments": 0
   },
@@ -2652,7 +2670,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2494,
+   "views": 2502,
    "likes": 26,
    "comments": 0
   },
@@ -2795,7 +2813,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2175,
+   "views": 2176,
    "likes": 37,
    "comments": 1
   },
@@ -2905,7 +2923,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1519,
+   "views": 1520,
    "likes": 37,
    "comments": 0
   },
@@ -3016,17 +3034,6 @@
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
    "views": 108,
-   "likes": 4,
-   "comments": 0
-  },
-  {
-   "id": "18021473663873014",
-   "slug": "bitcoin-vs-bitcoin-etf",
-   "permalink": "https://www.instagram.com/reel/DdHe-mAkYic/",
-   "timestamp": "2026-09-10T18:30:57+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 54,
    "likes": 4,
    "comments": 0
   }
