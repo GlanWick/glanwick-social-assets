@@ -1120,11 +1120,12 @@
     {
       "id": "2026-09-25-verdoppeln",
       "slug": "stickman-martingale",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-25T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale-cover.jpg",
-      "caption": "Double after every loss and loss number 7 costs 64 times your first one.\n\n1, 2, 4, 8, 16, 32, 64. Seven losses in a row add up to 127 units, and the win that finally comes pays back exactly 1.\n\nSeven in a row at a 50 % hit rate is 1 in 128. Over a year of trading it shows up. Doubling only works with infinite money, and nobody has that.\n\nSend this to the friend who \"just needs one win to get it all back\".\n\nHave you ever doubled after a loss? 👇\n\nPart 32 of the series.\n\n#martingale #positionsizing #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "Double after every loss and loss number 7 costs 64 times your first one.\n\n1, 2, 4, 8, 16, 32, 64. Seven losses in a row add up to 127 units, and the win that finally comes pays back exactly 1.\n\nSeven in a row at a 50 % hit rate is 1 in 128. Over a year of trading it shows up. Doubling only works with infinite money, and nobody has that.\n\nSend this to the friend who \"just needs one win to get it all back\".\n\nHave you ever doubled after a loss? 👇\n\nPart 32 of the series.\n\n#martingale #positionsizing #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-25T12:00:29.877Z"
     },
     {
       "id": "2026-09-25-erholung",
