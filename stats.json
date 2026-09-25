@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T01:22:51.856Z",
+ "updated": "2026-09-25T02:23:10.383Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T01:22:53.150Z",
+  "checked": "2026-09-25T02:23:11.339Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-09-24",
-    "reach": 6238
+    "reach": 6294
    }
   ],
   "avg_watch_last_reels": 12.7
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 209,
+  "followers": 208,
   "media_count": 74
  },
  "history": [
@@ -2537,6 +2537,11 @@
    "ts": "2026-09-25T01:22:51.856Z",
    "followers": 209,
    "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T02:23:10.383Z",
+   "followers": 208,
+   "media_count": 74
   }
  ],
  "posts": [
@@ -2547,7 +2552,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 381,
+   "views": 472,
    "likes": 5,
    "comments": 0
   },
@@ -2558,7 +2563,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2552,
+   "views": 2561,
    "likes": 13,
    "comments": 2
   },
@@ -2569,7 +2574,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3970,
+   "views": 3991,
    "likes": 33,
    "comments": 0
   },
@@ -2580,7 +2585,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2264,
+   "views": 2267,
    "likes": 18,
    "comments": 0
   },
@@ -2591,7 +2596,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2479,
+   "views": 2481,
    "likes": 26,
    "comments": 0
   },
@@ -2657,7 +2662,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2159,
+   "views": 2160,
    "likes": 22,
    "comments": 1
   },
