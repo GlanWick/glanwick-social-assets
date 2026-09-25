@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T06:13:55.742Z",
+ "updated": "2026-09-25T07:14:24.308Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T06:13:56.755Z",
+  "checked": "2026-09-25T07:14:25.135Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-24",
-    "reach": 7085
+    "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 12.1
+  "avg_watch_last_reels": 12
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2562,6 +2562,11 @@
    "ts": "2026-09-25T06:13:55.742Z",
    "followers": 211,
    "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T07:14:24.308Z",
+   "followers": 211,
+   "media_count": 75
   }
  ],
  "posts": [
@@ -2572,8 +2577,8 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1287,
-   "likes": 10,
+   "views": 1497,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -2583,7 +2588,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 768,
+   "views": 829,
    "likes": 5,
    "comments": 0
   },
@@ -2594,7 +2599,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2598,
+   "views": 2612,
    "likes": 13,
    "comments": 2
   },
@@ -2605,7 +2610,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4085,
+   "views": 4129,
    "likes": 33,
    "comments": 0
   },
@@ -2616,7 +2621,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2270,
+   "views": 2271,
    "likes": 18,
    "comments": 0
   },
@@ -2627,7 +2632,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2484,
+   "views": 2486,
    "likes": 26,
    "comments": 0
   },
@@ -2671,7 +2676,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 294,
+   "views": 295,
    "likes": 3,
    "comments": 0
   },
@@ -2726,7 +2731,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1560,
+   "views": 1562,
    "likes": 21,
    "comments": 0
   },
@@ -2737,7 +2742,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 346,
+   "views": 348,
    "likes": 4,
    "comments": 0
   },
@@ -2814,7 +2819,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1853,
+   "views": 1854,
    "likes": 32,
    "comments": 0
   },
@@ -2869,7 +2874,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2794,
+   "views": 2795,
    "likes": 53,
    "comments": 0
   },
@@ -2891,7 +2896,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2102,
+   "views": 2103,
    "likes": 30,
    "comments": 3
   },
@@ -2913,7 +2918,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 45,
+   "views": 46,
    "likes": 3,
    "comments": 0
   },
@@ -2979,7 +2984,7 @@
    "timestamp": "2026-09-11T13:31:32+0000",
    "type": "VIDEO",
    "caption": "The free trade that cost you the trade.",
-   "views": 175,
+   "views": 176,
    "likes": 5,
    "comments": 0
   },
