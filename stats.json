@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T08:14:53.522Z",
+ "updated": "2026-09-25T09:03:11.890Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T08:14:54.476Z",
+  "checked": "2026-09-25T09:03:12.844Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -2572,6 +2572,11 @@
    "ts": "2026-09-25T08:14:53.522Z",
    "followers": 211,
    "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T09:03:11.890Z",
+   "followers": 211,
+   "media_count": 75
   }
  ],
  "posts": [
@@ -2582,8 +2587,8 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1575,
-   "likes": 11,
+   "views": 1633,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2593,8 +2598,8 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 921,
-   "likes": 5,
+   "views": 1031,
+   "likes": 8,
    "comments": 0
   },
   {
@@ -2604,7 +2609,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2613,
+   "views": 2621,
    "likes": 13,
    "comments": 2
   },
@@ -2615,7 +2620,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4156,
+   "views": 4174,
    "likes": 33,
    "comments": 0
   },
