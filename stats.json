@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T22:45:03.443Z",
+ "updated": "2026-09-25T23:45:25.233Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T22:45:05.217Z",
+  "checked": "2026-09-25T23:45:26.485Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,13 +34,13 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.7
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 219,
-  "media_count": 77
+  "media_count": 78
  },
  "history": [
   {
@@ -2647,9 +2647,25 @@
    "ts": "2026-09-25T22:45:03.443Z",
    "followers": 219,
    "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T23:45:25.233Z",
+   "followers": 219,
+   "media_count": 78
   }
  ],
  "posts": [
+  {
+   "id": "18137006041715709",
+   "slug": "stickman-halfsize",
+   "permalink": "https://www.instagram.com/reel/DdulyWQAWPF/",
+   "timestamp": "2026-09-25T23:00:41+0000",
+   "type": "VIDEO",
+   "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
+   "views": 107,
+   "likes": 3,
+   "comments": 0
+  },
   {
    "id": "18097878389093391",
    "slug": "stickman-recovery",
@@ -2657,8 +2673,8 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 2847,
-   "likes": 18,
+   "views": 2887,
+   "likes": 19,
    "comments": 0
   },
   {
@@ -2668,8 +2684,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3184,
-   "likes": 26,
+   "views": 3218,
+   "likes": 27,
    "comments": 0
   },
   {
@@ -2679,8 +2695,8 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2072,
-   "likes": 15,
+   "views": 2085,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -2690,8 +2706,8 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1607,
-   "likes": 11,
+   "views": 1619,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2701,7 +2717,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2771,
+   "views": 2780,
    "likes": 17,
    "comments": 2
   },
@@ -2712,7 +2728,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4425,
+   "views": 4433,
    "likes": 33,
    "comments": 0
   },
@@ -2723,7 +2739,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2285,
+   "views": 2286,
    "likes": 18,
    "comments": 0
   },
@@ -2734,7 +2750,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2532,
+   "views": 2533,
    "likes": 26,
    "comments": 0
   },
@@ -2745,7 +2761,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 900,
+   "views": 902,
    "likes": 8,
    "comments": 0
   },
@@ -2756,7 +2772,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2192,
+   "views": 2195,
    "likes": 12,
    "comments": 0
   },
@@ -2767,7 +2783,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1436,
+   "views": 1437,
    "likes": 18,
    "comments": 0
   },
@@ -2778,7 +2794,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 298,
+   "views": 299,
    "likes": 3,
    "comments": 0
   },
@@ -2789,7 +2805,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1534,
+   "views": 1535,
    "likes": 13,
    "comments": 0
   },
@@ -2800,7 +2816,7 @@
    "timestamp": "2026-09-21T02:31:00+0000",
    "type": "VIDEO",
    "caption": "Your worst losing streak is longer than the one you planned for.",
-   "views": 2162,
+   "views": 2165,
    "likes": 22,
    "comments": 1
   },
@@ -2811,7 +2827,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1256,
+   "views": 1257,
    "likes": 13,
    "comments": 1
   },
@@ -2822,7 +2838,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1647,
+   "views": 1649,
    "likes": 10,
    "comments": 0
   },
@@ -2833,7 +2849,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1567,
+   "views": 1571,
    "likes": 21,
    "comments": 0
   },
@@ -2844,7 +2860,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 349,
+   "views": 351,
    "likes": 4,
    "comments": 0
   },
@@ -2855,7 +2871,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1973,
+   "views": 1977,
    "likes": 9,
    "comments": 0
   },
@@ -2866,7 +2882,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 382,
+   "views": 383,
    "likes": 6,
    "comments": 0
   },
@@ -2877,7 +2893,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2179,
+   "views": 2180,
    "likes": 38,
    "comments": 1
   },
@@ -2888,7 +2904,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1870,
+   "views": 1871,
    "likes": 13,
    "comments": 0
   },
@@ -2899,7 +2915,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3141,
+   "views": 3143,
    "likes": 26,
    "comments": 2
   },
@@ -2910,7 +2926,7 @@
    "timestamp": "2026-09-17T23:01:32+0000",
    "type": "VIDEO",
    "caption": "You sell your winners and you keep your losers. 10,000 accounts say so.",
-   "views": 1764,
+   "views": 1765,
    "likes": 11,
    "comments": 0
   },
@@ -2921,7 +2937,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1857,
+   "views": 1858,
    "likes": 32,
    "comments": 0
   },
@@ -2932,7 +2948,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 365,
+   "views": 367,
    "likes": 8,
    "comments": 0
   },
@@ -2943,7 +2959,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1928,
+   "views": 1929,
    "likes": 22,
    "comments": 0
   },
@@ -2954,7 +2970,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1245,
+   "views": 1246,
    "likes": 25,
    "comments": 0
   },
@@ -2965,7 +2981,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 322,
+   "views": 323,
    "likes": 6,
    "comments": 0
   },
@@ -2976,7 +2992,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2796,
+   "views": 2797,
    "likes": 53,
    "comments": 0
   },
@@ -2987,7 +3003,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1520,
+   "views": 1521,
    "likes": 37,
    "comments": 0
   },
@@ -2998,7 +3014,7 @@
    "timestamp": "2026-09-15T02:31:03+0000",
    "type": "VIDEO",
    "caption": "Lose half your account and you need +100 % just to get back to flat.",
-   "views": 2103,
+   "views": 2104,
    "likes": 30,
    "comments": 3
   },
@@ -3009,7 +3025,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1487,
+   "views": 1488,
    "likes": 29,
    "comments": 0
   },
@@ -3020,7 +3036,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 47,
+   "views": 48,
    "likes": 3,
    "comments": 0
   },
@@ -3031,7 +3047,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 95,
+   "views": 96,
    "likes": 3,
    "comments": 0
   },
@@ -3077,17 +3093,6 @@
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
    "views": 178,
    "likes": 8,
-   "comments": 0
-  },
-  {
-   "id": "18116570846061709",
-   "slug": "stop-loss-vs-break-even",
-   "permalink": "https://www.instagram.com/reel/DdJhgRoEVyf/",
-   "timestamp": "2026-09-11T13:31:32+0000",
-   "type": "VIDEO",
-   "caption": "The free trade that cost you the trade.",
-   "views": 176,
-   "likes": 5,
    "comments": 0
   }
  ]
