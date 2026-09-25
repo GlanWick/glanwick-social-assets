@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T16:53:56.862Z",
+ "updated": "2026-09-25T17:54:00.966Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T16:53:57.795Z",
+  "checked": "2026-09-25T17:54:01.736Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,13 +34,13 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 11.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 216,
-  "media_count": 76
+  "followers": 217,
+  "media_count": 77
  },
  "history": [
   {
@@ -2617,9 +2617,25 @@
    "ts": "2026-09-25T16:53:56.862Z",
    "followers": 216,
    "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T17:54:00.966Z",
+   "followers": 217,
+   "media_count": 77
   }
  ],
  "posts": [
+  {
+   "id": "18097878389093391",
+   "slug": "stickman-recovery",
+   "permalink": "https://www.instagram.com/reel/Ddt8km3iEOi/",
+   "timestamp": "2026-09-25T17:00:46+0000",
+   "type": "VIDEO",
+   "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
+   "views": 212,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "17920753875220904",
    "slug": "stickman-martingale",
@@ -2627,8 +2643,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 2415,
-   "likes": 19,
+   "views": 2642,
+   "likes": 21,
    "comments": 0
   },
   {
@@ -2638,7 +2654,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2009,
+   "views": 2020,
    "likes": 15,
    "comments": 0
   },
@@ -2649,7 +2665,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1508,
+   "views": 1525,
    "likes": 10,
    "comments": 0
   },
@@ -2660,8 +2676,8 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2710,
-   "likes": 16,
+   "views": 2722,
+   "likes": 17,
    "comments": 2
   },
   {
@@ -2671,7 +2687,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4328,
+   "views": 4341,
    "likes": 33,
    "comments": 0
   },
@@ -2682,7 +2698,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2279,
+   "views": 2280,
    "likes": 18,
    "comments": 0
   },
@@ -2715,7 +2731,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2190,
+   "views": 2191,
    "likes": 12,
    "comments": 0
   },
@@ -3047,17 +3063,6 @@
    "caption": "The free trade that cost you the trade.",
    "views": 176,
    "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18008934374986590",
-   "slug": "stop-loss-vs-risk",
-   "permalink": "https://www.instagram.com/reel/DdJCho3jCdm/",
-   "timestamp": "2026-09-11T09:00:50+0000",
-   "type": "VIDEO",
-   "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 108,
-   "likes": 4,
    "comments": 0
   }
  ]
