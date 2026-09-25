@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T18:54:10.508Z",
+ "updated": "2026-09-25T19:54:19.099Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T18:54:11.523Z",
+  "checked": "2026-09-25T19:54:20.030Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -2627,6 +2627,11 @@
    "ts": "2026-09-25T18:54:10.508Z",
    "followers": 217,
    "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T19:54:19.099Z",
+   "followers": 217,
+   "media_count": 77
   }
  ],
  "posts": [
@@ -2637,8 +2642,8 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 344,
-   "likes": 2,
+   "views": 711,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2648,8 +2653,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 2881,
-   "likes": 21,
+   "views": 3077,
+   "likes": 25,
    "comments": 0
   },
   {
@@ -2659,7 +2664,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2034,
+   "views": 2046,
    "likes": 15,
    "comments": 0
   },
@@ -2670,7 +2675,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1548,
+   "views": 1560,
    "likes": 11,
    "comments": 0
   },
@@ -2681,7 +2686,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2738,
+   "views": 2755,
    "likes": 17,
    "comments": 2
   },
@@ -2692,7 +2697,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4354,
+   "views": 4378,
    "likes": 33,
    "comments": 0
   },
@@ -2703,7 +2708,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2282,
+   "views": 2284,
    "likes": 18,
    "comments": 0
   },
@@ -2714,7 +2719,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2512,
+   "views": 2521,
    "likes": 26,
    "comments": 0
   },
