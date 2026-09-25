@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:43:54.376Z",
+  "generated_at": "2026-09-25T21:40:44.569Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1099,10 +1099,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payoff-cover.jpg",
       "caption": "Lose 7 of 10 and still come out ahead.\n\nRisk $100 per trade and take $300 when you are right. 7 losses cost $700, 3 winners bring $900, so the 10 trades close at +$200.\n\nSame 10 trades at 1 to 1 and you are down $400. The win rate did not change. The payoff did.\n\nSend this to the friend who quit a setup because \"it only hits 40 %\".\n\nWhat is your average winner worth compared to your average loser? 👇\n\nPart 30 of the series.\n\n#riskreward #winrate #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109592525136556",
       "media_id": "18030594071854101",
       "permalink": "https://www.instagram.com/reel/DdsA-igjALD/",
-      "published_at": "2026-09-24T23:00:49.784Z"
+      "published_at": "2026-09-24T23:00:49.784Z",
+      "container_id": "18109592525136556"
     },
     {
       "id": "2026-09-25-tagesverlust",
@@ -1112,10 +1112,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailyloss.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailyloss-cover.jpg",
       "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.\n\n20 days at half a percent, compounded, is +10.5 %. One day at −10 % takes it to −0.6 %. Twenty careful days, undone by one.\n\nThat day usually has a name. The stop you moved, the size you doubled, the trade you would not close.\n\nSend this to the friend whose month was fine \"until Thursday\".\n\nDo you have a daily loss limit, in a number? 👇\n\nPart 31 of the series.\n\n#dailylosslimit #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109607912136556",
       "media_id": "17900715135376918",
       "permalink": "https://www.instagram.com/reel/DdsZBfgibBp/",
-      "published_at": "2026-09-25T02:30:49.178Z"
+      "published_at": "2026-09-25T02:30:49.178Z",
+      "container_id": "18109607912136556"
     },
     {
       "id": "2026-09-25-verdoppeln",
@@ -1125,10 +1125,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale-cover.jpg",
       "caption": "Double after every loss and loss number 7 costs 64 times your first one.\n\n1, 2, 4, 8, 16, 32, 64. Seven losses in a row add up to 127 units, and the win that finally comes pays back exactly 1.\n\nSeven in a row at a 50 % hit rate is 1 in 128. Over a year of trading it shows up. Doubling only works with infinite money, and nobody has that.\n\nSend this to the friend who \"just needs one win to get it all back\".\n\nHave you ever doubled after a loss? 👇\n\nPart 32 of the series.\n\n#martingale #positionsizing #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109664192136556",
       "media_id": "17920753875220904",
       "permalink": "https://www.instagram.com/reel/DdtaZMHjd3r/",
-      "published_at": "2026-09-25T12:02:12.702Z"
+      "published_at": "2026-09-25T12:02:12.702Z",
+      "container_id": "18109664192136556"
     },
     {
       "id": "2026-09-25-erholung",
@@ -1138,10 +1138,10 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-cover.jpg",
       "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.\n\nDown 30 % means you need +43 % just to see the old number again. At 2 % a month, compounded, that is 18 months. A year and a half of work for zero progress.\n\nAt 15 % down the same trader is back in 8 months. The depth of the hole sets the length of the climb.\n\nSend this to the friend who says \"I'll make it back next month\".\n\nWhat was your deepest drawdown, and how long did it take? 👇\n\nPart 33 of the series.\n\n#drawdown #recovery #riskmanagement #tradingjournal #knowthedifference",
-      "container_id": "18109704167136556",
       "media_id": "18097878389093391",
       "permalink": "https://www.instagram.com/reel/Ddt8km3iEOi/",
-      "published_at": "2026-09-25T17:00:56.375Z"
+      "published_at": "2026-09-25T17:00:56.375Z",
+      "container_id": "18109704167136556"
     },
     {
       "id": "2026-09-26-halbe-groesse",
@@ -1160,6 +1160,42 @@
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-luck.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-luck-cover.jpg",
       "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both did everything right.\n\n55 % hit rate, 1 to 1, 1 % risk. The expected result after 200 trades is +20 %. The spread around it is 14 % (one standard deviation), so +6 % to +34 % is the normal range.\n\nAbout 1 in 13 of those traders ends the 200 trades below zero. Same edge, same rules. Judge the process, because 200 trades cannot judge the trader.\n\nSend this to the friend who changed strategy after one bad month.\n\nHow many trades do you give a strategy before you judge it? 👇\n\nPart 35 of the series.\n\n#variance #tradingedge #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-26-prop-firm",
+      "slug": "stickman-propfirm",
+      "status": "ready",
+      "scheduled_at": "2026-09-26T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propfirm.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propfirm-cover.jpg",
+      "caption": "A trader with a real edge fails a 10 % target, 5 % max drawdown challenge one time in three.\n\n55 % hit rate, 1 to 1, 1 % risk per trade. To pass you must land 10 winners net before you land 5 losers net. The odds of getting there first are 67 %. So 1 in 3 challenges is lost with a strategy that works.\n\nHalve the risk to 0.5 % and the failure rate drops to 13 %. Slower, and far safer. The challenge tests your size before it ever tests your edge.\n\nSend this to the friend on his third challenge fee.\n\nHave you failed a challenge with a strategy you still trust? 👇\n\nPart 36 of the series.\n\n#propfirm #fundedtrader #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-26-fester-betrag",
+      "slug": "stickman-fixeddollar",
+      "status": "ready",
+      "scheduled_at": "2026-09-26T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixeddollar.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixeddollar-cover.jpg",
+      "caption": "Risk $500 a trade on $10,000 and 20 losses is zero. Risk 5 % and 20 losses leaves $3,600.\n\n20 × $500 is the whole $10,000. Loss number 20 takes the last of it. At 5 % of what is left, the risk shrinks with the account: loss number 20 costs $190, and there is a trade number 21.\n\nSame 20 losses. One trader is out of the game, the other is down and still playing. A fixed percent can shrink you. It can never finish you.\n\nSend this to the friend who risks \"the same 500 as always\".\n\nFixed amount or fixed percent, which one do you use? 👇\n\nPart 37 of the series.\n\n#positionsizing #riskofruin #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-27-bester-trade",
+      "slug": "stickman-outlier",
+      "status": "ready",
+      "scheduled_at": "2026-09-26T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outlier.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outlier-cover.jpg",
+      "caption": "Take out your single best trade and the year is red.\n\n200 trades, +20R for the year. The best one of them made +25R. Without that one trade the other 199 add up to −5R.\n\nOne trade out of 200 decides the sign of your year. That is luck, and luck does not compound. A track record is only as strong as it is without its best trade.\n\nSend this to the friend whose \"system\" is one big winner from March.\n\nWhat does your year look like without your best trade? 👇\n\nPart 38 of the series.\n\n#trackrecord #expectancy #riskmanagement #tradingjournal #knowthedifference"
+    },
+    {
+      "id": "2026-09-27-muenzwurf",
+      "slug": "stickman-coinflip",
+      "status": "ready",
+      "scheduled_at": "2026-09-27T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coinflip.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coinflip-cover.jpg",
+      "caption": "60 % win rate over 50 trades. A coin does that one time in ten.\n\n30 winners out of 50 feels like an edge. Flip a coin 50 times and 30 or more heads shows up in about 1 run out of 10. Put 10 traders with no edge in a room, 50 trades each, and one of them will show you a 60 % track record.\n\nTo be sure it is your edge and not the coin, you need about 100 trades at 60 %, or about 380 at 55 %. 50 trades is a story. 200 is a statistic.\n\nSend this to the friend who went live after a 50-trade backtest.\n\nHow many trades did your first \"edge\" survive? 👇\n\nPart 39 of the series.\n\n#samplesize #backtesting #riskmanagement #tradingjournal #knowthedifference"
     }
   ]
 }
