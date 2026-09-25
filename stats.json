@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T20:44:12.003Z",
+ "updated": "2026-09-25T21:44:37.057Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T20:44:12.851Z",
+  "checked": "2026-09-25T21:44:38.190Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -2637,6 +2637,11 @@
    "ts": "2026-09-25T20:44:12.003Z",
    "followers": 219,
    "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T21:44:37.057Z",
+   "followers": 219,
+   "media_count": 77
   }
  ],
  "posts": [
@@ -2647,8 +2652,8 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 1843,
-   "likes": 10,
+   "views": 2515,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -2658,7 +2663,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3127,
+   "views": 3157,
    "likes": 25,
    "comments": 0
   },
@@ -2669,7 +2674,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2052,
+   "views": 2062,
    "likes": 15,
    "comments": 0
   },
@@ -2680,7 +2685,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1573,
+   "views": 1586,
    "likes": 11,
    "comments": 0
   },
@@ -2691,7 +2696,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2761,
+   "views": 2769,
    "likes": 17,
    "comments": 2
   },
@@ -2702,7 +2707,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4401,
+   "views": 4420,
    "likes": 33,
    "comments": 0
   },
@@ -2724,7 +2729,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2523,
+   "views": 2532,
    "likes": 26,
    "comments": 0
   },
@@ -2768,7 +2773,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 296,
+   "views": 298,
    "likes": 3,
    "comments": 0
   },
@@ -2823,7 +2828,7 @@
    "timestamp": "2026-09-20T12:00:51+0000",
    "type": "VIDEO",
    "caption": "A losing trade can still be the right trade.",
-   "views": 1562,
+   "views": 1567,
    "likes": 21,
    "comments": 0
   },
@@ -2834,7 +2839,7 @@
    "timestamp": "2026-09-20T02:30:33+0000",
    "type": "VIDEO",
    "caption": "Test 20 settings and one of them will look brilliant by luck alone.",
-   "views": 348,
+   "views": 349,
    "likes": 4,
    "comments": 0
   },
@@ -2867,7 +2872,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2178,
+   "views": 2179,
    "likes": 38,
    "comments": 1
   },
@@ -2878,7 +2883,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1868,
+   "views": 1870,
    "likes": 13,
    "comments": 0
   },
@@ -2889,7 +2894,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3140,
+   "views": 3141,
    "likes": 26,
    "comments": 2
   },
@@ -2911,7 +2916,7 @@
    "timestamp": "2026-09-17T12:00:41+0000",
    "type": "VIDEO",
    "caption": "He won 90 of his last 100 trades and the account is down.",
-   "views": 1854,
+   "views": 1857,
    "likes": 32,
    "comments": 0
   },
@@ -2933,7 +2938,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1927,
+   "views": 1928,
    "likes": 22,
    "comments": 0
   },
@@ -3010,7 +3015,7 @@
    "timestamp": "2026-09-13T23:00:35+0000",
    "type": "VIDEO",
    "caption": "Apple's new folding iPhone costs 1,999 dollars. Four hundred market orders cost ",
-   "views": 46,
+   "views": 47,
    "likes": 3,
    "comments": 0
   },
