@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T14:05:21.728Z",
+ "updated": "2026-09-25T14:53:37.547Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T14:05:22.896Z",
+  "checked": "2026-09-25T14:53:38.457Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,7 +34,7 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2602,6 +2602,11 @@
    "ts": "2026-09-25T14:05:21.728Z",
    "followers": 214,
    "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T14:53:37.547Z",
+   "followers": 214,
+   "media_count": 76
   }
  ],
  "posts": [
@@ -2612,7 +2617,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 716,
+   "views": 1115,
    "likes": 5,
    "comments": 0
   },
@@ -2623,7 +2628,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1905,
+   "views": 1945,
    "likes": 15,
    "comments": 0
   },
@@ -2634,7 +2639,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1431,
+   "views": 1456,
    "likes": 10,
    "comments": 0
   },
@@ -2645,7 +2650,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2669,
+   "views": 2674,
    "likes": 15,
    "comments": 2
   },
@@ -2656,7 +2661,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4291,
+   "views": 4303,
    "likes": 33,
    "comments": 0
   },
@@ -2678,7 +2683,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2506,
+   "views": 2507,
    "likes": 26,
    "comments": 0
   },
@@ -2833,7 +2838,7 @@
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
    "views": 1866,
-   "likes": 12,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -2920,7 +2925,7 @@
    "timestamp": "2026-09-16T02:30:41+0000",
    "type": "VIDEO",
    "caption": "He won 7 trades out of 10 and still lost money.",
-   "views": 2795,
+   "views": 2796,
    "likes": 53,
    "comments": 0
   },
