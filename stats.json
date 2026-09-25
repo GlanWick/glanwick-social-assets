@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T19:54:19.099Z",
+ "updated": "2026-09-25T20:44:12.003Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T19:54:20.030Z",
+  "checked": "2026-09-25T20:44:12.851Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,12 +34,12 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.4
+  "avg_watch_last_reels": 11.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 217,
+  "followers": 219,
   "media_count": 77
  },
  "history": [
@@ -2632,6 +2632,11 @@
    "ts": "2026-09-25T19:54:19.099Z",
    "followers": 217,
    "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T20:44:12.003Z",
+   "followers": 219,
+   "media_count": 77
   }
  ],
  "posts": [
@@ -2642,8 +2647,8 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 711,
-   "likes": 6,
+   "views": 1843,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2653,7 +2658,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3077,
+   "views": 3127,
    "likes": 25,
    "comments": 0
   },
@@ -2664,7 +2669,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2046,
+   "views": 2052,
    "likes": 15,
    "comments": 0
   },
@@ -2675,7 +2680,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1560,
+   "views": 1573,
    "likes": 11,
    "comments": 0
   },
@@ -2686,7 +2691,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2755,
+   "views": 2761,
    "likes": 17,
    "comments": 2
   },
@@ -2697,7 +2702,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4378,
+   "views": 4401,
    "likes": 33,
    "comments": 0
   },
@@ -2719,7 +2724,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2521,
+   "views": 2523,
    "likes": 26,
    "comments": 0
   },
@@ -2884,7 +2889,7 @@
    "timestamp": "2026-09-18T02:31:28+0000",
    "type": "VIDEO",
    "caption": "Two traders take the same ten losing trades and end up with different accounts.",
-   "views": 3135,
+   "views": 3140,
    "likes": 26,
    "comments": 2
   },
