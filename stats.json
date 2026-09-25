@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T05:13:27.296Z",
+ "updated": "2026-09-25T06:13:55.742Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T05:13:28.359Z",
+  "checked": "2026-09-25T06:13:56.755Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-24",
-    "reach": 6912
+    "reach": 7085
    }
   ],
-  "avg_watch_last_reels": 11.8
+  "avg_watch_last_reels": 12.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 210,
+  "followers": 211,
   "media_count": 75
  },
  "history": [
@@ -2557,6 +2557,11 @@
    "ts": "2026-09-25T05:13:27.296Z",
    "followers": 210,
    "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T06:13:55.742Z",
+   "followers": 211,
+   "media_count": 75
   }
  ],
  "posts": [
@@ -2567,8 +2572,8 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 946,
-   "likes": 7,
+   "views": 1287,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2578,7 +2583,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 705,
+   "views": 768,
    "likes": 5,
    "comments": 0
   },
@@ -2589,7 +2594,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2578,
+   "views": 2598,
    "likes": 13,
    "comments": 2
   },
@@ -2600,7 +2605,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4054,
+   "views": 4085,
    "likes": 33,
    "comments": 0
   },
@@ -2611,7 +2616,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2268,
+   "views": 2270,
    "likes": 18,
    "comments": 0
   },
@@ -2622,7 +2627,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2481,
+   "views": 2484,
    "likes": 26,
    "comments": 0
   },
@@ -2633,7 +2638,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 894,
+   "views": 895,
    "likes": 8,
    "comments": 0
   },
@@ -2644,7 +2649,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2187,
+   "views": 2188,
    "likes": 12,
    "comments": 0
   },
@@ -2765,7 +2770,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2170,
+   "views": 2175,
    "likes": 37,
    "comments": 1
   },
@@ -2831,7 +2836,7 @@
    "timestamp": "2026-09-16T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Ask a trader about last month and he names three trades. Two of them worked.",
-   "views": 1925,
+   "views": 1927,
    "likes": 22,
    "comments": 0
   },
@@ -2853,7 +2858,7 @@
    "timestamp": "2026-09-16T12:01:07+0000",
    "type": "VIDEO",
    "caption": "Zero commission still has a cost.",
-   "views": 321,
+   "views": 322,
    "likes": 6,
    "comments": 0
   },
@@ -2952,7 +2957,7 @@
    "timestamp": "2026-09-12T16:00:36+0000",
    "type": "VIDEO",
    "caption": "A stop loss asks where. A time stop asks how long.",
-   "views": 113,
+   "views": 114,
    "likes": 5,
    "comments": 0
   },
@@ -2963,7 +2968,7 @@
    "timestamp": "2026-09-12T07:46:31+0000",
    "type": "VIDEO",
    "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 177,
+   "views": 178,
    "likes": 8,
    "comments": 0
   },
@@ -2985,7 +2990,7 @@
    "timestamp": "2026-09-11T09:00:50+0000",
    "type": "VIDEO",
    "caption": "A tighter stop feels safer. What it actually changes is your size.",
-   "views": 104,
+   "views": 108,
    "likes": 4,
    "comments": 0
   },
