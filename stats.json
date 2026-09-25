@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T07:14:24.308Z",
+ "updated": "2026-09-25T08:14:53.522Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T07:14:25.135Z",
+  "checked": "2026-09-25T08:14:54.476Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,7 +34,7 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 12
+  "avg_watch_last_reels": 12.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2567,6 +2567,11 @@
    "ts": "2026-09-25T07:14:24.308Z",
    "followers": 211,
    "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T08:14:53.522Z",
+   "followers": 211,
+   "media_count": 75
   }
  ],
  "posts": [
@@ -2577,7 +2582,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1497,
+   "views": 1575,
    "likes": 11,
    "comments": 0
   },
@@ -2588,7 +2593,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 829,
+   "views": 921,
    "likes": 5,
    "comments": 0
   },
@@ -2599,7 +2604,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2612,
+   "views": 2613,
    "likes": 13,
    "comments": 2
   },
@@ -2610,7 +2615,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4129,
+   "views": 4156,
    "likes": 33,
    "comments": 0
   },
@@ -2643,7 +2648,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 895,
+   "views": 897,
    "likes": 8,
    "comments": 0
   },
@@ -2753,7 +2758,7 @@
    "timestamp": "2026-09-19T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Three positions at 2 % each is one bet at 6 %, if they all point the same way.",
-   "views": 1970,
+   "views": 1973,
    "likes": 9,
    "comments": 0
   },
@@ -2764,7 +2769,7 @@
    "timestamp": "2026-09-19T17:00:59+0000",
    "type": "VIDEO",
    "caption": "A stop loss is an instruction. The fill is whatever comes next.",
-   "views": 381,
+   "views": 382,
    "likes": 6,
    "comments": 0
   },
@@ -2852,7 +2857,7 @@
    "timestamp": "2026-09-16T17:01:42+0000",
    "type": "VIDEO",
    "caption": "The second loss is never about the chart.",
-   "views": 1244,
+   "views": 1245,
    "likes": 25,
    "comments": 0
   },
@@ -2885,7 +2890,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1518,
+   "views": 1519,
    "likes": 37,
    "comments": 0
   },
@@ -2940,7 +2945,7 @@
    "timestamp": "2026-09-13T07:01:10+0000",
    "type": "VIDEO",
    "caption": "Short selling is one trader borrowing a share and selling it. A short squeeze is",
-   "views": 93,
+   "views": 95,
    "likes": 4,
    "comments": 0
   },
@@ -2951,7 +2956,7 @@
    "timestamp": "2026-09-12T23:25:36+0000",
    "type": "VIDEO",
    "caption": "A cash account spends your money. A margin account spends the broker's money too",
-   "views": 259,
+   "views": 261,
    "likes": 6,
    "comments": 0
   },
