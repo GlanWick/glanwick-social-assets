@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T17:54:00.966Z",
+ "updated": "2026-09-25T18:54:10.508Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T17:54:01.736Z",
+  "checked": "2026-09-25T18:54:11.523Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,7 +34,7 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.8
+  "avg_watch_last_reels": 11.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2622,6 +2622,11 @@
    "ts": "2026-09-25T17:54:00.966Z",
    "followers": 217,
    "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T18:54:10.508Z",
+   "followers": 217,
+   "media_count": 77
   }
  ],
  "posts": [
@@ -2632,7 +2637,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 212,
+   "views": 344,
    "likes": 2,
    "comments": 0
   },
@@ -2643,7 +2648,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 2642,
+   "views": 2881,
    "likes": 21,
    "comments": 0
   },
@@ -2654,7 +2659,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2020,
+   "views": 2034,
    "likes": 15,
    "comments": 0
   },
@@ -2665,8 +2670,8 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1525,
-   "likes": 10,
+   "views": 1548,
+   "likes": 11,
    "comments": 0
   },
   {
@@ -2676,7 +2681,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2722,
+   "views": 2738,
    "likes": 17,
    "comments": 2
   },
@@ -2687,7 +2692,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4341,
+   "views": 4354,
    "likes": 33,
    "comments": 0
   },
@@ -2698,7 +2703,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2280,
+   "views": 2282,
    "likes": 18,
    "comments": 0
   },
@@ -2709,7 +2714,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2510,
+   "views": 2512,
    "likes": 26,
    "comments": 0
   },
@@ -2720,7 +2725,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 899,
+   "views": 900,
    "likes": 8,
    "comments": 0
   },
@@ -2731,7 +2736,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2191,
+   "views": 2192,
    "likes": 12,
    "comments": 0
   },
@@ -2742,7 +2747,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1435,
+   "views": 1436,
    "likes": 18,
    "comments": 0
   },
@@ -2753,7 +2758,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 295,
+   "views": 296,
    "likes": 3,
    "comments": 0
   },
@@ -2852,7 +2857,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2177,
+   "views": 2178,
    "likes": 38,
    "comments": 1
   },
