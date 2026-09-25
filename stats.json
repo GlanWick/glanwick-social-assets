@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T02:23:10.383Z",
+ "updated": "2026-09-25T03:12:28.764Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T02:23:11.339Z",
+  "checked": "2026-09-25T03:12:29.713Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-09-24",
-    "reach": 6294
+    "reach": 6343
    }
   ],
-  "avg_watch_last_reels": 12.7
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 208,
-  "media_count": 74
+  "media_count": 75
  },
  "history": [
   {
@@ -2542,9 +2542,25 @@
    "ts": "2026-09-25T02:23:10.383Z",
    "followers": 208,
    "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T03:12:28.764Z",
+   "followers": 208,
+   "media_count": 75
   }
  ],
  "posts": [
+  {
+   "id": "17900715135376918",
+   "slug": "stickman-dailyloss",
+   "permalink": "https://www.instagram.com/reel/DdsZBfgibBp/",
+   "timestamp": "2026-09-25T02:30:41+0000",
+   "type": "VIDEO",
+   "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
+   "views": 89,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18030594071854101",
    "slug": "stickman-payoff",
@@ -2552,7 +2568,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 472,
+   "views": 533,
    "likes": 5,
    "comments": 0
   },
@@ -2563,7 +2579,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2561,
+   "views": 2566,
    "likes": 13,
    "comments": 2
   },
@@ -2574,7 +2590,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 3991,
+   "views": 4018,
    "likes": 33,
    "comments": 0
   },
@@ -2971,17 +2987,6 @@
    "type": "VIDEO",
    "caption": "Follow for more differences.",
    "views": 54,
-   "likes": 4,
-   "comments": 0
-  },
-  {
-   "id": "18071049578772887",
-   "slug": "stop-loss-vs-wick",
-   "permalink": "https://www.instagram.com/reel/DdG8oWKgJ2u/",
-   "timestamp": "2026-09-10T13:30:39+0000",
-   "type": "VIDEO",
-   "caption": "Follow for more differences.",
-   "views": 50,
    "likes": 4,
    "comments": 0
   }
