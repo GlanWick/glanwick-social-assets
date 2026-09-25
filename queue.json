@@ -1146,11 +1146,12 @@
     {
       "id": "2026-09-26-halbe-groesse",
       "slug": "stickman-halfsize",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-09-25T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfsize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfsize-cover.jpg",
-      "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.\n\n10 losses at 2 % each, compounded, is −18 %. 3 at 2 % and then 7 at 1 % is −12 %. Same streak, same edge, a third less damage.\n\nGetting back from −12 % needs +14 %. Getting back from −18 % needs +22 %. Sizing down when you are cold is the one rule that pays you during a streak.\n\nSend this to the friend who sizes up after a loss \"to get it back faster\".\n\nWhat do you do with your size after 3 losses? 👇\n\nPart 34 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference"
+      "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.\n\n10 losses at 2 % each, compounded, is −18 %. 3 at 2 % and then 7 at 1 % is −12 %. Same streak, same edge, a third less damage.\n\nGetting back from −12 % needs +14 %. Getting back from −18 % needs +22 %. Sizing down when you are cold is the one rule that pays you during a streak.\n\nSend this to the friend who sizes up after a loss \"to get it back faster\".\n\nWhat do you do with your size after 3 losses? 👇\n\nPart 34 of the series.\n\n#positionsizing #losingstreak #riskmanagement #tradingjournal #knowthedifference",
+      "posting_started_at": "2026-09-25T23:00:16.698Z"
     },
     {
       "id": "2026-09-26-glueck",
