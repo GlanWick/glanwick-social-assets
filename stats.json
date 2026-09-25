@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T15:53:46.939Z",
+ "updated": "2026-09-25T16:53:56.862Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T15:53:48.082Z",
+  "checked": "2026-09-25T16:53:57.795Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,12 +34,12 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 215,
+  "followers": 216,
   "media_count": 76
  },
  "history": [
@@ -2612,6 +2612,11 @@
    "ts": "2026-09-25T15:53:46.939Z",
    "followers": 215,
    "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T16:53:56.862Z",
+   "followers": 216,
+   "media_count": 76
   }
  ],
  "posts": [
@@ -2622,8 +2627,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 1795,
-   "likes": 12,
+   "views": 2415,
+   "likes": 19,
    "comments": 0
   },
   {
@@ -2633,7 +2638,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1995,
+   "views": 2009,
    "likes": 15,
    "comments": 0
   },
@@ -2644,7 +2649,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1481,
+   "views": 1508,
    "likes": 10,
    "comments": 0
   },
@@ -2655,7 +2660,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2686,
+   "views": 2710,
    "likes": 16,
    "comments": 2
   },
@@ -2666,7 +2671,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4316,
+   "views": 4328,
    "likes": 33,
    "comments": 0
   },
@@ -2721,7 +2726,7 @@
    "timestamp": "2026-09-22T12:00:40+0000",
    "type": "VIDEO",
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1434,
+   "views": 1435,
    "likes": 18,
    "comments": 0
   },
@@ -2886,7 +2891,7 @@
    "timestamp": "2026-09-17T02:30:49+0000",
    "type": "VIDEO",
    "caption": "He halved his stop to risk less. He got stopped out twice as often.",
-   "views": 364,
+   "views": 365,
    "likes": 8,
    "comments": 0
   },
@@ -2963,7 +2968,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1486,
+   "views": 1487,
    "likes": 29,
    "comments": 0
   },
@@ -2985,7 +2990,7 @@
    "timestamp": "2026-09-13T16:00:59+0000",
    "type": "VIDEO",
    "caption": "A track record shows what happened. Survivorship bias is everything that never m",
-   "views": 92,
+   "views": 93,
    "likes": 3,
    "comments": 0
   },
