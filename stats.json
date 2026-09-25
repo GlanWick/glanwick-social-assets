@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-25T14:53:37.547Z",
+ "updated": "2026-09-25T15:53:46.939Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T14:53:38.457Z",
+  "checked": "2026-09-25T15:53:48.082Z",
   "reach_days": [
    {
     "day": "2026-09-18",
@@ -34,12 +34,12 @@
     "reach": 7339
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 214,
+  "followers": 215,
   "media_count": 76
  },
  "history": [
@@ -2607,6 +2607,11 @@
    "ts": "2026-09-25T14:53:37.547Z",
    "followers": 214,
    "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T15:53:46.939Z",
+   "followers": 215,
+   "media_count": 76
   }
  ],
  "posts": [
@@ -2617,8 +2622,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 1115,
-   "likes": 5,
+   "views": 1795,
+   "likes": 12,
    "comments": 0
   },
   {
@@ -2628,7 +2633,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 1945,
+   "views": 1995,
    "likes": 15,
    "comments": 0
   },
@@ -2639,7 +2644,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1456,
+   "views": 1481,
    "likes": 10,
    "comments": 0
   },
@@ -2650,8 +2655,8 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2674,
-   "likes": 15,
+   "views": 2686,
+   "likes": 16,
    "comments": 2
   },
   {
@@ -2661,7 +2666,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4303,
+   "views": 4316,
    "likes": 33,
    "comments": 0
   },
@@ -2672,7 +2677,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2278,
+   "views": 2279,
    "likes": 18,
    "comments": 0
   },
@@ -2683,7 +2688,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2507,
+   "views": 2510,
    "likes": 26,
    "comments": 0
   },
@@ -2694,7 +2699,7 @@
    "timestamp": "2026-09-22T23:01:15+0000",
    "type": "VIDEO",
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 898,
+   "views": 899,
    "likes": 8,
    "comments": 0
   },
@@ -2705,7 +2710,7 @@
    "timestamp": "2026-09-22T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Bet twice as much and your account stops growing.",
-   "views": 2188,
+   "views": 2190,
    "likes": 12,
    "comments": 0
   },
@@ -2760,7 +2765,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1255,
+   "views": 1256,
    "likes": 13,
    "comments": 1
   },
@@ -2826,8 +2831,8 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2176,
-   "likes": 37,
+   "views": 2177,
+   "likes": 38,
    "comments": 1
   },
   {
@@ -2837,7 +2842,7 @@
    "timestamp": "2026-09-19T02:31:42+0000",
    "type": "VIDEO",
    "caption": "Eleven green months and the year still closes red.",
-   "views": 1866,
+   "views": 1868,
    "likes": 13,
    "comments": 0
   },
