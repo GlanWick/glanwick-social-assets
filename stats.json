@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T08:25:24.437Z",
+ "updated": "2026-09-26T09:25:30.467Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T08:25:25.639Z",
+  "checked": "2026-09-26T09:25:31.243Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -34,12 +34,12 @@
     "reach": 5810
    }
   ],
-  "avg_watch_last_reels": 11.9
+  "avg_watch_last_reels": 12.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 221,
+  "followers": 222,
   "media_count": 79
  },
  "history": [
@@ -2697,6 +2697,11 @@
    "ts": "2026-09-26T08:25:24.437Z",
    "followers": 221,
    "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T09:25:30.467Z",
+   "followers": 222,
+   "media_count": 79
   }
  ],
  "posts": [
@@ -2707,8 +2712,8 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 355,
-   "likes": 8,
+   "views": 477,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -2718,8 +2723,8 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 504,
-   "likes": 6,
+   "views": 532,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -2729,7 +2734,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3082,
+   "views": 3109,
    "likes": 19,
    "comments": 0
   },
@@ -2740,8 +2745,8 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3432,
-   "likes": 28,
+   "views": 3471,
+   "likes": 29,
    "comments": 0
   },
   {
@@ -2751,7 +2756,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2106,
+   "views": 2112,
    "likes": 16,
    "comments": 0
   },
@@ -2762,7 +2767,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1717,
+   "views": 1727,
    "likes": 12,
    "comments": 0
   },
@@ -2784,7 +2789,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4489,
+   "views": 4490,
    "likes": 35,
    "comments": 0
   },
@@ -2795,7 +2800,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2290,
+   "views": 2291,
    "likes": 18,
    "comments": 0
   },
@@ -3081,7 +3086,7 @@
    "timestamp": "2026-09-14T15:42:47+0000",
    "type": "VIDEO",
    "caption": "The most expensive habit in trading takes one second: moving the stop.",
-   "views": 1488,
+   "views": 1489,
    "likes": 29,
    "comments": 0
   },
