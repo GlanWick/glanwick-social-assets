@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T03:34:48.902Z",
+ "updated": "2026-09-26T04:34:51.083Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T03:34:49.606Z",
+  "checked": "2026-09-26T04:34:51.824Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-09-25",
-    "reach": 5506
+    "reach": 5582
    }
   ],
-  "avg_watch_last_reels": 10.7
+  "avg_watch_last_reels": 10.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 220,
+  "followers": 221,
   "media_count": 79
  },
  "history": [
@@ -2672,6 +2672,11 @@
    "ts": "2026-09-26T03:34:48.902Z",
    "followers": 220,
    "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T04:34:51.083Z",
+   "followers": 221,
+   "media_count": 79
   }
  ],
  "posts": [
@@ -2682,8 +2687,8 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 77,
-   "likes": 2,
+   "views": 118,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -2693,7 +2698,7 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 211,
+   "views": 224,
    "likes": 3,
    "comments": 0
   },
@@ -2704,7 +2709,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 2967,
+   "views": 2979,
    "likes": 19,
    "comments": 0
   },
@@ -2715,7 +2720,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3287,
+   "views": 3304,
    "likes": 27,
    "comments": 0
   },
@@ -2737,7 +2742,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1652,
+   "views": 1653,
    "likes": 12,
    "comments": 0
   },
@@ -2759,7 +2764,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4461,
+   "views": 4465,
    "likes": 34,
    "comments": 0
   },
@@ -2924,7 +2929,7 @@
    "timestamp": "2026-09-19T12:00:51+0000",
    "type": "VIDEO",
    "caption": "Six losses in a row is arithmetic.",
-   "views": 2180,
+   "views": 2183,
    "likes": 38,
    "comments": 1
   },
