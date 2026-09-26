@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T06:34:55.755Z",
+ "updated": "2026-09-26T07:35:00.251Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T06:34:56.671Z",
+  "checked": "2026-09-26T07:35:01.114Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-25",
-    "reach": 5740
+    "reach": 5810
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 11.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2687,6 +2687,11 @@
    "ts": "2026-09-26T06:34:55.755Z",
    "followers": 221,
    "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T07:35:00.251Z",
+   "followers": 221,
+   "media_count": 79
   }
  ],
  "posts": [
@@ -2697,8 +2702,8 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 245,
-   "likes": 5,
+   "views": 277,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2708,8 +2713,8 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 358,
-   "likes": 5,
+   "views": 446,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -2719,7 +2724,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3020,
+   "views": 3060,
    "likes": 19,
    "comments": 0
   },
@@ -2730,7 +2735,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3371,
+   "views": 3401,
    "likes": 28,
    "comments": 0
   },
@@ -2752,7 +2757,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1684,
+   "views": 1704,
    "likes": 12,
    "comments": 0
   },
@@ -2763,7 +2768,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2788,
+   "views": 2793,
    "likes": 17,
    "comments": 2
   },
@@ -2774,7 +2779,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4479,
+   "views": 4486,
    "likes": 35,
    "comments": 0
   },
@@ -2785,7 +2790,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2289,
+   "views": 2290,
    "likes": 18,
    "comments": 0
   },
