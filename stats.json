@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T10:25:37.599Z",
+ "updated": "2026-09-26T11:25:45.745Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T10:25:38.732Z",
+  "checked": "2026-09-26T11:25:47.171Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -34,7 +34,7 @@
     "reach": 5810
    }
   ],
-  "avg_watch_last_reels": 14
+  "avg_watch_last_reels": 13.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2707,6 +2707,11 @@
    "ts": "2026-09-26T10:25:37.599Z",
    "followers": 223,
    "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T11:25:45.745Z",
+   "followers": 223,
+   "media_count": 79
   }
  ],
  "posts": [
@@ -2717,8 +2722,8 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 748,
-   "likes": 17,
+   "views": 1047,
+   "likes": 20,
    "comments": 0
   },
   {
@@ -2728,7 +2733,7 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 578,
+   "views": 618,
    "likes": 8,
    "comments": 0
   },
@@ -2739,7 +2744,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3139,
+   "views": 3169,
    "likes": 19,
    "comments": 0
   },
@@ -2750,7 +2755,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3501,
+   "views": 3543,
    "likes": 29,
    "comments": 0
   },
@@ -2772,7 +2777,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1755,
+   "views": 1778,
    "likes": 13,
    "comments": 0
   },
@@ -2794,7 +2799,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4490,
+   "views": 4492,
    "likes": 35,
    "comments": 0
   },
@@ -2904,7 +2909,7 @@
    "timestamp": "2026-09-20T17:01:07+0000",
    "type": "VIDEO",
    "caption": "Averaging down is a second decision about a trade you already got wrong.",
-   "views": 1649,
+   "views": 1650,
    "likes": 10,
    "comments": 0
   },
@@ -3069,7 +3074,7 @@
    "timestamp": "2026-09-15T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Ten winning trades can die in one afternoon.",
-   "views": 1521,
+   "views": 1523,
    "likes": 37,
    "comments": 0
   },
