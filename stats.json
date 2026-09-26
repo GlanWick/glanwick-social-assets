@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T12:26:01.422Z",
+ "updated": "2026-09-26T13:26:09.034Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T12:26:02.684Z",
+  "checked": "2026-09-26T13:26:10.477Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -34,12 +34,12 @@
     "reach": 5810
    }
   ],
-  "avg_watch_last_reels": 12.6
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 224,
+  "followers": 225,
   "media_count": 80
  },
  "history": [
@@ -2717,6 +2717,11 @@
    "ts": "2026-09-26T12:26:01.422Z",
    "followers": 224,
    "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T13:26:09.034Z",
+   "followers": 225,
+   "media_count": 80
   }
  ],
  "posts": [
@@ -2727,8 +2732,8 @@
    "timestamp": "2026-09-26T12:00:59+0000",
    "type": "VIDEO",
    "caption": "A trader with a real edge fails a 10 % target, 5 % max drawdown challenge one ti",
-   "views": 6,
-   "likes": 0,
+   "views": 125,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -2738,8 +2743,8 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 1486,
-   "likes": 27,
+   "views": 1726,
+   "likes": 30,
    "comments": 0
   },
   {
@@ -2749,7 +2754,7 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 668,
+   "views": 726,
    "likes": 9,
    "comments": 0
   },
@@ -2760,7 +2765,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3192,
+   "views": 3220,
    "likes": 19,
    "comments": 0
   },
@@ -2771,7 +2776,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3582,
+   "views": 3613,
    "likes": 30,
    "comments": 0
   },
@@ -2782,7 +2787,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2119,
+   "views": 2123,
    "likes": 16,
    "comments": 0
   },
@@ -2804,7 +2809,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2794,
+   "views": 2797,
    "likes": 18,
    "comments": 2
   },
@@ -2815,7 +2820,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4493,
+   "views": 4494,
    "likes": 35,
    "comments": 0
   },
@@ -2881,7 +2886,7 @@
    "timestamp": "2026-09-22T02:30:45+0000",
    "type": "VIDEO",
    "caption": "Breaking even costs you money.",
-   "views": 299,
+   "views": 301,
    "likes": 3,
    "comments": 0
   },
