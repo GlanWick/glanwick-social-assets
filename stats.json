@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T04:34:51.083Z",
+ "updated": "2026-09-26T05:34:53.841Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T04:34:51.824Z",
+  "checked": "2026-09-26T05:34:54.620Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-09-25",
-    "reach": 5582
+    "reach": 5659
    }
   ],
-  "avg_watch_last_reels": 10.9
+  "avg_watch_last_reels": 11.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -2677,6 +2677,11 @@
    "ts": "2026-09-26T04:34:51.083Z",
    "followers": 221,
    "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T05:34:53.841Z",
+   "followers": 221,
+   "media_count": 79
   }
  ],
  "posts": [
@@ -2687,7 +2692,7 @@
    "timestamp": "2026-09-26T02:30:57+0000",
    "type": "VIDEO",
    "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
-   "views": 118,
+   "views": 182,
    "likes": 3,
    "comments": 0
   },
@@ -2698,8 +2703,8 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 224,
-   "likes": 3,
+   "views": 280,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -2709,7 +2714,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 2979,
+   "views": 2991,
    "likes": 19,
    "comments": 0
   },
@@ -2720,7 +2725,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3304,
+   "views": 3330,
    "likes": 27,
    "comments": 0
   },
@@ -2742,7 +2747,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1653,
+   "views": 1670,
    "likes": 12,
    "comments": 0
   },
@@ -2764,8 +2769,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4465,
-   "likes": 34,
+   "views": 4474,
+   "likes": 35,
    "comments": 0
   },
   {
