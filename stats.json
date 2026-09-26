@@ -1,14 +1,10 @@
 {
- "updated": "2026-09-25T23:45:25.233Z",
+ "updated": "2026-09-26T00:45:43.976Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-25T23:45:26.485Z",
+  "checked": "2026-09-26T00:45:45.036Z",
   "reach_days": [
-   {
-    "day": "2026-09-18",
-    "reach": 1830
-   },
    {
     "day": "2026-09-19",
     "reach": 3334
@@ -32,14 +28,18 @@
    {
     "day": "2026-09-24",
     "reach": 7339
+   },
+   {
+    "day": "2026-09-25",
+    "reach": 5399
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 11.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 219,
+  "followers": 220,
   "media_count": 78
  },
  "history": [
@@ -2652,6 +2652,11 @@
    "ts": "2026-09-25T23:45:25.233Z",
    "followers": 219,
    "media_count": 78
+  },
+  {
+   "ts": "2026-09-26T00:45:43.976Z",
+   "followers": 220,
+   "media_count": 78
   }
  ],
  "posts": [
@@ -2662,7 +2667,7 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 107,
+   "views": 176,
    "likes": 3,
    "comments": 0
   },
@@ -2673,7 +2678,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 2887,
+   "views": 2931,
    "likes": 19,
    "comments": 0
   },
@@ -2684,7 +2689,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3218,
+   "views": 3250,
    "likes": 27,
    "comments": 0
   },
@@ -2695,7 +2700,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2085,
+   "views": 2103,
    "likes": 16,
    "comments": 0
   },
@@ -2706,7 +2711,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1619,
+   "views": 1633,
    "likes": 12,
    "comments": 0
   },
@@ -2717,7 +2722,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2780,
+   "views": 2787,
    "likes": 17,
    "comments": 2
   },
@@ -2728,8 +2733,8 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4433,
-   "likes": 33,
+   "views": 4457,
+   "likes": 34,
    "comments": 0
   },
   {
@@ -2739,7 +2744,7 @@
    "timestamp": "2026-09-24T02:31:34+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2286,
+   "views": 2287,
    "likes": 18,
    "comments": 0
   },
@@ -2805,7 +2810,7 @@
    "timestamp": "2026-09-21T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Every rule you added after a bad trade is still charging you rent.",
-   "views": 1535,
+   "views": 1536,
    "likes": 13,
    "comments": 0
   },
