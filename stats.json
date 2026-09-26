@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-26T01:46:02.112Z",
+ "updated": "2026-09-26T02:34:45.828Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-09-26T01:46:03.405Z",
+  "checked": "2026-09-26T02:34:46.697Z",
   "reach_days": [
    {
     "day": "2026-09-19",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-09-25",
-    "reach": 5422
+    "reach": 5437
    }
   ],
-  "avg_watch_last_reels": 12.3
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 220,
-  "media_count": 78
+  "media_count": 79
  },
  "history": [
   {
@@ -2662,9 +2662,25 @@
    "ts": "2026-09-26T01:46:02.112Z",
    "followers": 220,
    "media_count": 78
+  },
+  {
+   "ts": "2026-09-26T02:34:45.828Z",
+   "followers": 220,
+   "media_count": 79
   }
  ],
  "posts": [
+  {
+   "id": "17870293218649215",
+   "slug": "stickman-luck",
+   "permalink": "https://www.instagram.com/reel/Ddu900ckoII/",
+   "timestamp": "2026-09-26T02:30:57+0000",
+   "type": "VIDEO",
+   "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
+   "views": 2,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18137006041715709",
    "slug": "stickman-halfsize",
@@ -2672,7 +2688,7 @@
    "timestamp": "2026-09-25T23:00:41+0000",
    "type": "VIDEO",
    "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
-   "views": 184,
+   "views": 192,
    "likes": 3,
    "comments": 0
   },
@@ -2683,7 +2699,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 2949,
+   "views": 2959,
    "likes": 19,
    "comments": 0
   },
@@ -2694,7 +2710,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 3259,
+   "views": 3276,
    "likes": 27,
    "comments": 0
   },
@@ -2705,7 +2721,7 @@
    "timestamp": "2026-09-25T02:30:41+0000",
    "type": "VIDEO",
    "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2103,
+   "views": 2104,
    "likes": 16,
    "comments": 0
   },
@@ -2716,7 +2732,7 @@
    "timestamp": "2026-09-24T23:00:42+0000",
    "type": "VIDEO",
    "caption": "Lose 7 of 10 and still come out ahead.",
-   "views": 1635,
+   "views": 1641,
    "likes": 12,
    "comments": 0
   },
@@ -2727,7 +2743,7 @@
    "timestamp": "2026-09-24T17:00:48+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
-   "views": 2787,
+   "views": 2788,
    "likes": 17,
    "comments": 2
   },
@@ -2837,7 +2853,7 @@
    "timestamp": "2026-09-20T23:01:49+0000",
    "type": "VIDEO",
    "caption": "Your winners cost you more than your losers do.",
-   "views": 1257,
+   "views": 1259,
    "likes": 13,
    "comments": 1
   },
@@ -3092,17 +3108,6 @@
    "caption": "A stop loss asks where. A time stop asks how long.",
    "views": 114,
    "likes": 5,
-   "comments": 0
-  },
-  {
-   "id": "18473586919119617",
-   "slug": "loss-vs-recovery",
-   "permalink": "https://www.instagram.com/reel/DdLe1AZCfhm/",
-   "timestamp": "2026-09-12T07:46:31+0000",
-   "type": "VIDEO",
-   "caption": "Lose 10 percent and you need 11 to get back. Lose 50 percent and you need 100. T",
-   "views": 178,
-   "likes": 8,
    "comments": 0
   }
  ]
