@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:28:37.042Z",
+  "generated_at": "2026-10-01T21:54:39.513Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1113,14 +1113,13 @@
         "nr": 9,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worststreak.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worststreak-cover.jpg",
-        "gestartet_at": "2026-10-01T17:01:45.458Z",
-        "stand": "2026-10-01T17:03:10.972Z",
-        "versuch": 1,
-        "slot": "2026-10-01T17:00:00.000Z",
         "post_id": "6abe9200d8d892c40099678f",
-        "published_at": "2026-10-01T17:02:18.503Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7691745830025399584",
-        "plattform_id": "7691745830025399584"
+        "plattform_id": "7691745830025399584",
+        "published_at": "2026-10-01T17:02:18.503Z",
+        "gestartet_at": "2026-10-01T17:01:45.458Z",
+        "slot": "2026-10-01T17:00:00.000Z",
+        "stand": "2026-10-01T17:03:10.972Z"
       }
     },
     {
@@ -1840,10 +1839,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfswing.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfswing-cover.jpg"
       },
-      "container_id": "18110562839136556",
       "media_id": "18078890924372196",
       "permalink": "https://www.instagram.com/reel/Dd82_qwDqCy/",
       "published_at": "2026-10-01T12:00:44.749Z",
+      "container_id": "18110562839136556",
       "kommentar_id": "18096570470410049"
     },
     {
@@ -1859,10 +1858,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-evalfees.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-evalfees-cover.jpg"
       },
-      "container_id": "18110598590136556",
       "media_id": "18167575588465156",
       "permalink": "https://www.instagram.com/reel/Dd9ZcLpl1by/",
       "published_at": "2026-10-01T17:01:41.561Z",
+      "container_id": "18110598590136556",
       "kommentar_id": "18355498108247850"
     },
     {
@@ -2033,6 +2032,51 @@
       "views_12h": {
         "views": 603,
         "stunden": 12.09
+      }
+    },
+    {
+      "id": "test-2026-10-revanche",
+      "slug": "stickman-revenge900",
+      "status": "ready",
+      "scheduled_at": "2026-10-01T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge900.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge900-cover.jpg",
+      "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.\n\nThe first loss was the plan: one trade, $300. The second trade was twice the size, so it lost $600. If your edge is $10 a trade, $900 is 90 trades of work. The first loss cost 30 of them. The revenge cost 60 more.\n\nFree journal, link in bio.\n\nSend this to the friend who always wants it back in one trade.\n\nWhat did your last revenge trade cost you? 👇\n\n#revengetrading #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage revenge mit Geld-Hook und Umrechnung in Trades"
+      }
+    },
+    {
+      "id": "test-2026-10-halbes-konto",
+      "slug": "stickman-halfgone",
+      "status": "ready",
+      "scheduled_at": "2026-10-02T00:40:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfgone.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfgone-cover.jpg",
+      "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.\n\nLose $1,000 and you need +11 %. Lose $2,500 and you need +33 %. Lose $5,000 and you need +100 %. At 2 % a month, that takes almost 3 years.\n\nEvery step down makes the climb steeper. Size comes before setup.\n\nFree journal, link in bio.\n\nSend this to the friend who says he'll make it back next month.\n\nWhat's the deepest drawdown you've climbed out of? 👇\n\n#drawdown #positionsizing #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage drawdown mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-elf-monate",
+      "slug": "stickman-elevenmonths",
+      "status": "ready",
+      "scheduled_at": "2026-10-02T01:45:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenmonths.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenmonths-cover.jpg",
+      "caption": "11 green months made $4,400. One red month lost $5,000.\n\n$400 a month, 11 months in a row. Then month 12 lost $5,000, and the year closes $600 in the red.\n\nA smooth curve only describes the months you have seen.\n\nFree journal, link in bio.\n\nSend this to the friend with the perfect equity curve.\n\nWhat was your worst single month? 👇\n\n#equitycurve #drawdown #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage smoothcurve (No. 13) mit Geld-Hook"
       }
     }
   ]
