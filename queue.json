@@ -2000,6 +2000,10 @@
       "views_12h": {
         "views": 2052,
         "stunden": 12.12
+      },
+      "views_24h": {
+        "views": 2282,
+        "stunden": 24.7
       }
     },
     {
