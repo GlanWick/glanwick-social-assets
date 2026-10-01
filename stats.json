@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T14:52:01.434Z",
+ "updated": "2026-10-01T15:52:22.093Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-01T14:52:02.820Z",
+  "checked": "2026-10-01T15:52:22.952Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -3337,6 +3337,11 @@
    "ts": "2026-10-01T14:52:01.434Z",
    "followers": 265,
    "media_count": 103
+  },
+  {
+   "ts": "2026-10-01T15:52:22.093Z",
+   "followers": 265,
+   "media_count": 103
   }
  ],
  "posts": [
@@ -3347,8 +3352,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 258,
-   "likes": 1,
+   "views": 297,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3358,7 +3363,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 2963,
+   "views": 2978,
    "likes": 18,
    "comments": 2
   },
@@ -3369,7 +3374,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 641,
+   "views": 667,
    "likes": 3,
    "comments": 1
   },
@@ -3391,8 +3396,8 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1406,
-   "likes": 3,
+   "views": 1430,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3402,7 +3407,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 601,
+   "views": 626,
    "likes": 8,
    "comments": 1
   },
@@ -3413,9 +3418,9 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1533,
+   "views": 1638,
    "likes": 35,
-   "comments": 6
+   "comments": 8
   },
   {
    "id": "18123540976904919",
@@ -3424,7 +3429,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2230,
+   "views": 2243,
    "likes": 11,
    "comments": 1
   },
@@ -3435,7 +3440,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 645,
+   "views": 646,
    "likes": 12,
    "comments": 4
   },
@@ -3446,7 +3451,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1469,
+   "views": 1481,
    "likes": 7,
    "comments": 1
   },
@@ -3490,7 +3495,7 @@
    "timestamp": "2026-09-29T12:01:17+0000",
    "type": "VIDEO",
    "caption": "On 2x margin, a 33 % drop takes 67 % of your money.",
-   "views": 1646,
+   "views": 1647,
    "likes": 12,
    "comments": 1
   },
@@ -3732,7 +3737,7 @@
    "timestamp": "2026-09-23T23:00:53+0000",
    "type": "VIDEO",
    "caption": "You can be profitable and still have no edge.",
-   "views": 2590,
+   "views": 2591,
    "likes": 26,
    "comments": 0
   },
