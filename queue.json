@@ -2068,7 +2068,16 @@
       "container_id": "18110634860136556",
       "media_id": "18130579774740740",
       "permalink": "https://www.instagram.com/reel/Dd-GFidCvHw/",
-      "published_at": "2026-10-01T23:31:52.843Z"
+      "published_at": "2026-10-01T23:31:52.843Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 105,
+        "beitraege_nachher": 105,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-01T23:32:54.649Z"
+      }
     },
     {
       "id": "test-2026-10-halbes-konto",
