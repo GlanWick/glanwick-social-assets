@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T13:51:38.485Z",
+ "updated": "2026-10-01T14:52:01.434Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-01T13:51:39.388Z",
+  "checked": "2026-10-01T14:52:02.820Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -34,12 +34,12 @@
     "reach": 5861
    }
   ],
-  "avg_watch_last_reels": 13.4
+  "avg_watch_last_reels": 13.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 264,
+  "followers": 265,
   "media_count": 103
  },
  "history": [
@@ -3332,6 +3332,11 @@
    "ts": "2026-10-01T13:51:38.485Z",
    "followers": 264,
    "media_count": 103
+  },
+  {
+   "ts": "2026-10-01T14:52:01.434Z",
+   "followers": 265,
+   "media_count": 103
   }
  ],
  "posts": [
@@ -3342,8 +3347,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 217,
-   "likes": 0,
+   "views": 258,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -3353,7 +3358,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 2947,
+   "views": 2963,
    "likes": 18,
    "comments": 2
   },
@@ -3364,7 +3369,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 603,
+   "views": 641,
    "likes": 3,
    "comments": 1
   },
@@ -3375,7 +3380,7 @@
    "timestamp": "2026-10-01T00:40:44+0000",
    "type": "VIDEO",
    "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 186,
+   "views": 188,
    "likes": 0,
    "comments": 1
   },
@@ -3386,7 +3391,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1375,
+   "views": 1406,
    "likes": 3,
    "comments": 1
   },
@@ -3397,7 +3402,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 581,
+   "views": 601,
    "likes": 8,
    "comments": 1
   },
@@ -3408,9 +3413,9 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1360,
-   "likes": 32,
-   "comments": 5
+   "views": 1533,
+   "likes": 35,
+   "comments": 6
   },
   {
    "id": "18123540976904919",
@@ -3419,7 +3424,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2224,
+   "views": 2230,
    "likes": 11,
    "comments": 1
   },
@@ -3430,7 +3435,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 643,
+   "views": 645,
    "likes": 12,
    "comments": 4
   },
@@ -3441,7 +3446,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1445,
+   "views": 1469,
    "likes": 7,
    "comments": 1
   },
@@ -3650,7 +3655,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3576,
+   "views": 3578,
    "likes": 20,
    "comments": 0
   },
