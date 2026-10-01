@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-01T22:43:13.208Z",
+ "updated": "2026-10-01T23:43:41.947Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-01T22:43:14.142Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.6 s"
+  ],
+  "checked": "2026-10-01T23:43:43.023Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -34,13 +36,13 @@
     "reach": 5861
    }
   ],
-  "avg_watch_last_reels": 13.1
+  "avg_watch_last_reels": 7.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 266,
-  "media_count": 104
+  "media_count": 105
  },
  "history": [
   {
@@ -3377,9 +3379,36 @@
    "ts": "2026-10-01T22:43:13.208Z",
    "followers": 266,
    "media_count": 104
+  },
+  {
+   "ts": "2026-10-01T23:43:41.947Z",
+   "followers": 266,
+   "media_count": 105
   }
  ],
  "posts": [
+  {
+   "id": "18130579774740740",
+   "slug": "stickman-revenge900",
+   "permalink": "https://www.instagram.com/reel/Dd-GFidCvHw/",
+   "timestamp": "2026-10-01T23:31:44+0000",
+   "type": "VIDEO",
+   "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "18040962323830731",
+   "slug": "stickman-screenshot",
+   "permalink": "https://www.instagram.com/reel/Dd-ClOUis5D/",
+   "timestamp": "2026-10-01T23:01:02+0000",
+   "type": "VIDEO",
+   "caption": "His screenshot says +$4,000. His month says −$2,500.",
+   "views": 129,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18167575588465156",
    "slug": "stickman-evalfees",
@@ -3387,8 +3416,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 583,
-   "likes": 9,
+   "views": 969,
+   "likes": 13,
    "comments": 2
   },
   {
@@ -3398,8 +3427,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 1618,
-   "likes": 12,
+   "views": 1794,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -3409,7 +3438,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3134,
+   "views": 3141,
    "likes": 19,
    "comments": 2
   },
@@ -3420,7 +3449,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 746,
+   "views": 748,
    "likes": 4,
    "comments": 1
   },
@@ -3431,7 +3460,7 @@
    "timestamp": "2026-10-01T00:40:44+0000",
    "type": "VIDEO",
    "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 192,
+   "views": 193,
    "likes": 0,
    "comments": 1
   },
@@ -3442,7 +3471,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1538,
+   "views": 1546,
    "likes": 6,
    "comments": 1
   },
@@ -3453,8 +3482,8 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 693,
-   "likes": 8,
+   "views": 700,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -3497,7 +3526,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1514,
+   "views": 1515,
    "likes": 8,
    "comments": 1
   },
@@ -3796,28 +3825,6 @@
    "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
    "views": 912,
    "likes": 8,
-   "comments": 0
-  },
-  {
-   "id": "18113691628819082",
-   "slug": "stickman-kelly",
-   "permalink": "https://www.instagram.com/reel/DdmOLlilIo9/",
-   "timestamp": "2026-09-22T17:00:39+0000",
-   "type": "VIDEO",
-   "caption": "Bet twice as much and your account stops growing.",
-   "views": 2210,
-   "likes": 12,
-   "comments": 0
-  },
-  {
-   "id": "17953064058255479",
-   "slug": "stickman-stopsize",
-   "permalink": "https://www.instagram.com/reel/Ddlr2ZJjF8E/",
-   "timestamp": "2026-09-22T12:00:40+0000",
-   "type": "VIDEO",
-   "caption": "Your stop distance picks your position size, whether you meant it to or not.",
-   "views": 1443,
-   "likes": 18,
    "comments": 0
   }
  ]
