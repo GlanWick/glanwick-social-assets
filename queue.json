@@ -2054,7 +2054,7 @@
     {
       "id": "test-2026-10-revanche",
       "slug": "stickman-revenge900",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-01T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge900.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-revenge900-cover.jpg",
@@ -2065,7 +2065,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage revenge mit Geld-Hook und Umrechnung in Trades"
       },
-      "posting_started_at": "2026-10-01T23:30:28.381Z"
+      "container_id": "18110634860136556",
+      "media_id": "18130579774740740",
+      "permalink": "https://www.instagram.com/reel/Dd-GFidCvHw/",
+      "published_at": "2026-10-01T23:31:52.843Z"
     },
     {
       "id": "test-2026-10-halbes-konto",
