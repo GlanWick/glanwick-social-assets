@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T17:52:49.997Z",
+ "updated": "2026-10-01T18:53:06.732Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-01T17:52:51.082Z",
+  "checked": "2026-10-01T18:53:07.942Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -34,7 +34,7 @@
     "reach": 5861
    }
   ],
-  "avg_watch_last_reels": 11.3
+  "avg_watch_last_reels": 11.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3352,6 +3352,11 @@
    "ts": "2026-10-01T17:52:49.997Z",
    "followers": 265,
    "media_count": 104
+  },
+  {
+   "ts": "2026-10-01T18:53:06.732Z",
+   "followers": 265,
+   "media_count": 104
   }
  ],
  "posts": [
@@ -3362,8 +3367,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 147,
-   "likes": 0,
+   "views": 192,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3373,8 +3378,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 515,
-   "likes": 3,
+   "views": 639,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -3384,7 +3389,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3035,
+   "views": 3068,
    "likes": 18,
    "comments": 2
   },
@@ -3395,8 +3400,8 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 693,
-   "likes": 3,
+   "views": 715,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -3417,7 +3422,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1470,
+   "views": 1485,
    "likes": 5,
    "comments": 1
   },
@@ -3428,7 +3433,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 646,
+   "views": 657,
    "likes": 8,
    "comments": 1
   },
@@ -3439,7 +3444,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1691,
+   "views": 1697,
    "likes": 36,
    "comments": 8
   },
@@ -3450,7 +3455,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2252,
+   "views": 2254,
    "likes": 11,
    "comments": 1
   },
@@ -3472,7 +3477,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1492,
+   "views": 1500,
    "likes": 8,
    "comments": 1
   },
@@ -3692,7 +3697,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 4105,
+   "views": 4106,
    "likes": 31,
    "comments": 0
   },
