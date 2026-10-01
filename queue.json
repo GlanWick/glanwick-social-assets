@@ -1948,6 +1948,10 @@
         "media_product_type": "REELS",
         "verdacht": true,
         "at": "2026-10-01T00:40:54.459Z"
+      },
+      "views_12h": {
+        "views": 186,
+        "stunden": 13.18
       }
     },
     {
@@ -2008,6 +2012,10 @@
         "media_product_type": "REELS",
         "verdacht": true,
         "at": "2026-10-01T01:46:08.940Z"
+      },
+      "views_12h": {
+        "views": 603,
+        "stunden": 12.09
       }
     }
   ]
