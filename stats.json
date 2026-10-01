@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T15:52:22.093Z",
+ "updated": "2026-10-01T16:52:43.289Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-01T15:52:22.952Z",
+  "checked": "2026-10-01T16:52:44.718Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -3342,6 +3342,11 @@
    "ts": "2026-10-01T15:52:22.093Z",
    "followers": 265,
    "media_count": 103
+  },
+  {
+   "ts": "2026-10-01T16:52:43.289Z",
+   "followers": 265,
+   "media_count": 103
   }
  ],
  "posts": [
@@ -3352,7 +3357,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 297,
+   "views": 411,
    "likes": 3,
    "comments": 1
   },
@@ -3363,7 +3368,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 2978,
+   "views": 2997,
    "likes": 18,
    "comments": 2
   },
@@ -3374,7 +3379,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 667,
+   "views": 680,
    "likes": 3,
    "comments": 1
   },
@@ -3385,7 +3390,7 @@
    "timestamp": "2026-10-01T00:40:44+0000",
    "type": "VIDEO",
    "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 188,
+   "views": 189,
    "likes": 0,
    "comments": 1
   },
@@ -3396,7 +3401,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1430,
+   "views": 1455,
    "likes": 5,
    "comments": 1
   },
@@ -3407,7 +3412,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 626,
+   "views": 639,
    "likes": 8,
    "comments": 1
   },
@@ -3418,8 +3423,8 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1638,
-   "likes": 35,
+   "views": 1676,
+   "likes": 36,
    "comments": 8
   },
   {
@@ -3429,7 +3434,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2243,
+   "views": 2248,
    "likes": 11,
    "comments": 1
   },
@@ -3440,7 +3445,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 646,
+   "views": 647,
    "likes": 12,
    "comments": 4
   },
@@ -3451,7 +3456,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1481,
+   "views": 1488,
    "likes": 7,
    "comments": 1
   },
@@ -3462,7 +3467,7 @@
    "timestamp": "2026-09-30T02:30:37+0000",
    "type": "VIDEO",
    "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
-   "views": 2307,
+   "views": 2308,
    "likes": 26,
    "comments": 4
   },
@@ -3473,7 +3478,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1297,
+   "views": 1298,
    "likes": 13,
    "comments": 1
   },
@@ -3715,7 +3720,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4605,
+   "views": 4606,
    "likes": 37,
    "comments": 0
   },
