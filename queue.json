@@ -1109,15 +1109,18 @@
       "published_at": "2026-09-21T02:31:07.285Z",
       "container_id": "18109023242136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 9,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worststreak.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worststreak-cover.jpg",
         "gestartet_at": "2026-10-01T17:01:45.458Z",
-        "stand": "2026-10-01T17:02:08.367Z",
+        "stand": "2026-10-01T17:03:10.972Z",
         "versuch": 1,
         "slot": "2026-10-01T17:00:00.000Z",
-        "post_id": "6abe9200d8d892c40099678f"
+        "post_id": "6abe9200d8d892c40099678f",
+        "published_at": "2026-10-01T17:02:18.503Z",
+        "url": "https://www.tiktok.com/@glanwick.com/video/7691745830025399584",
+        "plattform_id": "7691745830025399584"
       }
     },
     {
