@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T16:52:43.289Z",
+ "updated": "2026-10-01T17:52:49.997Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-01T16:52:44.718Z",
+  "checked": "2026-10-01T17:52:51.082Z",
   "reach_days": [
    {
     "day": "2026-09-24",
@@ -34,13 +34,13 @@
     "reach": 5861
    }
   ],
-  "avg_watch_last_reels": 13.8
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 265,
-  "media_count": 103
+  "media_count": 104
  },
  "history": [
   {
@@ -3347,9 +3347,25 @@
    "ts": "2026-10-01T16:52:43.289Z",
    "followers": 265,
    "media_count": 103
+  },
+  {
+   "ts": "2026-10-01T17:52:49.997Z",
+   "followers": 265,
+   "media_count": 104
   }
  ],
  "posts": [
+  {
+   "id": "18167575588465156",
+   "slug": "stickman-evalfees",
+   "permalink": "https://www.instagram.com/reel/Dd9ZcLpl1by/",
+   "timestamp": "2026-10-01T17:01:35+0000",
+   "type": "VIDEO",
+   "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
+   "views": 147,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18078890924372196",
    "slug": "stickman-halfswing",
@@ -3357,7 +3373,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 411,
+   "views": 515,
    "likes": 3,
    "comments": 1
   },
@@ -3368,7 +3384,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 2997,
+   "views": 3035,
    "likes": 18,
    "comments": 2
   },
@@ -3379,7 +3395,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 680,
+   "views": 693,
    "likes": 3,
    "comments": 1
   },
@@ -3401,7 +3417,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1455,
+   "views": 1470,
    "likes": 5,
    "comments": 1
   },
@@ -3412,7 +3428,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 639,
+   "views": 646,
    "likes": 8,
    "comments": 1
   },
@@ -3423,7 +3439,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1676,
+   "views": 1691,
    "likes": 36,
    "comments": 8
   },
@@ -3434,7 +3450,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2248,
+   "views": 2252,
    "likes": 11,
    "comments": 1
   },
@@ -3445,7 +3461,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 647,
+   "views": 649,
    "likes": 12,
    "comments": 4
   },
@@ -3456,8 +3472,8 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1488,
-   "likes": 7,
+   "views": 1492,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -3478,7 +3494,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1298,
+   "views": 1299,
    "likes": 13,
    "comments": 1
   },
@@ -3511,7 +3527,7 @@
    "timestamp": "2026-09-29T02:30:54+0000",
    "type": "VIDEO",
    "caption": "Even with a real edge, your account sits below its last high 7 trades out of 8.",
-   "views": 1629,
+   "views": 1631,
    "likes": 13,
    "comments": 0
   },
@@ -3588,7 +3604,7 @@
    "timestamp": "2026-09-27T12:00:36+0000",
    "type": "VIDEO",
    "caption": "Up 5 % one week, down 5 % the next, all year: the account ends down 6 %.",
-   "views": 2102,
+   "views": 2105,
    "likes": 9,
    "comments": 0
   },
@@ -3777,17 +3793,6 @@
    "caption": "Your stop distance picks your position size, whether you meant it to or not.",
    "views": 1443,
    "likes": 18,
-   "comments": 0
-  },
-  {
-   "id": "18490946881100120",
-   "slug": "stickman-scratch",
-   "permalink": "https://www.instagram.com/reel/DdkqoZbk-5e/",
-   "timestamp": "2026-09-22T02:30:45+0000",
-   "type": "VIDEO",
-   "caption": "Breaking even costs you money.",
-   "views": 311,
-   "likes": 3,
    "comments": 0
   }
  ]
