@@ -746,10 +746,14 @@
       "published_at": "2026-09-15T02:31:12.542Z",
       "container_id": "18108154262136556",
       "tiktok": {
-        "status": "ready",
+        "status": "posting",
         "nr": 10,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-drawdown.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-drawdown-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-drawdown-cover.jpg",
+        "gestartet_at": "2026-10-01T23:01:14.120Z",
+        "stand": "2026-10-01T23:01:14.120Z",
+        "versuch": 1,
+        "slot": "2026-10-01T23:00:00.000Z"
       }
     },
     {
