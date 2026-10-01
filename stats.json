@@ -1,0 +1,3774 @@
+{
+ "updated": "2026-10-01T12:08:34.978Z",
+ "guardrail": {
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-01T12:08:36.518Z",
+  "reach_days": [
+   {
+    "day": "2026-09-24",
+    "reach": 7339
+   },
+   {
+    "day": "2026-09-25",
+    "reach": 5810
+   },
+   {
+    "day": "2026-09-26",
+    "reach": 6583
+   },
+   {
+    "day": "2026-09-27",
+    "reach": 5757
+   },
+   {
+    "day": "2026-09-28",
+    "reach": 5003
+   },
+   {
+    "day": "2026-09-29",
+    "reach": 3355
+   },
+   {
+    "day": "2026-09-30",
+    "reach": 5861
+   }
+  ],
+  "avg_watch_last_reels": 10.3
+ },
+ "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
+ "account": {
+  "username": "glanwick_com",
+  "followers": 264,
+  "media_count": 103
+ },
+ "history": [
+  {
+   "ts": "2026-08-15T16:54:50.419Z",
+   "followers": 3,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-15T16:57:00.878Z",
+   "followers": 3,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-16T09:07:52.947Z",
+   "followers": 5,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-16T19:38:56.225Z",
+   "followers": 5,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-17T00:00:10.983Z",
+   "followers": 6,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-18T00:00:34.228Z",
+   "followers": 6,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-08-19T00:00:13.969Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-20T00:00:10.123Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-21T00:00:32.239Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-22T00:00:09.329Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-23T00:08:36.500Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-24T00:00:11.067Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-25T00:03:01.265Z",
+   "followers": 7,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-26T00:00:12.273Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-27T00:00:12.294Z",
+   "followers": 6,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-28T06:00:11.717Z",
+   "followers": 7,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-29T06:00:13.633Z",
+   "followers": 7,
+   "media_count": 2
+  },
+  {
+   "ts": "2026-08-30T06:00:10.425Z",
+   "followers": 7,
+   "media_count": 3
+  },
+  {
+   "ts": "2026-08-30T22:39:52.029Z",
+   "followers": 9,
+   "media_count": 3
+  },
+  {
+   "ts": "2026-08-31T06:00:05.698Z",
+   "followers": 9,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-31T07:30:22.634Z",
+   "followers": 9,
+   "media_count": 4
+  },
+  {
+   "ts": "2026-08-31T14:48:31.204Z",
+   "followers": 8,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-09-01T06:22:41.719Z",
+   "followers": 9,
+   "media_count": 6
+  },
+  {
+   "ts": "2026-09-01T06:24:15.105Z",
+   "followers": 9,
+   "media_count": 6
+  },
+  {
+   "ts": "2026-09-02T06:00:13.848Z",
+   "followers": 11,
+   "media_count": 9
+  },
+  {
+   "ts": "2026-09-02T12:53:21.428Z",
+   "followers": 11,
+   "media_count": 9
+  },
+  {
+   "ts": "2026-09-02T13:44:30.900Z",
+   "followers": 11,
+   "media_count": 10
+  },
+  {
+   "ts": "2026-09-03T07:48:23.241Z",
+   "followers": 19,
+   "media_count": 12
+  },
+  {
+   "ts": "2026-09-03T18:19:52.199Z",
+   "followers": 26,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T06:06:30.046Z",
+   "followers": 32,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T12:38:06.968Z",
+   "followers": 31,
+   "media_count": 13
+  },
+  {
+   "ts": "2026-09-04T19:28:32.394Z",
+   "followers": 34,
+   "media_count": 15
+  },
+  {
+   "ts": "2026-09-05T06:13:24.606Z",
+   "followers": 56,
+   "media_count": 16
+  },
+  {
+   "ts": "2026-09-05T07:33:21.463Z",
+   "followers": 61,
+   "media_count": 16
+  },
+  {
+   "ts": "2026-09-05T23:02:51.862Z",
+   "followers": 78,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-05T23:05:01.603Z",
+   "followers": 78,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-06T06:06:37.995Z",
+   "followers": 80,
+   "media_count": 20
+  },
+  {
+   "ts": "2026-09-06T09:35:08.717Z",
+   "followers": 81,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T10:35:11.973Z",
+   "followers": 82,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T11:35:15.724Z",
+   "followers": 82,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T12:35:19.634Z",
+   "followers": 83,
+   "media_count": 21
+  },
+  {
+   "ts": "2026-09-06T13:35:36.442Z",
+   "followers": 83,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T14:35:40.156Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T15:25:45.270Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T16:26:13.955Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T17:27:11.579Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T17:39:30.825Z",
+   "followers": 84,
+   "media_count": 22
+  },
+  {
+   "ts": "2026-09-06T18:39:51.424Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T19:39:56.348Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T20:40:00.715Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T21:40:05.351Z",
+   "followers": 84,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T22:40:09.835Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-06T23:30:17.572Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T00:30:18.908Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T01:30:20.219Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T02:30:22.811Z",
+   "followers": 85,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T03:30:24.205Z",
+   "followers": 86,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T04:30:26.174Z",
+   "followers": 88,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T05:21:03.431Z",
+   "followers": 91,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T06:21:05.393Z",
+   "followers": 96,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T07:21:08.479Z",
+   "followers": 99,
+   "media_count": 24
+  },
+  {
+   "ts": "2026-09-07T08:21:30.508Z",
+   "followers": 102,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T09:21:36.363Z",
+   "followers": 103,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T10:21:39.554Z",
+   "followers": 103,
+   "media_count": 25
+  },
+  {
+   "ts": "2026-09-07T11:11:58.719Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T12:12:29.325Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T13:12:28.998Z",
+   "followers": 104,
+   "media_count": 26
+  },
+  {
+   "ts": "2026-09-07T14:12:30.960Z",
+   "followers": 105,
+   "media_count": 27
+  },
+  {
+   "ts": "2026-09-07T15:13:02.904Z",
+   "followers": 107,
+   "media_count": 27
+  },
+  {
+   "ts": "2026-09-07T16:13:17.210Z",
+   "followers": 107,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T17:02:39.603Z",
+   "followers": 111,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T18:02:56.132Z",
+   "followers": 115,
+   "media_count": 28
+  },
+  {
+   "ts": "2026-09-07T19:03:03.031Z",
+   "followers": 118,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T20:03:17.513Z",
+   "followers": 121,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T21:03:37.328Z",
+   "followers": 123,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T22:03:51.959Z",
+   "followers": 123,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T22:53:40.868Z",
+   "followers": 124,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-07T23:54:05.000Z",
+   "followers": 125,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T00:54:23.518Z",
+   "followers": 126,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T01:54:52.705Z",
+   "followers": 128,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T02:55:11.669Z",
+   "followers": 131,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T03:55:31.849Z",
+   "followers": 133,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T04:44:14.875Z",
+   "followers": 134,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T05:44:17.283Z",
+   "followers": 134,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T06:44:35.654Z",
+   "followers": 136,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T07:44:44.792Z",
+   "followers": 136,
+   "media_count": 29
+  },
+  {
+   "ts": "2026-09-08T08:45:00.183Z",
+   "followers": 136,
+   "media_count": 30
+  },
+  {
+   "ts": "2026-09-08T09:45:05.514Z",
+   "followers": 137,
+   "media_count": 30
+  },
+  {
+   "ts": "2026-09-08T10:35:48.704Z",
+   "followers": 137,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T11:36:14.198Z",
+   "followers": 139,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T12:36:40.277Z",
+   "followers": 139,
+   "media_count": 31
+  },
+  {
+   "ts": "2026-09-08T13:37:00.537Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T14:37:28.268Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T15:37:57.312Z",
+   "followers": 139,
+   "media_count": 32
+  },
+  {
+   "ts": "2026-09-08T16:26:48.439Z",
+   "followers": 139,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T17:27:03.651Z",
+   "followers": 139,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T18:27:18.870Z",
+   "followers": 140,
+   "media_count": 33
+  },
+  {
+   "ts": "2026-09-08T19:27:25.858Z",
+   "followers": 140,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T20:27:40.592Z",
+   "followers": 140,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T21:27:55.582Z",
+   "followers": 141,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T22:17:38.845Z",
+   "followers": 141,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-08T23:17:45.485Z",
+   "followers": 142,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T00:17:56.034Z",
+   "followers": 142,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T01:18:04.818Z",
+   "followers": 144,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T02:18:25.936Z",
+   "followers": 145,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T03:18:32.949Z",
+   "followers": 148,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T04:08:35.462Z",
+   "followers": 148,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T05:09:01.955Z",
+   "followers": 149,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T06:09:28.887Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T07:09:56.185Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T08:10:24.620Z",
+   "followers": 150,
+   "media_count": 34
+  },
+  {
+   "ts": "2026-09-09T09:10:32.032Z",
+   "followers": 150,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T09:59:29.605Z",
+   "followers": 151,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T10:18:56.175Z",
+   "followers": 151,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T11:19:14.249Z",
+   "followers": 151,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T12:19:39.599Z",
+   "followers": 152,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T13:19:59.842Z",
+   "followers": 152,
+   "media_count": 35
+  },
+  {
+   "ts": "2026-09-09T14:20:04.976Z",
+   "followers": 152,
+   "media_count": 36
+  },
+  {
+   "ts": "2026-09-09T15:20:26.601Z",
+   "followers": 152,
+   "media_count": 36
+  },
+  {
+   "ts": "2026-09-09T16:09:43.665Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-09T17:09:44.289Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-09T18:09:45.611Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-09T19:09:58.688Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-09T20:10:28.016Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-09T21:10:57.952Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-09T21:59:59.839Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-09T23:00:34.270Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T00:00:34.790Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T01:00:25.908Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T02:00:46.788Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T03:01:20.035Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T03:50:15.608Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T04:50:29.138Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T05:50:46.800Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T06:51:01.945Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-10T07:51:30.901Z",
+   "followers": 151,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-10T08:51:46.911Z",
+   "followers": 151,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-10T09:40:42.288Z",
+   "followers": 152,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-10T10:41:01.285Z",
+   "followers": 152,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-10T11:41:31.718Z",
+   "followers": 152,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-10T12:41:32.081Z",
+   "followers": 152,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-10T13:41:36.697Z",
+   "followers": 152,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-10T14:41:39.370Z",
+   "followers": 152,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-10T15:31:35.357Z",
+   "followers": 152,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-10T16:31:43.575Z",
+   "followers": 151,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-10T17:31:51.305Z",
+   "followers": 151,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-10T18:32:10.186Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T19:32:26.539Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T20:32:35.494Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T21:21:59.310Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T22:22:18.291Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-10T23:22:33.718Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T00:22:49.437Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T01:23:05.341Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T02:23:20.586Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T03:12:08.717Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T04:12:12.976Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T05:12:17.069Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T06:12:22.436Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T07:12:30.563Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T07:25:12.571Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T08:25:13.650Z",
+   "followers": 151,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-11T09:25:27.530Z",
+   "followers": 151,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-11T10:25:30.881Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T11:25:31.094Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T12:25:34.256Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T13:15:41.381Z",
+   "followers": 151,
+   "media_count": 37
+  },
+  {
+   "ts": "2026-09-11T14:16:02.567Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T15:16:03.487Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T16:16:29.405Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T17:16:59.868Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T18:16:59.136Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T19:06:06.452Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T20:06:09.382Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T21:06:11.421Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T22:06:15.152Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-11T23:06:14.277Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T00:06:43.987Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T00:56:49.259Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T01:57:18.836Z",
+   "followers": 151,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T02:57:50.300Z",
+   "followers": 152,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T03:57:47.886Z",
+   "followers": 152,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T04:58:13.901Z",
+   "followers": 152,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T05:58:40.952Z",
+   "followers": 152,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T06:47:12.412Z",
+   "followers": 152,
+   "media_count": 38
+  },
+  {
+   "ts": "2026-09-12T07:47:14.269Z",
+   "followers": 153,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T08:47:25.404Z",
+   "followers": 153,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T09:47:36.929Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T10:47:48.083Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T11:47:59.153Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T12:37:52.741Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T13:38:20.204Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T14:38:47.390Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T15:39:13.640Z",
+   "followers": 155,
+   "media_count": 39
+  },
+  {
+   "ts": "2026-09-12T16:39:21.967Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T17:39:48.737Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T18:28:18.927Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T19:28:46.423Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T20:29:14.813Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T21:29:41.879Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T22:30:10.102Z",
+   "followers": 155,
+   "media_count": 40
+  },
+  {
+   "ts": "2026-09-12T23:30:25.885Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T00:18:55.596Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T01:19:07.415Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T02:19:17.330Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T03:19:22.011Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T04:19:27.227Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T05:19:30.944Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T06:09:12.406Z",
+   "followers": 155,
+   "media_count": 41
+  },
+  {
+   "ts": "2026-09-13T07:09:30.284Z",
+   "followers": 156,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T08:09:44.100Z",
+   "followers": 156,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T09:09:58.966Z",
+   "followers": 156,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T10:10:14.358Z",
+   "followers": 156,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T11:10:30.777Z",
+   "followers": 156,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T11:59:51.670Z",
+   "followers": 155,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T12:59:58.429Z",
+   "followers": 155,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T14:00:08.232Z",
+   "followers": 155,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T15:00:16.246Z",
+   "followers": 155,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T16:00:23.076Z",
+   "followers": 155,
+   "media_count": 42
+  },
+  {
+   "ts": "2026-09-13T17:00:43.697Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T17:50:26.168Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T18:50:32.632Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T19:50:38.292Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T20:50:43.324Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T21:50:48.685Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T22:50:54.836Z",
+   "followers": 155,
+   "media_count": 43
+  },
+  {
+   "ts": "2026-09-13T23:40:55.257Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T00:41:22.526Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T01:41:51.443Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T02:42:20.036Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T03:42:21.102Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T04:42:47.337Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T05:31:13.617Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T06:31:23.969Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T07:31:29.667Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T08:31:35.239Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T09:31:45.612Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T10:31:52.549Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T11:21:49.418Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T12:21:56.109Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T13:21:51.958Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T14:22:26.393Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T15:22:23.267Z",
+   "followers": 155,
+   "media_count": 44
+  },
+  {
+   "ts": "2026-09-14T16:22:49.963Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T17:12:21.438Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T18:12:21.625Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T19:12:24.214Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T20:12:27.861Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T21:12:29.588Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T22:12:30.420Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-14T23:02:50.569Z",
+   "followers": 155,
+   "media_count": 45
+  },
+  {
+   "ts": "2026-09-15T00:02:50.013Z",
+   "followers": 155,
+   "media_count": 46
+  },
+  {
+   "ts": "2026-09-15T01:03:12.205Z",
+   "followers": 155,
+   "media_count": 46
+  },
+  {
+   "ts": "2026-09-15T02:03:35.099Z",
+   "followers": 156,
+   "media_count": 46
+  },
+  {
+   "ts": "2026-09-15T03:04:02.404Z",
+   "followers": 157,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T04:03:59.772Z",
+   "followers": 158,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T04:53:04.195Z",
+   "followers": 158,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T05:53:12.736Z",
+   "followers": 158,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T06:53:20.230Z",
+   "followers": 159,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T07:53:28.814Z",
+   "followers": 159,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T08:53:37.638Z",
+   "followers": 159,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T09:53:48.745Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T10:43:35.330Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T11:43:42.793Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T12:43:50.680Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T13:43:58.149Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T14:44:05.961Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T15:44:16.679Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T16:34:02.774Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T17:34:25.212Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T18:34:45.328Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T19:35:20.512Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T20:35:13.756Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T21:35:48.248Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T22:24:49.854Z",
+   "followers": 160,
+   "media_count": 47
+  },
+  {
+   "ts": "2026-09-15T23:24:58.068Z",
+   "followers": 160,
+   "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T00:25:23.448Z",
+   "followers": 160,
+   "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T01:25:48.661Z",
+   "followers": 160,
+   "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T02:26:12.748Z",
+   "followers": 160,
+   "media_count": 48
+  },
+  {
+   "ts": "2026-09-16T03:26:39.581Z",
+   "followers": 160,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T04:15:13.918Z",
+   "followers": 160,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T05:15:21.152Z",
+   "followers": 160,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T06:15:29.325Z",
+   "followers": 161,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T07:15:36.237Z",
+   "followers": 163,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T08:15:43.749Z",
+   "followers": 164,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T09:15:53.683Z",
+   "followers": 165,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T10:05:44.910Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T11:06:12.367Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T12:06:33.625Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T13:06:34.274Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T14:07:04.881Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T15:07:08.482Z",
+   "followers": 166,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T15:56:27.165Z",
+   "followers": 167,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T16:56:49.663Z",
+   "followers": 168,
+   "media_count": 49
+  },
+  {
+   "ts": "2026-09-16T17:57:13.884Z",
+   "followers": 168,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T18:57:37.468Z",
+   "followers": 169,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T19:58:02.187Z",
+   "followers": 169,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T20:58:40.700Z",
+   "followers": 169,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T21:46:53.784Z",
+   "followers": 169,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T22:47:30.626Z",
+   "followers": 169,
+   "media_count": 50
+  },
+  {
+   "ts": "2026-09-16T23:47:42.185Z",
+   "followers": 170,
+   "media_count": 51
+  },
+  {
+   "ts": "2026-09-17T00:48:10.824Z",
+   "followers": 170,
+   "media_count": 51
+  },
+  {
+   "ts": "2026-09-17T01:48:39.030Z",
+   "followers": 170,
+   "media_count": 51
+  },
+  {
+   "ts": "2026-09-17T02:48:48.502Z",
+   "followers": 170,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T03:37:22.111Z",
+   "followers": 170,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T04:37:37.431Z",
+   "followers": 170,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T05:37:51.840Z",
+   "followers": 171,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T06:38:07.717Z",
+   "followers": 172,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T07:38:25.112Z",
+   "followers": 172,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T08:38:40.457Z",
+   "followers": 172,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T09:28:06.356Z",
+   "followers": 172,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T10:28:12.592Z",
+   "followers": 173,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T11:28:20.044Z",
+   "followers": 173,
+   "media_count": 52
+  },
+  {
+   "ts": "2026-09-17T12:28:40.534Z",
+   "followers": 173,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T13:28:48.026Z",
+   "followers": 174,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T14:28:56.518Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T15:18:53.669Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T16:19:22.378Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T17:19:49.327Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T18:20:17.886Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T19:20:18.105Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T20:20:49.143Z",
+   "followers": 175,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T21:09:21.905Z",
+   "followers": 176,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T22:09:22.481Z",
+   "followers": 176,
+   "media_count": 53
+  },
+  {
+   "ts": "2026-09-17T23:09:28.011Z",
+   "followers": 176,
+   "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T00:09:57.173Z",
+   "followers": 176,
+   "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T01:10:21.003Z",
+   "followers": 176,
+   "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T02:10:46.779Z",
+   "followers": 176,
+   "media_count": 54
+  },
+  {
+   "ts": "2026-09-18T02:59:57.740Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T04:00:24.751Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T05:00:52.556Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T06:01:19.915Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T07:01:47.794Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T08:02:18.175Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T08:50:19.786Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T09:50:46.722Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T10:51:15.448Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T11:51:43.200Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T12:52:13.296Z",
+   "followers": 176,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T13:52:12.603Z",
+   "followers": 177,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T14:40:46.943Z",
+   "followers": 177,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T15:41:15.117Z",
+   "followers": 178,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T16:41:42.551Z",
+   "followers": 178,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T17:42:09.607Z",
+   "followers": 178,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T18:42:36.198Z",
+   "followers": 178,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T19:43:04.155Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T20:31:10.507Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T21:31:27.407Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T22:31:39.092Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-18T23:31:54.960Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-19T00:40:43.645Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-19T01:41:07.888Z",
+   "followers": 179,
+   "media_count": 55
+  },
+  {
+   "ts": "2026-09-19T02:41:34.218Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T03:41:59.302Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T04:42:25.530Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T05:42:50.352Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T06:31:30.527Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T07:31:36.404Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T08:31:42.388Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T09:31:47.913Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T10:31:56.668Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T11:32:02.694Z",
+   "followers": 179,
+   "media_count": 56
+  },
+  {
+   "ts": "2026-09-19T12:22:04.136Z",
+   "followers": 179,
+   "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T13:22:09.174Z",
+   "followers": 179,
+   "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T14:22:19.059Z",
+   "followers": 179,
+   "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T15:22:26.602Z",
+   "followers": 179,
+   "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T16:22:35.207Z",
+   "followers": 179,
+   "media_count": 57
+  },
+  {
+   "ts": "2026-09-19T17:22:54.024Z",
+   "followers": 179,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T18:12:49.328Z",
+   "followers": 178,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T19:12:56.508Z",
+   "followers": 178,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T20:13:03.922Z",
+   "followers": 179,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T21:13:11.852Z",
+   "followers": 179,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T22:13:17.345Z",
+   "followers": 179,
+   "media_count": 58
+  },
+  {
+   "ts": "2026-09-19T23:13:32.980Z",
+   "followers": 179,
+   "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T00:03:27.750Z",
+   "followers": 180,
+   "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T01:03:52.102Z",
+   "followers": 180,
+   "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T02:04:17.292Z",
+   "followers": 180,
+   "media_count": 59
+  },
+  {
+   "ts": "2026-09-20T03:04:44.183Z",
+   "followers": 182,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T04:05:09.508Z",
+   "followers": 182,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T05:05:34.086Z",
+   "followers": 182,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T05:54:14.333Z",
+   "followers": 182,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T06:54:19.052Z",
+   "followers": 182,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T07:54:23.076Z",
+   "followers": 184,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T08:54:28.189Z",
+   "followers": 184,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T09:54:31.395Z",
+   "followers": 184,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T10:54:34.932Z",
+   "followers": 184,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T11:44:58.312Z",
+   "followers": 184,
+   "media_count": 60
+  },
+  {
+   "ts": "2026-09-20T12:45:24.271Z",
+   "followers": 184,
+   "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T13:45:30.721Z",
+   "followers": 185,
+   "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T14:45:35.535Z",
+   "followers": 188,
+   "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T15:45:41.090Z",
+   "followers": 188,
+   "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T16:45:45.635Z",
+   "followers": 189,
+   "media_count": 61
+  },
+  {
+   "ts": "2026-09-20T17:35:30.664Z",
+   "followers": 189,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T18:35:55.559Z",
+   "followers": 189,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T19:36:19.183Z",
+   "followers": 189,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T20:36:46.156Z",
+   "followers": 189,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T21:37:11.662Z",
+   "followers": 190,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T22:37:34.351Z",
+   "followers": 190,
+   "media_count": 62
+  },
+  {
+   "ts": "2026-09-20T23:26:11.415Z",
+   "followers": 190,
+   "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T00:26:33.274Z",
+   "followers": 191,
+   "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T01:26:51.647Z",
+   "followers": 192,
+   "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T02:27:11.419Z",
+   "followers": 192,
+   "media_count": 63
+  },
+  {
+   "ts": "2026-09-21T03:27:26.039Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T04:27:45.908Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T05:16:43.106Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T06:16:56.712Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T07:17:11.009Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T08:17:23.939Z",
+   "followers": 192,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T09:17:37.705Z",
+   "followers": 192,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T10:17:52.743Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T11:07:19.951Z",
+   "followers": 193,
+   "media_count": 64
+  },
+  {
+   "ts": "2026-09-21T12:07:41.567Z",
+   "followers": 193,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T13:08:08.580Z",
+   "followers": 193,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T14:08:36.585Z",
+   "followers": 193,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T15:09:06.219Z",
+   "followers": 193,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T16:09:35.877Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T16:57:54.033Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T17:57:54.514Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T18:58:02.881Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T19:58:02.825Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T20:58:03.727Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T21:58:34.955Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T22:48:46.103Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-21T23:48:55.532Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-22T00:49:11.783Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-22T01:49:19.960Z",
+   "followers": 194,
+   "media_count": 65
+  },
+  {
+   "ts": "2026-09-22T02:49:42.724Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T03:49:51.769Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T04:39:20.724Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T05:39:45.687Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T06:40:11.419Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T08:40:57.336Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T09:41:24.385Z",
+   "followers": 194,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T10:30:09.133Z",
+   "followers": 195,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T11:30:38.885Z",
+   "followers": 195,
+   "media_count": 66
+  },
+  {
+   "ts": "2026-09-22T12:30:50.469Z",
+   "followers": 195,
+   "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T13:30:51.240Z",
+   "followers": 195,
+   "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T14:30:51.821Z",
+   "followers": 195,
+   "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T15:30:55.621Z",
+   "followers": 195,
+   "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T16:20:38.123Z",
+   "followers": 195,
+   "media_count": 67
+  },
+  {
+   "ts": "2026-09-22T17:21:03.826Z",
+   "followers": 195,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T18:21:22.025Z",
+   "followers": 195,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T19:21:37.893Z",
+   "followers": 195,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T20:21:51.693Z",
+   "followers": 196,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T21:22:04.882Z",
+   "followers": 196,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T22:11:00.999Z",
+   "followers": 196,
+   "media_count": 68
+  },
+  {
+   "ts": "2026-09-22T23:11:09.072Z",
+   "followers": 196,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T00:11:35.410Z",
+   "followers": 196,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T01:11:59.481Z",
+   "followers": 196,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T02:12:23.908Z",
+   "followers": 196,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T03:12:47.235Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T04:01:16.198Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T05:01:29.244Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T06:01:41.714Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T07:01:55.504Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T08:02:07.097Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T09:02:19.580Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T09:51:42.640Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T10:52:10.873Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T11:52:41.190Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T12:53:10.967Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T13:53:09.946Z",
+   "followers": 197,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T14:53:41.643Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T15:42:20.531Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T16:08:51.240Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T17:09:19.938Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T18:09:20.273Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T19:09:28.157Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T20:09:28.231Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T21:09:59.818Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T21:59:26.847Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T22:59:46.380Z",
+   "followers": 198,
+   "media_count": 69
+  },
+  {
+   "ts": "2026-09-23T23:59:48.954Z",
+   "followers": 198,
+   "media_count": 70
+  },
+  {
+   "ts": "2026-09-24T01:00:10.458Z",
+   "followers": 198,
+   "media_count": 70
+  },
+  {
+   "ts": "2026-09-24T02:00:27.649Z",
+   "followers": 198,
+   "media_count": 70
+  },
+  {
+   "ts": "2026-09-24T03:00:40.867Z",
+   "followers": 198,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T03:49:47.270Z",
+   "followers": 198,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T04:49:53.332Z",
+   "followers": 198,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T05:50:00.073Z",
+   "followers": 199,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T06:50:04.572Z",
+   "followers": 200,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T07:50:10.473Z",
+   "followers": 200,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T08:50:15.812Z",
+   "followers": 201,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T09:40:20.823Z",
+   "followers": 201,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T10:40:33.322Z",
+   "followers": 200,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T11:40:39.311Z",
+   "followers": 200,
+   "media_count": 71
+  },
+  {
+   "ts": "2026-09-24T12:40:56.775Z",
+   "followers": 201,
+   "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T13:41:04.995Z",
+   "followers": 204,
+   "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T14:41:17.920Z",
+   "followers": 205,
+   "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T15:30:53.534Z",
+   "followers": 204,
+   "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T16:30:55.652Z",
+   "followers": 204,
+   "media_count": 72
+  },
+  {
+   "ts": "2026-09-24T17:31:01.173Z",
+   "followers": 205,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T18:31:04.108Z",
+   "followers": 205,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T19:31:11.409Z",
+   "followers": 206,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T20:31:17.445Z",
+   "followers": 206,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T21:21:33.519Z",
+   "followers": 207,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T22:21:57.946Z",
+   "followers": 207,
+   "media_count": 73
+  },
+  {
+   "ts": "2026-09-24T23:22:12.015Z",
+   "followers": 208,
+   "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T00:22:31.786Z",
+   "followers": 208,
+   "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T01:22:51.856Z",
+   "followers": 209,
+   "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T02:23:10.383Z",
+   "followers": 208,
+   "media_count": 74
+  },
+  {
+   "ts": "2026-09-25T03:12:28.764Z",
+   "followers": 208,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T04:12:58.123Z",
+   "followers": 208,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T05:13:27.296Z",
+   "followers": 210,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T06:13:55.742Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T07:14:24.308Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T08:14:53.522Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T09:03:11.890Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T10:03:41.075Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T11:04:10.273Z",
+   "followers": 211,
+   "media_count": 75
+  },
+  {
+   "ts": "2026-09-25T12:04:21.861Z",
+   "followers": 211,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T13:04:51.300Z",
+   "followers": 211,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T14:05:21.728Z",
+   "followers": 214,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T14:53:37.547Z",
+   "followers": 214,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T15:53:46.939Z",
+   "followers": 215,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T16:53:56.862Z",
+   "followers": 216,
+   "media_count": 76
+  },
+  {
+   "ts": "2026-09-25T17:54:00.966Z",
+   "followers": 217,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T18:54:10.508Z",
+   "followers": 217,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T19:54:19.099Z",
+   "followers": 217,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T20:44:12.003Z",
+   "followers": 219,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T21:44:37.057Z",
+   "followers": 219,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T22:45:03.443Z",
+   "followers": 219,
+   "media_count": 77
+  },
+  {
+   "ts": "2026-09-25T23:45:25.233Z",
+   "followers": 219,
+   "media_count": 78
+  },
+  {
+   "ts": "2026-09-26T00:45:43.976Z",
+   "followers": 220,
+   "media_count": 78
+  },
+  {
+   "ts": "2026-09-26T01:46:02.112Z",
+   "followers": 220,
+   "media_count": 78
+  },
+  {
+   "ts": "2026-09-26T02:34:45.828Z",
+   "followers": 220,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T03:34:48.902Z",
+   "followers": 220,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T04:34:51.083Z",
+   "followers": 221,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T05:34:53.841Z",
+   "followers": 221,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T06:34:55.755Z",
+   "followers": 221,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T07:35:00.251Z",
+   "followers": 221,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T08:25:24.437Z",
+   "followers": 221,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T09:25:30.467Z",
+   "followers": 222,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T10:25:37.599Z",
+   "followers": 223,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T11:25:45.745Z",
+   "followers": 223,
+   "media_count": 79
+  },
+  {
+   "ts": "2026-09-26T12:26:01.422Z",
+   "followers": 224,
+   "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T13:26:09.034Z",
+   "followers": 225,
+   "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T14:16:10.355Z",
+   "followers": 225,
+   "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T15:16:17.649Z",
+   "followers": 226,
+   "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T16:16:23.321Z",
+   "followers": 227,
+   "media_count": 80
+  },
+  {
+   "ts": "2026-09-26T17:16:41.573Z",
+   "followers": 227,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T18:16:48.214Z",
+   "followers": 227,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T19:16:53.508Z",
+   "followers": 228,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T20:06:44.821Z",
+   "followers": 229,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T21:06:58.115Z",
+   "followers": 230,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T22:07:10.897Z",
+   "followers": 231,
+   "media_count": 81
+  },
+  {
+   "ts": "2026-09-26T23:07:37.497Z",
+   "followers": 233,
+   "media_count": 82
+  },
+  {
+   "ts": "2026-09-27T00:07:49.667Z",
+   "followers": 234,
+   "media_count": 82
+  },
+  {
+   "ts": "2026-09-27T01:08:01.855Z",
+   "followers": 234,
+   "media_count": 82
+  },
+  {
+   "ts": "2026-09-27T01:57:25.914Z",
+   "followers": 234,
+   "media_count": 82
+  },
+  {
+   "ts": "2026-09-27T02:57:38.103Z",
+   "followers": 235,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T03:58:09.837Z",
+   "followers": 236,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T04:58:08.527Z",
+   "followers": 236,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T05:58:37.133Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T06:59:05.366Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T07:48:04.189Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T08:48:08.253Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T09:48:13.371Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T09:57:41.362Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T10:58:10.046Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T11:58:38.971Z",
+   "followers": 238,
+   "media_count": 83
+  },
+  {
+   "ts": "2026-09-27T12:58:41.072Z",
+   "followers": 238,
+   "media_count": 84
+  },
+  {
+   "ts": "2026-09-27T13:59:10.501Z",
+   "followers": 238,
+   "media_count": 84
+  },
+  {
+   "ts": "2026-09-27T14:59:40.214Z",
+   "followers": 238,
+   "media_count": 84
+  },
+  {
+   "ts": "2026-09-27T15:48:23.604Z",
+   "followers": 238,
+   "media_count": 84
+  },
+  {
+   "ts": "2026-09-27T16:48:49.665Z",
+   "followers": 238,
+   "media_count": 84
+  },
+  {
+   "ts": "2026-09-27T17:49:13.529Z",
+   "followers": 238,
+   "media_count": 85
+  },
+  {
+   "ts": "2026-09-27T18:49:37.640Z",
+   "followers": 239,
+   "media_count": 85
+  },
+  {
+   "ts": "2026-09-27T19:50:01.575Z",
+   "followers": 239,
+   "media_count": 85
+  },
+  {
+   "ts": "2026-09-27T20:50:30.957Z",
+   "followers": 239,
+   "media_count": 85
+  },
+  {
+   "ts": "2026-09-27T21:39:09.299Z",
+   "followers": 240,
+   "media_count": 86
+  },
+  {
+   "ts": "2026-09-27T22:39:31.463Z",
+   "followers": 240,
+   "media_count": 86
+  },
+  {
+   "ts": "2026-09-27T23:39:33.742Z",
+   "followers": 240,
+   "media_count": 87
+  },
+  {
+   "ts": "2026-09-28T00:39:52.437Z",
+   "followers": 240,
+   "media_count": 87
+  },
+  {
+   "ts": "2026-09-28T01:40:12.814Z",
+   "followers": 240,
+   "media_count": 87
+  },
+  {
+   "ts": "2026-09-28T02:40:18.863Z",
+   "followers": 240,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T03:29:47.943Z",
+   "followers": 240,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T04:29:53.692Z",
+   "followers": 240,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T05:29:58.994Z",
+   "followers": 240,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T06:30:04.586Z",
+   "followers": 241,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T07:30:10.479Z",
+   "followers": 241,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T08:30:17.169Z",
+   "followers": 241,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T09:20:27.453Z",
+   "followers": 241,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T10:20:35.349Z",
+   "followers": 242,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T11:20:43.306Z",
+   "followers": 243,
+   "media_count": 88
+  },
+  {
+   "ts": "2026-09-28T12:20:51.790Z",
+   "followers": 243,
+   "media_count": 89
+  },
+  {
+   "ts": "2026-09-28T13:21:01.108Z",
+   "followers": 243,
+   "media_count": 89
+  },
+  {
+   "ts": "2026-09-28T14:21:13.017Z",
+   "followers": 243,
+   "media_count": 89
+  },
+  {
+   "ts": "2026-09-28T16:48:41.939Z",
+   "followers": 244,
+   "media_count": 89
+  },
+  {
+   "ts": "2026-09-28T17:49:08.504Z",
+   "followers": 244,
+   "media_count": 90
+  },
+  {
+   "ts": "2026-09-28T18:49:38.071Z",
+   "followers": 244,
+   "media_count": 90
+  },
+  {
+   "ts": "2026-09-28T19:50:11.380Z",
+   "followers": 244,
+   "media_count": 90
+  },
+  {
+   "ts": "2026-09-28T20:50:11.963Z",
+   "followers": 245,
+   "media_count": 90
+  },
+  {
+   "ts": "2026-09-28T21:50:43.561Z",
+   "followers": 246,
+   "media_count": 90
+  },
+  {
+   "ts": "2026-09-28T22:39:31.862Z",
+   "followers": 246,
+   "media_count": 89
+  },
+  {
+   "ts": "2026-09-28T23:39:33.236Z",
+   "followers": 246,
+   "media_count": 91
+  },
+  {
+   "ts": "2026-09-29T00:39:53.390Z",
+   "followers": 247,
+   "media_count": 91
+  },
+  {
+   "ts": "2026-09-29T01:40:12.185Z",
+   "followers": 248,
+   "media_count": 91
+  },
+  {
+   "ts": "2026-09-29T02:40:20.159Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T03:40:40.780Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T04:30:10.224Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T05:30:25.579Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T06:30:33.715Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T07:30:39.785Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T08:30:52.576Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T09:30:59.743Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T10:21:22.132Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T11:21:21.093Z",
+   "followers": 248,
+   "media_count": 92
+  },
+  {
+   "ts": "2026-09-29T12:21:47.040Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T13:21:49.622Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T14:22:07.347Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T15:22:10.192Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T16:12:11.785Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T17:12:12.330Z",
+   "followers": 247,
+   "media_count": 94
+  },
+  {
+   "ts": "2026-09-29T18:12:34.224Z",
+   "followers": 247,
+   "media_count": 94
+  },
+  {
+   "ts": "2026-09-29T19:12:56.907Z",
+   "followers": 247,
+   "media_count": 94
+  },
+  {
+   "ts": "2026-09-29T20:13:24.914Z",
+   "followers": 247,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T21:13:44.683Z",
+   "followers": 247,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T22:03:20.885Z",
+   "followers": 248,
+   "media_count": 93
+  },
+  {
+   "ts": "2026-09-29T23:03:51.504Z",
+   "followers": 248,
+   "media_count": 94
+  },
+  {
+   "ts": "2026-09-30T00:03:46.098Z",
+   "followers": 248,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T01:04:10.614Z",
+   "followers": 248,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T02:04:39.676Z",
+   "followers": 248,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T03:04:52.780Z",
+   "followers": 248,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T03:54:04.644Z",
+   "followers": 250,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T04:54:09.468Z",
+   "followers": 251,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T05:54:15.325Z",
+   "followers": 251,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T06:54:19.768Z",
+   "followers": 253,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T07:54:25.348Z",
+   "followers": 253,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T08:54:33.128Z",
+   "followers": 253,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T09:44:28.827Z",
+   "followers": 254,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T10:44:39.903Z",
+   "followers": 254,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T11:44:40.342Z",
+   "followers": 254,
+   "media_count": 95
+  },
+  {
+   "ts": "2026-09-30T12:44:57.177Z",
+   "followers": 254,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T13:44:59.537Z",
+   "followers": 255,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T14:45:06.141Z",
+   "followers": 255,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T15:35:05.977Z",
+   "followers": 256,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T16:35:18.037Z",
+   "followers": 256,
+   "media_count": 96
+  },
+  {
+   "ts": "2026-09-30T17:35:47.738Z",
+   "followers": 256,
+   "media_count": 97
+  },
+  {
+   "ts": "2026-09-30T18:35:59.962Z",
+   "followers": 256,
+   "media_count": 97
+  },
+  {
+   "ts": "2026-09-30T19:36:25.511Z",
+   "followers": 256,
+   "media_count": 97
+  },
+  {
+   "ts": "2026-09-30T20:36:39.537Z",
+   "followers": 256,
+   "media_count": 97
+  },
+  {
+   "ts": "2026-09-30T21:26:14.506Z",
+   "followers": 256,
+   "media_count": 97
+  },
+  {
+   "ts": "2026-09-30T22:26:46.946Z",
+   "followers": 256,
+   "media_count": 98
+  },
+  {
+   "ts": "2026-09-30T23:26:55.400Z",
+   "followers": 256,
+   "media_count": 99
+  },
+  {
+   "ts": "2026-10-01T00:27:06.259Z",
+   "followers": 256,
+   "media_count": 99
+  },
+  {
+   "ts": "2026-10-01T01:27:09.887Z",
+   "followers": 257,
+   "media_count": 99
+  },
+  {
+   "ts": "2026-10-01T02:27:21.200Z",
+   "followers": 257,
+   "media_count": 99
+  },
+  {
+   "ts": "2026-10-01T03:17:04.941Z",
+   "followers": 257,
+   "media_count": 100
+  },
+  {
+   "ts": "2026-10-01T04:17:07.183Z",
+   "followers": 258,
+   "media_count": 100
+  },
+  {
+   "ts": "2026-10-01T05:17:09.018Z",
+   "followers": 259,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T06:17:10.329Z",
+   "followers": 259,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T07:17:10.828Z",
+   "followers": 259,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T08:17:13.110Z",
+   "followers": 261,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T09:07:48.704Z",
+   "followers": 261,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T10:08:04.601Z",
+   "followers": 261,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T11:08:25.209Z",
+   "followers": 264,
+   "media_count": 101
+  },
+  {
+   "ts": "2026-10-01T12:08:34.978Z",
+   "followers": 264,
+   "media_count": 103
+  }
+ ],
+ "posts": [
+  {
+   "id": "18078890924372196",
+   "slug": "stickman-halfswing",
+   "permalink": "https://www.instagram.com/reel/Dd82_qwDqCy/",
+   "timestamp": "2026-10-01T12:00:35+0000",
+   "type": "VIDEO",
+   "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
+   "views": 1,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "18062299541787760",
+   "slug": "stickman-hole300",
+   "permalink": "https://www.instagram.com/reel/Dd710AVgTIw/",
+   "timestamp": "2026-10-01T02:31:00+0000",
+   "type": "VIDEO",
+   "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
+   "views": 2900,
+   "likes": 18,
+   "comments": 2
+  },
+  {
+   "id": "18121822180901662",
+   "slug": "stickman-movedstop",
+   "permalink": "https://www.instagram.com/reel/Dd7wqW8je2Q/",
+   "timestamp": "2026-10-01T01:46:00+0000",
+   "type": "VIDEO",
+   "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
+   "views": 528,
+   "likes": 3,
+   "comments": 1
+  },
+  {
+   "id": "18078125594418826",
+   "slug": "stickman-fridayleak",
+   "permalink": "https://www.instagram.com/reel/Dd7pNodiRGG/",
+   "timestamp": "2026-10-01T00:40:44+0000",
+   "type": "VIDEO",
+   "caption": "One hour a week cost you $3,100 this quarter.",
+   "views": 183,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "17883584835689798",
+   "slug": "stickman-theta",
+   "permalink": "https://www.instagram.com/reel/Dd7hKRDlcas/",
+   "timestamp": "2026-09-30T23:30:34+0000",
+   "type": "VIDEO",
+   "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
+   "views": 1110,
+   "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "17897078370394502",
+   "slug": "stickman-dailylimit",
+   "permalink": "https://www.instagram.com/reel/Dd7d4KhEXYd/",
+   "timestamp": "2026-09-30T23:01:52+0000",
+   "type": "VIDEO",
+   "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
+   "views": 526,
+   "likes": 8,
+   "comments": 1
+  },
+  {
+   "id": "18033110123855495",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Dd7Y6bFu0O0/",
+   "timestamp": "2026-09-30T22:22:20+0000",
+   "type": "VIDEO",
+   "caption": "Bro doesn’t know ☠️",
+   "views": 847,
+   "likes": 24,
+   "comments": 3
+  },
+  {
+   "id": "18123540976904919",
+   "slug": "stickman-earningsgap",
+   "permalink": "https://www.instagram.com/reel/Dd7W6QCALOR/",
+   "timestamp": "2026-09-30T22:01:02+0000",
+   "type": "VIDEO",
+   "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
+   "views": 2195,
+   "likes": 11,
+   "comments": 1
+  },
+  {
+   "id": "17875056624634543",
+   "slug": "stickman-twentytraders",
+   "permalink": "https://www.instagram.com/reel/Dd60p0PiNa4/",
+   "timestamp": "2026-09-30T17:01:40+0000",
+   "type": "VIDEO",
+   "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
+   "views": 634,
+   "likes": 12,
+   "comments": 4
+  },
+  {
+   "id": "18131127862773552",
+   "slug": "stickman-washsale",
+   "permalink": "https://www.instagram.com/reel/Dd6SQEvjnUg/",
+   "timestamp": "2026-09-30T12:01:01+0000",
+   "type": "VIDEO",
+   "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
+   "views": 1381,
+   "likes": 7,
+   "comments": 1
+  },
+  {
+   "id": "18094480490403271",
+   "slug": "stickman-evalluck",
+   "permalink": "https://www.instagram.com/reel/Dd5Q-UHjune/",
+   "timestamp": "2026-09-30T02:30:37+0000",
+   "type": "VIDEO",
+   "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
+   "views": 2303,
+   "likes": 26,
+   "comments": 4
+  },
+  {
+   "id": "17961719514195582",
+   "slug": "stickman-twenty",
+   "permalink": "https://www.instagram.com/reel/Dd449aEgtgw/",
+   "timestamp": "2026-09-29T23:00:54+0000",
+   "type": "VIDEO",
+   "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
+   "views": 1296,
+   "likes": 13,
+   "comments": 1
+  },
+  {
+   "id": "17904678123665107",
+   "slug": "stickman-luck100",
+   "permalink": "https://www.instagram.com/reel/Dd4PxWBksoC/",
+   "timestamp": "2026-09-29T17:00:51+0000",
+   "type": "VIDEO",
+   "caption": "Up 12 % after 100 trades with zero edge. That happens to 1 trader in 7.",
+   "views": 536,
+   "likes": 4,
+   "comments": 1
+  },
+  {
+   "id": "18124455652864903",
+   "slug": "stickman-margin",
+   "permalink": "https://www.instagram.com/reel/Dd3tdAXFH28/",
+   "timestamp": "2026-09-29T12:01:17+0000",
+   "type": "VIDEO",
+   "caption": "On 2x margin, a 33 % drop takes 67 % of your money.",
+   "views": 1646,
+   "likes": 12,
+   "comments": 1
+  },
+  {
+   "id": "18072819314724860",
+   "slug": "stickman-underwater",
+   "permalink": "https://www.instagram.com/reel/Dd2sNvCDFYT/",
+   "timestamp": "2026-09-29T02:30:54+0000",
+   "type": "VIDEO",
+   "caption": "Even with a real edge, your account sits below its last high 7 trades out of 8.",
+   "views": 1629,
+   "likes": 13,
+   "comments": 0
+  },
+  {
+   "id": "18071479919749896",
+   "slug": "stickman-scalpcost",
+   "permalink": "https://www.instagram.com/reel/Dd2ULcnAKxD/",
+   "timestamp": "2026-09-28T23:00:53+0000",
+   "type": "VIDEO",
+   "caption": "Win 55 % of your 0.5 % scalps and you still lose money.",
+   "views": 325,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "18151258339531851",
+   "slug": "stickman-trailing",
+   "permalink": "https://www.instagram.com/reel/Dd1rD6gFcMD/",
+   "timestamp": "2026-09-28T17:01:40+0000",
+   "type": "VIDEO",
+   "caption": "Make $3,000, lose $5,000, and your $100k prop account is gone.",
+   "views": 1895,
+   "likes": 13,
+   "comments": 0
+  },
+  {
+   "id": "17894925090415409",
+   "slug": "stickman-letf",
+   "permalink": "https://www.instagram.com/reel/Dd1InwglJfr/",
+   "timestamp": "2026-09-28T12:00:28+0000",
+   "type": "VIDEO",
+   "caption": "The index is down 1 %. Your 3x ETF is down 9 %.",
+   "views": 2405,
+   "likes": 10,
+   "comments": 0
+  },
+  {
+   "id": "18140714341615417",
+   "slug": "stickman-eightoften",
+   "permalink": "https://www.instagram.com/reel/Dd0HabbjgT5/",
+   "timestamp": "2026-09-28T02:30:53+0000",
+   "type": "VIDEO",
+   "caption": "Win 8 trades out of 10 and still lose $10 on every trade.",
+   "views": 2290,
+   "likes": 26,
+   "comments": 2
+  },
+  {
+   "id": "18100190339326055",
+   "slug": "stickman-sixoften",
+   "permalink": "https://www.instagram.com/reel/DdzvYOWD6vu/",
+   "timestamp": "2026-09-27T23:00:51+0000",
+   "type": "VIDEO",
+   "caption": "Win 6 trades out of 10, risking 40 % each time, and you end down 2 %.",
+   "views": 1994,
+   "likes": 16,
+   "comments": 0
+  },
+  {
+   "id": "17959060278246833",
+   "slug": "stickman-streak8",
+   "permalink": "https://www.instagram.com/reel/DdzGLXHgXRx/",
+   "timestamp": "2026-09-27T17:00:54+0000",
+   "type": "VIDEO",
+   "caption": "60 % win rate, 500 trades: 1 trader in 6 hits 8 losses in a row.",
+   "views": 2028,
+   "likes": 21,
+   "comments": 0
+  },
+  {
+   "id": "18216895165354251",
+   "slug": "stickman-weekswing",
+   "permalink": "https://www.instagram.com/reel/Ddyj1q-jl3j/",
+   "timestamp": "2026-09-27T12:00:36+0000",
+   "type": "VIDEO",
+   "caption": "Up 5 % one week, down 5 % the next, all year: the account ends down 6 %.",
+   "views": 2102,
+   "likes": 9,
+   "comments": 0
+  },
+  {
+   "id": "18117712646095291",
+   "slug": "stickman-coinflip",
+   "permalink": "https://www.instagram.com/reel/DdxioiEFeGI/",
+   "timestamp": "2026-09-27T02:30:59+0000",
+   "type": "VIDEO",
+   "caption": "60 % win rate over 50 trades. A coin does that one time in ten.",
+   "views": 1700,
+   "likes": 15,
+   "comments": 0
+  },
+  {
+   "id": "18473014186116737",
+   "slug": "stickman-outlier",
+   "permalink": "https://www.instagram.com/reel/DdxKk8HCcT4/",
+   "timestamp": "2026-09-26T23:00:48+0000",
+   "type": "VIDEO",
+   "caption": "Take out your single best trade and the year is red.",
+   "views": 2062,
+   "likes": 22,
+   "comments": 0
+  },
+  {
+   "id": "17947985859316077",
+   "slug": "stickman-fixeddollar",
+   "permalink": "https://www.instagram.com/reel/DdwhYzsCMaT/",
+   "timestamp": "2026-09-26T17:00:49+0000",
+   "type": "VIDEO",
+   "caption": "Risk $500 a trade on $10,000 and 20 losses is zero. Risk 5 % and 20 losses leave",
+   "views": 2402,
+   "likes": 16,
+   "comments": 0
+  },
+  {
+   "id": "18457716532140701",
+   "slug": "stickman-propfirm",
+   "permalink": "https://www.instagram.com/reel/Ddv_EirlJJi/",
+   "timestamp": "2026-09-26T12:00:59+0000",
+   "type": "VIDEO",
+   "caption": "A trader with a real edge fails a 10 % target, 5 % max drawdown challenge one ti",
+   "views": 2384,
+   "likes": 26,
+   "comments": 2
+  },
+  {
+   "id": "17870293218649215",
+   "slug": "stickman-luck",
+   "permalink": "https://www.instagram.com/reel/Ddu900ckoII/",
+   "timestamp": "2026-09-26T02:30:57+0000",
+   "type": "VIDEO",
+   "caption": "Same edge, same rules, 200 trades. One trader is up 34 %, the other up 6 %. Both",
+   "views": 2263,
+   "likes": 35,
+   "comments": 0
+  },
+  {
+   "id": "18137006041715709",
+   "slug": "stickman-halfsize",
+   "permalink": "https://www.instagram.com/reel/DdulyWQAWPF/",
+   "timestamp": "2026-09-25T23:00:41+0000",
+   "type": "VIDEO",
+   "caption": "Halve your size after 3 losses and a 10-loss streak costs 12 % instead of 18 %.",
+   "views": 1327,
+   "likes": 18,
+   "comments": 0
+  },
+  {
+   "id": "18097878389093391",
+   "slug": "stickman-recovery",
+   "permalink": "https://www.instagram.com/reel/Ddt8km3iEOi/",
+   "timestamp": "2026-09-25T17:00:46+0000",
+   "type": "VIDEO",
+   "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
+   "views": 3576,
+   "likes": 20,
+   "comments": 0
+  },
+  {
+   "id": "17920753875220904",
+   "slug": "stickman-martingale",
+   "permalink": "https://www.instagram.com/reel/DdtaZMHjd3r/",
+   "timestamp": "2026-09-25T12:02:04+0000",
+   "type": "VIDEO",
+   "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
+   "views": 4105,
+   "likes": 31,
+   "comments": 0
+  },
+  {
+   "id": "17900715135376918",
+   "slug": "stickman-dailyloss",
+   "permalink": "https://www.instagram.com/reel/DdsZBfgibBp/",
+   "timestamp": "2026-09-25T02:30:41+0000",
+   "type": "VIDEO",
+   "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
+   "views": 2152,
+   "likes": 16,
+   "comments": 0
+  },
+  {
+   "id": "18030594071854101",
+   "slug": "stickman-payoff",
+   "permalink": "https://www.instagram.com/reel/DdsA-igjALD/",
+   "timestamp": "2026-09-24T23:00:42+0000",
+   "type": "VIDEO",
+   "caption": "Lose 7 of 10 and still come out ahead.",
+   "views": 1815,
+   "likes": 14,
+   "comments": 0
+  },
+  {
+   "id": "18058237244565635",
+   "slug": "stickman-riskstreak",
+   "permalink": "https://www.instagram.com/reel/DdrXz1Ajeaz/",
+   "timestamp": "2026-09-24T17:00:48+0000",
+   "type": "VIDEO",
+   "caption": "10 losses in a row at 5 % risk takes 40 % of your account.",
+   "views": 2839,
+   "likes": 18,
+   "comments": 2
+  },
+  {
+   "id": "17896190130394227",
+   "slug": "stickman-voldrag",
+   "permalink": "https://www.instagram.com/reel/Ddq1ePRipmm/",
+   "timestamp": "2026-09-24T12:00:54+0000",
+   "type": "VIDEO",
+   "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
+   "views": 4605,
+   "likes": 37,
+   "comments": 0
+  },
+  {
+   "id": "18100574750532665",
+   "slug": "stickman-leverage",
+   "permalink": "https://www.instagram.com/reel/Ddp0VKkk3Ac/",
+   "timestamp": "2026-09-24T02:31:34+0000",
+   "type": "VIDEO",
+   "caption": "At 100x, a 1 % move against you is your whole account.",
+   "views": 2304,
+   "likes": 18,
+   "comments": 0
+  },
+  {
+   "id": "17981486649092897",
+   "slug": "stickman-samplesize",
+   "permalink": "https://www.instagram.com/reel/DdpcMxnlR7S/",
+   "timestamp": "2026-09-23T23:00:53+0000",
+   "type": "VIDEO",
+   "caption": "You can be profitable and still have no edge.",
+   "views": 2590,
+   "likes": 26,
+   "comments": 0
+  },
+  {
+   "id": "18169092430463023",
+   "slug": "stickman-confirmation",
+   "permalink": "https://www.instagram.com/reel/Ddm3c_LErSG/",
+   "timestamp": "2026-09-22T23:01:15+0000",
+   "type": "VIDEO",
+   "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
+   "views": 912,
+   "likes": 8,
+   "comments": 0
+  },
+  {
+   "id": "18113691628819082",
+   "slug": "stickman-kelly",
+   "permalink": "https://www.instagram.com/reel/DdmOLlilIo9/",
+   "timestamp": "2026-09-22T17:00:39+0000",
+   "type": "VIDEO",
+   "caption": "Bet twice as much and your account stops growing.",
+   "views": 2210,
+   "likes": 12,
+   "comments": 0
+  },
+  {
+   "id": "17953064058255479",
+   "slug": "stickman-stopsize",
+   "permalink": "https://www.instagram.com/reel/Ddlr2ZJjF8E/",
+   "timestamp": "2026-09-22T12:00:40+0000",
+   "type": "VIDEO",
+   "caption": "Your stop distance picks your position size, whether you meant it to or not.",
+   "views": 1443,
+   "likes": 18,
+   "comments": 0
+  },
+  {
+   "id": "18490946881100120",
+   "slug": "stickman-scratch",
+   "permalink": "https://www.instagram.com/reel/DdkqoZbk-5e/",
+   "timestamp": "2026-09-22T02:30:45+0000",
+   "type": "VIDEO",
+   "caption": "Breaking even costs you money.",
+   "views": 311,
+   "likes": 3,
+   "comments": 0
+  }
+ ]
+}

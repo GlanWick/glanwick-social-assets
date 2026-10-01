@@ -1,0 +1,24 @@
+# Prueft die TikTok-Anbindung ueber Zernio, ohne etwas zu veroeffentlichen.
+# Von Hand starten: nach dem Verbinden des Kontos, nach einem Schluesseltausch
+# oder wenn der Waechter "TikTok pausiert" meldet. Skript: tiktok-check.mjs.
+name: TikTok Check
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Anbindung pruefen (ohne zu posten)
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+        run: node tiktok-check.mjs
