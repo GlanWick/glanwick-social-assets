@@ -1867,7 +1867,7 @@
     {
       "id": "2026-10-01-screenshot",
       "slug": "stickman-screenshot",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-01T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-screenshot.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-screenshot-cover.jpg",
@@ -1877,7 +1877,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-screenshot.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-screenshot-cover.jpg"
       },
-      "posting_started_at": "2026-10-01T23:00:28.187Z"
+      "container_id": "18110632148136556",
+      "media_id": "18040962323830731",
+      "permalink": "https://www.instagram.com/reel/Dd-ClOUis5D/",
+      "published_at": "2026-10-01T23:01:10.833Z"
     },
     {
       "id": "2026-10-02-gruen-zu-rot",
