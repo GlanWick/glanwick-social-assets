@@ -2087,7 +2087,7 @@
     {
       "id": "test-2026-10-halbes-konto",
       "slug": "stickman-halfgone",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-02T00:40:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfgone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfgone-cover.jpg",
@@ -2097,7 +2097,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage drawdown mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-02T00:40:20.383Z"
     },
     {
       "id": "test-2026-10-elf-monate",
