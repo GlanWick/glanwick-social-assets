@@ -855,14 +855,15 @@
       "published_at": "2026-09-16T23:00:55.592Z",
       "container_id": "18108408056136556",
       "tiktok": {
-        "status": "posting",
+        "status": "submitted",
         "nr": 12,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-journal.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-journal-cover.jpg",
         "gestartet_at": "2026-10-02T23:00:54.407Z",
-        "stand": "2026-10-02T23:00:54.407Z",
+        "stand": "2026-10-02T23:01:15.678Z",
         "versuch": 1,
-        "slot": "2026-10-02T23:00:00.000Z"
+        "slot": "2026-10-02T23:00:00.000Z",
+        "post_id": "6ac037ac5bf3765f4aca69a2"
       }
     },
     {
