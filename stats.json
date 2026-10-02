@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-02T02:33:19.288Z",
+ "updated": "2026-10-02T03:33:46.501Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.5 s"
-  ],
-  "checked": "2026-10-02T02:33:20.303Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-02T03:33:47.643Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -33,15 +31,15 @@
    },
    {
     "day": "2026-10-01",
-    "reach": 6605
+    "reach": 6975
    }
   ],
-  "avg_watch_last_reels": 7.5
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 266,
+  "followers": 267,
   "media_count": 106
  },
  "history": [
@@ -3399,6 +3397,11 @@
    "ts": "2026-10-02T02:33:19.288Z",
    "followers": 266,
    "media_count": 106
+  },
+  {
+   "ts": "2026-10-02T03:33:46.501Z",
+   "followers": 267,
+   "media_count": 106
   }
  ],
  "posts": [
@@ -3409,8 +3412,8 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 0,
-   "likes": 0,
+   "views": 152,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3420,8 +3423,8 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 158,
-   "likes": 2,
+   "views": 340,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3431,7 +3434,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 352,
+   "views": 474,
    "likes": 1,
    "comments": 1
   },
@@ -3442,8 +3445,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 268,
-   "likes": 2,
+   "views": 350,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -3453,8 +3456,8 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 329,
-   "likes": 2,
+   "views": 385,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3464,8 +3467,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2101,
-   "likes": 27,
+   "views": 2281,
+   "likes": 29,
    "comments": 4
   },
   {
@@ -3475,7 +3478,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2050,
+   "views": 2143,
    "likes": 17,
    "comments": 1
   },
@@ -3486,7 +3489,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3165,
+   "views": 3173,
    "likes": 19,
    "comments": 2
   },
@@ -3497,7 +3500,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 768,
+   "views": 773,
    "likes": 5,
    "comments": 1
   },
@@ -3519,7 +3522,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1562,
+   "views": 1578,
    "likes": 6,
    "comments": 1
   },
@@ -3530,7 +3533,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 711,
+   "views": 727,
    "likes": 9,
    "comments": 1
   },
@@ -3552,7 +3555,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2289,
+   "views": 2293,
    "likes": 11,
    "comments": 1
   },
@@ -3794,7 +3797,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 4106,
+   "views": 4108,
    "likes": 31,
    "comments": 0
   },
