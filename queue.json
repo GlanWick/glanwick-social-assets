@@ -2138,7 +2138,16 @@
       "container_id": "18110647568136556",
       "media_id": "18185061127417167",
       "permalink": "https://www.instagram.com/reel/Dd-Var0lG06/",
-      "published_at": "2026-10-02T01:45:46.538Z"
+      "published_at": "2026-10-02T01:45:46.538Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 105,
+        "beitraege_nachher": 105,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-02T01:46:48.247Z"
+      }
     }
   ]
 }
