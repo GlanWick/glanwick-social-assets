@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T19:04:27.708Z",
+ "updated": "2026-10-02T20:04:55.565Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T19:04:29.385Z",
+  "checked": "2026-10-02T20:04:56.758Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -34,12 +34,12 @@
     "reach": 9134
    }
   ],
-  "avg_watch_last_reels": 13.6
+  "avg_watch_last_reels": 13.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 269,
+  "followers": 268,
   "media_count": 107
  },
  "history": [
@@ -3482,6 +3482,11 @@
    "ts": "2026-10-02T19:04:27.708Z",
    "followers": 269,
    "media_count": 107
+  },
+  {
+   "ts": "2026-10-02T20:04:55.565Z",
+   "followers": 268,
+   "media_count": 107
   }
  ],
  "posts": [
@@ -3492,8 +3497,8 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1494,
-   "likes": 20,
+   "views": 1603,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -3503,7 +3508,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1496,
+   "views": 1537,
    "likes": 31,
    "comments": 1
   },
@@ -3514,7 +3519,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2357,
+   "views": 2365,
    "likes": 15,
    "comments": 1
   },
@@ -3525,7 +3530,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2273,
+   "views": 2286,
    "likes": 12,
    "comments": 1
   },
@@ -3536,7 +3541,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1919,
+   "views": 1921,
    "likes": 21,
    "comments": 1
   },
@@ -3547,7 +3552,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1815,
+   "views": 1818,
    "likes": 26,
    "comments": 1
   },
@@ -3569,7 +3574,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2385,
+   "views": 2391,
    "likes": 18,
    "comments": 1
   },
@@ -3580,7 +3585,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3348,
+   "views": 3350,
    "likes": 19,
    "comments": 2
   },
@@ -3756,7 +3761,7 @@
    "timestamp": "2026-09-28T12:00:28+0000",
    "type": "VIDEO",
    "caption": "The index is down 1 %. Your 3x ETF is down 9 %.",
-   "views": 2414,
+   "views": 2415,
    "likes": 10,
    "comments": 0
   },
@@ -3877,7 +3882,7 @@
    "timestamp": "2026-09-25T17:00:46+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
-   "views": 3580,
+   "views": 3582,
    "likes": 20,
    "comments": 0
   },
