@@ -2254,7 +2254,16 @@
       "container_id": "18110799335136556",
       "media_id": "17880904734626990",
       "permalink": "https://www.instagram.com/reel/DeAqzvujUrb/",
-      "published_at": "2026-10-02T23:31:09.557Z"
+      "published_at": "2026-10-02T23:31:09.557Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 112,
+        "beitraege_nachher": 112,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-02T23:32:11.276Z"
+      }
     },
     {
       "id": "test-2026-10-zehn-verluste",
