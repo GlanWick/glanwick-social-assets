@@ -1021,15 +1021,18 @@
       "published_at": "2026-09-19T23:00:50.488Z",
       "container_id": "18108845624136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 11,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-correlation.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-correlation-cover.jpg",
         "gestartet_at": "2026-10-02T17:00:06.563Z",
-        "stand": "2026-10-02T17:00:31.621Z",
+        "stand": "2026-10-02T17:01:04.776Z",
         "versuch": 1,
         "slot": "2026-10-02T17:00:00.000Z",
-        "post_id": "6abfe31d82d723d11d2a6af4"
+        "post_id": "6abfe31d82d723d11d2a6af4",
+        "published_at": "2026-10-02T17:00:51.029Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7692116412176795680"
       }
     },
     {
