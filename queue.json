@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:59:34.229Z",
+  "generated_at": "2026-10-02T21:59:54.391Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -2220,7 +2220,8 @@
       "bild": "bibliothek",
       "tiktok": {
         "status": "ready",
-        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore.mp4"
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore-cover.jpg"
       }
     },
     {
