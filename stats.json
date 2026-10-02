@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T18:15:26.581Z",
+ "updated": "2026-10-02T19:04:27.708Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T18:15:27.714Z",
+  "checked": "2026-10-02T19:04:29.385Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -34,7 +34,7 @@
     "reach": 9134
    }
   ],
-  "avg_watch_last_reels": 13.7
+  "avg_watch_last_reels": 13.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3477,6 +3477,11 @@
    "ts": "2026-10-02T18:15:26.581Z",
    "followers": 269,
    "media_count": 107
+  },
+  {
+   "ts": "2026-10-02T19:04:27.708Z",
+   "followers": 269,
+   "media_count": 107
   }
  ],
  "posts": [
@@ -3487,8 +3492,8 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1369,
-   "likes": 16,
+   "views": 1494,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -3498,8 +3503,8 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1444,
-   "likes": 30,
+   "views": 1496,
+   "likes": 31,
    "comments": 1
   },
   {
@@ -3509,7 +3514,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2346,
+   "views": 2357,
    "likes": 15,
    "comments": 1
   },
@@ -3520,7 +3525,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2256,
+   "views": 2273,
    "likes": 12,
    "comments": 1
   },
@@ -3531,7 +3536,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1912,
+   "views": 1919,
    "likes": 21,
    "comments": 1
   },
@@ -3542,7 +3547,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1812,
+   "views": 1815,
    "likes": 26,
    "comments": 1
   },
@@ -3575,7 +3580,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3344,
+   "views": 3348,
    "likes": 19,
    "comments": 2
   },
@@ -3641,7 +3646,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2306,
+   "views": 2311,
    "likes": 11,
    "comments": 1
   },
@@ -3883,7 +3888,7 @@
    "timestamp": "2026-09-25T12:02:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 4110,
+   "views": 4114,
    "likes": 31,
    "comments": 0
   },
