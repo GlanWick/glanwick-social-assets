@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T11:24:04.620Z",
+ "updated": "2026-10-02T12:24:32.631Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T11:24:06.038Z",
+  "checked": "2026-10-02T12:24:33.613Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-10-01",
-    "reach": 9114
+    "reach": 9134
    }
   ],
-  "avg_watch_last_reels": 15.4
+  "avg_watch_last_reels": 12
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 269,
-  "media_count": 106
+  "media_count": 107
  },
  "history": [
   {
@@ -3442,9 +3442,25 @@
    "ts": "2026-10-02T11:24:04.620Z",
    "followers": 269,
    "media_count": 106
+  },
+  {
+   "ts": "2026-10-02T12:24:32.631Z",
+   "followers": 269,
+   "media_count": 107
   }
  ],
  "posts": [
+  {
+   "id": "18114759113331360",
+   "slug": "stickman-consistency",
+   "permalink": "https://www.instagram.com/reel/Dd_b9Cqjn5M/",
+   "timestamp": "2026-10-02T12:02:04+0000",
+   "type": "VIDEO",
+   "caption": "$6,000 in one day, and the payout request gets denied.",
+   "views": 1,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18095353301542217",
    "slug": "stickman-greentored",
@@ -3452,8 +3468,8 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 819,
-   "likes": 15,
+   "views": 926,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -3463,7 +3479,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2252,
+   "views": 2268,
    "likes": 15,
    "comments": 1
   },
@@ -3474,7 +3490,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2121,
+   "views": 2148,
    "likes": 12,
    "comments": 1
   },
@@ -3485,8 +3501,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1518,
-   "likes": 18,
+   "views": 1682,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -3496,7 +3512,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1721,
+   "views": 1747,
    "likes": 26,
    "comments": 1
   },
@@ -3507,8 +3523,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2595,
-   "likes": 34,
+   "views": 2613,
+   "likes": 35,
    "comments": 4
   },
   {
@@ -3518,7 +3534,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2353,
+   "views": 2365,
    "likes": 18,
    "comments": 1
   },
@@ -3529,7 +3545,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3225,
+   "views": 3226,
    "likes": 19,
    "comments": 2
   },
@@ -3540,7 +3556,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 832,
+   "views": 868,
    "likes": 5,
    "comments": 1
   },
@@ -3551,7 +3567,7 @@
    "timestamp": "2026-10-01T00:40:44+0000",
    "type": "VIDEO",
    "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 198,
+   "views": 199,
    "likes": 0,
    "comments": 1
   },
@@ -3573,7 +3589,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 788,
+   "views": 790,
    "likes": 11,
    "comments": 1
   },
@@ -3584,7 +3600,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1723,
+   "views": 1725,
    "likes": 36,
    "comments": 8
   },
@@ -3661,7 +3677,7 @@
    "timestamp": "2026-09-29T12:01:17+0000",
    "type": "VIDEO",
    "caption": "On 2x margin, a 33 % drop takes 67 % of your money.",
-   "views": 1649,
+   "views": 1650,
    "likes": 12,
    "comments": 1
   },
@@ -3873,17 +3889,6 @@
    "views": 2840,
    "likes": 18,
    "comments": 2
-  },
-  {
-   "id": "17896190130394227",
-   "slug": "stickman-voldrag",
-   "permalink": "https://www.instagram.com/reel/Ddq1ePRipmm/",
-   "timestamp": "2026-09-24T12:00:54+0000",
-   "type": "VIDEO",
-   "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4613,
-   "likes": 38,
-   "comments": 0
   }
  ]
 }
