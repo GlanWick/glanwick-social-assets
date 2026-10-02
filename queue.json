@@ -1924,7 +1924,7 @@
     {
       "id": "2026-10-02-konsistenz",
       "slug": "stickman-consistency",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-02T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-consistency.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-consistency-cover.jpg",
@@ -1934,7 +1934,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-consistency.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-consistency-cover.jpg"
       },
-      "posting_started_at": "2026-10-02T12:00:30.476Z"
+      "container_id": "18110715812136556",
+      "media_id": "18114759113331360",
+      "permalink": "https://www.instagram.com/reel/Dd_b9Cqjn5M/",
+      "published_at": "2026-10-02T12:02:10.972Z"
     },
     {
       "id": "test-2026-10-optionen-zeitwert",
