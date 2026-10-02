@@ -1898,7 +1898,7 @@
     {
       "id": "2026-10-02-gruen-zu-rot",
       "slug": "stickman-greentored",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-02T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greentored.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greentored-cover.jpg",
@@ -1908,7 +1908,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-greentored.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-greentored-cover.jpg"
       },
-      "posting_started_at": "2026-10-02T02:30:26.869Z"
+      "container_id": "18110651366136556",
+      "media_id": "18095353301542217",
+      "permalink": "https://www.instagram.com/reel/Dd-aqSnipEo/",
+      "published_at": "2026-10-02T02:31:37.164Z"
     },
     {
       "id": "2026-10-02-konsistenz",
