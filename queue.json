@@ -2124,7 +2124,7 @@
     {
       "id": "test-2026-10-elf-monate",
       "slug": "stickman-elevenmonths",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-02T01:45:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenmonths.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenmonths-cover.jpg",
@@ -2134,7 +2134,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage smoothcurve (No. 13) mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-02T01:45:05.068Z"
     }
   ]
 }
