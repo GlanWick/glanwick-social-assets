@@ -2240,7 +2240,7 @@
     {
       "id": "test-2026-10-gewinner-verkauft",
       "slug": "stickman-soldwinner",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-02T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner-cover.jpg",
@@ -2251,7 +2251,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage disposition (No. 10) mit Geld-Hook"
       },
-      "posting_started_at": "2026-10-02T23:30:27.085Z"
+      "container_id": "18110799335136556",
+      "media_id": "17880904734626990",
+      "permalink": "https://www.instagram.com/reel/DeAqzvujUrb/",
+      "published_at": "2026-10-02T23:31:09.557Z"
     },
     {
       "id": "test-2026-10-zehn-verluste",
