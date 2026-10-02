@@ -1851,7 +1851,11 @@
       "permalink": "https://www.instagram.com/reel/Dd82_qwDqCy/",
       "published_at": "2026-10-01T12:00:44.749Z",
       "container_id": "18110562839136556",
-      "kommentar_id": "18096570470410049"
+      "kommentar_id": "18096570470410049",
+      "views_12h": {
+        "views": 1923,
+        "stunden": 12.72
+      }
     },
     {
       "id": "2026-10-01-eval-gebuehren",
@@ -1985,6 +1989,10 @@
       "views_12h": {
         "views": 186,
         "stunden": 13.18
+      },
+      "views_24h": {
+        "views": 194,
+        "stunden": 24.05
       }
     },
     {
