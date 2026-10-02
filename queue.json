@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:52:54.291Z",
+  "generated_at": "2026-10-02T21:59:34.229Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -2212,7 +2212,7 @@
     {
       "id": "2026-10-03-nachgekauft",
       "slug": "stickman-boughtmore",
-      "status": "draft",
+      "status": "ready",
       "scheduled_at": "2026-10-03T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore-cover.jpg",
@@ -2226,7 +2226,7 @@
     {
       "id": "test-2026-10-gewinner-verkauft",
       "slug": "stickman-soldwinner",
-      "status": "draft",
+      "status": "ready",
       "scheduled_at": "2026-10-02T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner-cover.jpg",
@@ -2241,7 +2241,7 @@
     {
       "id": "test-2026-10-zehn-verluste",
       "slug": "stickman-tenlosses",
-      "status": "draft",
+      "status": "ready",
       "scheduled_at": "2026-10-03T00:40:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses-cover.jpg",
