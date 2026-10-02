@@ -2197,7 +2197,7 @@
     {
       "id": "2026-10-03-ein-zu-grosser-trade",
       "slug": "stickman-oneoversized",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-02T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneoversized.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneoversized-cover.jpg",
@@ -2207,7 +2207,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-02T23:00:11.220Z"
     },
     {
       "id": "2026-10-03-nachgekauft",
