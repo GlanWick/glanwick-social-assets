@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:54:39.513Z",
+  "generated_at": "2026-10-02T06:44:06.940Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -750,14 +750,13 @@
         "nr": 10,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-drawdown.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-drawdown-cover.jpg",
-        "gestartet_at": "2026-10-01T23:01:14.120Z",
-        "stand": "2026-10-01T23:02:39.803Z",
-        "versuch": 1,
-        "slot": "2026-10-01T23:00:00.000Z",
         "post_id": "6abee64043cbf56f5b57ed13",
-        "published_at": "2026-10-01T23:01:44.867Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7691838426332646688",
-        "plattform_id": "7691838426332646688"
+        "plattform_id": "7691838426332646688",
+        "published_at": "2026-10-01T23:01:44.867Z",
+        "gestartet_at": "2026-10-01T23:01:14.120Z",
+        "slot": "2026-10-01T23:00:00.000Z",
+        "stand": "2026-10-01T23:02:39.803Z"
       }
     },
     {
@@ -1893,10 +1892,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-screenshot.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-screenshot-cover.jpg"
       },
-      "container_id": "18110632148136556",
       "media_id": "18040962323830731",
       "permalink": "https://www.instagram.com/reel/Dd-ClOUis5D/",
       "published_at": "2026-10-01T23:01:10.833Z",
+      "container_id": "18110632148136556",
       "kommentar_id": "18102706082013249"
     },
     {
@@ -1906,16 +1905,16 @@
       "scheduled_at": "2026-10-02T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greentored.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greentored-cover.jpg",
-      "caption": "Up $1,200 by 10 a.m. Down $300 at the close.\n\nThe first 30 minutes made $1,200. The next 6 hours lost $1,500. 2 trades before 10, 11 trades after. Stopping at +$1,200 would have kept the day green.\n\nYour journal knows your best hour. Trade that hour.\n\nFree journal, link in bio.\n\nSend this to the friend who gives back every green morning.\n\nWhat time of day do you give it back? 👇\n\nPart 59 of the series.\n\n#daytrading #overtrading #riskmanagement #tradingjournal #knowthedifference",
+      "caption": "Up $1,200 by 10 a.m. Down $300 at the close.\n\nThe first 30 minutes made $1,200. The next 6 hours lost $1,500. 2 trades before 10, 11 trades after. Stopping at +$1,200 would have kept the day green.\n\nWrite down the time of every trade. After a month, count which hour gives it back.\n\nFree journal, link in bio.\n\nSend this to the friend who gives back every green morning.\n\nWhat time of day do you give it back? 👇\n\nPart 59 of the series.\n\n#daytrading #overtrading #riskmanagement #tradingjournal #knowthedifference",
       "tiktok": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-greentored.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-greentored-cover.jpg"
       },
-      "container_id": "18110651366136556",
       "media_id": "18095353301542217",
       "permalink": "https://www.instagram.com/reel/Dd-aqSnipEo/",
       "published_at": "2026-10-02T02:31:37.164Z",
+      "container_id": "18110651366136556",
       "kommentar_id": "18060688130558889"
     },
     {
@@ -2090,10 +2089,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage revenge mit Geld-Hook und Umrechnung in Trades"
       },
-      "container_id": "18110634860136556",
       "media_id": "18130579774740740",
       "permalink": "https://www.instagram.com/reel/Dd-GFidCvHw/",
       "published_at": "2026-10-01T23:31:52.843Z",
+      "container_id": "18110634860136556",
+      "kommentar_id": "18123773944912700",
       "trial_pruefung": {
         "beitraege_vorher": 105,
         "beitraege_nachher": 105,
@@ -2102,8 +2102,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-01T23:32:54.649Z"
-      },
-      "kommentar_id": "18123773944912700"
+      }
     },
     {
       "id": "test-2026-10-halbes-konto",
@@ -2119,10 +2118,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage drawdown mit Geld-Hook"
       },
-      "container_id": "18110639795136556",
       "media_id": "17994462828043176",
       "permalink": "https://www.instagram.com/reel/Dd-OAq9DgSr/",
       "published_at": "2026-10-02T00:40:59.974Z",
+      "container_id": "18110639795136556",
+      "kommentar_id": "17920634535435520",
       "trial_pruefung": {
         "beitraege_vorher": 105,
         "beitraege_nachher": 105,
@@ -2131,8 +2131,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-02T00:42:01.644Z"
-      },
-      "kommentar_id": "17920634535435520"
+      }
     },
     {
       "id": "test-2026-10-elf-monate",
@@ -2148,10 +2147,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage smoothcurve (No. 13) mit Geld-Hook"
       },
-      "container_id": "18110647568136556",
       "media_id": "18185061127417167",
       "permalink": "https://www.instagram.com/reel/Dd-Var0lG06/",
       "published_at": "2026-10-02T01:45:46.538Z",
+      "container_id": "18110647568136556",
+      "kommentar_id": "17940401343383873",
       "trial_pruefung": {
         "beitraege_vorher": 105,
         "beitraege_nachher": 105,
@@ -2160,8 +2160,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-02T01:46:48.247Z"
-      },
-      "kommentar_id": "17940401343383873"
+      }
     }
   ]
 }
