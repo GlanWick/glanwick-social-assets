@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T04:34:14.888Z",
+ "updated": "2026-10-02T05:34:41.595Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T04:34:16.660Z",
+  "checked": "2026-10-02T05:34:42.684Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-01",
-    "reach": 7303
+    "reach": 7807
    }
   ],
   "avg_watch_last_reels": 10
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 267,
+  "followers": 268,
   "media_count": 106
  },
  "history": [
@@ -3407,6 +3407,11 @@
    "ts": "2026-10-02T04:34:14.888Z",
    "followers": 267,
    "media_count": 106
+  },
+  {
+   "ts": "2026-10-02T05:34:41.595Z",
+   "followers": 268,
+   "media_count": 106
   }
  ],
  "posts": [
@@ -3417,8 +3422,8 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 200,
-   "likes": 3,
+   "views": 230,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -3428,8 +3433,8 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 395,
-   "likes": 3,
+   "views": 620,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -3439,8 +3444,8 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 742,
-   "likes": 3,
+   "views": 1130,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -3450,8 +3455,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 437,
-   "likes": 6,
+   "views": 570,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -3461,8 +3466,8 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 420,
-   "likes": 3,
+   "views": 505,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3472,8 +3477,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2381,
-   "likes": 29,
+   "views": 2433,
+   "likes": 30,
    "comments": 4
   },
   {
@@ -3483,8 +3488,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2205,
-   "likes": 17,
+   "views": 2224,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -3494,7 +3499,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3174,
+   "views": 3176,
    "likes": 19,
    "comments": 2
   },
@@ -3505,7 +3510,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 776,
+   "views": 785,
    "likes": 5,
    "comments": 1
   },
@@ -3527,7 +3532,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1586,
+   "views": 1595,
    "likes": 6,
    "comments": 1
   },
@@ -3538,7 +3543,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 735,
+   "views": 746,
    "likes": 9,
    "comments": 1
   },
@@ -3549,7 +3554,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1713,
+   "views": 1719,
    "likes": 36,
    "comments": 8
   },
@@ -3560,7 +3565,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2293,
+   "views": 2294,
    "likes": 11,
    "comments": 1
   },
@@ -3571,7 +3576,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 655,
+   "views": 657,
    "likes": 12,
    "comments": 4
   },
@@ -3582,7 +3587,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1520,
+   "views": 1521,
    "likes": 8,
    "comments": 1
   },
@@ -3593,7 +3598,7 @@
    "timestamp": "2026-09-30T02:30:37+0000",
    "type": "VIDEO",
    "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
-   "views": 2313,
+   "views": 2314,
    "likes": 26,
    "comments": 4
   },
@@ -3604,7 +3609,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1302,
+   "views": 1303,
    "likes": 13,
    "comments": 1
   },
@@ -3615,7 +3620,7 @@
    "timestamp": "2026-09-29T17:00:51+0000",
    "type": "VIDEO",
    "caption": "Up 12 % after 100 trades with zero edge. That happens to 1 trader in 7.",
-   "views": 540,
+   "views": 542,
    "likes": 4,
    "comments": 1
   },
@@ -3626,7 +3631,7 @@
    "timestamp": "2026-09-29T12:01:17+0000",
    "type": "VIDEO",
    "caption": "On 2x margin, a 33 % drop takes 67 % of your money.",
-   "views": 1648,
+   "views": 1649,
    "likes": 12,
    "comments": 1
   },
@@ -3637,7 +3642,7 @@
    "timestamp": "2026-09-29T02:30:54+0000",
    "type": "VIDEO",
    "caption": "Even with a real edge, your account sits below its last high 7 trades out of 8.",
-   "views": 1631,
+   "views": 1632,
    "likes": 13,
    "comments": 0
   },
@@ -3846,7 +3851,7 @@
    "timestamp": "2026-09-24T12:00:54+0000",
    "type": "VIDEO",
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
-   "views": 4608,
+   "views": 4609,
    "likes": 37,
    "comments": 0
   }
