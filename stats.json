@@ -1,16 +1,10 @@
 {
- "updated": "2026-10-01T23:43:41.947Z",
+ "updated": "2026-10-02T00:43:44.408Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
-  ],
-  "checked": "2026-10-01T23:43:43.023Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-02T00:43:45.523Z",
   "reach_days": [
-   {
-    "day": "2026-09-24",
-    "reach": 7339
-   },
    {
     "day": "2026-09-25",
     "reach": 5810
@@ -34,9 +28,13 @@
    {
     "day": "2026-09-30",
     "reach": 5861
+   },
+   {
+    "day": "2026-10-01",
+    "reach": 5786
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 10.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3384,9 +3382,25 @@
    "ts": "2026-10-01T23:43:41.947Z",
    "followers": 266,
    "media_count": 105
+  },
+  {
+   "ts": "2026-10-02T00:43:44.408Z",
+   "followers": 266,
+   "media_count": 105
   }
  ],
  "posts": [
+  {
+   "id": "17994462828043176",
+   "slug": "stickman-halfgone",
+   "permalink": "https://www.instagram.com/reel/Dd-OAq9DgSr/",
+   "timestamp": "2026-10-02T00:40:53+0000",
+   "type": "VIDEO",
+   "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18130579774740740",
    "slug": "stickman-revenge900",
@@ -3394,8 +3408,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 0,
-   "likes": 0,
+   "views": 207,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3405,8 +3419,8 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 129,
-   "likes": 1,
+   "views": 245,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3416,9 +3430,9 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 969,
-   "likes": 13,
-   "comments": 2
+   "views": 1454,
+   "likes": 19,
+   "comments": 4
   },
   {
    "id": "18078890924372196",
@@ -3427,8 +3441,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 1794,
-   "likes": 15,
+   "views": 1923,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -3438,7 +3452,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3141,
+   "views": 3151,
    "likes": 19,
    "comments": 2
   },
@@ -3449,8 +3463,8 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 748,
-   "likes": 4,
+   "views": 753,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3460,7 +3474,7 @@
    "timestamp": "2026-10-01T00:40:44+0000",
    "type": "VIDEO",
    "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 193,
+   "views": 194,
    "likes": 0,
    "comments": 1
   },
@@ -3471,7 +3485,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1546,
+   "views": 1550,
    "likes": 6,
    "comments": 1
   },
@@ -3482,7 +3496,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 700,
+   "views": 703,
    "likes": 9,
    "comments": 1
   },
@@ -3493,7 +3507,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1707,
+   "views": 1709,
    "likes": 36,
    "comments": 8
   },
@@ -3504,7 +3518,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2282,
+   "views": 2287,
    "likes": 11,
    "comments": 1
   },
@@ -3515,7 +3529,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 651,
+   "views": 652,
    "likes": 12,
    "comments": 4
   },
@@ -3526,7 +3540,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1515,
+   "views": 1519,
    "likes": 8,
    "comments": 1
   },
@@ -3614,7 +3628,7 @@
    "timestamp": "2026-09-28T12:00:28+0000",
    "type": "VIDEO",
    "caption": "The index is down 1 %. Your 3x ETF is down 9 %.",
-   "views": 2405,
+   "views": 2407,
    "likes": 10,
    "comments": 0
   },
@@ -3814,17 +3828,6 @@
    "caption": "You can be profitable and still have no edge.",
    "views": 2591,
    "likes": 26,
-   "comments": 0
-  },
-  {
-   "id": "18169092430463023",
-   "slug": "stickman-confirmation",
-   "permalink": "https://www.instagram.com/reel/Ddm3c_LErSG/",
-   "timestamp": "2026-09-22T23:01:15+0000",
-   "type": "VIDEO",
-   "caption": "Waiting for confirmation turned a 3R trade into a 1R trade.",
-   "views": 912,
-   "likes": 8,
    "comments": 0
   }
  ]
