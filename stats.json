@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-02T01:32:52.743Z",
+ "updated": "2026-10-02T02:33:19.288Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-02T01:32:53.704Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.5 s"
+  ],
+  "checked": "2026-10-02T02:33:20.303Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-10-01",
-    "reach": 6157
+    "reach": 6605
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 266,
-  "media_count": 105
+  "media_count": 106
  },
  "history": [
   {
@@ -3392,9 +3394,36 @@
    "ts": "2026-10-02T01:32:52.743Z",
    "followers": 266,
    "media_count": 105
+  },
+  {
+   "ts": "2026-10-02T02:33:19.288Z",
+   "followers": 266,
+   "media_count": 106
   }
  ],
  "posts": [
+  {
+   "id": "18095353301542217",
+   "slug": "stickman-greentored",
+   "permalink": "https://www.instagram.com/reel/Dd-aqSnipEo/",
+   "timestamp": "2026-10-02T02:31:30+0000",
+   "type": "VIDEO",
+   "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "18185061127417167",
+   "slug": "stickman-elevenmonths",
+   "permalink": "https://www.instagram.com/reel/Dd-Var0lG06/",
+   "timestamp": "2026-10-02T01:45:38+0000",
+   "type": "VIDEO",
+   "caption": "11 green months made $4,400. One red month lost $5,000.",
+   "views": 158,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "17994462828043176",
    "slug": "stickman-halfgone",
@@ -3402,7 +3431,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 207,
+   "views": 352,
    "likes": 1,
    "comments": 1
   },
@@ -3413,7 +3442,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 237,
+   "views": 268,
    "likes": 2,
    "comments": 1
   },
@@ -3424,7 +3453,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 259,
+   "views": 329,
    "likes": 2,
    "comments": 1
   },
@@ -3435,8 +3464,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 1818,
-   "likes": 23,
+   "views": 2101,
+   "likes": 27,
    "comments": 4
   },
   {
@@ -3446,8 +3475,8 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 1994,
-   "likes": 16,
+   "views": 2050,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -3457,7 +3486,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3157,
+   "views": 3165,
    "likes": 19,
    "comments": 2
   },
@@ -3468,7 +3497,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 761,
+   "views": 768,
    "likes": 5,
    "comments": 1
   },
@@ -3490,7 +3519,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1555,
+   "views": 1562,
    "likes": 6,
    "comments": 1
   },
@@ -3501,7 +3530,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 707,
+   "views": 711,
    "likes": 9,
    "comments": 1
   },
@@ -3512,7 +3541,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1709,
+   "views": 1712,
    "likes": 36,
    "comments": 8
   },
@@ -3523,7 +3552,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2287,
+   "views": 2289,
    "likes": 11,
    "comments": 1
   },
@@ -3534,7 +3563,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 652,
+   "views": 653,
    "likes": 12,
    "comments": 4
   },
@@ -3545,7 +3574,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1519,
+   "views": 1520,
    "likes": 8,
    "comments": 1
   },
@@ -3556,7 +3585,7 @@
    "timestamp": "2026-09-30T02:30:37+0000",
    "type": "VIDEO",
    "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
-   "views": 2310,
+   "views": 2311,
    "likes": 26,
    "comments": 4
   },
@@ -3567,7 +3596,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1301,
+   "views": 1302,
    "likes": 13,
    "comments": 1
   },
@@ -3578,7 +3607,7 @@
    "timestamp": "2026-09-29T17:00:51+0000",
    "type": "VIDEO",
    "caption": "Up 12 % after 100 trades with zero edge. That happens to 1 trader in 7.",
-   "views": 539,
+   "views": 540,
    "likes": 4,
    "comments": 1
   },
@@ -3589,7 +3618,7 @@
    "timestamp": "2026-09-29T12:01:17+0000",
    "type": "VIDEO",
    "caption": "On 2x margin, a 33 % drop takes 67 % of your money.",
-   "views": 1647,
+   "views": 1648,
    "likes": 12,
    "comments": 1
   },
@@ -3811,28 +3840,6 @@
    "caption": "Make 20 %, then lose 20 %, and you are down 4 %.",
    "views": 4608,
    "likes": 37,
-   "comments": 0
-  },
-  {
-   "id": "18100574750532665",
-   "slug": "stickman-leverage",
-   "permalink": "https://www.instagram.com/reel/Ddp0VKkk3Ac/",
-   "timestamp": "2026-09-24T02:31:34+0000",
-   "type": "VIDEO",
-   "caption": "At 100x, a 1 % move against you is your whole account.",
-   "views": 2304,
-   "likes": 18,
-   "comments": 0
-  },
-  {
-   "id": "17981486649092897",
-   "slug": "stickman-samplesize",
-   "permalink": "https://www.instagram.com/reel/DdpcMxnlR7S/",
-   "timestamp": "2026-09-23T23:00:53+0000",
-   "type": "VIDEO",
-   "caption": "You can be profitable and still have no edge.",
-   "views": 2591,
-   "likes": 26,
    "comments": 0
   }
  ]
