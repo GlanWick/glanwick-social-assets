@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T00:43:44.408Z",
+ "updated": "2026-10-02T01:32:52.743Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T00:43:45.523Z",
+  "checked": "2026-10-02T01:32:53.704Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-01",
-    "reach": 5786
+    "reach": 6157
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 11.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3387,6 +3387,11 @@
    "ts": "2026-10-02T00:43:44.408Z",
    "followers": 266,
    "media_count": 105
+  },
+  {
+   "ts": "2026-10-02T01:32:52.743Z",
+   "followers": 266,
+   "media_count": 105
   }
  ],
  "posts": [
@@ -3397,8 +3402,8 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 0,
-   "likes": 0,
+   "views": 207,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -3408,7 +3413,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 207,
+   "views": 237,
    "likes": 2,
    "comments": 1
   },
@@ -3419,7 +3424,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 245,
+   "views": 259,
    "likes": 2,
    "comments": 1
   },
@@ -3430,8 +3435,8 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 1454,
-   "likes": 19,
+   "views": 1818,
+   "likes": 23,
    "comments": 4
   },
   {
@@ -3441,7 +3446,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 1923,
+   "views": 1994,
    "likes": 16,
    "comments": 1
   },
@@ -3452,7 +3457,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3151,
+   "views": 3157,
    "likes": 19,
    "comments": 2
   },
@@ -3463,7 +3468,7 @@
    "timestamp": "2026-10-01T01:46:00+0000",
    "type": "VIDEO",
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
-   "views": 753,
+   "views": 761,
    "likes": 5,
    "comments": 1
   },
@@ -3485,7 +3490,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1550,
+   "views": 1555,
    "likes": 6,
    "comments": 1
   },
@@ -3496,7 +3501,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 703,
+   "views": 707,
    "likes": 9,
    "comments": 1
   },
@@ -3672,7 +3677,7 @@
    "timestamp": "2026-09-27T12:00:36+0000",
    "type": "VIDEO",
    "caption": "Up 5 % one week, down 5 % the next, all year: the account ends down 6 %.",
-   "views": 2105,
+   "views": 2106,
    "likes": 9,
    "comments": 0
   },
