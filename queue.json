@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:43:23.923Z",
+  "generated_at": "2026-10-02T21:52:54.291Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -2192,6 +2192,65 @@
       "views_12h": {
         "views": 2306,
         "stunden": 12.48
+      }
+    },
+    {
+      "id": "2026-10-03-ein-zu-grosser-trade",
+      "slug": "stickman-oneoversized",
+      "status": "ready",
+      "scheduled_at": "2026-10-02T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneoversized.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneoversized-cover.jpg",
+      "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.\n\n$150 at risk per trade, and two weeks of small winners added up to $1,500. Then one setup felt certain, so you risked 12 times as much. It lost $1,800: two weeks of work gone in one trade, plus $300 more.\n\nThe size stays fixed, whatever the setup looks like.\n\nFree journal, link in bio.\n\nSend this to the friend who sizes up on \"sure things\".\n\nWhat's the biggest trade you ever took compared to your normal size? 👇\n\nPart 61 of the series.\n\n#positionsizing #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-03-nachgekauft",
+      "slug": "stickman-boughtmore",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore-cover.jpg",
+      "caption": "You were down $1,000, so you bought more. Now you're down $3,000.\n\n100 shares at $50, and the stock falls to $40. You buy 100 more to lower your average to $45. Now every $1 down costs $200 instead of $100. At $30 you've lost $3,000.\n\nAveraging down doubles the bet on a trade that's already wrong.\n\nFree journal, link in bio.\n\nSend this to the friend who keeps lowering his average.\n\nWhen did averaging down last work against you? 👇\n\nPart 62 of the series.\n\n#averagingdown #stocks #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore.mp4"
+      }
+    },
+    {
+      "id": "test-2026-10-gewinner-verkauft",
+      "slug": "stickman-soldwinner",
+      "status": "draft",
+      "scheduled_at": "2026-10-02T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-soldwinner-cover.jpg",
+      "caption": "You sold the winner at +$200. You held the loser to −$1,100.\n\n5 winners, each sold early for $200, make $1,000. One loser, held because it would come back, closed at −$1,100. 6 trades, 5 winners, and the week is down $100. Cut that loser at −$200 and the same week is +$800.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profits fast and losses slow.\n\nWhich do you close faster: winners or losers? 👇\n\n#tradingpsychology #cutlosses #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage disposition (No. 10) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-zehn-verluste",
+      "slug": "stickman-tenlosses",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T00:40:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses-cover.jpg",
+      "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.\n\nBoth start at $10,000. One risks $500 flat per trade. The other risks 5 % of what's left. After 10 losses, flat risk leaves $5,000 and percentage risk leaves $5,987. One needs +100 % to get back, the other +67 %.\n\nFree journal, link in bio.\n\nSend this to the friend who risks the same dollar amount no matter what.\n\nFixed dollars or fixed percent: what do you use? 👇\n\n#positionsizing #drawdown #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage sizing (No. 11) mit Geld-Hook"
       }
     }
   ]
