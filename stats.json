@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-02T17:15:26.647Z",
+ "updated": "2026-10-02T18:15:26.581Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T17:15:28.421Z",
+  "checked": "2026-10-02T18:15:27.714Z",
   "reach_days": [
    {
     "day": "2026-09-25",
@@ -34,7 +34,7 @@
     "reach": 9134
    }
   ],
-  "avg_watch_last_reels": 13.8
+  "avg_watch_last_reels": 13.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3472,6 +3472,11 @@
    "ts": "2026-10-02T17:15:26.647Z",
    "followers": 269,
    "media_count": 107
+  },
+  {
+   "ts": "2026-10-02T18:15:26.581Z",
+   "followers": 269,
+   "media_count": 107
   }
  ],
  "posts": [
@@ -3482,8 +3487,8 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1005,
-   "likes": 10,
+   "views": 1369,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -3493,8 +3498,8 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1398,
-   "likes": 29,
+   "views": 1444,
+   "likes": 30,
    "comments": 1
   },
   {
@@ -3504,7 +3509,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2336,
+   "views": 2346,
    "likes": 15,
    "comments": 1
   },
@@ -3515,7 +3520,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2242,
+   "views": 2256,
    "likes": 12,
    "comments": 1
   },
@@ -3526,7 +3531,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1903,
+   "views": 1912,
    "likes": 21,
    "comments": 1
   },
@@ -3537,7 +3542,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1802,
+   "views": 1812,
    "likes": 26,
    "comments": 1
   },
@@ -3559,7 +3564,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2383,
+   "views": 2385,
    "likes": 18,
    "comments": 1
   },
@@ -3636,7 +3641,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2304,
+   "views": 2306,
    "likes": 11,
    "comments": 1
   },
