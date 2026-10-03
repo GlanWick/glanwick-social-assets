@@ -2406,7 +2406,16 @@
       "container_id": "18110881745136556",
       "media_id": "18117137117053056",
       "permalink": "https://www.instagram.com/reel/DeB9NONAtpV/",
-      "published_at": "2026-10-03T11:31:05.086Z"
+      "published_at": "2026-10-03T11:31:05.086Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 113,
+        "beitraege_nachher": 113,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T11:32:06.641Z"
+      }
     },
     {
       "id": "test-2026-10-fuenf-regeln",
