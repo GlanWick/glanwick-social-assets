@@ -1957,7 +1957,11 @@
       "permalink": "https://www.instagram.com/reel/Dd_b9Cqjn5M/",
       "published_at": "2026-10-02T12:02:10.972Z",
       "container_id": "18110715812136556",
-      "kommentar_id": "17912337513284482"
+      "kommentar_id": "17912337513284482",
+      "views_12h": {
+        "views": 1799,
+        "stunden": 12.06
+      }
     },
     {
       "id": "test-2026-10-optionen-zeitwert",
@@ -2134,6 +2138,10 @@
       "views_12h": {
         "views": 1682,
         "stunden": 12.88
+      },
+      "views_24h": {
+        "views": 1946,
+        "stunden": 24.57
       }
     },
     {
