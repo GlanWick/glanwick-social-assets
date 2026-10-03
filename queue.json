@@ -2241,7 +2241,11 @@
       "permalink": "https://www.instagram.com/reel/DeAnV7MD42A/",
       "published_at": "2026-10-02T23:00:50.742Z",
       "container_id": "18110796146136556",
-      "kommentar_id": "17939452767370311"
+      "kommentar_id": "17939452767370311",
+      "views_12h": {
+        "views": 942,
+        "stunden": 12.77
+      }
     },
     {
       "id": "2026-10-03-nachgekauft",
@@ -2296,6 +2300,10 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-02T23:32:11.276Z"
+      },
+      "views_12h": {
+        "views": 2062,
+        "stunden": 12.26
       }
     },
     {
