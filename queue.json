@@ -2402,7 +2402,7 @@
     {
       "id": "2026-10-04-drei-in-einem",
       "slug": "stickman-threeinone",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-03T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeinone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeinone-cover.jpg",
@@ -2414,7 +2414,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von correlation (TikTok 02.10.), dort vor wenigen Tagen gelaufen"
       },
-      "posting_started_at": "2026-10-03T23:00:10.640Z"
+      "container_id": "18110965607136556",
+      "media_id": "18077069684478546",
+      "permalink": "https://www.instagram.com/reel/DeDMIaYjcmR/",
+      "published_at": "2026-10-03T23:00:40.979Z"
     },
     {
       "id": "2026-10-04-liegen-gelassen",
