@@ -1,14 +1,10 @@
 {
- "updated": "2026-10-02T23:05:29.042Z",
+ "updated": "2026-10-03T00:05:47.282Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-02T23:05:30.087Z",
+  "checked": "2026-10-03T00:05:48.322Z",
   "reach_days": [
-   {
-    "day": "2026-09-25",
-    "reach": 5810
-   },
    {
     "day": "2026-09-26",
     "reach": 6583
@@ -32,14 +28,18 @@
    {
     "day": "2026-10-01",
     "reach": 9134
+   },
+   {
+    "day": "2026-10-02",
+    "reach": 5255
    }
   ],
-  "avg_watch_last_reels": 10.9
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 269,
+  "followers": 270,
   "media_count": 112
  },
  "history": [
@@ -3502,9 +3502,25 @@
    "ts": "2026-10-02T23:05:29.042Z",
    "followers": 269,
    "media_count": 112
+  },
+  {
+   "ts": "2026-10-03T00:05:47.282Z",
+   "followers": 270,
+   "media_count": 112
   }
  ],
  "posts": [
+  {
+   "id": "17880904734626990",
+   "slug": "stickman-soldwinner",
+   "permalink": "https://www.instagram.com/reel/DeAqzvujUrb/",
+   "timestamp": "2026-10-02T23:31:01+0000",
+   "type": "VIDEO",
+   "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
+   "views": 74,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "17942488143358580",
    "slug": "stickman-oneoversized",
@@ -3512,8 +3528,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1,
-   "likes": 1,
+   "views": 152,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3523,8 +3539,8 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 88,
-   "likes": 1,
+   "views": 188,
+   "likes": 3,
    "comments": 2
   },
   {
@@ -3534,8 +3550,8 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1773,
-   "likes": 24,
+   "views": 1799,
+   "likes": 25,
    "comments": 1
   },
   {
@@ -3545,7 +3561,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1684,
+   "views": 1707,
    "likes": 37,
    "comments": 1
   },
@@ -3556,8 +3572,8 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2385,
-   "likes": 17,
+   "views": 2393,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -3567,8 +3583,8 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2329,
-   "likes": 14,
+   "views": 2339,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -3578,8 +3594,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1939,
-   "likes": 22,
+   "views": 1946,
+   "likes": 23,
    "comments": 1
   },
   {
@@ -3589,7 +3605,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1829,
+   "views": 1833,
    "likes": 26,
    "comments": 1
   },
@@ -3600,7 +3616,7 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2644,
+   "views": 2646,
    "likes": 35,
    "comments": 4
   },
@@ -3622,8 +3638,8 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3352,
-   "likes": 19,
+   "views": 3366,
+   "likes": 20,
    "comments": 2
   },
   {
@@ -3666,7 +3682,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 795,
+   "views": 797,
    "likes": 11,
    "comments": 1
   },
@@ -3677,7 +3693,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1731,
+   "views": 1736,
    "likes": 36,
    "comments": 8
   },
@@ -3932,17 +3948,6 @@
    "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
    "views": 4118,
    "likes": 31,
-   "comments": 0
-  },
-  {
-   "id": "17900715135376918",
-   "slug": "stickman-dailyloss",
-   "permalink": "https://www.instagram.com/reel/DdsZBfgibBp/",
-   "timestamp": "2026-09-25T02:30:41+0000",
-   "type": "VIDEO",
-   "caption": "20 green days at +0.5 % and one red day at −10 %, and the month closes red.",
-   "views": 2152,
-   "likes": 16,
    "comments": 0
   }
  ]
