@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:59:31.928Z",
+  "generated_at": "2026-10-03T08:09:31.659Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -2439,6 +2439,171 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage confirmation (No. 25) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-verdoppelt",
+      "slug": "stickman-doubleddown",
+      "status": "ready",
+      "scheduled_at": "2026-10-03T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleddown.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleddown-cover.jpg",
+      "caption": "Double after every loss, and loss number 7 costs $6,400.\n\nStart at $100, then $200, $400, $800, $1,600, $3,200 and $6,400. Seven losses in a row cost $12,700 in total. The eighth bet needs another $12,800, and if it wins, you're up $100.\n\nDoubling down only works with unlimited money. Nobody has that.\n\nFree journal, link in bio.\n\nSend this to the friend who doubles after every loss.\n\nWhat's the longest losing streak you've had? 👇\n\n#martingale #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage martingale (No. 32) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-gleiches-risiko",
+      "slug": "stickman-samerisk",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T00:40:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samerisk.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samerisk-cover.jpg",
+      "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.\n\nWith your stop 2 % away, $100 of risk buys a $5,000 position. Move the stop to 0.5 %, and the same $100 buys $20,000. If the price then gaps 2 % against you, the first trade loses its $100 and the second loses $400.\n\nYour stop distance sets your position size. Check both before you enter.\n\nFree journal, link in bio.\n\nSend this to the friend who tightens the stop to buy more.\n\nHow far away is your stop usually? 👇\n\n#positionsizing #stoploss #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage stopsize (No. 23) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-richtiger-verlust",
+      "slug": "stickman-rightloss",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T01:45:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rightloss.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rightloss-cover.jpg",
+      "caption": "You followed your plan and lost $200. It was still the right trade.\n\nYour setup wins 3 trades out of 8. Each winner makes $600, each loser costs $200. Three winners bring $1,800, five losers cost $1,000, so every 8 trades make $800. On average, every trade you take is worth $100, the losers included.\n\nJudge the trade by the plan, and the plan by 100 trades.\n\nFree journal, link in bio.\n\nSend this to the friend who changes the strategy after every loss.\n\nHow many trades do you give a setup before you judge it? 👇\n\n#tradingpsychology #tradingplan #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage outcomebias (No. 17) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "2026-10-04-fuenfundneunzig",
+      "slug": "stickman-ninetywins",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetywins.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetywins-cover.jpg",
+      "caption": "95 winners out of 100 trades, and the account is down $500.\n\nEach winner made $100, so 95 wins add up to $9,500. Each loser was held until it cost $2,000, so 5 losses add up to $10,000. To come out ahead, the average loss had to stay under $1,900.\n\nA win rate means nothing until you know your average loss.\n\nFree journal, link in bio.\n\nSend this to the friend who only talks about win rate.\n\nWhat's your average loss compared to your average win? 👇\n\nPart 67 of the series.\n\n#winrate #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-04-bester-trade",
+      "slug": "stickman-besttrade",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade-cover.jpg",
+      "caption": "Your year made $2,000. Your best trade alone made $2,500.\n\n200 trades, and one of them made more than the whole year. Take it out, and the other 199 trades lost $500. One trade out of 200 decided whether the year was green or red.\n\nYour record is only as good as it looks without its best trade.\n\nFree journal, link in bio.\n\nSend this to the friend whose whole year rests on one trade.\n\nHow would your year look without your best trade? 👇\n\nPart 68 of the series.\n\n#tradingresults #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-05-hundertfach",
+      "slug": "stickman-hundredx",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundredx.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundredx-cover.jpg",
+      "caption": "At 100x, a 1 % move takes your whole $500.\n\n$500 at 100x is a $50,000 position, and 1 % of $50,000 is $500. At 10x, the same move costs $50 and you're still in the trade. A stop 2 % away never gets hit, because the liquidation comes first.\n\nLeverage decides how small a move it takes to end your trade.\n\nFree journal, link in bio.\n\nSend this to the friend who trades crypto at 100x.\n\nWhat leverage do you usually trade with? 👇\n\nPart 69 of the series.\n\n#leverage #cryptotrading #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-05-sieben-verluste",
+      "slug": "stickman-sevenlosses",
+      "status": "ready",
+      "scheduled_at": "2026-10-05T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenlosses.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenlosses-cover.jpg",
+      "caption": "You lost 7 trades out of 10 and still made $200.\n\nEvery loss was cut at $100, and every win ran to $300. Seven losses cost $700, three wins brought $900. Take profits at $100 instead, and the same 10 trades lose $400.\n\nYour win rate is half the story. The other half is what a win is worth.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profits too early.\n\nDo you let winners run, or take profits quickly? 👇\n\nPart 70 of the series.\n\n#winrate #riskreward #tradingpsychology #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-spaet-kopiert",
+      "slug": "stickman-latecopy",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latecopy.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latecopy-cover.jpg",
+      "caption": "He made $400 on the trade. You copied it and made $200.\n\nHe bought 100 shares at $50. You saw his post and bought at $52. Both sold at $54: he made $4 a share, you made $2. If it fails, his stop at $48 costs him $200, and the same stop costs you $400.\n\nA late copy pays half and risks double. Plan your own entry, or skip it.\n\nFree journal, link in bio.\n\nSend this to the friend who copies trades from chat groups.\n\nHave you ever copied someone's trade? How did it go? 👇\n\n#daytrading #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "Neues Thema: spaet kopierter Trade (neue Bilder)"
+      }
+    },
+    {
+      "id": "test-2026-10-monatsziel",
+      "slug": "stickman-incomegoal",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-incomegoal.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-incomegoal-cover.jpg",
+      "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.\n\nSay you win 55 % of your trades at 1:1 and risk 1 % per trade. 20 trades make about 2 % a month: $200. To make $3,000 instead, you would have to risk 15 % on every trade. At 15 % a trade, 5 losses in a row take more than half the account.\n\nSize the goal to the account, or the goal will size your trades.\n\nFree journal, link in bio.\n\nSend this to the friend who plans to quit their job next month.\n\nHow much do you risk per trade right now? 👇\n\n#tradinggoals #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "Neues Thema: Monatsziel gegen Kontogroesse (neue Bilder)"
+      }
+    },
+    {
+      "id": "test-2026-10-stundenlohn",
+      "slug": "stickman-hourlywage",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hourlywage.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hourlywage-cover.jpg",
+      "caption": "You traded 5 hours a day for a month and made $400.\n\n20 trading days at 5 hours each is 100 hours at the screen. $400 for 100 hours is $4 an hour. The month before, the same 100 hours lost $300. Two months, 200 hours, $100: that's 50 cents an hour.\n\nDivide your profit by your screen time before you call it a job.\n\nFree journal, link in bio.\n\nSend this to the friend who stares at charts all day.\n\nHow many hours a day do you spend at the screen? 👇\n\n#daytrading #tradingpsychology #tradinglife #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "Neues Thema: Stundenlohn aus Gewinn und Bildschirmzeit (neue Bilder)"
+      }
+    },
+    {
+      "id": "test-2026-10-ausgelassen",
+      "slug": "stickman-skipped",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-skipped.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-skipped-cover.jpg",
+      "caption": "You skipped one trade after three losses. It was the winner that would have paid for all three.\n\nThree losses at $300 each: −$900. The fourth trade, the one you skipped, made $900. Taken, the week is flat. Skipped, the week is $900 red.\n\nYour plan doesn't know you just lost three times. Take the next trade on the plan.\n\nFree journal, link in bio.\n\nSend this to the friend who sits out after every losing streak.\n\nWhat do you do after three losses in a row? 👇\n\n#tradingpsychology #tradingplan #losingstreak #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "Neues Thema: ausgelassener Trade nach drei Verlusten (neue Bilder)"
       }
     }
   ]
