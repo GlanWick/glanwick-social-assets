@@ -2373,7 +2373,7 @@
     {
       "id": "2026-10-03-fuenf-von-acht",
       "slug": "stickman-fiveofeight",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiveofeight.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiveofeight-cover.jpg",
@@ -2384,7 +2384,8 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von winrate (TikTok 28.09.), dort vor wenigen Tagen gelaufen"
-      }
+      },
+      "posting_started_at": "2026-10-03T17:00:12.596Z"
     },
     {
       "id": "2026-10-04-drei-in-einem",
