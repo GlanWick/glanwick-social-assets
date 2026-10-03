@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T19:28:49.775Z",
+ "updated": "2026-10-03T20:28:55.338Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T19:28:50.662Z",
+  "checked": "2026-10-03T20:28:56.412Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -34,7 +34,7 @@
     "reach": 8883
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3607,9 +3607,25 @@
    "ts": "2026-10-03T19:28:49.775Z",
    "followers": 285,
    "media_count": 118
+  },
+  {
+   "ts": "2026-10-03T20:28:55.338Z",
+   "followers": 285,
+   "media_count": 118
   }
  ],
  "posts": [
+  {
+   "id": "18109009943224872",
+   "slug": "stickman-confirm",
+   "permalink": "https://www.instagram.com/reel/DeC0H58Caa9/",
+   "timestamp": "2026-10-03T19:30:46+0000",
+   "type": "VIDEO",
+   "caption": "You waited for confirmation. The risk went from $200 to $400.",
+   "views": 212,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18107807989932329",
    "slug": "stickman-fiveofeight",
@@ -3617,8 +3633,8 @@
    "timestamp": "2026-10-03T17:00:35+0000",
    "type": "VIDEO",
    "caption": "5 wins, 3 losses, and the week is down $300.",
-   "views": 430,
-   "likes": 8,
+   "views": 529,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -3628,7 +3644,7 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 361,
+   "views": 402,
    "likes": 3,
    "comments": 1
   },
@@ -3639,7 +3655,7 @@
    "timestamp": "2026-10-03T13:30:54+0000",
    "type": "VIDEO",
    "caption": "5 rules added after bad trades. They cost you about $2,000 a year.",
-   "views": 533,
+   "views": 579,
    "likes": 3,
    "comments": 1
   },
@@ -3650,7 +3666,7 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 1875,
+   "views": 1882,
    "likes": 18,
    "comments": 1
   },
@@ -3661,8 +3677,8 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 1155,
-   "likes": 6,
+   "views": 1282,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -3672,7 +3688,7 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 1853,
+   "views": 1859,
    "likes": 12,
    "comments": 1
   },
@@ -3683,8 +3699,8 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3143,
-   "likes": 25,
+   "views": 3204,
+   "likes": 27,
    "comments": 3
   },
   {
@@ -3694,8 +3710,8 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 2124,
-   "likes": 26,
+   "views": 2128,
+   "likes": 27,
    "comments": 1
   },
   {
@@ -3705,8 +3721,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1613,
-   "likes": 51,
+   "views": 1647,
+   "likes": 52,
    "comments": 1
   },
   {
@@ -3727,7 +3743,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 2080,
+   "views": 2082,
    "likes": 28,
    "comments": 1
   },
@@ -3760,7 +3776,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2400,
+   "views": 2403,
    "likes": 15,
    "comments": 1
   },
@@ -4037,17 +4053,6 @@
    "caption": "60 % win rate over 50 trades. A coin does that one time in ten.",
    "views": 1701,
    "likes": 15,
-   "comments": 0
-  },
-  {
-   "id": "18473014186116737",
-   "slug": "stickman-outlier",
-   "permalink": "https://www.instagram.com/reel/DdxKk8HCcT4/",
-   "timestamp": "2026-09-26T23:00:48+0000",
-   "type": "VIDEO",
-   "caption": "Take out your single best trade and the year is red.",
-   "views": 2063,
-   "likes": 22,
    "comments": 0
   }
  ]
