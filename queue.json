@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:09:31.659Z",
+  "generated_at": "2026-10-03T08:11:03.736Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -772,10 +772,11 @@
       "published_at": "2026-09-15T23:01:01.762Z",
       "container_id": "18108274547136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "nr": 19,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-size.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-size-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-size-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-oneoversized, die auf TikTok laeuft"
       }
     },
     {
@@ -900,10 +901,11 @@
       "published_at": "2026-09-17T12:00:51.511Z",
       "container_id": "18108476009136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "nr": 14,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hitrate90.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hitrate90-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hitrate90-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-ninetywins, die auf TikTok laeuft"
       }
     },
     {
@@ -1092,10 +1094,11 @@
       "published_at": "2026-09-20T17:01:13.927Z",
       "container_id": "18108969572136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "nr": 16,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-averagedown.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-averagedown-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-averagedown-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-boughtmore, die auf TikTok laeuft"
       }
     },
     {
@@ -1111,10 +1114,11 @@
       "published_at": "2026-09-20T23:01:56.814Z",
       "container_id": "18109004600136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "nr": 21,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-cutwinners.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-cutwinners-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-cutwinners-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-lefttable, die auf TikTok laeuft"
       }
     },
     {
@@ -1362,10 +1366,11 @@
       "published_at": "2026-09-24T23:00:49.784Z",
       "container_id": "18109592525136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "nr": 25,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payoff.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payoff-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payoff-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-sevenlosses, die auf TikTok laeuft"
       }
     },
     {
@@ -1512,9 +1517,10 @@
       "published_at": "2026-09-26T23:00:56.411Z",
       "container_id": "18109900667136556",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outlier.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outlier-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outlier-cover.jpg",
+        "grund": "03.10.2026: gleiche Bilder wie die Neuauflage stickman-besttrade, die auf TikTok laeuft"
       }
     },
     {
@@ -2346,9 +2352,10 @@
       "caption": "5 wins, 3 losses, and the week is down $300.\n\nThe 5 winners made $60 each: $300. The 3 losers cost $200 each: $600. Cut the average loss to $80 and the same 8 trades make $60.\n\nSame win rate, smaller losses, green week.\n\nFree journal, link in bio.\n\nSend this to the friend who brags about his win rate.\n\nWhat's bigger for you: the average win or the average loss? 👇\n\nPart 64 of the series.\n\n#winrate #riskreward #riskmanagement #tradingjournal #knowthedifference",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight-cover.jpg",
+        "grund": "03.10.2026: Neuauflage mit den Bildern von winrate (TikTok 28.09.), dort vor wenigen Tagen gelaufen"
       }
     },
     {
@@ -2361,9 +2368,10 @@
       "caption": "3 trades, $200 of risk on each. One move, and you're down $600.\n\nYour rule says $200 per trade, and you followed it 3 times. But all 3 were the same bet: tech stocks, long, on the same morning. The market counts direction. It saw one position with $600 at risk.\n\nBefore the third trade, ask what the first two have in common.\n\nFree journal, link in bio.\n\nSend this to the friend who is \"diversified\" across 5 tech stocks.\n\nHow many of your open trades are really the same bet? 👇\n\nPart 65 of the series.\n\n#correlation #positionsizing #riskmanagement #tradingjournal #knowthedifference",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone-cover.jpg",
+        "grund": "03.10.2026: Neuauflage mit den Bildern von correlation (TikTok 02.10.), dort vor wenigen Tagen gelaufen"
       }
     },
     {
@@ -2526,9 +2534,10 @@
       "caption": "At 100x, a 1 % move takes your whole $500.\n\n$500 at 100x is a $50,000 position, and 1 % of $50,000 is $500. At 10x, the same move costs $50 and you're still in the trade. A stop 2 % away never gets hit, because the liquidation comes first.\n\nLeverage decides how small a move it takes to end your trade.\n\nFree journal, link in bio.\n\nSend this to the friend who trades crypto at 100x.\n\nWhat leverage do you usually trade with? 👇\n\nPart 69 of the series.\n\n#leverage #cryptotrading #riskmanagement #tradingjournal #knowthedifference",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "ready",
+        "status": "uebersprungen",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx-cover.jpg",
+        "grund": "03.10.2026: Neuauflage mit den Bildern von leverage (TikTok 29.09.), dort vor wenigen Tagen gelaufen"
       }
     },
     {
