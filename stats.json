@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T00:55:03.157Z",
+ "updated": "2026-10-03T01:55:12.607Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T00:55:03.953Z",
+  "checked": "2026-10-03T01:55:13.486Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-02",
-    "reach": 5420
+    "reach": 5597
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3512,6 +3512,11 @@
    "ts": "2026-10-03T00:55:03.157Z",
    "followers": 270,
    "media_count": 112
+  },
+  {
+   "ts": "2026-10-03T01:55:12.607Z",
+   "followers": 270,
+   "media_count": 112
   }
  ],
  "posts": [
@@ -3522,8 +3527,8 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 0,
-   "likes": 0,
+   "views": 259,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3533,8 +3538,8 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 265,
-   "likes": 2,
+   "views": 340,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3544,7 +3549,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 173,
+   "views": 190,
    "likes": 2,
    "comments": 1
   },
@@ -3555,7 +3560,7 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 193,
+   "views": 194,
    "likes": 3,
    "comments": 2
   },
@@ -3566,7 +3571,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1819,
+   "views": 1827,
    "likes": 25,
    "comments": 1
   },
@@ -3577,7 +3582,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1720,
+   "views": 1736,
    "likes": 37,
    "comments": 1
   },
@@ -3588,7 +3593,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2394,
+   "views": 2397,
    "likes": 18,
    "comments": 1
   },
@@ -3599,7 +3604,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2344,
+   "views": 2349,
    "likes": 15,
    "comments": 1
   },
@@ -3610,7 +3615,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1948,
+   "views": 1951,
    "likes": 23,
    "comments": 1
   },
@@ -3632,7 +3637,7 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2646,
+   "views": 2648,
    "likes": 35,
    "comments": 4
   },
@@ -3643,7 +3648,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2400,
+   "views": 2401,
    "likes": 18,
    "comments": 1
   },
@@ -3742,7 +3747,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1525,
+   "views": 1526,
    "likes": 8,
    "comments": 1
   },
