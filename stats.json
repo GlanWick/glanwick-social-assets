@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T04:55:49.714Z",
+ "updated": "2026-10-03T05:55:58.394Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T04:55:50.717Z",
+  "checked": "2026-10-03T05:55:59.944Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-02",
-    "reach": 7441
+    "reach": 8091
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 273,
+  "followers": 274,
   "media_count": 113
  },
  "history": [
@@ -3532,6 +3532,11 @@
    "ts": "2026-10-03T04:55:49.714Z",
    "followers": 273,
    "media_count": 113
+  },
+  {
+   "ts": "2026-10-03T05:55:58.394Z",
+   "followers": 274,
+   "media_count": 113
   }
  ],
  "posts": [
@@ -3542,8 +3547,8 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 582,
-   "likes": 2,
+   "views": 847,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -3553,8 +3558,8 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 2200,
-   "likes": 14,
+   "views": 2624,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -3564,7 +3569,7 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 1333,
+   "views": 1491,
    "likes": 18,
    "comments": 1
   },
@@ -3575,8 +3580,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 243,
-   "likes": 2,
+   "views": 399,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3586,7 +3591,7 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 203,
+   "views": 208,
    "likes": 3,
    "comments": 4
   },
@@ -3597,8 +3602,8 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1881,
-   "likes": 25,
+   "views": 1915,
+   "likes": 26,
    "comments": 1
   },
   {
@@ -3608,7 +3613,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1780,
+   "views": 1798,
    "likes": 37,
    "comments": 1
   },
@@ -3619,8 +3624,8 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2402,
-   "likes": 18,
+   "views": 2407,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -3630,7 +3635,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2358,
+   "views": 2363,
    "likes": 15,
    "comments": 1
   },
@@ -3641,8 +3646,8 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1953,
-   "likes": 23,
+   "views": 1961,
+   "likes": 24,
    "comments": 1
   },
   {
@@ -3652,7 +3657,7 @@
    "timestamp": "2026-10-01T23:01:02+0000",
    "type": "VIDEO",
    "caption": "His screenshot says +$4,000. His month says −$2,500.",
-   "views": 1839,
+   "views": 1842,
    "likes": 26,
    "comments": 1
   },
@@ -3663,7 +3668,7 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2648,
+   "views": 2650,
    "likes": 35,
    "comments": 4
   },
@@ -3674,7 +3679,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2403,
+   "views": 2405,
    "likes": 18,
    "comments": 1
   },
@@ -3685,7 +3690,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3366,
+   "views": 3369,
    "likes": 20,
    "comments": 2
   },
@@ -3718,7 +3723,7 @@
    "timestamp": "2026-09-30T23:30:34+0000",
    "type": "VIDEO",
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
-   "views": 1629,
+   "views": 1631,
    "likes": 6,
    "comments": 1
   },
@@ -3729,7 +3734,7 @@
    "timestamp": "2026-09-30T23:01:52+0000",
    "type": "VIDEO",
    "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
-   "views": 797,
+   "views": 801,
    "likes": 11,
    "comments": 1
   },
@@ -3740,7 +3745,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1736,
+   "views": 1740,
    "likes": 36,
    "comments": 8
   },
@@ -3751,7 +3756,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2313,
+   "views": 2315,
    "likes": 11,
    "comments": 1
   },
@@ -3762,7 +3767,7 @@
    "timestamp": "2026-09-30T17:01:40+0000",
    "type": "VIDEO",
    "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
-   "views": 664,
+   "views": 665,
    "likes": 12,
    "comments": 4
   },
@@ -3773,7 +3778,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1528,
+   "views": 1529,
    "likes": 8,
    "comments": 1
   },
@@ -3784,7 +3789,7 @@
    "timestamp": "2026-09-30T02:30:37+0000",
    "type": "VIDEO",
    "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
-   "views": 2320,
+   "views": 2321,
    "likes": 26,
    "comments": 4
   },
@@ -3795,7 +3800,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1306,
+   "views": 1307,
    "likes": 13,
    "comments": 1
   },
