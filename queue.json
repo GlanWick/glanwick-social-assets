@@ -966,15 +966,18 @@
       "published_at": "2026-09-19T02:31:49.253Z",
       "container_id": "18108709613136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 13,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-smoothcurve.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-smoothcurve-cover.jpg",
         "gestartet_at": "2026-10-03T17:00:46.518Z",
-        "stand": "2026-10-03T17:01:10.406Z",
+        "stand": "2026-10-03T17:02:12.940Z",
         "versuch": 1,
         "slot": "2026-10-03T17:00:00.000Z",
-        "post_id": "6ac134c5bea7185e958f374c"
+        "post_id": "6ac134c5bea7185e958f374c",
+        "published_at": "2026-10-03T17:01:27.596Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7692487608504649760"
       }
     },
     {
