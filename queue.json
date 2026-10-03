@@ -2441,7 +2441,7 @@
     {
       "id": "test-2026-10-fuenf-regeln",
       "slug": "stickman-fiverules",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiverules.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiverules-cover.jpg",
@@ -2451,7 +2451,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage rulecreep (No. 21) mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-03T13:30:10.565Z"
     },
     {
       "id": "test-2026-10-drei-trades",
