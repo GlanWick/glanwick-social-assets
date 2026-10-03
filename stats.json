@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T03:55:40.877Z",
+ "updated": "2026-10-03T04:55:49.714Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T03:55:41.765Z",
+  "checked": "2026-10-03T04:55:50.717Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-10-02",
-    "reach": 6510
+    "reach": 7441
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 272,
+  "followers": 273,
   "media_count": 113
  },
  "history": [
@@ -3527,6 +3527,11 @@
    "ts": "2026-10-03T03:55:40.877Z",
    "followers": 272,
    "media_count": 113
+  },
+  {
+   "ts": "2026-10-03T04:55:49.714Z",
+   "followers": 273,
+   "media_count": 113
   }
  ],
  "posts": [
@@ -3537,8 +3542,8 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 309,
-   "likes": 1,
+   "views": 582,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3548,8 +3553,8 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 1537,
-   "likes": 11,
+   "views": 2200,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -3559,8 +3564,8 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 1043,
-   "likes": 15,
+   "views": 1333,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -3570,7 +3575,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 223,
+   "views": 243,
    "likes": 2,
    "comments": 1
   },
@@ -3581,9 +3586,9 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 196,
+   "views": 203,
    "likes": 3,
-   "comments": 2
+   "comments": 4
   },
   {
    "id": "18114759113331360",
@@ -3592,7 +3597,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1865,
+   "views": 1881,
    "likes": 25,
    "comments": 1
   },
@@ -3603,7 +3608,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1769,
+   "views": 1780,
    "likes": 37,
    "comments": 1
   },
@@ -3614,7 +3619,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2401,
+   "views": 2402,
    "likes": 18,
    "comments": 1
   },
@@ -3625,7 +3630,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2357,
+   "views": 2358,
    "likes": 15,
    "comments": 1
   },
@@ -3669,7 +3674,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2402,
+   "views": 2403,
    "likes": 18,
    "comments": 1
   },
