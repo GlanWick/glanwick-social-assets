@@ -2478,7 +2478,7 @@
     {
       "id": "test-2026-10-drei-trades",
       "slug": "stickman-threetrades",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threetrades.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threetrades-cover.jpg",
@@ -2488,7 +2488,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage journal mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-03T15:30:10.988Z"
     },
     {
       "id": "test-2026-10-bestaetigung",
