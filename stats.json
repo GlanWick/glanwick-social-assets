@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T00:05:47.282Z",
+ "updated": "2026-10-03T00:55:03.157Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T00:05:48.322Z",
+  "checked": "2026-10-03T00:55:03.953Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-02",
-    "reach": 5255
+    "reach": 5420
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3507,9 +3507,25 @@
    "ts": "2026-10-03T00:05:47.282Z",
    "followers": 270,
    "media_count": 112
+  },
+  {
+   "ts": "2026-10-03T00:55:03.157Z",
+   "followers": 270,
+   "media_count": 112
   }
  ],
  "posts": [
+  {
+   "id": "18098265053533665",
+   "slug": "stickman-tenlosses",
+   "permalink": "https://www.instagram.com/reel/DeAyzOPkbJt/",
+   "timestamp": "2026-10-03T00:40:51+0000",
+   "type": "VIDEO",
+   "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17880904734626990",
    "slug": "stickman-soldwinner",
@@ -3517,8 +3533,8 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 74,
-   "likes": 1,
+   "views": 265,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3528,7 +3544,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 152,
+   "views": 173,
    "likes": 2,
    "comments": 1
   },
@@ -3539,7 +3555,7 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 188,
+   "views": 193,
    "likes": 3,
    "comments": 2
   },
@@ -3550,7 +3566,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 1799,
+   "views": 1819,
    "likes": 25,
    "comments": 1
   },
@@ -3561,7 +3577,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1707,
+   "views": 1720,
    "likes": 37,
    "comments": 1
   },
@@ -3572,7 +3588,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2393,
+   "views": 2394,
    "likes": 18,
    "comments": 1
   },
@@ -3583,7 +3599,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2339,
+   "views": 2344,
    "likes": 15,
    "comments": 1
   },
@@ -3594,7 +3610,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1946,
+   "views": 1948,
    "likes": 23,
    "comments": 1
   },
@@ -3737,7 +3753,7 @@
    "timestamp": "2026-09-30T02:30:37+0000",
    "type": "VIDEO",
    "caption": "200 traders with no edge take a $50k evaluation. 36 of them pass.",
-   "views": 2319,
+   "views": 2320,
    "likes": 26,
    "comments": 4
   },
@@ -3937,17 +3953,6 @@
    "caption": "A 30 % drawdown at 2 % a month takes 18 months to get back.",
    "views": 3584,
    "likes": 20,
-   "comments": 0
-  },
-  {
-   "id": "17920753875220904",
-   "slug": "stickman-martingale",
-   "permalink": "https://www.instagram.com/reel/DdtaZMHjd3r/",
-   "timestamp": "2026-09-25T12:02:04+0000",
-   "type": "VIDEO",
-   "caption": "Double after every loss and loss number 7 costs 64 times your first one.",
-   "views": 4118,
-   "likes": 31,
    "comments": 0
   }
  ]
