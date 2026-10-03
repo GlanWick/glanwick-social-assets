@@ -2568,7 +2568,16 @@
       "container_id": "18110967728136556",
       "media_id": "18560740333072558",
       "permalink": "https://www.instagram.com/reel/DeDPmvOFNTR/",
-      "published_at": "2026-10-03T23:31:11.320Z"
+      "published_at": "2026-10-03T23:31:11.320Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 119,
+        "beitraege_nachher": 119,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T23:32:12.849Z"
+      }
     },
     {
       "id": "test-2026-10-gleiches-risiko",
