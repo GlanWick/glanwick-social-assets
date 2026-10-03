@@ -2455,7 +2455,16 @@
       "container_id": "18110898188136556",
       "media_id": "18634563475062945",
       "permalink": "https://www.instagram.com/reel/DeCK5_6AJm7/",
-      "published_at": "2026-10-03T13:31:01.242Z"
+      "published_at": "2026-10-03T13:31:01.242Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 116,
+        "beitraege_nachher": 116,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T13:32:03.025Z"
+      }
     },
     {
       "id": "test-2026-10-drei-trades",
