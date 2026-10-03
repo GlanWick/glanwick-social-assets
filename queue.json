@@ -2520,7 +2520,7 @@
     {
       "id": "test-2026-10-bestaetigung",
       "slug": "stickman-confirm",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm-cover.jpg",
@@ -2530,7 +2530,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage confirmation (No. 25) mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-03T19:30:22.769Z"
     },
     {
       "id": "test-2026-10-verdoppelt",
