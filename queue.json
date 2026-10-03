@@ -2338,7 +2338,7 @@
     {
       "id": "2026-10-03-ein-schlechter-tag",
       "slug": "stickman-badday",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badday-cover.jpg",
@@ -2348,7 +2348,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-03T12:00:07.184Z"
     },
     {
       "id": "2026-10-03-fuenf-von-acht",
