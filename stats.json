@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T12:37:36.851Z",
+ "updated": "2026-10-03T13:37:46.830Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T12:37:37.941Z",
+  "checked": "2026-10-03T13:37:47.964Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -34,13 +34,13 @@
     "reach": 8883
    }
   ],
-  "avg_watch_last_reels": 9.7
+  "avg_watch_last_reels": 10.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 277,
-  "media_count": 114
+  "followers": 278,
+  "media_count": 116
  },
  "history": [
   {
@@ -3572,9 +3572,25 @@
    "ts": "2026-10-03T12:37:36.851Z",
    "followers": 277,
    "media_count": 114
+  },
+  {
+   "ts": "2026-10-03T13:37:46.830Z",
+   "followers": 278,
+   "media_count": 116
   }
  ],
  "posts": [
+  {
+   "id": "18634563475062945",
+   "slug": "stickman-fiverules",
+   "permalink": "https://www.instagram.com/reel/DeCK5_6AJm7/",
+   "timestamp": "2026-10-03T13:30:54+0000",
+   "type": "VIDEO",
+   "caption": "5 rules added after bad trades. They cost you about $2,000 a year.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18443989870122509",
    "slug": "stickman-badday",
@@ -3582,8 +3598,8 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 114,
-   "likes": 2,
+   "views": 716,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -3593,7 +3609,7 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 232,
+   "views": 428,
    "likes": 2,
    "comments": 1
   },
@@ -3604,7 +3620,7 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 1805,
+   "views": 1818,
    "likes": 10,
    "comments": 1
   },
@@ -3615,9 +3631,9 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 2872,
-   "likes": 20,
-   "comments": 1
+   "views": 2900,
+   "likes": 22,
+   "comments": 2
   },
   {
    "id": "17880904734626990",
@@ -3626,7 +3642,7 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 2070,
+   "views": 2079,
    "likes": 22,
    "comments": 1
   },
@@ -3637,8 +3653,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 998,
-   "likes": 22,
+   "views": 1103,
+   "likes": 29,
    "comments": 1
   },
   {
@@ -3659,7 +3675,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 2063,
+   "views": 2066,
    "likes": 27,
    "comments": 1
   },
@@ -3670,7 +3686,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1855,
+   "views": 1864,
    "likes": 37,
    "comments": 1
   },
@@ -3681,7 +3697,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2426,
+   "views": 2430,
    "likes": 20,
    "comments": 1
   },
@@ -3692,7 +3708,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2384,
+   "views": 2387,
    "likes": 15,
    "comments": 1
   },
@@ -3725,7 +3741,7 @@
    "timestamp": "2026-10-01T17:01:35+0000",
    "type": "VIDEO",
    "caption": "Fail 7 evaluations at $150, pass the 8th, and that funded account cost you $1,20",
-   "views": 2658,
+   "views": 2662,
    "likes": 35,
    "comments": 4
   },
@@ -3760,17 +3776,6 @@
    "caption": "Your stop was at −$200. You moved it twice. You closed at −$900.",
    "views": 926,
    "likes": 7,
-   "comments": 1
-  },
-  {
-   "id": "18078125594418826",
-   "slug": "stickman-fridayleak",
-   "permalink": "https://www.instagram.com/reel/Dd7pNodiRGG/",
-   "timestamp": "2026-10-01T00:40:44+0000",
-   "type": "VIDEO",
-   "caption": "One hour a week cost you $3,100 this quarter.",
-   "views": 201,
-   "likes": 1,
    "comments": 1
   },
   {
@@ -3835,7 +3840,7 @@
    "timestamp": "2026-09-30T12:01:01+0000",
    "type": "VIDEO",
    "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1533,
+   "views": 1534,
    "likes": 8,
    "comments": 1
   },
@@ -3857,7 +3862,7 @@
    "timestamp": "2026-09-29T23:00:54+0000",
    "type": "VIDEO",
    "caption": "14 wins in 20 trades. 1 trader in 17 gets that with no edge at all.",
-   "views": 1313,
+   "views": 1314,
    "likes": 13,
    "comments": 1
   },
