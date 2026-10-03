@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T15:38:07.658Z",
+ "updated": "2026-10-03T16:38:26.498Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T15:38:09.060Z",
+  "checked": "2026-10-03T16:38:27.663Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 279,
+  "followers": 282,
   "media_count": 116
  },
  "history": [
@@ -3587,6 +3587,11 @@
    "ts": "2026-10-03T15:38:07.658Z",
    "followers": 279,
    "media_count": 116
+  },
+  {
+   "ts": "2026-10-03T16:38:26.498Z",
+   "followers": 282,
+   "media_count": 116
   }
  ],
  "posts": [
@@ -3597,8 +3602,8 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 0,
-   "likes": 0,
+   "views": 199,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3608,7 +3613,7 @@
    "timestamp": "2026-10-03T13:30:54+0000",
    "type": "VIDEO",
    "caption": "5 rules added after bad trades. They cost you about $2,000 a year.",
-   "views": 194,
+   "views": 218,
    "likes": 0,
    "comments": 1
   },
@@ -3619,7 +3624,7 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 1723,
+   "views": 1853,
    "likes": 18,
    "comments": 1
   },
@@ -3630,7 +3635,7 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 799,
+   "views": 887,
    "likes": 4,
    "comments": 1
   },
@@ -3641,7 +3646,7 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 1832,
+   "views": 1840,
    "likes": 11,
    "comments": 1
   },
@@ -3652,8 +3657,8 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 2956,
-   "likes": 24,
+   "views": 3003,
+   "likes": 25,
    "comments": 2
   },
   {
@@ -3663,7 +3668,7 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 2095,
+   "views": 2104,
    "likes": 24,
    "comments": 1
   },
@@ -3674,8 +3679,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1322,
-   "likes": 41,
+   "views": 1424,
+   "likes": 46,
    "comments": 1
   },
   {
@@ -3696,7 +3701,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 2075,
+   "views": 2076,
    "likes": 28,
    "comments": 1
   },
@@ -3729,7 +3734,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2394,
+   "views": 2398,
    "likes": 15,
    "comments": 1
   },
@@ -3773,7 +3778,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2416,
+   "views": 2419,
    "likes": 18,
    "comments": 1
   },
@@ -3927,7 +3932,7 @@
    "timestamp": "2026-09-28T23:00:53+0000",
    "type": "VIDEO",
    "caption": "Win 55 % of your 0.5 % scalps and you still lose money.",
-   "views": 328,
+   "views": 330,
    "likes": 3,
    "comments": 0
   },
@@ -3949,7 +3954,7 @@
    "timestamp": "2026-09-28T12:00:28+0000",
    "type": "VIDEO",
    "caption": "The index is down 1 %. Your 3x ETF is down 9 %.",
-   "views": 2422,
+   "views": 2423,
    "likes": 10,
    "comments": 0
   },
