@@ -2277,7 +2277,7 @@
     {
       "id": "test-2026-10-zehn-verluste",
       "slug": "stickman-tenlosses",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-03T00:40:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenlosses-cover.jpg",
@@ -2287,7 +2287,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage sizing (No. 11) mit Geld-Hook"
-      }
+      },
+      "posting_started_at": "2026-10-03T00:40:17.912Z"
     }
   ]
 }
