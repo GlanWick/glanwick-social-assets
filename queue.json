@@ -2291,7 +2291,16 @@
       "container_id": "18110805101136556",
       "media_id": "18098265053533665",
       "permalink": "https://www.instagram.com/reel/DeAyzOPkbJt/",
-      "published_at": "2026-10-03T00:40:57.935Z"
+      "published_at": "2026-10-03T00:40:57.935Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 112,
+        "beitraege_nachher": 112,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T00:41:59.634Z"
+      }
     }
   ]
 }
