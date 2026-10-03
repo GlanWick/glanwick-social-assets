@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:59:54.391Z",
+  "generated_at": "2026-10-03T06:58:46.402Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -859,14 +859,13 @@
         "nr": 12,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-journal.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-journal-cover.jpg",
-        "gestartet_at": "2026-10-02T23:00:54.407Z",
-        "stand": "2026-10-02T23:02:18.795Z",
-        "versuch": 1,
-        "slot": "2026-10-02T23:00:00.000Z",
         "post_id": "6ac037ac5bf3765f4aca69a2",
-        "published_at": "2026-10-02T23:01:26.426Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692209451100687648",
-        "plattform_id": "7692209451100687648"
+        "plattform_id": "7692209451100687648",
+        "published_at": "2026-10-02T23:01:26.426Z",
+        "gestartet_at": "2026-10-02T23:00:54.407Z",
+        "slot": "2026-10-02T23:00:00.000Z",
+        "stand": "2026-10-02T23:02:18.795Z"
       }
     },
     {
@@ -2232,10 +2231,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneoversized-cover.jpg"
       },
-      "container_id": "18110796146136556",
       "media_id": "17942488143358580",
       "permalink": "https://www.instagram.com/reel/DeAnV7MD42A/",
       "published_at": "2026-10-02T23:00:50.742Z",
+      "container_id": "18110796146136556",
       "kommentar_id": "17939452767370311"
     },
     {
@@ -2251,18 +2250,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore-cover.jpg",
-        "gestartet_at": "2026-10-03T02:30:50.725Z",
-        "stand": "2026-10-03T02:32:13.701Z",
-        "versuch": 1,
         "post_id": "6ac068e00f33254e9c3b107e",
-        "published_at": "2026-10-03T02:31:19.857Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692263392932859168",
-        "plattform_id": "7692263392932859168"
+        "plattform_id": "7692263392932859168",
+        "published_at": "2026-10-03T02:31:19.857Z",
+        "gestartet_at": "2026-10-03T02:30:50.725Z",
+        "stand": "2026-10-03T02:32:13.701Z"
       },
-      "container_id": "18110818373136556",
       "media_id": "18114340439026924",
       "permalink": "https://www.instagram.com/reel/DeA_W71idrC/",
       "published_at": "2026-10-03T02:30:47.688Z",
+      "container_id": "18110818373136556",
       "kommentar_id": "18205782016374166"
     },
     {
@@ -2279,10 +2277,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage disposition (No. 10) mit Geld-Hook"
       },
-      "container_id": "18110799335136556",
       "media_id": "17880904734626990",
       "permalink": "https://www.instagram.com/reel/DeAqzvujUrb/",
       "published_at": "2026-10-02T23:31:09.557Z",
+      "container_id": "18110799335136556",
+      "kommentar_id": "17912376123536037",
       "trial_pruefung": {
         "beitraege_vorher": 112,
         "beitraege_nachher": 112,
@@ -2291,8 +2290,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-02T23:32:11.276Z"
-      },
-      "kommentar_id": "17912376123536037"
+      }
     },
     {
       "id": "test-2026-10-zehn-verluste",
@@ -2308,10 +2306,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage sizing (No. 11) mit Geld-Hook"
       },
-      "container_id": "18110805101136556",
       "media_id": "18098265053533665",
       "permalink": "https://www.instagram.com/reel/DeAyzOPkbJt/",
       "published_at": "2026-10-03T00:40:57.935Z",
+      "container_id": "18110805101136556",
+      "kommentar_id": "18118401257318372",
       "trial_pruefung": {
         "beitraege_vorher": 112,
         "beitraege_nachher": 112,
@@ -2320,8 +2319,127 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-03T00:41:59.634Z"
-      },
-      "kommentar_id": "18118401257318372"
+      }
+    },
+    {
+      "id": "2026-10-03-ein-schlechter-tag",
+      "slug": "stickman-badday",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badday.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badday-cover.jpg",
+      "caption": "One bad day cost you $900. That's 6 good days of work.\n\nYour average winning day makes $150. $900 divided by $150 is 6 days, more than a full week of trading. You were down $300 by noon. The other $600 came from trying to get it back.\n\nStop at −$300 and a bad day costs 2 good ones.\n\nFree journal, link in bio.\n\nSend this to the friend who never stops on a red day.\n\nHow many good days does your worst day cost you? 👇\n\nPart 63 of the series.\n\n#daytrading #dailyloss #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "neu",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-03-fuenf-von-acht",
+      "slug": "stickman-fiveofeight",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiveofeight.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiveofeight-cover.jpg",
+      "caption": "5 wins, 3 losses, and the week is down $300.\n\nThe 5 winners made $60 each: $300. The 3 losers cost $200 each: $600. Cut the average loss to $80 and the same 8 trades make $60.\n\nSame win rate, smaller losses, green week.\n\nFree journal, link in bio.\n\nSend this to the friend who brags about his win rate.\n\nWhat's bigger for you: the average win or the average loss? 👇\n\nPart 64 of the series.\n\n#winrate #riskreward #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-04-drei-in-einem",
+      "slug": "stickman-threeinone",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeinone.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeinone-cover.jpg",
+      "caption": "3 trades, $200 of risk on each. One move, and you're down $600.\n\nYour rule says $200 per trade, and you followed it 3 times. But all 3 were the same bet: tech stocks, long, on the same morning. The market counts direction. It saw one position with $600 at risk.\n\nBefore the third trade, ask what the first two have in common.\n\nFree journal, link in bio.\n\nSend this to the friend who is \"diversified\" across 5 tech stocks.\n\nHow many of your open trades are really the same bet? 👇\n\nPart 65 of the series.\n\n#correlation #positionsizing #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-04-liegen-gelassen",
+      "slug": "stickman-lefttable",
+      "status": "draft",
+      "scheduled_at": "2026-10-04T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-lefttable.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-lefttable-cover.jpg",
+      "caption": "Your winner ran to +$400. You took +$200.\n\nThat's $200 handed back every time you were right. 40 winners a year, and it adds up to $8,000 you never collected. You track every loss to the dollar. This number never shows up anywhere.\n\nLet the winner reach the target you set.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profit the second he's green.\n\nHow often do you close before your target? 👇\n\nPart 66 of the series.\n\n#takeprofit #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-ausgestoppt",
+      "slug": "stickman-stoppedout",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T01:45:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stoppedout.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-stoppedout-cover.jpg",
+      "caption": "Stopped out for −$100. Then the trade ran $700 without you.\n\nYou halved your stop to lose less per trade. Now the stop sits inside the normal noise, and ordinary wiggles take you out. Each loss is smaller, and there are more of them.\n\nSet the stop where the trade idea is wrong, then size the position to fit.\n\nFree journal, link in bio.\n\nSend this to the friend who keeps getting stopped out right before the move.\n\nHow often does price come back after your stop? 👇\n\n#stoploss #positionsizing #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage tightstop mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-fuenf-regeln",
+      "slug": "stickman-fiverules",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiverules.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiverules-cover.jpg",
+      "caption": "5 rules added after bad trades. They cost you about $2,000 a year.\n\nEach rule filters out 1 trade in 5. After 5 rules, a third of your trades are left: 300 a year become about 100. At a $10 edge per trade, $3,000 a year becomes about $1,000.\n\nEvery rule has a price. Count it before you keep it.\n\nFree journal, link in bio.\n\nSend this to the friend who adds a new rule after every loss.\n\nHow many rules have you added this year? 👇\n\n#tradingrules #tradingplan #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage rulecreep (No. 21) mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-drei-trades",
+      "slug": "stickman-threetrades",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threetrades.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threetrades-cover.jpg",
+      "caption": "You remember 3 trades from last month, and they made $900. The month had 41.\n\nThe other 38 lost $1,300. So the month was −$400, while your memory says +$900.\n\nMemory keeps the story. The record keeps the count.\n\nFree journal, link in bio.\n\nSend this to the friend who \"had a good month\".\n\nHow many trades did you take last month? Guess first, then check. 👇\n\n#tradingpsychology #daytrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage journal mit Geld-Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-bestaetigung",
+      "slug": "stickman-confirm",
+      "status": "draft",
+      "scheduled_at": "2026-10-03T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm-cover.jpg",
+      "caption": "You waited for confirmation. The risk went from $200 to $400.\n\n100 shares. Entry $100, stop $98, target $106: $200 at risk to make $600. You wait for the candle to close and buy at $102. Same stop, same target. Now you risk $400 to make $400.\n\nThe trade is the same. Your entry changed.\n\nFree journal, link in bio.\n\nSend this to the friend who always waits for one more candle.\n\nDo you enter at your level or wait for the close? 👇\n\n#entry #riskreward #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage confirmation (No. 25) mit Geld-Hook"
+      }
     }
   ]
 }
