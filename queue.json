@@ -2554,7 +2554,7 @@
     {
       "id": "test-2026-10-verdoppelt",
       "slug": "stickman-doubleddown",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-03T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleddown.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleddown-cover.jpg",
@@ -2565,7 +2565,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage martingale (No. 32) mit Geld-Hook"
       },
-      "posting_started_at": "2026-10-03T23:30:01.427Z"
+      "container_id": "18110967728136556",
+      "media_id": "18560740333072558",
+      "permalink": "https://www.instagram.com/reel/DeDPmvOFNTR/",
+      "published_at": "2026-10-03T23:31:11.320Z"
     },
     {
       "id": "test-2026-10-gleiches-risiko",
