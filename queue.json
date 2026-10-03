@@ -2534,7 +2534,16 @@
       "container_id": "18110948954136556",
       "media_id": "18109009943224872",
       "permalink": "https://www.instagram.com/reel/DeC0H58Caa9/",
-      "published_at": "2026-10-03T19:30:52.913Z"
+      "published_at": "2026-10-03T19:30:52.913Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 118,
+        "beitraege_nachher": 118,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T19:31:54.264Z"
+      }
     },
     {
       "id": "test-2026-10-verdoppelt",
