@@ -2241,7 +2241,7 @@
     {
       "id": "2026-10-03-nachgekauft",
       "slug": "stickman-boughtmore",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-03T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boughtmore-cover.jpg",
@@ -2252,7 +2252,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-boughtmore-cover.jpg"
       },
-      "posting_started_at": "2026-10-03T02:30:04.436Z"
+      "container_id": "18110818373136556",
+      "media_id": "18114340439026924",
+      "permalink": "https://www.instagram.com/reel/DeA_W71idrC/",
+      "published_at": "2026-10-03T02:30:47.688Z"
     },
     {
       "id": "test-2026-10-gewinner-verkauft",
