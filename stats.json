@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-03T17:38:44.622Z",
+ "updated": "2026-10-03T18:28:50.297Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-03T17:38:45.757Z",
+  "checked": "2026-10-03T18:28:51.397Z",
   "reach_days": [
    {
     "day": "2026-09-26",
@@ -34,12 +34,12 @@
     "reach": 8883
    }
   ],
-  "avg_watch_last_reels": 13.1
+  "avg_watch_last_reels": 9.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 283,
+  "followers": 284,
   "media_count": 118
  },
  "history": [
@@ -3597,6 +3597,11 @@
    "ts": "2026-10-03T17:38:44.622Z",
    "followers": 283,
    "media_count": 118
+  },
+  {
+   "ts": "2026-10-03T18:28:50.297Z",
+   "followers": 284,
+   "media_count": 118
   }
  ],
  "posts": [
@@ -3607,8 +3612,8 @@
    "timestamp": "2026-10-03T17:00:35+0000",
    "type": "VIDEO",
    "caption": "5 wins, 3 losses, and the week is down $300.",
-   "views": 121,
-   "likes": 4,
+   "views": 229,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -3618,7 +3623,7 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 269,
+   "views": 311,
    "likes": 3,
    "comments": 1
   },
@@ -3629,8 +3634,8 @@
    "timestamp": "2026-10-03T13:30:54+0000",
    "type": "VIDEO",
    "caption": "5 rules added after bad trades. They cost you about $2,000 a year.",
-   "views": 329,
-   "likes": 1,
+   "views": 474,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -3640,7 +3645,7 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 1865,
+   "views": 1871,
    "likes": 18,
    "comments": 1
   },
@@ -3651,7 +3656,7 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 985,
+   "views": 1055,
    "likes": 4,
    "comments": 1
   },
@@ -3662,7 +3667,7 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 1849,
+   "views": 1852,
    "likes": 11,
    "comments": 1
   },
@@ -3673,9 +3678,9 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3048,
+   "views": 3080,
    "likes": 25,
-   "comments": 2
+   "comments": 3
   },
   {
    "id": "17880904734626990",
@@ -3684,8 +3689,8 @@
    "timestamp": "2026-10-02T23:31:01+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
-   "views": 2110,
-   "likes": 25,
+   "views": 2119,
+   "likes": 26,
    "comments": 1
   },
   {
@@ -3695,7 +3700,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1527,
+   "views": 1571,
    "likes": 50,
    "comments": 1
   },
@@ -3717,7 +3722,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 2079,
+   "views": 2080,
    "likes": 28,
    "comments": 1
   },
@@ -3750,7 +3755,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2399,
+   "views": 2400,
    "likes": 15,
    "comments": 1
   },
@@ -3761,7 +3766,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 1988,
+   "views": 1993,
    "likes": 25,
    "comments": 1
   },
@@ -3860,7 +3865,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2320,
+   "views": 2322,
    "likes": 11,
    "comments": 1
   },
