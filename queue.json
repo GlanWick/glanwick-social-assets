@@ -2492,7 +2492,16 @@
       "container_id": "18110912231136556",
       "media_id": "18146947195561629",
       "permalink": "https://www.instagram.com/reel/DeCYop9F-oD/",
-      "published_at": "2026-10-03T15:30:52.703Z"
+      "published_at": "2026-10-03T15:30:52.703Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 116,
+        "beitraege_nachher": 116,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-03T15:31:54.341Z"
+      }
     },
     {
       "id": "test-2026-10-bestaetigung",
