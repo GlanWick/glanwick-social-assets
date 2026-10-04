@@ -2609,7 +2609,16 @@
       "container_id": "18110973647136556",
       "media_id": "17974902162129375",
       "permalink": "https://www.instagram.com/reel/DeDXmBBCk3T/",
-      "published_at": "2026-10-04T00:41:07.255Z"
+      "published_at": "2026-10-04T00:41:07.255Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 119,
+        "beitraege_nachher": 119,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T00:42:08.740Z"
+      }
     },
     {
       "id": "test-2026-10-richtiger-verlust",
