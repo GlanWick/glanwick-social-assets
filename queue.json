@@ -2814,7 +2814,16 @@
       "container_id": "18111062510136556",
       "media_id": "18123872254862727",
       "permalink": "https://www.instagram.com/reel/DeEwQ4TgXyS/",
-      "published_at": "2026-10-04T13:35:51.523Z"
+      "published_at": "2026-10-04T13:35:51.523Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 125,
+        "beitraege_nachher": 125,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T13:36:53.180Z"
+      }
     },
     {
       "id": "test-2026-10-stundenlohn",
