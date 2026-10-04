@@ -2971,7 +2971,16 @@
       "container_id": "18111054893136556",
       "media_id": "18122315624297175",
       "permalink": "https://www.instagram.com/reel/DeEpMnzDiZE/",
-      "published_at": "2026-10-04T12:34:07.753Z"
+      "published_at": "2026-10-04T12:34:07.753Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 125,
+        "beitraege_nachher": 125,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T12:35:09.647Z"
+      }
     }
   ]
 }
