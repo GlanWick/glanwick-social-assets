@@ -2966,7 +2966,11 @@
         "verdacht": false,
         "at": "2026-10-04T06:31:51.677Z"
       },
-      "kommentar_id": "18024985406915073"
+      "kommentar_id": "18024985406915073",
+      "views_12h": {
+        "views": 154,
+        "stunden": 12.83
+      }
     },
     {
       "id": "test-2026-10-muse-prop",
