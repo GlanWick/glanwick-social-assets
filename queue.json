@@ -2316,6 +2316,10 @@
       "views_12h": {
         "views": 2062,
         "stunden": 12.26
+      },
+      "views_24h": {
+        "views": 2143,
+        "stunden": 24.81
       }
     },
     {
@@ -2376,7 +2380,11 @@
       "media_id": "18443989870122509",
       "permalink": "https://www.instagram.com/reel/DeCAmCUDtDa/",
       "published_at": "2026-10-03T12:00:36.084Z",
-      "kommentar_id": "17910018612472649"
+      "kommentar_id": "17910018612472649",
+      "views_12h": {
+        "views": 1900,
+        "stunden": 12.32
+      }
     },
     {
       "id": "2026-10-03-fuenf-von-acht",
@@ -2462,7 +2470,11 @@
         "verdacht": false,
         "at": "2026-10-03T11:32:06.641Z"
       },
-      "kommentar_id": "18093004601662112"
+      "kommentar_id": "18093004601662112",
+      "views_12h": {
+        "views": 1427,
+        "stunden": 12.81
+      }
     },
     {
       "id": "test-2026-10-fuenf-regeln",
