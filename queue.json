@@ -2861,7 +2861,7 @@
     {
       "id": "test-2026-10-muse-prop",
       "slug": "muse-prop",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T08:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-prop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-prop-cover.jpg",
@@ -2871,7 +2871,8 @@
       "test": {
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 3/5 Simulation: Prop-Challenge mit Regeln, Chart, entgangene Gebühren"
-      }
+      },
+      "posting_started_at": "2026-10-04T08:30:25.464Z"
     },
     {
       "id": "test-2026-10-muse-voice",
