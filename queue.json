@@ -2435,7 +2435,7 @@
     {
       "id": "2026-10-04-liegen-gelassen",
       "slug": "stickman-lefttable",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-lefttable.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-lefttable-cover.jpg",
@@ -2445,7 +2445,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-04T02:30:26.194Z"
     },
     {
       "id": "test-2026-10-ausgestoppt",
