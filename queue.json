@@ -2913,7 +2913,11 @@
         "verdacht": false,
         "at": "2026-10-04T04:32:07.773Z"
       },
-      "kommentar_id": "18150449317535634"
+      "kommentar_id": "18150449317535634",
+      "views_12h": {
+        "views": 120,
+        "stunden": 12.02
+      }
     },
     {
       "id": "test-2026-10-muse-why",
