@@ -2747,7 +2747,7 @@
     {
       "id": "test-2026-10-spaet-kopiert",
       "slug": "stickman-latecopy",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latecopy.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latecopy-cover.jpg",
@@ -2757,7 +2757,8 @@
       "test": {
         "bild": "neu",
         "frage": "Neues Thema: spaet kopierter Trade (neue Bilder)"
-      }
+      },
+      "posting_started_at": "2026-10-04T11:31:54.576Z"
     },
     {
       "id": "test-2026-10-monatsziel",
