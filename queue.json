@@ -2890,7 +2890,7 @@
     {
       "id": "test-2026-10-muse-voice",
       "slug": "muse-voice",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T10:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-voice.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-voice-cover.jpg",
@@ -2901,7 +2901,10 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 4/5 Neuheit: Sprachassistent (Wo- und Wie-Fragen)"
       },
-      "posting_started_at": "2026-10-04T10:30:16.978Z"
+      "container_id": "18111038060136556",
+      "media_id": "18118229524752117",
+      "permalink": "https://www.instagram.com/reel/DeEbMuMk9zZ/",
+      "published_at": "2026-10-04T10:31:46.674Z"
     },
     {
       "id": "test-2026-10-muse-autojournal",
