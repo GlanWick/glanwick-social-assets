@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-04T18:20:15.613Z",
+ "updated": "2026-10-04T19:20:36.027Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-04T18:20:16.943Z",
+  "checked": "2026-10-04T19:20:38.457Z",
   "reach_days": [
    {
     "day": "2026-09-27",
@@ -34,13 +34,13 @@
     "reach": 8882
    }
   ],
-  "avg_watch_last_reels": 9.8
+  "avg_watch_last_reels": 9.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 295,
-  "media_count": 126
+  "media_count": 127
  },
  "history": [
   {
@@ -3722,6 +3722,11 @@
    "ts": "2026-10-04T18:20:15.613Z",
    "followers": 295,
    "media_count": 126
+  },
+  {
+   "ts": "2026-10-04T19:20:36.027Z",
+   "followers": 295,
+   "media_count": 127
   }
  ],
  "posts": [
@@ -3732,8 +3737,8 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 226,
-   "likes": 0,
+   "views": 255,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -3743,9 +3748,9 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 334,
-   "likes": 4,
-   "comments": 1
+   "views": 401,
+   "likes": 5,
+   "comments": 2
   },
   {
    "id": "18123872254862727",
@@ -3754,8 +3759,8 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 1047,
-   "likes": 14,
+   "views": 1177,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -3765,7 +3770,7 @@
    "timestamp": "2026-10-04T12:34:00+0000",
    "type": "VIDEO",
    "caption": "212 trades synced. 0 typed by hand ✅",
-   "views": 135,
+   "views": 142,
    "likes": 1,
    "comments": 1
   },
@@ -3776,8 +3781,8 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 1638,
-   "likes": 16,
+   "views": 1711,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -3787,7 +3792,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3519,
+   "views": 3549,
    "likes": 46,
    "comments": 1
   },
@@ -3798,7 +3803,7 @@
    "timestamp": "2026-10-04T10:31:40+0000",
    "type": "VIDEO",
    "caption": "A trading journal you can talk to 🎙️",
-   "views": 121,
+   "views": 123,
    "likes": 0,
    "comments": 1
   },
@@ -3842,7 +3847,7 @@
    "timestamp": "2026-10-04T02:30:49+0000",
    "type": "VIDEO",
    "caption": "Your winner ran to +$400. You took +$200.",
-   "views": 1625,
+   "views": 1641,
    "likes": 13,
    "comments": 1
   },
@@ -3853,7 +3858,7 @@
    "timestamp": "2026-10-04T01:45:46+0000",
    "type": "VIDEO",
    "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 693,
+   "views": 703,
    "likes": 17,
    "comments": 1
   },
@@ -3864,7 +3869,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2159,
+   "views": 2168,
    "likes": 24,
    "comments": 1
   },
@@ -3875,7 +3880,7 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2275,
+   "views": 2284,
    "likes": 28,
    "comments": 2
   },
@@ -3886,7 +3891,7 @@
    "timestamp": "2026-10-03T23:00:33+0000",
    "type": "VIDEO",
    "caption": "3 trades, $200 of risk on each. One move, and you're down $600.",
-   "views": 549,
+   "views": 573,
    "likes": 7,
    "comments": 1
   },
@@ -3897,7 +3902,7 @@
    "timestamp": "2026-10-03T19:30:46+0000",
    "type": "VIDEO",
    "caption": "You waited for confirmation. The risk went from $200 to $400.",
-   "views": 1645,
+   "views": 1668,
    "likes": 19,
    "comments": 1
   },
@@ -3908,7 +3913,7 @@
    "timestamp": "2026-10-03T17:00:35+0000",
    "type": "VIDEO",
    "caption": "5 wins, 3 losses, and the week is down $300.",
-   "views": 2040,
+   "views": 2049,
    "likes": 28,
    "comments": 1
   },
@@ -3919,7 +3924,7 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 1105,
+   "views": 1139,
    "likes": 14,
    "comments": 1
   },
@@ -3930,7 +3935,7 @@
    "timestamp": "2026-10-03T13:30:54+0000",
    "type": "VIDEO",
    "caption": "5 rules added after bad trades. They cost you about $2,000 a year.",
-   "views": 848,
+   "views": 849,
    "likes": 5,
    "comments": 1
   },
@@ -3952,7 +3957,7 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 1641,
+   "views": 1643,
    "likes": 15,
    "comments": 1
   },
@@ -3974,7 +3979,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3563,
+   "views": 3577,
    "likes": 29,
    "comments": 3
   },
@@ -4051,7 +4056,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2424,
+   "views": 2425,
    "likes": 15,
    "comments": 1
   },
@@ -4095,7 +4100,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2426,
+   "views": 2428,
    "likes": 18,
    "comments": 1
   },
@@ -4150,7 +4155,7 @@
    "timestamp": "2026-09-30T22:22:20+0000",
    "type": "VIDEO",
    "caption": "Bro doesn’t know ☠️",
-   "views": 1755,
+   "views": 1756,
    "likes": 36,
    "comments": 8
   },
