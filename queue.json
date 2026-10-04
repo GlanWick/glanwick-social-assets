@@ -2507,7 +2507,11 @@
         "verdacht": false,
         "at": "2026-10-03T13:32:03.025Z"
       },
-      "kommentar_id": "18110141207596295"
+      "kommentar_id": "18110141207596295",
+      "views_12h": {
+        "views": 686,
+        "stunden": 12.82
+      }
     },
     {
       "id": "test-2026-10-drei-trades",
