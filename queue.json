@@ -2462,7 +2462,11 @@
       "permalink": "https://www.instagram.com/reel/DeDkMe8Hei7/",
       "published_at": "2026-10-04T02:30:56.194Z",
       "container_id": "18110987762136556",
-      "kommentar_id": "18126212674879761"
+      "kommentar_id": "18126212674879761",
+      "views_12h": {
+        "views": 1568,
+        "stunden": 13.02
+      }
     },
     {
       "id": "test-2026-10-ausgestoppt",
@@ -2569,6 +2573,10 @@
       "views_12h": {
         "views": 479,
         "stunden": 12.83
+      },
+      "views_24h": {
+        "views": 924,
+        "stunden": 24.02
       }
     },
     {
