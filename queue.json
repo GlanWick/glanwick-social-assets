@@ -2642,7 +2642,16 @@
       "container_id": "18110981978136556",
       "media_id": "18109036010167790",
       "permalink": "https://www.instagram.com/reel/DeDfBaPDmCx/",
-      "published_at": "2026-10-04T01:45:55.009Z"
+      "published_at": "2026-10-04T01:45:55.009Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 119,
+        "beitraege_nachher": 119,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T01:46:56.242Z"
+      }
     },
     {
       "id": "2026-10-04-fuenfundneunzig",
