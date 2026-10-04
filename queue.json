@@ -2741,7 +2741,7 @@
     {
       "id": "2026-10-04-bester-trade",
       "slug": "stickman-besttrade",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade-cover.jpg",
@@ -2752,7 +2752,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade-cover.jpg"
       },
-      "posting_started_at": "2026-10-04T17:00:18.699Z"
+      "container_id": "18111088970136556",
+      "media_id": "17924421744205238",
+      "permalink": "https://www.instagram.com/reel/DeFHvjKDQAH/",
+      "published_at": "2026-10-04T17:00:59.095Z"
     },
     {
       "id": "2026-10-05-hundertfach",
