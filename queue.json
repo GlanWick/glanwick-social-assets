@@ -921,15 +921,18 @@
       "published_at": "2026-09-17T23:01:41.222Z",
       "container_id": "18108546866136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 15,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-disposition.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-disposition-cover.jpg",
         "gestartet_at": "2026-10-04T17:41:20.498Z",
-        "stand": "2026-10-04T17:41:45.030Z",
+        "stand": "2026-10-04T17:42:16.852Z",
         "versuch": 1,
         "slot": "2026-10-04T17:00:00.000Z",
-        "post_id": "6ac28fc904305e75486ebf80"
+        "post_id": "6ac28fc904305e75486ebf80",
+        "published_at": "2026-10-04T17:41:58.106Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7692869081355028512"
       }
     },
     {
