@@ -2795,7 +2795,7 @@
     {
       "id": "test-2026-10-muse-fridays",
       "slug": "muse-fridays",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T04:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-fridays.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-fridays-cover.jpg",
@@ -2806,7 +2806,10 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 1/5 Psychologie: Verluste nach Verlusten (Kalender, Wochentage, Warn-Banner)"
       },
-      "posting_started_at": "2026-10-04T04:30:24.616Z"
+      "container_id": "18111002060136556",
+      "media_id": "18112006976224538",
+      "permalink": "https://www.instagram.com/reel/DeDx7LNDR57/",
+      "published_at": "2026-10-04T04:31:06.217Z"
     },
     {
       "id": "test-2026-10-muse-why",
