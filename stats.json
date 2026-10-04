@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-04T22:21:20.425Z",
+ "updated": "2026-10-04T23:21:19.728Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-04T22:21:22.975Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.2 s"
+  ],
+  "checked": "2026-10-04T23:21:21.349Z",
   "reach_days": [
    {
     "day": "2026-09-27",
@@ -34,13 +36,13 @@
     "reach": 8882
    }
   ],
-  "avg_watch_last_reels": 10.2
+  "avg_watch_last_reels": 7.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 298,
-  "media_count": 127
+  "media_count": 128
  },
  "history": [
   {
@@ -3742,9 +3744,25 @@
    "ts": "2026-10-04T22:21:20.425Z",
    "followers": 298,
    "media_count": 127
+  },
+  {
+   "ts": "2026-10-04T23:21:19.728Z",
+   "followers": 298,
+   "media_count": 128
   }
  ],
  "posts": [
+  {
+   "id": "17883151191624450",
+   "slug": "stickman-hundredx",
+   "permalink": "https://www.instagram.com/reel/DeFw8hlAXhi/",
+   "timestamp": "2026-10-04T23:00:51+0000",
+   "type": "VIDEO",
+   "caption": "At 100x, a 1 % move takes your whole $500.",
+   "views": 6,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18130011919782789",
    "slug": "stickman-skipped",
@@ -3752,8 +3770,8 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 576,
-   "likes": 9,
+   "views": 745,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -3763,8 +3781,8 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 389,
-   "likes": 3,
+   "views": 498,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3774,8 +3792,8 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 460,
-   "likes": 5,
+   "views": 483,
+   "likes": 6,
    "comments": 2
   },
   {
@@ -3785,8 +3803,8 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 1578,
-   "likes": 22,
+   "views": 1660,
+   "likes": 23,
    "comments": 3
   },
   {
@@ -3796,7 +3814,7 @@
    "timestamp": "2026-10-04T12:34:00+0000",
    "type": "VIDEO",
    "caption": "212 trades synced. 0 typed by hand ✅",
-   "views": 148,
+   "views": 149,
    "likes": 1,
    "comments": 1
   },
@@ -3807,8 +3825,8 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 1871,
-   "likes": 19,
+   "views": 1894,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -3818,7 +3836,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3608,
+   "views": 3620,
    "likes": 48,
    "comments": 1
   },
@@ -3862,7 +3880,7 @@
    "timestamp": "2026-10-04T04:30:57+0000",
    "type": "VIDEO",
    "caption": "Mon–Thu: up $2,180. Fridays: down $1,240. Same trader, same account 📅",
-   "views": 121,
+   "views": 122,
    "likes": 0,
    "comments": 1
   },
@@ -3873,7 +3891,7 @@
    "timestamp": "2026-10-04T02:30:49+0000",
    "type": "VIDEO",
    "caption": "Your winner ran to +$400. You took +$200.",
-   "views": 1680,
+   "views": 1688,
    "likes": 13,
    "comments": 1
   },
@@ -3884,7 +3902,7 @@
    "timestamp": "2026-10-04T01:45:46+0000",
    "type": "VIDEO",
    "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 732,
+   "views": 734,
    "likes": 17,
    "comments": 1
   },
@@ -3895,7 +3913,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2189,
+   "views": 2194,
    "likes": 24,
    "comments": 1
   },
@@ -3906,7 +3924,7 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2299,
+   "views": 2302,
    "likes": 28,
    "comments": 2
   },
@@ -3917,7 +3935,7 @@
    "timestamp": "2026-10-03T23:00:33+0000",
    "type": "VIDEO",
    "caption": "3 trades, $200 of risk on each. One move, and you're down $600.",
-   "views": 658,
+   "views": 675,
    "likes": 7,
    "comments": 1
   },
@@ -3928,7 +3946,7 @@
    "timestamp": "2026-10-03T19:30:46+0000",
    "type": "VIDEO",
    "caption": "You waited for confirmation. The risk went from $200 to $400.",
-   "views": 1707,
+   "views": 1712,
    "likes": 19,
    "comments": 1
   },
@@ -3950,7 +3968,7 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 1281,
+   "views": 1306,
    "likes": 16,
    "comments": 1
   },
@@ -4005,7 +4023,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3589,
+   "views": 3595,
    "likes": 29,
    "comments": 3
   },
@@ -4027,7 +4045,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1831,
+   "views": 1832,
    "likes": 57,
    "comments": 1
   },
@@ -4173,17 +4191,6 @@
    "views": 810,
    "likes": 11,
    "comments": 1
-  },
-  {
-   "id": "18033110123855495",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/Dd7Y6bFu0O0/",
-   "timestamp": "2026-09-30T22:22:20+0000",
-   "type": "VIDEO",
-   "caption": "Bro doesn’t know ☠️",
-   "views": 1756,
-   "likes": 36,
-   "comments": 8
   }
  ]
 }
