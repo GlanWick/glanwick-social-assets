@@ -2800,7 +2800,7 @@
     {
       "id": "test-2026-10-monatsziel",
       "slug": "stickman-incomegoal",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-incomegoal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-incomegoal-cover.jpg",
@@ -2811,7 +2811,10 @@
         "bild": "neu",
         "frage": "Neues Thema: Monatsziel gegen Kontogroesse (neue Bilder)"
       },
-      "posting_started_at": "2026-10-04T13:34:09.060Z"
+      "container_id": "18111062510136556",
+      "media_id": "18123872254862727",
+      "permalink": "https://www.instagram.com/reel/DeEwQ4TgXyS/",
+      "published_at": "2026-10-04T13:35:51.523Z"
     },
     {
       "id": "test-2026-10-stundenlohn",
