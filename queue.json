@@ -3017,7 +3017,11 @@
         "verdacht": false,
         "at": "2026-10-04T08:32:15.661Z"
       },
-      "kommentar_id": "17906210271569555"
+      "kommentar_id": "17906210271569555",
+      "views_12h": {
+        "views": 186,
+        "stunden": 12.83
+      }
     },
     {
       "id": "test-2026-10-muse-voice",
