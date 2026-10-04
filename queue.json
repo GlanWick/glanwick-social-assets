@@ -2851,7 +2851,16 @@
       "container_id": "18111077513136556",
       "media_id": "18106453936956386",
       "permalink": "https://www.instagram.com/reel/DeE9axUjAtf/",
-      "published_at": "2026-10-04T15:30:45.673Z"
+      "published_at": "2026-10-04T15:30:45.673Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 125,
+        "beitraege_nachher": 125,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T15:31:47.412Z"
+      }
     },
     {
       "id": "test-2026-10-ausgelassen",
