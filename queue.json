@@ -2875,7 +2875,16 @@
       "container_id": "18111026459136556",
       "media_id": "17891390646614981",
       "permalink": "https://www.instagram.com/reel/DeENaGsD2Qi/",
-      "published_at": "2026-10-04T08:31:14.309Z"
+      "published_at": "2026-10-04T08:31:14.309Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 123,
+        "beitraege_nachher": 123,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T08:32:15.661Z"
+      }
     },
     {
       "id": "test-2026-10-muse-voice",
