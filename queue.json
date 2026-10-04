@@ -2686,7 +2686,7 @@
     {
       "id": "2026-10-04-fuenfundneunzig",
       "slug": "stickman-ninetywins",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetywins.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetywins-cover.jpg",
@@ -2697,7 +2697,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins-cover.jpg"
       },
-      "posting_started_at": "2026-10-04T12:00:18.875Z"
+      "container_id": "18111047960136556",
+      "media_id": "18086557190678702",
+      "permalink": "https://www.instagram.com/reel/DeElaZbjY5P/",
+      "published_at": "2026-10-04T12:00:59.808Z"
     },
     {
       "id": "2026-10-04-bester-trade",
