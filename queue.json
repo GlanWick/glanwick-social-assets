@@ -2809,7 +2809,16 @@
       "container_id": "18111002060136556",
       "media_id": "18112006976224538",
       "permalink": "https://www.instagram.com/reel/DeDx7LNDR57/",
-      "published_at": "2026-10-04T04:31:06.217Z"
+      "published_at": "2026-10-04T04:31:06.217Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 120,
+        "beitraege_nachher": 120,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T04:32:07.773Z"
+      }
     },
     {
       "id": "test-2026-10-muse-why",
