@@ -2780,7 +2780,7 @@
     {
       "id": "2026-10-05-hundertfach",
       "slug": "stickman-hundredx",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundredx.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundredx-cover.jpg",
@@ -2792,7 +2792,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von leverage (TikTok 29.09.), dort vor wenigen Tagen gelaufen"
       },
-      "posting_started_at": "2026-10-04T23:00:19.022Z"
+      "container_id": "18111123047136556",
+      "media_id": "17883151191624450",
+      "permalink": "https://www.instagram.com/reel/DeFw8hlAXhi/",
+      "published_at": "2026-10-04T23:00:58.478Z"
     },
     {
       "id": "2026-10-05-sieben-verluste",
