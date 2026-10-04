@@ -2894,7 +2894,7 @@
     {
       "id": "test-2026-10-ausgelassen",
       "slug": "stickman-skipped",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-skipped.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-skipped-cover.jpg",
@@ -2904,7 +2904,8 @@
       "test": {
         "bild": "neu",
         "frage": "Neues Thema: ausgelassener Trade nach drei Verlusten (neue Bilder)"
-      }
+      },
+      "posting_started_at": "2026-10-04T19:30:17.570Z"
     },
     {
       "id": "test-2026-10-muse-fridays",
