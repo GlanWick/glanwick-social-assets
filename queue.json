@@ -2837,7 +2837,7 @@
     {
       "id": "test-2026-10-stundenlohn",
       "slug": "stickman-hourlywage",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hourlywage.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hourlywage-cover.jpg",
@@ -2847,7 +2847,8 @@
       "test": {
         "bild": "neu",
         "frage": "Neues Thema: Stundenlohn aus Gewinn und Bildschirmzeit (neue Bilder)"
-      }
+      },
+      "posting_started_at": "2026-10-04T15:30:05.008Z"
     },
     {
       "id": "test-2026-10-ausgelassen",
