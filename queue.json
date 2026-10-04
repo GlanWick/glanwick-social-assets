@@ -2828,7 +2828,7 @@
     {
       "id": "test-2026-10-muse-why",
       "slug": "muse-why",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T06:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-why.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-why-cover.jpg",
@@ -2838,7 +2838,8 @@
       "test": {
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 2/5 Kernwert: das Warum (Market Context, Fed-Entscheid)"
-      }
+      },
+      "posting_started_at": "2026-10-04T06:30:09.940Z"
     },
     {
       "id": "test-2026-10-muse-prop",
