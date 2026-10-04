@@ -2761,7 +2761,16 @@
       "container_id": "18111045290136556",
       "media_id": "17908554660486174",
       "permalink": "https://www.instagram.com/reel/DeEiKf5DGYk/",
-      "published_at": "2026-10-04T11:32:34.416Z"
+      "published_at": "2026-10-04T11:32:34.416Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 123,
+        "beitraege_nachher": 123,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-04T11:33:35.612Z"
+      }
     },
     {
       "id": "test-2026-10-monatsziel",
