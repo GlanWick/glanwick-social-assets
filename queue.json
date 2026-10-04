@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:11:03.736Z",
+  "generated_at": "2026-10-04T03:09:38.486Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -970,14 +970,13 @@
         "nr": 13,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-smoothcurve.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-smoothcurve-cover.jpg",
-        "gestartet_at": "2026-10-03T17:00:46.518Z",
-        "stand": "2026-10-03T17:02:12.940Z",
-        "versuch": 1,
-        "slot": "2026-10-03T17:00:00.000Z",
         "post_id": "6ac134c5bea7185e958f374c",
-        "published_at": "2026-10-03T17:01:27.596Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692487776087936289",
-        "plattform_id": "7692487776087936289"
+        "plattform_id": "7692487776087936289",
+        "published_at": "2026-10-03T17:01:27.596Z",
+        "gestartet_at": "2026-10-03T17:00:46.518Z",
+        "slot": "2026-10-03T17:00:00.000Z",
+        "stand": "2026-10-03T17:02:12.940Z"
       }
     },
     {
@@ -2372,18 +2371,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-badday-cover.jpg",
-        "gestartet_at": "2026-10-03T12:00:40.431Z",
-        "stand": "2026-10-03T12:02:10.147Z",
-        "versuch": 1,
         "post_id": "6ac0ee708196ff17a2c4779a",
-        "published_at": "2026-10-03T12:01:21.171Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692410442219572512",
-        "plattform_id": "7692410442219572512"
+        "plattform_id": "7692410442219572512",
+        "published_at": "2026-10-03T12:01:21.171Z",
+        "gestartet_at": "2026-10-03T12:00:40.431Z",
+        "stand": "2026-10-03T12:02:10.147Z"
       },
-      "container_id": "18110885177136556",
       "media_id": "18443989870122509",
       "permalink": "https://www.instagram.com/reel/DeCAmCUDtDa/",
       "published_at": "2026-10-03T12:00:36.084Z",
+      "container_id": "18110885177136556",
       "kommentar_id": "17910018612472649",
       "views_12h": {
         "views": 1900,
@@ -2405,10 +2403,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiveofeight-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von winrate (TikTok 28.09.), dort vor wenigen Tagen gelaufen"
       },
-      "container_id": "18110924861136556",
       "media_id": "18107807989932329",
       "permalink": "https://www.instagram.com/reel/DeCi758CcSB/",
       "published_at": "2026-10-03T17:00:43.357Z",
+      "container_id": "18110924861136556",
       "kommentar_id": "18121570177900477"
     },
     {
@@ -2426,10 +2424,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeinone-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von correlation (TikTok 02.10.), dort vor wenigen Tagen gelaufen"
       },
-      "container_id": "18110965607136556",
       "media_id": "18077069684478546",
       "permalink": "https://www.instagram.com/reel/DeDMIaYjcmR/",
       "published_at": "2026-10-03T23:00:40.979Z",
+      "container_id": "18110965607136556",
       "kommentar_id": "17930256126161666"
     },
     {
@@ -2445,18 +2443,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-lefttable-cover.jpg",
-        "gestartet_at": "2026-10-04T02:30:59.706Z",
-        "stand": "2026-10-04T02:32:20.814Z",
-        "versuch": 1,
         "post_id": "6ac1ba67417802fc1ff4e333",
-        "published_at": "2026-10-04T02:31:30.231Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692634586899057952",
-        "plattform_id": "7692634586899057952"
+        "plattform_id": "7692634586899057952",
+        "published_at": "2026-10-04T02:31:30.231Z",
+        "gestartet_at": "2026-10-04T02:30:59.706Z",
+        "stand": "2026-10-04T02:32:20.814Z"
       },
-      "container_id": "18110987762136556",
       "media_id": "17903206524596836",
       "permalink": "https://www.instagram.com/reel/DeDkMe8Hei7/",
       "published_at": "2026-10-04T02:30:56.194Z",
+      "container_id": "18110987762136556",
       "kommentar_id": "18126212674879761"
     },
     {
@@ -2473,10 +2470,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage tightstop mit Geld-Hook"
       },
-      "container_id": "18110881745136556",
       "media_id": "18117137117053056",
       "permalink": "https://www.instagram.com/reel/DeB9NONAtpV/",
       "published_at": "2026-10-03T11:31:05.086Z",
+      "container_id": "18110881745136556",
+      "kommentar_id": "18093004601662112",
       "trial_pruefung": {
         "beitraege_vorher": 113,
         "beitraege_nachher": 113,
@@ -2486,7 +2484,6 @@
         "verdacht": false,
         "at": "2026-10-03T11:32:06.641Z"
       },
-      "kommentar_id": "18093004601662112",
       "views_12h": {
         "views": 1427,
         "stunden": 12.81
@@ -2506,10 +2503,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage rulecreep (No. 21) mit Geld-Hook"
       },
-      "container_id": "18110898188136556",
       "media_id": "18634563475062945",
       "permalink": "https://www.instagram.com/reel/DeCK5_6AJm7/",
       "published_at": "2026-10-03T13:31:01.242Z",
+      "container_id": "18110898188136556",
+      "kommentar_id": "18110141207596295",
       "trial_pruefung": {
         "beitraege_vorher": 116,
         "beitraege_nachher": 116,
@@ -2519,7 +2517,6 @@
         "verdacht": false,
         "at": "2026-10-03T13:32:03.025Z"
       },
-      "kommentar_id": "18110141207596295",
       "views_12h": {
         "views": 686,
         "stunden": 12.82
@@ -2539,10 +2536,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage journal mit Geld-Hook"
       },
-      "container_id": "18110912231136556",
       "media_id": "18146947195561629",
       "permalink": "https://www.instagram.com/reel/DeCYop9F-oD/",
       "published_at": "2026-10-03T15:30:52.703Z",
+      "container_id": "18110912231136556",
+      "kommentar_id": "18019610132730669",
       "trial_pruefung": {
         "beitraege_vorher": 116,
         "beitraege_nachher": 116,
@@ -2551,8 +2549,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-03T15:31:54.341Z"
-      },
-      "kommentar_id": "18019610132730669"
+      }
     },
     {
       "id": "test-2026-10-bestaetigung",
@@ -2568,10 +2565,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage confirmation (No. 25) mit Geld-Hook"
       },
-      "container_id": "18110948954136556",
       "media_id": "18109009943224872",
       "permalink": "https://www.instagram.com/reel/DeC0H58Caa9/",
       "published_at": "2026-10-03T19:30:52.913Z",
+      "container_id": "18110948954136556",
+      "kommentar_id": "17955778416257109",
       "trial_pruefung": {
         "beitraege_vorher": 118,
         "beitraege_nachher": 118,
@@ -2580,8 +2578,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-03T19:31:54.264Z"
-      },
-      "kommentar_id": "17955778416257109"
+      }
     },
     {
       "id": "test-2026-10-verdoppelt",
@@ -2597,10 +2594,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage martingale (No. 32) mit Geld-Hook"
       },
-      "container_id": "18110967728136556",
       "media_id": "18560740333072558",
       "permalink": "https://www.instagram.com/reel/DeDPmvOFNTR/",
       "published_at": "2026-10-03T23:31:11.320Z",
+      "container_id": "18110967728136556",
+      "kommentar_id": "18096783530390400",
       "trial_pruefung": {
         "beitraege_vorher": 119,
         "beitraege_nachher": 119,
@@ -2609,8 +2607,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-03T23:32:12.849Z"
-      },
-      "kommentar_id": "18096783530390400"
+      }
     },
     {
       "id": "test-2026-10-gleiches-risiko",
@@ -2626,10 +2623,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage stopsize (No. 23) mit Geld-Hook"
       },
-      "container_id": "18110973647136556",
       "media_id": "17974902162129375",
       "permalink": "https://www.instagram.com/reel/DeDXmBBCk3T/",
       "published_at": "2026-10-04T00:41:07.255Z",
+      "container_id": "18110973647136556",
+      "kommentar_id": "17995505138834615",
       "trial_pruefung": {
         "beitraege_vorher": 119,
         "beitraege_nachher": 119,
@@ -2638,8 +2636,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-04T00:42:08.740Z"
-      },
-      "kommentar_id": "17995505138834615"
+      }
     },
     {
       "id": "test-2026-10-richtiger-verlust",
@@ -2655,10 +2652,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage outcomebias (No. 17) mit Geld-Hook"
       },
-      "container_id": "18110981978136556",
       "media_id": "18109036010167790",
       "permalink": "https://www.instagram.com/reel/DeDfBaPDmCx/",
       "published_at": "2026-10-04T01:45:55.009Z",
+      "container_id": "18110981978136556",
+      "kommentar_id": "18213695206369394",
       "trial_pruefung": {
         "beitraege_vorher": 119,
         "beitraege_nachher": 119,
@@ -2667,8 +2665,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-04T01:46:56.242Z"
-      },
-      "kommentar_id": "18213695206369394"
+      }
     },
     {
       "id": "2026-10-04-fuenfundneunzig",
@@ -2789,6 +2786,81 @@
       "test": {
         "bild": "neu",
         "frage": "Neues Thema: ausgelassener Trade nach drei Verlusten (neue Bilder)"
+      }
+    },
+    {
+      "id": "test-2026-10-muse-fridays",
+      "slug": "muse-fridays",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-fridays.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-fridays-cover.jpg",
+      "caption": "Mon–Thu: up $2,180. Fridays: down $1,240. Same trader, same account 📅\n\nWhy are the Fridays red?\nEvery red Friday started after 2 losses in a row. Then came 3 more trades in 15 minutes.\n\nHow did GlanWick spot it?\nIt reads your trades from your broker (read-only, it can't place a trade), builds a green and red calendar and shows your results by weekday.\n\nAnd next Friday?\nAfter 2 losses in a row, a warning shows up on your dashboard, with your own numbers on how the next trades usually go. The warning is part of the Starter plan.\n\nComment JOURNAL and the link lands in your DMs.\n\n#tradingjournal #daytrading #tradingpsychology #overtrading",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "muse",
+        "frage": "Meta-Muse-Format, Schwerpunkt 1/5 Psychologie: Verluste nach Verlusten (Kalender, Wochentage, Warn-Banner)"
+      }
+    },
+    {
+      "id": "test-2026-10-muse-why",
+      "slug": "muse-why",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T18:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-why.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-why-cover.jpg",
+      "caption": "Stopped out at 2:01 PM. The Fed decided at 2:00 PM ⏱️\n\nWhy did the trade fail?\nThe setup was fine. A rate decision landed one minute before the stop.\n\nHow does GlanWick know?\nIt lines up your trade with the market events around it and marks the ones that mattered: “At time of trade”, “Strong correlation”.\n\nWhat do you do with that?\nYou check the high-impact events for your assets before you open the next position.\n\nOne AI trade analysis is included to try. More come with the paid plans.\n\nWant the link? Comment JOURNAL.\n\n#tradingjournal #forextrading #daytrading #fomc",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "muse",
+        "frage": "Meta-Muse-Format, Schwerpunkt 2/5 Kernwert: das Warum (Market Context, Fed-Entscheid)"
+      }
+    },
+    {
+      "id": "test-2026-10-muse-prop",
+      "slug": "muse-prop",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T20:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-prop.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-prop-cover.jpg",
+      "caption": "3 failed challenges. $447 in provider fees that never left the account 🎯\n\nHow?\nAll three ran in the simulator, with the rules of a real evaluation: profit target, max daily loss, max drawdown.\n\nWhat happened on day 6?\nOne long, held too far. The daily loss limit broke at −$2,512 and the challenge was over.\n\nWhy count the fees?\nYou see what each failed attempt would have cost at a real provider. Here: $447.\n\nIs it realistic?\nTrades run on live prices with fees and slippage. No real money moves. Challenge runs use credits.\n\nComment JOURNAL and we'll DM you the link.\n\n#propfirm #propfirmchallenge #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "muse",
+        "frage": "Meta-Muse-Format, Schwerpunkt 3/5 Simulation: Prop-Challenge mit Regeln, Chart, entgangene Gebühren"
+      }
+    },
+    {
+      "id": "test-2026-10-muse-voice",
+      "slug": "muse-voice",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-voice.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-voice-cover.jpg",
+      "caption": "A trading journal you can talk to 🎙️\n\nWhat can you ask?\nWhere something is and how something works. “Where do I see my worst day?” gets you a spoken answer and the way there.\n\nWhat about my own numbers?\nThose come from the AI mentor in the chat. It reads your trades.\n\nWho is talking?\nAn AI voice. Answers are general information, not investment advice.\n\nWhat does it cost?\nThe voice assistant is part of the paid plans, starting with Starter, with trial minutes included.\n\nType JOURNAL in the comments for the link.\n\n#tradingjournal #daytrading #tradingtools #aitrading",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "muse",
+        "frage": "Meta-Muse-Format, Schwerpunkt 4/5 Neuheit: Sprachassistent (Wo- und Wie-Fragen)"
+      }
+    },
+    {
+      "id": "test-2026-10-muse-autojournal",
+      "slug": "muse-autojournal",
+      "status": "ready",
+      "scheduled_at": "2026-10-04T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-autojournal.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-autojournal-cover.jpg",
+      "caption": "212 trades synced. 0 typed by hand ✅\n\nDo I have to log every trade?\nYou connect your broker once and your trades come in by themselves.\n\nIs that safe?\nThe connection is read-only. GlanWick can't place a trade or move money.\n\nWhat do I get?\nA calendar with green and red days and your results at a glance.\n\nWhat does it cost?\nThe journal and the broker sync (beta, 1 account) are free. No broker API? Upload the CSV file instead.\n\nJOURNAL in the comments gets you the link.\n\n#tradingjournal #daytrading #tradingtools #tradingjourney",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "muse",
+        "frage": "Meta-Muse-Format, Schwerpunkt 5/5 Journal gratis: Broker-Sync, Journal füllt sich selbst"
       }
     }
   ]
