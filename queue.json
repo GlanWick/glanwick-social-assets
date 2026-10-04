@@ -2628,7 +2628,7 @@
     {
       "id": "test-2026-10-richtiger-verlust",
       "slug": "stickman-rightloss",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-04T01:45:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rightloss.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-rightloss-cover.jpg",
@@ -2639,7 +2639,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage outcomebias (No. 17) mit Geld-Hook"
       },
-      "posting_started_at": "2026-10-04T01:45:13.396Z"
+      "container_id": "18110981978136556",
+      "media_id": "18109036010167790",
+      "permalink": "https://www.instagram.com/reel/DeDfBaPDmCx/",
+      "published_at": "2026-10-04T01:45:55.009Z"
     },
     {
       "id": "2026-10-04-fuenfundneunzig",
