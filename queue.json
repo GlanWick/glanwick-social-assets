@@ -3055,7 +3055,11 @@
         "verdacht": false,
         "at": "2026-10-04T10:32:47.903Z"
       },
-      "kommentar_id": "17907505719327033"
+      "kommentar_id": "17907505719327033",
+      "views_12h": {
+        "views": 126,
+        "stunden": 12.83
+      }
     },
     {
       "id": "test-2026-10-muse-autojournal",
