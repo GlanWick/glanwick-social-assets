@@ -2957,7 +2957,7 @@
     {
       "id": "test-2026-10-muse-autojournal",
       "slug": "muse-autojournal",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-04T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/muse-autojournal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/muse-autojournal-cover.jpg",
@@ -2967,7 +2967,8 @@
       "test": {
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 5/5 Journal gratis: Broker-Sync, Journal füllt sich selbst"
-      }
+      },
+      "posting_started_at": "2026-10-04T12:32:56.305Z"
     }
   ]
 }
