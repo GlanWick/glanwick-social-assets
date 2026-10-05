@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T22:34:45.392Z",
+ "updated": "2026-10-05T23:34:55.716Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T22:34:46.601Z",
+  "checked": "2026-10-05T23:34:57.194Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -34,13 +34,13 @@
     "reach": 11086
    }
   ],
-  "avg_watch_last_reels": 10.2
+  "avg_watch_last_reels": 10.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 302,
-  "media_count": 138
+  "media_count": 139
  },
  "history": [
   {
@@ -3862,19 +3862,35 @@
    "ts": "2026-10-05T22:34:45.392Z",
    "followers": 302,
    "media_count": 138
+  },
+  {
+   "ts": "2026-10-05T23:34:55.716Z",
+   "followers": 302,
+   "media_count": 139
   }
  ],
  "posts": [
+  {
+   "id": "18119787811820079",
+   "slug": "stickman-paycheck",
+   "permalink": "https://www.instagram.com/reel/DeIVuBgjSnw/",
+   "timestamp": "2026-10-05T23:00:40+0000",
+   "type": "VIDEO",
+   "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
+   "views": 84,
+   "likes": 3,
+   "comments": 1
+  },
   {
    "id": "18127356034826238",
    "slug": null,
    "permalink": "https://www.instagram.com/reel/DeIRFzqM3iC/",
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
-   "caption": "This is for Traders by Traders, and therefore @glanwick_com invites each and eve",
-   "views": 3,
-   "likes": 1,
-   "comments": 0
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
+   "views": 167,
+   "likes": 8,
+   "comments": 2
   },
   {
    "id": "18031365014885625",
@@ -3883,8 +3899,8 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 36,
-   "likes": 4,
+   "views": 39,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -3894,8 +3910,8 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3046,
-   "likes": 31,
+   "views": 3078,
+   "likes": 33,
    "comments": 1
   },
   {
@@ -3905,8 +3921,8 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1261,
-   "likes": 27,
+   "views": 1274,
+   "likes": 28,
    "comments": 1
   },
   {
@@ -3916,7 +3932,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1679,
+   "views": 1683,
    "likes": 13,
    "comments": 1
   },
@@ -3927,7 +3943,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2346,
+   "views": 2350,
    "likes": 41,
    "comments": 2
   },
@@ -3949,7 +3965,7 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 673,
+   "views": 676,
    "likes": 9,
    "comments": 1
   },
@@ -3960,7 +3976,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2063,
+   "views": 2066,
    "likes": 25,
    "comments": 3
   },
@@ -3971,7 +3987,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 2073,
+   "views": 2074,
    "likes": 20,
    "comments": 1
   },
@@ -3982,7 +3998,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3906,
+   "views": 3909,
    "likes": 50,
    "comments": 1
   },
@@ -4015,7 +4031,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2227,
+   "views": 2229,
    "likes": 24,
    "comments": 1
   },
@@ -4026,8 +4042,8 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2306,
-   "likes": 28,
+   "views": 2307,
+   "likes": 29,
    "comments": 2
   },
   {
@@ -4293,17 +4309,6 @@
    "views": 812,
    "likes": 11,
    "comments": 1
-  },
-  {
-   "id": "18033110123855495",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/Dd7Y6bFu0O0/",
-   "timestamp": "2026-09-30T22:22:20+0000",
-   "type": "VIDEO",
-   "caption": "Bro doesn’t know ☠️",
-   "views": 1756,
-   "likes": 36,
-   "comments": 8
   }
  ]
 }
