@@ -1089,15 +1089,18 @@
       "published_at": "2026-09-20T12:00:58.000Z",
       "container_id": "18108930884136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 17,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outcomebias.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outcomebias-cover.jpg",
         "gestartet_at": "2026-10-05T17:40:52.956Z",
-        "stand": "2026-10-05T17:41:16.503Z",
+        "stand": "2026-10-05T18:33:31.078Z",
         "versuch": 1,
         "slot": "2026-10-05T17:00:00.000Z",
-        "post_id": "6ac3e12c85397584f59074f5"
+        "post_id": "6ac3e12c85397584f59074f5",
+        "published_at": "2026-10-05T17:41:28.025Z",
+        "url": "https://www.tiktok.com/@glanwick.com/video/7693240252202323233",
+        "plattform_id": "7693240252202323233"
       }
     },
     {
