@@ -2817,7 +2817,7 @@
     {
       "id": "2026-10-05-sieben-verluste",
       "slug": "stickman-sevenlosses",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-05T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenlosses.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenlosses-cover.jpg",
@@ -2828,7 +2828,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses-cover.jpg"
       },
-      "posting_started_at": "2026-10-05T02:30:25.323Z"
+      "container_id": "18111139832136556",
+      "media_id": "18101427770243617",
+      "permalink": "https://www.instagram.com/reel/DeGI_32lBVV/",
+      "published_at": "2026-10-05T02:31:04.532Z"
     },
     {
       "id": "test-2026-10-spaet-kopiert",
