@@ -3238,7 +3238,7 @@
     {
       "id": "2026-10-06-auszahlung-500",
       "slug": "stickman-paycheck",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-05T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-paycheck.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-paycheck-cover.jpg",
@@ -3249,7 +3249,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck-cover.jpg"
       },
-      "posting_started_at": "2026-10-05T23:00:03.900Z"
+      "container_id": "18111271796136556",
+      "media_id": "18119787811820079",
+      "permalink": "https://www.instagram.com/reel/DeIVuBgjSnw/",
+      "published_at": "2026-10-05T23:00:52.916Z"
     },
     {
       "id": "2026-10-06-erste-auszahlung",
