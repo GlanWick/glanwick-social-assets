@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:21:39.225Z",
+  "generated_at": "2026-10-05T10:27:29.076Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -925,14 +925,13 @@
         "nr": 15,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-disposition.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-disposition-cover.jpg",
-        "gestartet_at": "2026-10-04T17:41:20.498Z",
-        "stand": "2026-10-04T17:42:16.852Z",
-        "versuch": 1,
-        "slot": "2026-10-04T17:00:00.000Z",
         "post_id": "6ac28fc904305e75486ebf80",
-        "published_at": "2026-10-04T17:41:58.106Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692869306865962272",
-        "plattform_id": "7692869306865962272"
+        "plattform_id": "7692869306865962272",
+        "published_at": "2026-10-04T17:41:58.106Z",
+        "gestartet_at": "2026-10-04T17:41:20.498Z",
+        "slot": "2026-10-04T17:00:00.000Z",
+        "stand": "2026-10-04T17:42:16.852Z"
       }
     },
     {
@@ -2748,18 +2747,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninetywins-cover.jpg",
-        "gestartet_at": "2026-10-04T12:01:02.877Z",
-        "stand": "2026-10-04T12:29:52.359Z",
-        "versuch": 1,
         "post_id": "6ac2400330f92fcaa16c3e21",
-        "published_at": "2026-10-04T12:01:36.741Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692781592539974945",
-        "plattform_id": "7692781592539974945"
+        "plattform_id": "7692781592539974945",
+        "published_at": "2026-10-04T12:01:36.741Z",
+        "gestartet_at": "2026-10-04T12:01:02.877Z",
+        "stand": "2026-10-04T12:29:52.359Z"
       },
-      "container_id": "18111047960136556",
       "media_id": "18086557190678702",
       "permalink": "https://www.instagram.com/reel/DeElaZbjY5P/",
       "published_at": "2026-10-04T12:00:59.808Z",
+      "container_id": "18111047960136556",
       "kommentar_id": "18125952395484067",
       "views_12h": {
         "views": 1906,
@@ -2779,18 +2777,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-besttrade-cover.jpg",
-        "gestartet_at": "2026-10-04T17:01:02.712Z",
-        "stand": "2026-10-04T17:02:39.959Z",
-        "versuch": 1,
         "post_id": "6ac28656c0224bfd5b6e0b2a",
-        "published_at": "2026-10-04T17:01:46.690Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7692858950219353376",
-        "plattform_id": "7692858950219353376"
+        "plattform_id": "7692858950219353376",
+        "published_at": "2026-10-04T17:01:46.690Z",
+        "gestartet_at": "2026-10-04T17:01:02.712Z",
+        "stand": "2026-10-04T17:02:39.959Z"
       },
-      "container_id": "18111088970136556",
       "media_id": "17924421744205238",
       "permalink": "https://www.instagram.com/reel/DeFHvjKDQAH/",
       "published_at": "2026-10-04T17:00:59.095Z",
+      "container_id": "18111088970136556",
       "kommentar_id": "18052566875596836",
       "views_12h": {
         "views": 1157,
@@ -2812,10 +2809,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundredx-cover.jpg",
         "grund": "03.10.2026: Neuauflage mit den Bildern von leverage (TikTok 29.09.), dort vor wenigen Tagen gelaufen"
       },
-      "container_id": "18111123047136556",
       "media_id": "17883151191624450",
       "permalink": "https://www.instagram.com/reel/DeFw8hlAXhi/",
       "published_at": "2026-10-04T23:00:58.478Z",
+      "container_id": "18111123047136556",
       "kommentar_id": "18021744110921918"
     },
     {
@@ -2831,18 +2828,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenlosses-cover.jpg",
-        "gestartet_at": "2026-10-05T02:31:07.356Z",
-        "stand": "2026-10-05T02:32:36.400Z",
-        "versuch": 1,
         "post_id": "6ac30bf183382c1d117e18e9",
-        "published_at": "2026-10-05T02:31:45.586Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693005664670584096",
-        "plattform_id": "7693005664670584096"
+        "plattform_id": "7693005664670584096",
+        "published_at": "2026-10-05T02:31:45.586Z",
+        "gestartet_at": "2026-10-05T02:31:07.356Z",
+        "stand": "2026-10-05T02:32:36.400Z"
       },
-      "container_id": "18111139832136556",
       "media_id": "18101427770243617",
       "permalink": "https://www.instagram.com/reel/DeGI_32lBVV/",
       "published_at": "2026-10-05T02:31:04.532Z",
+      "container_id": "18111139832136556",
       "kommentar_id": "18074846102756716"
     },
     {
@@ -2859,10 +2855,11 @@
         "bild": "neu",
         "frage": "Neues Thema: spaet kopierter Trade (neue Bilder)"
       },
-      "container_id": "18111045290136556",
       "media_id": "17908554660486174",
       "permalink": "https://www.instagram.com/reel/DeEiKf5DGYk/",
       "published_at": "2026-10-04T11:32:34.416Z",
+      "container_id": "18111045290136556",
+      "kommentar_id": "18113497790588019",
       "trial_pruefung": {
         "beitraege_vorher": 123,
         "beitraege_nachher": 123,
@@ -2872,7 +2869,6 @@
         "verdacht": false,
         "at": "2026-10-04T11:33:35.612Z"
       },
-      "kommentar_id": "18113497790588019",
       "views_12h": {
         "views": 3631,
         "stunden": 12.64
@@ -2892,10 +2888,11 @@
         "bild": "neu",
         "frage": "Neues Thema: Monatsziel gegen Kontogroesse (neue Bilder)"
       },
-      "container_id": "18111062510136556",
       "media_id": "18123872254862727",
       "permalink": "https://www.instagram.com/reel/DeEwQ4TgXyS/",
       "published_at": "2026-10-04T13:35:51.523Z",
+      "container_id": "18111062510136556",
+      "kommentar_id": "18021378491722362",
       "trial_pruefung": {
         "beitraege_vorher": 125,
         "beitraege_nachher": 125,
@@ -2905,7 +2902,6 @@
         "verdacht": false,
         "at": "2026-10-04T13:36:53.180Z"
       },
-      "kommentar_id": "18021378491722362",
       "views_12h": {
         "views": 1786,
         "stunden": 12.58
@@ -2925,10 +2921,11 @@
         "bild": "neu",
         "frage": "Neues Thema: Stundenlohn aus Gewinn und Bildschirmzeit (neue Bilder)"
       },
-      "container_id": "18111077513136556",
       "media_id": "18106453936956386",
       "permalink": "https://www.instagram.com/reel/DeE9axUjAtf/",
       "published_at": "2026-10-04T15:30:45.673Z",
+      "container_id": "18111077513136556",
+      "kommentar_id": "18007160127002424",
       "trial_pruefung": {
         "beitraege_vorher": 125,
         "beitraege_nachher": 125,
@@ -2938,7 +2935,6 @@
         "verdacht": false,
         "at": "2026-10-04T15:31:47.412Z"
       },
-      "kommentar_id": "18007160127002424",
       "views_12h": {
         "views": 525,
         "stunden": 12.67
@@ -2958,10 +2954,11 @@
         "bild": "neu",
         "frage": "Neues Thema: ausgelassener Trade nach drei Verlusten (neue Bilder)"
       },
-      "container_id": "18111104738136556",
       "media_id": "18130011919782789",
       "permalink": "https://www.instagram.com/reel/DeFY6KKI-x9/",
       "published_at": "2026-10-04T19:31:00.941Z",
+      "container_id": "18111104738136556",
+      "kommentar_id": "17903240634605242",
       "trial_pruefung": {
         "beitraege_vorher": 127,
         "beitraege_nachher": 127,
@@ -2971,7 +2968,6 @@
         "verdacht": false,
         "at": "2026-10-04T19:32:02.418Z"
       },
-      "kommentar_id": "17903240634605242",
       "views_12h": {
         "views": 2115,
         "stunden": 12.51
@@ -2991,10 +2987,11 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 1/5 Psychologie: Verluste nach Verlusten (Kalender, Wochentage, Warn-Banner)"
       },
-      "container_id": "18111002060136556",
       "media_id": "18112006976224538",
       "permalink": "https://www.instagram.com/reel/DeDx7LNDR57/",
       "published_at": "2026-10-04T04:31:06.217Z",
+      "container_id": "18111002060136556",
+      "kommentar_id": "18150449317535634",
       "trial_pruefung": {
         "beitraege_vorher": 120,
         "beitraege_nachher": 120,
@@ -3004,7 +3001,6 @@
         "verdacht": false,
         "at": "2026-10-04T04:32:07.773Z"
       },
-      "kommentar_id": "18150449317535634",
       "views_12h": {
         "views": 120,
         "stunden": 12.02
@@ -3028,10 +3024,11 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 2/5 Kernwert: das Warum (Market Context, Fed-Entscheid)"
       },
-      "container_id": "18111014405136556",
       "media_id": "18634351873010794",
       "permalink": "https://www.instagram.com/reel/DeD_oY4CQkm/",
       "published_at": "2026-10-04T06:30:50.439Z",
+      "container_id": "18111014405136556",
+      "kommentar_id": "18024985406915073",
       "trial_pruefung": {
         "beitraege_vorher": 120,
         "beitraege_nachher": 120,
@@ -3041,7 +3038,6 @@
         "verdacht": false,
         "at": "2026-10-04T06:31:51.677Z"
       },
-      "kommentar_id": "18024985406915073",
       "views_12h": {
         "views": 154,
         "stunden": 12.83
@@ -3065,10 +3061,11 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 3/5 Simulation: Prop-Challenge mit Regeln, Chart, entgangene Gebühren"
       },
-      "container_id": "18111026459136556",
       "media_id": "17891390646614981",
       "permalink": "https://www.instagram.com/reel/DeENaGsD2Qi/",
       "published_at": "2026-10-04T08:31:14.309Z",
+      "container_id": "18111026459136556",
+      "kommentar_id": "17906210271569555",
       "trial_pruefung": {
         "beitraege_vorher": 123,
         "beitraege_nachher": 123,
@@ -3078,7 +3075,6 @@
         "verdacht": false,
         "at": "2026-10-04T08:32:15.661Z"
       },
-      "kommentar_id": "17906210271569555",
       "views_12h": {
         "views": 186,
         "stunden": 12.83
@@ -3102,10 +3098,11 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 4/5 Neuheit: Sprachassistent (Wo- und Wie-Fragen)"
       },
-      "container_id": "18111038060136556",
       "media_id": "18118229524752117",
       "permalink": "https://www.instagram.com/reel/DeEbMuMk9zZ/",
       "published_at": "2026-10-04T10:31:46.674Z",
+      "container_id": "18111038060136556",
+      "kommentar_id": "17907505719327033",
       "trial_pruefung": {
         "beitraege_vorher": 123,
         "beitraege_nachher": 123,
@@ -3115,7 +3112,6 @@
         "verdacht": false,
         "at": "2026-10-04T10:32:47.903Z"
       },
-      "kommentar_id": "17907505719327033",
       "views_12h": {
         "views": 126,
         "stunden": 12.83
@@ -3135,10 +3131,11 @@
         "bild": "muse",
         "frage": "Meta-Muse-Format, Schwerpunkt 5/5 Journal gratis: Broker-Sync, Journal füllt sich selbst"
       },
-      "container_id": "18111054893136556",
       "media_id": "18122315624297175",
       "permalink": "https://www.instagram.com/reel/DeEpMnzDiZE/",
       "published_at": "2026-10-04T12:34:07.753Z",
+      "container_id": "18111054893136556",
+      "kommentar_id": "18337773691261228",
       "trial_pruefung": {
         "beitraege_vorher": 125,
         "beitraege_nachher": 125,
@@ -3148,10 +3145,24 @@
         "verdacht": false,
         "at": "2026-10-04T12:35:09.647Z"
       },
-      "kommentar_id": "18337773691261228",
       "views_12h": {
         "views": 154,
         "stunden": 12.61
+      }
+    },
+    {
+      "id": "2026-10-05-zwei-prozent",
+      "slug": "stickman-twopercent",
+      "status": "ready",
+      "scheduled_at": "2026-10-05T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-cover.jpg",
+      "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.\n\nThat's 18 % down. Getting back to $10,000 takes 22 %, because every gain starts from the smaller account. Win 2 % a day for the next 10 days and you're at $9,960, still $40 short.\n\nA 2 % loss needs more than 2 % back.\n\nFree journal, link in bio.\n\nSend this to the friend who says he'll just win it back tomorrow.\n\nWhat's your longest losing streak in days? 👇\n\nPart 71 of the series.\n\n#drawdown #riskmanagement #daytrading #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent-cover.jpg"
       }
     }
   ]
