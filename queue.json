@@ -2934,7 +2934,11 @@
         "verdacht": false,
         "at": "2026-10-04T15:31:47.412Z"
       },
-      "kommentar_id": "18007160127002424"
+      "kommentar_id": "18007160127002424",
+      "views_12h": {
+        "views": 525,
+        "stunden": 12.67
+      }
     },
     {
       "id": "test-2026-10-ausgelassen",
