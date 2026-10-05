@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:27:29.076Z",
+  "generated_at": "2026-10-05T14:09:11.549Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -3175,19 +3175,78 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent-cover.jpg",
-        "gestartet_at": "2026-10-05T12:00:48.510Z",
-        "stand": "2026-10-05T12:02:19.030Z",
-        "versuch": 1,
         "post_id": "6ac391774a853f88c1d11d04",
-        "published_at": "2026-10-05T12:01:24.951Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693152626455678241",
-        "plattform_id": "7693152626455678241"
+        "plattform_id": "7693152626455678241",
+        "published_at": "2026-10-05T12:01:24.951Z",
+        "gestartet_at": "2026-10-05T12:00:48.510Z",
+        "stand": "2026-10-05T12:02:19.030Z"
       },
-      "container_id": "18111197084136556",
       "media_id": "17975396898151568",
       "permalink": "https://www.instagram.com/reel/DeHKLiYiUcw/",
       "published_at": "2026-10-05T12:00:44.610Z",
+      "container_id": "18111197084136556",
       "kommentar_id": "17901422676376151"
+    },
+    {
+      "id": "2026-10-05-funded-rechnung",
+      "slug": "stickman-fundedmath",
+      "status": "ready",
+      "scheduled_at": "2026-10-05T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fundedmath.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fundedmath-cover.jpg",
+      "caption": "Your $100,000 funded account is a $3,000 account.\n\nWith a $3,000 loss limit, $3,000 is all you can lose before the account is closed. Risk 1 % of $100,000 and every trade puts $1,000 on the line, so 3 losses in a row end it. Risk 1 % of the $3,000 and a loss costs $30. That gives you 100 losses.\n\nSize every trade to the $3,000. (Limits differ by firm, so check yours.)\n\nFree journal, link in bio.\n\nSend this to the friend who just got funded.\n\nWhat's the loss limit on your account? 👇\n\nPart 72 of the series.\n\n#propfirm #fundedtrader #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-06-auszahlung-500",
+      "slug": "stickman-paycheck",
+      "status": "ready",
+      "scheduled_at": "2026-10-05T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-paycheck.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-paycheck-cover.jpg",
+      "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,115 is left.\n\n3 % of $10,000 is $300. You took $500, so the account shrank by $200 in month one. Every month after that, 3 % pays a little less and the gap grows. After 31 months the account is empty.\n\n$500 a month from $10,000 needs 5 % a month, every month.\n\nFree journal, link in bio.\n\nSend this to the friend who wants to live off a small account.\n\nHow much would you need a month to trade full time? 👇\n\nPart 73 of the series.\n\n#tradingincome #riskmanagement #daytrading #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-06-erste-auszahlung",
+      "slug": "stickman-payout",
+      "status": "ready",
+      "scheduled_at": "2026-10-06T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payout.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payout-cover.jpg",
+      "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.\n\nAt an 80 % split, the firm pays you $1,600. You needed 5 attempts at $150 each to get there, so $750 went into fees first. $1,600 minus $750 leaves $850. (Splits and fees differ by firm.)\n\nCount every attempt before you count the payout.\n\nFree journal, link in bio.\n\nSend this to the friend who is on his fifth evaluation.\n\nHow many attempts did your first payout take? 👇\n\nPart 76 of the series.\n\n#propfirm #fundedtrader #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payout.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payout-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-07-ein-trade-mehr",
+      "slug": "stickman-extratrade",
+      "status": "ready",
+      "scheduled_at": "2026-10-07T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-extratrade.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-extratrade-cover.jpg",
+      "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.\n\n$15 looks like nothing, and you forget it by the evening. A year has about 250 trading days, and $15 times 250 is $3,750. On a $10,000 account, that's 37.5 % a year.\n\nCount your trades per day before you count your profit.\n\nFree journal, link in bio.\n\nSend this to the friend who keeps trading after his plan is done.\n\nHow many trades do you take on a normal day? 👇\n\nPart 78 of the series.\n\n#overtrading #tradingpsychology #daytrading #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade-cover.jpg"
+      }
     }
   ]
 }
