@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T10:01:49.190Z",
+ "updated": "2026-10-05T11:02:01.850Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T10:01:50.183Z",
+  "checked": "2026-10-05T11:02:02.854Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -40,7 +40,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 302,
-  "media_count": 130
+  "media_count": 135
  },
  "history": [
   {
@@ -3802,6 +3802,11 @@
    "ts": "2026-10-05T10:01:49.190Z",
    "followers": 302,
    "media_count": 130
+  },
+  {
+   "ts": "2026-10-05T11:02:01.850Z",
+   "followers": 302,
+   "media_count": 135
   }
  ],
  "posts": [
@@ -3812,8 +3817,8 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 623,
-   "likes": 17,
+   "views": 813,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -3823,7 +3828,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1601,
+   "views": 1607,
    "likes": 13,
    "comments": 1
   },
@@ -3834,8 +3839,8 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2229,
-   "likes": 36,
+   "views": 2244,
+   "likes": 38,
    "comments": 2
   },
   {
@@ -3845,8 +3850,8 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 1583,
-   "likes": 15,
+   "views": 1598,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -3856,7 +3861,7 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 570,
+   "views": 591,
    "likes": 7,
    "comments": 1
   },
@@ -3867,20 +3872,9 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2016,
+   "views": 2022,
    "likes": 25,
    "comments": 3
-  },
-  {
-   "id": "18122315624297175",
-   "slug": "muse-autojournal",
-   "permalink": "https://www.instagram.com/reel/DeEpMnzDiZE/",
-   "timestamp": "2026-10-04T12:34:00+0000",
-   "type": "VIDEO",
-   "caption": "212 trades synced. 0 typed by hand ✅",
-   "views": 172,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "18086557190678702",
@@ -3889,7 +3883,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 2052,
+   "views": 2056,
    "likes": 20,
    "comments": 1
   },
@@ -3900,52 +3894,8 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3746,
-   "likes": 49,
-   "comments": 1
-  },
-  {
-   "id": "18118229524752117",
-   "slug": "muse-voice",
-   "permalink": "https://www.instagram.com/reel/DeEbMuMk9zZ/",
-   "timestamp": "2026-10-04T10:31:40+0000",
-   "type": "VIDEO",
-   "caption": "A trading journal you can talk to 🎙️",
-   "views": 135,
-   "likes": 0,
-   "comments": 1
-  },
-  {
-   "id": "17891390646614981",
-   "slug": "muse-prop",
-   "permalink": "https://www.instagram.com/reel/DeENaGsD2Qi/",
-   "timestamp": "2026-10-04T08:31:08+0000",
-   "type": "VIDEO",
-   "caption": "3 failed challenges. $447 in provider fees that never left the account 🎯",
-   "views": 190,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "18634351873010794",
-   "slug": "muse-why",
-   "permalink": "https://www.instagram.com/reel/DeD_oY4CQkm/",
-   "timestamp": "2026-10-04T06:30:42+0000",
-   "type": "VIDEO",
-   "caption": "Stopped out at 2:01 PM. The Fed decided at 2:00 PM ⏱️",
-   "views": 154,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "18112006976224538",
-   "slug": "muse-fridays",
-   "permalink": "https://www.instagram.com/reel/DeDx7LNDR57/",
-   "timestamp": "2026-10-04T04:30:57+0000",
-   "type": "VIDEO",
-   "caption": "Mon–Thu: up $2,180. Fridays: down $1,240. Same trader, same account 📅",
-   "views": 126,
-   "likes": 0,
+   "views": 3785,
+   "likes": 50,
    "comments": 1
   },
   {
@@ -3966,8 +3916,8 @@
    "timestamp": "2026-10-04T01:45:46+0000",
    "type": "VIDEO",
    "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 792,
-   "likes": 20,
+   "views": 797,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -3977,7 +3927,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2219,
+   "views": 2220,
    "likes": 24,
    "comments": 1
   },
@@ -3999,7 +3949,7 @@
    "timestamp": "2026-10-03T23:00:33+0000",
    "type": "VIDEO",
    "caption": "3 trades, $200 of risk on each. One move, and you're down $600.",
-   "views": 727,
+   "views": 736,
    "likes": 10,
    "comments": 1
   },
@@ -4087,7 +4037,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3608,
+   "views": 3611,
    "likes": 29,
    "comments": 3
   },
@@ -4243,6 +4193,61 @@
    "caption": "The stock didn't move for 2 weeks. Your calls still lost $600.",
    "views": 1638,
    "likes": 6,
+   "comments": 1
+  },
+  {
+   "id": "17897078370394502",
+   "slug": "stickman-dailylimit",
+   "permalink": "https://www.instagram.com/reel/Dd7d4KhEXYd/",
+   "timestamp": "2026-09-30T23:01:52+0000",
+   "type": "VIDEO",
+   "caption": "Risk 1 % on a $100k prop account with a $2,000 daily loss limit, and 2 losses en",
+   "views": 812,
+   "likes": 11,
+   "comments": 1
+  },
+  {
+   "id": "18033110123855495",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Dd7Y6bFu0O0/",
+   "timestamp": "2026-09-30T22:22:20+0000",
+   "type": "VIDEO",
+   "caption": "Bro doesn’t know ☠️",
+   "views": 1756,
+   "likes": 36,
+   "comments": 8
+  },
+  {
+   "id": "18123540976904919",
+   "slug": "stickman-earningsgap",
+   "permalink": "https://www.instagram.com/reel/Dd7W6QCALOR/",
+   "timestamp": "2026-09-30T22:01:02+0000",
+   "type": "VIDEO",
+   "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
+   "views": 2329,
+   "likes": 11,
+   "comments": 1
+  },
+  {
+   "id": "17875056624634543",
+   "slug": "stickman-twentytraders",
+   "permalink": "https://www.instagram.com/reel/Dd60p0PiNa4/",
+   "timestamp": "2026-09-30T17:01:40+0000",
+   "type": "VIDEO",
+   "caption": "20 traders with zero edge start the year with $10,000 each. How many end it with",
+   "views": 674,
+   "likes": 12,
+   "comments": 4
+  },
+  {
+   "id": "18131127862773552",
+   "slug": "stickman-washsale",
+   "permalink": "https://www.instagram.com/reel/Dd6SQEvjnUg/",
+   "timestamp": "2026-09-30T12:01:01+0000",
+   "type": "VIDEO",
+   "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
+   "views": 1543,
+   "likes": 8,
    "comments": 1
   }
  ]
