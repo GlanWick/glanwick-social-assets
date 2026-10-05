@@ -3161,7 +3161,7 @@
     {
       "id": "2026-10-05-zwei-prozent",
       "slug": "stickman-twopercent",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-05T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-cover.jpg",
@@ -3172,7 +3172,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twopercent-cover.jpg"
       },
-      "posting_started_at": "2026-10-05T12:00:04.528Z"
+      "container_id": "18111197084136556",
+      "media_id": "17975396898151568",
+      "permalink": "https://www.instagram.com/reel/DeHKLiYiUcw/",
+      "published_at": "2026-10-05T12:00:44.610Z"
     }
   ]
 }
