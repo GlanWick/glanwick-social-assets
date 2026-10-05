@@ -2655,6 +2655,10 @@
       "views_12h": {
         "views": 2140,
         "stunden": 12.98
+      },
+      "views_24h": {
+        "views": 2302,
+        "stunden": 24.66
       }
     },
     {
@@ -2748,7 +2752,11 @@
       "media_id": "18086557190678702",
       "permalink": "https://www.instagram.com/reel/DeElaZbjY5P/",
       "published_at": "2026-10-04T12:00:59.808Z",
-      "kommentar_id": "18125952395484067"
+      "kommentar_id": "18125952395484067",
+      "views_12h": {
+        "views": 1906,
+        "stunden": 12.16
+      }
     },
     {
       "id": "2026-10-04-bester-trade",
@@ -2840,7 +2848,11 @@
         "verdacht": false,
         "at": "2026-10-04T11:33:35.612Z"
       },
-      "kommentar_id": "18113497790588019"
+      "kommentar_id": "18113497790588019",
+      "views_12h": {
+        "views": 3631,
+        "stunden": 12.64
+      }
     },
     {
       "id": "test-2026-10-monatsziel",
