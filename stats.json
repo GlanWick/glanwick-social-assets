@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T21:34:25.384Z",
+ "updated": "2026-10-05T22:34:45.392Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T21:34:26.994Z",
+  "checked": "2026-10-05T22:34:46.601Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -34,13 +34,13 @@
     "reach": 11086
    }
   ],
-  "avg_watch_last_reels": 12.7
+  "avg_watch_last_reels": 10.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 302,
-  "media_count": 137
+  "media_count": 138
  },
  "history": [
   {
@@ -3857,9 +3857,25 @@
    "ts": "2026-10-05T21:34:25.384Z",
    "followers": 302,
    "media_count": 137
+  },
+  {
+   "ts": "2026-10-05T22:34:45.392Z",
+   "followers": 302,
+   "media_count": 138
   }
  ],
  "posts": [
+  {
+   "id": "18127356034826238",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DeIRFzqM3iC/",
+   "timestamp": "2026-10-05T22:25:21+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders, and therefore @glanwick_com invites each and eve",
+   "views": 3,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18031365014885625",
    "slug": "stickman-fundedmath",
@@ -3867,7 +3883,7 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 30,
+   "views": 36,
    "likes": 4,
    "comments": 1
   },
@@ -3878,7 +3894,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3016,
+   "views": 3046,
    "likes": 31,
    "comments": 1
   },
@@ -3889,7 +3905,7 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1252,
+   "views": 1261,
    "likes": 27,
    "comments": 1
   },
@@ -3900,7 +3916,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1675,
+   "views": 1679,
    "likes": 13,
    "comments": 1
   },
@@ -3911,7 +3927,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2344,
+   "views": 2346,
    "likes": 41,
    "comments": 2
   },
@@ -3922,7 +3938,7 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 1655,
+   "views": 1656,
    "likes": 17,
    "comments": 1
   },
@@ -3944,7 +3960,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2060,
+   "views": 2063,
    "likes": 25,
    "comments": 3
   },
@@ -3955,7 +3971,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 2068,
+   "views": 2073,
    "likes": 20,
    "comments": 1
   },
@@ -3966,7 +3982,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3898,
+   "views": 3906,
    "likes": 50,
    "comments": 1
   },
@@ -3999,7 +4015,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2226,
+   "views": 2227,
    "likes": 24,
    "comments": 1
   },
@@ -4010,7 +4026,7 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2305,
+   "views": 2306,
    "likes": 28,
    "comments": 2
   },
@@ -4032,7 +4048,7 @@
    "timestamp": "2026-10-03T19:30:46+0000",
    "type": "VIDEO",
    "caption": "You waited for confirmation. The risk went from $200 to $400.",
-   "views": 1771,
+   "views": 1772,
    "likes": 20,
    "comments": 1
   },
@@ -4109,7 +4125,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3637,
+   "views": 3639,
    "likes": 29,
    "comments": 3
   },
@@ -4131,7 +4147,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1837,
+   "views": 1838,
    "likes": 57,
    "comments": 1
   },
@@ -4153,7 +4169,7 @@
    "timestamp": "2026-10-02T12:02:04+0000",
    "type": "VIDEO",
    "caption": "$6,000 in one day, and the payout request gets denied.",
-   "views": 2097,
+   "views": 2099,
    "likes": 28,
    "comments": 1
   },
@@ -4186,7 +4202,7 @@
    "timestamp": "2026-10-02T00:40:53+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is now $5,000. To get back, you need +100 %.",
-   "views": 2437,
+   "views": 2438,
    "likes": 15,
    "comments": 1
   },
@@ -4288,17 +4304,6 @@
    "views": 1756,
    "likes": 36,
    "comments": 8
-  },
-  {
-   "id": "18123540976904919",
-   "slug": "stickman-earningsgap",
-   "permalink": "https://www.instagram.com/reel/Dd7W6QCALOR/",
-   "timestamp": "2026-09-30T22:01:02+0000",
-   "type": "VIDEO",
-   "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2336,
-   "likes": 11,
-   "comments": 1
   }
  ]
 }
