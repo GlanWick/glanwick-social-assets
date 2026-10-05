@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T18:33:27.662Z",
+ "updated": "2026-10-05T19:33:47.899Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T18:33:29.556Z",
+  "checked": "2026-10-05T19:33:48.931Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -34,7 +34,7 @@
     "reach": 11086
    }
   ],
-  "avg_watch_last_reels": 11.9
+  "avg_watch_last_reels": 12.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3842,6 +3842,11 @@
    "ts": "2026-10-05T18:33:27.662Z",
    "followers": 302,
    "media_count": 137
+  },
+  {
+   "ts": "2026-10-05T19:33:47.899Z",
+   "followers": 302,
+   "media_count": 137
   }
  ],
  "posts": [
@@ -3852,8 +3857,8 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 18,
-   "likes": 1,
+   "views": 21,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -3863,8 +3868,8 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 2834,
-   "likes": 30,
+   "views": 2896,
+   "likes": 31,
    "comments": 1
   },
   {
@@ -3874,7 +3879,7 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1212,
+   "views": 1231,
    "likes": 27,
    "comments": 1
   },
@@ -3885,7 +3890,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1656,
+   "views": 1663,
    "likes": 13,
    "comments": 1
   },
@@ -3896,8 +3901,8 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2318,
-   "likes": 40,
+   "views": 2327,
+   "likes": 41,
    "comments": 2
   },
   {
@@ -3918,8 +3923,8 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 662,
-   "likes": 7,
+   "views": 665,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -3929,7 +3934,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2057,
+   "views": 2058,
    "likes": 25,
    "comments": 3
   },
@@ -3940,7 +3945,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 2066,
+   "views": 2068,
    "likes": 20,
    "comments": 1
   },
@@ -3951,7 +3956,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3884,
+   "views": 3886,
    "likes": 50,
    "comments": 1
   },
@@ -3962,7 +3967,7 @@
    "timestamp": "2026-10-04T02:30:49+0000",
    "type": "VIDEO",
    "caption": "Your winner ran to +$400. You took +$200.",
-   "views": 1752,
+   "views": 1753,
    "likes": 13,
    "comments": 1
   },
@@ -4061,7 +4066,7 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 1940,
+   "views": 1941,
    "likes": 18,
    "comments": 1
   },
@@ -4083,7 +4088,7 @@
    "timestamp": "2026-10-03T02:30:38+0000",
    "type": "VIDEO",
    "caption": "You were down $1,000, so you bought more. Now you're down $3,000.",
-   "views": 1906,
+   "views": 1907,
    "likes": 12,
    "comments": 1
   },
@@ -4094,7 +4099,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3631,
+   "views": 3634,
    "likes": 29,
    "comments": 3
   },
