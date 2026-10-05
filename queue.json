@@ -2971,7 +2971,11 @@
         "verdacht": false,
         "at": "2026-10-04T19:32:02.418Z"
       },
-      "kommentar_id": "17903240634605242"
+      "kommentar_id": "17903240634605242",
+      "views_12h": {
+        "views": 2115,
+        "stunden": 12.51
+      }
     },
     {
       "id": "test-2026-10-muse-fridays",
