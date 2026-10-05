@@ -2729,6 +2729,10 @@
       "views_12h": {
         "views": 611,
         "stunden": 12.74
+      },
+      "views_24h": {
+        "views": 747,
+        "stunden": 24.41
       }
     },
     {
@@ -2885,7 +2889,11 @@
         "verdacht": false,
         "at": "2026-10-04T13:36:53.180Z"
       },
-      "kommentar_id": "18021378491722362"
+      "kommentar_id": "18021378491722362",
+      "views_12h": {
+        "views": 1786,
+        "stunden": 12.58
+      }
     },
     {
       "id": "test-2026-10-stundenlohn",
