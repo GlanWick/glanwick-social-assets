@@ -2692,6 +2692,10 @@
       "views_12h": {
         "views": 2101,
         "stunden": 12.82
+      },
+      "views_24h": {
+        "views": 2200,
+        "stunden": 24.49
       }
     },
     {
@@ -3100,7 +3104,11 @@
         "verdacht": false,
         "at": "2026-10-04T12:35:09.647Z"
       },
-      "kommentar_id": "18337773691261228"
+      "kommentar_id": "18337773691261228",
+      "views_12h": {
+        "views": 154,
+        "stunden": 12.61
+      }
     }
   ]
 }
