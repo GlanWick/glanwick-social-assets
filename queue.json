@@ -2791,7 +2791,11 @@
       "media_id": "17924421744205238",
       "permalink": "https://www.instagram.com/reel/DeFHvjKDQAH/",
       "published_at": "2026-10-04T17:00:59.095Z",
-      "kommentar_id": "18052566875596836"
+      "kommentar_id": "18052566875596836",
+      "views_12h": {
+        "views": 1157,
+        "stunden": 12.17
+      }
     },
     {
       "id": "2026-10-05-hundertfach",
@@ -3000,6 +3004,10 @@
       "views_12h": {
         "views": 120,
         "stunden": 12.02
+      },
+      "views_24h": {
+        "views": 126,
+        "stunden": 24.67
       }
     },
     {
