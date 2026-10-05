@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T11:51:53.251Z",
+ "updated": "2026-10-05T12:52:07.289Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T11:51:54.263Z",
+  "checked": "2026-10-05T12:52:08.241Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -40,7 +40,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 302,
-  "media_count": 135
+  "media_count": 136
  },
  "history": [
   {
@@ -3812,9 +3812,25 @@
    "ts": "2026-10-05T11:51:53.251Z",
    "followers": 302,
    "media_count": 135
+  },
+  {
+   "ts": "2026-10-05T12:52:07.289Z",
+   "followers": 302,
+   "media_count": 136
   }
  ],
  "posts": [
+  {
+   "id": "17975396898151568",
+   "slug": "stickman-twopercent",
+   "permalink": "https://www.instagram.com/reel/DeHKLiYiUcw/",
+   "timestamp": "2026-10-05T12:00:38+0000",
+   "type": "VIDEO",
+   "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
+   "views": 158,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18101427770243617",
    "slug": "stickman-sevenlosses",
@@ -3822,8 +3838,8 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 982,
-   "likes": 22,
+   "views": 1058,
+   "likes": 24,
    "comments": 1
   },
   {
@@ -3833,7 +3849,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1614,
+   "views": 1616,
    "likes": 13,
    "comments": 1
   },
@@ -3844,7 +3860,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2249,
+   "views": 2263,
    "likes": 38,
    "comments": 2
   },
@@ -3855,8 +3871,8 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 1606,
-   "likes": 16,
+   "views": 1609,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -3866,7 +3882,7 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 601,
+   "views": 621,
    "likes": 7,
    "comments": 1
   },
@@ -3877,7 +3893,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2028,
+   "views": 2039,
    "likes": 25,
    "comments": 3
   },
@@ -3888,7 +3904,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 2058,
+   "views": 2059,
    "likes": 20,
    "comments": 1
   },
@@ -3899,7 +3915,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3808,
+   "views": 3823,
    "likes": 50,
    "comments": 1
   },
@@ -3910,7 +3926,7 @@
    "timestamp": "2026-10-04T02:30:49+0000",
    "type": "VIDEO",
    "caption": "Your winner ran to +$400. You took +$200.",
-   "views": 1750,
+   "views": 1752,
    "likes": 13,
    "comments": 1
   },
@@ -3921,7 +3937,7 @@
    "timestamp": "2026-10-04T01:45:46+0000",
    "type": "VIDEO",
    "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 801,
+   "views": 804,
    "likes": 21,
    "comments": 1
   },
@@ -4009,7 +4025,7 @@
    "timestamp": "2026-10-03T12:00:30+0000",
    "type": "VIDEO",
    "caption": "One bad day cost you $900. That's 6 good days of work.",
-   "views": 1938,
+   "views": 1939,
    "likes": 18,
    "comments": 1
   },
@@ -4042,7 +4058,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3611,
+   "views": 3613,
    "likes": 29,
    "comments": 3
   },
@@ -4064,7 +4080,7 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1832,
+   "views": 1836,
    "likes": 57,
    "comments": 1
   },
@@ -4108,7 +4124,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2470,
+   "views": 2471,
    "likes": 20,
    "comments": 1
   },
@@ -4163,7 +4179,7 @@
    "timestamp": "2026-10-01T12:00:35+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2433,
+   "views": 2434,
    "likes": 18,
    "comments": 1
   },
@@ -4229,7 +4245,7 @@
    "timestamp": "2026-09-30T22:01:02+0000",
    "type": "VIDEO",
    "caption": "Your stop was set for a $500 loss. The earnings gap made it $1,800.",
-   "views": 2329,
+   "views": 2331,
    "likes": 11,
    "comments": 1
   },
@@ -4243,17 +4259,6 @@
    "views": 674,
    "likes": 12,
    "comments": 4
-  },
-  {
-   "id": "18131127862773552",
-   "slug": "stickman-washsale",
-   "permalink": "https://www.instagram.com/reel/Dd6SQEvjnUg/",
-   "timestamp": "2026-09-30T12:01:01+0000",
-   "type": "VIDEO",
-   "caption": "Sell at a $2,000 loss, buy back within 30 days, and that deduction is gone for t",
-   "views": 1543,
-   "likes": 8,
-   "comments": 1
   }
  ]
 }
