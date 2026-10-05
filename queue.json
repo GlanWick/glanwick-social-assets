@@ -3199,7 +3199,7 @@
     {
       "id": "2026-10-05-funded-rechnung",
       "slug": "stickman-fundedmath",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-05T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fundedmath.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fundedmath-cover.jpg",
@@ -3210,7 +3210,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath-cover.jpg"
       },
-      "posting_started_at": "2026-10-05T17:00:05.520Z"
+      "container_id": "18111239984136556",
+      "media_id": "18031365014885625",
+      "permalink": "https://www.instagram.com/reel/DeHshElD4OL/",
+      "published_at": "2026-10-05T17:00:46.497Z"
     },
     {
       "id": "2026-10-06-auszahlung-500",
