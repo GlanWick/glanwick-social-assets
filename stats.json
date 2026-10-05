@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-05T00:10:42.869Z",
+ "updated": "2026-10-05T01:10:44.277Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T00:10:43.882Z",
+  "checked": "2026-10-05T01:10:44.911Z",
   "reach_days": [
    {
     "day": "2026-09-28",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-04",
-    "reach": 8632
+    "reach": 8941
    }
   ],
-  "avg_watch_last_reels": 10.4
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3752,6 +3752,11 @@
    "ts": "2026-10-05T00:10:42.869Z",
    "followers": 299,
    "media_count": 128
+  },
+  {
+   "ts": "2026-10-05T01:10:44.277Z",
+   "followers": 299,
+   "media_count": 128
   }
  ],
  "posts": [
@@ -3762,7 +3767,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 252,
+   "views": 335,
    "likes": 4,
    "comments": 1
   },
@@ -3773,9 +3778,9 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 1043,
-   "likes": 13,
-   "comments": 1
+   "views": 1322,
+   "likes": 17,
+   "comments": 2
   },
   {
    "id": "17924421744205238",
@@ -3784,8 +3789,8 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 567,
-   "likes": 5,
+   "views": 641,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -3795,7 +3800,7 @@
    "timestamp": "2026-10-04T15:30:38+0000",
    "type": "VIDEO",
    "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 504,
+   "views": 511,
    "likes": 6,
    "comments": 2
   },
@@ -3806,7 +3811,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 1704,
+   "views": 1742,
    "likes": 23,
    "comments": 3
   },
@@ -3817,7 +3822,7 @@
    "timestamp": "2026-10-04T12:34:00+0000",
    "type": "VIDEO",
    "caption": "212 trades synced. 0 typed by hand ✅",
-   "views": 152,
+   "views": 154,
    "likes": 1,
    "comments": 1
   },
@@ -3828,7 +3833,7 @@
    "timestamp": "2026-10-04T12:00:51+0000",
    "type": "VIDEO",
    "caption": "95 winners out of 100 trades, and the account is down $500.",
-   "views": 1906,
+   "views": 1921,
    "likes": 20,
    "comments": 1
   },
@@ -3839,7 +3844,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3631,
+   "views": 3637,
    "likes": 48,
    "comments": 1
   },
@@ -3850,7 +3855,7 @@
    "timestamp": "2026-10-04T10:31:40+0000",
    "type": "VIDEO",
    "caption": "A trading journal you can talk to 🎙️",
-   "views": 126,
+   "views": 128,
    "likes": 0,
    "comments": 1
   },
@@ -3861,7 +3866,7 @@
    "timestamp": "2026-10-04T08:31:08+0000",
    "type": "VIDEO",
    "caption": "3 failed challenges. $447 in provider fees that never left the account 🎯",
-   "views": 186,
+   "views": 187,
    "likes": 1,
    "comments": 1
   },
@@ -3883,7 +3888,7 @@
    "timestamp": "2026-10-04T04:30:57+0000",
    "type": "VIDEO",
    "caption": "Mon–Thu: up $2,180. Fridays: down $1,240. Same trader, same account 📅",
-   "views": 122,
+   "views": 123,
    "likes": 0,
    "comments": 1
   },
@@ -3894,7 +3899,7 @@
    "timestamp": "2026-10-04T02:30:49+0000",
    "type": "VIDEO",
    "caption": "Your winner ran to +$400. You took +$200.",
-   "views": 1693,
+   "views": 1699,
    "likes": 13,
    "comments": 1
   },
@@ -3905,7 +3910,7 @@
    "timestamp": "2026-10-04T01:45:46+0000",
    "type": "VIDEO",
    "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 736,
+   "views": 741,
    "likes": 17,
    "comments": 1
   },
@@ -3916,7 +3921,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2198,
+   "views": 2200,
    "likes": 24,
    "comments": 1
   },
@@ -3927,7 +3932,7 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2302,
+   "views": 2303,
    "likes": 28,
    "comments": 2
   },
@@ -3938,7 +3943,7 @@
    "timestamp": "2026-10-03T23:00:33+0000",
    "type": "VIDEO",
    "caption": "3 trades, $200 of risk on each. One move, and you're down $600.",
-   "views": 680,
+   "views": 686,
    "likes": 8,
    "comments": 1
   },
@@ -3949,8 +3954,8 @@
    "timestamp": "2026-10-03T19:30:46+0000",
    "type": "VIDEO",
    "caption": "You waited for confirmation. The risk went from $200 to $400.",
-   "views": 1727,
-   "likes": 19,
+   "views": 1737,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -3960,7 +3965,7 @@
    "timestamp": "2026-10-03T17:00:35+0000",
    "type": "VIDEO",
    "caption": "5 wins, 3 losses, and the week is down $300.",
-   "views": 2062,
+   "views": 2063,
    "likes": 28,
    "comments": 1
   },
@@ -3971,8 +3976,8 @@
    "timestamp": "2026-10-03T15:30:44+0000",
    "type": "VIDEO",
    "caption": "You remember 3 trades from last month, and they made $900. The month had 41.",
-   "views": 1314,
-   "likes": 16,
+   "views": 1334,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -4004,7 +4009,7 @@
    "timestamp": "2026-10-03T11:30:58+0000",
    "type": "VIDEO",
    "caption": "Stopped out for −$100. Then the trade ran $700 without you.",
-   "views": 1662,
+   "views": 1663,
    "likes": 15,
    "comments": 1
   },
@@ -4026,7 +4031,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3598,
+   "views": 3599,
    "likes": 29,
    "comments": 3
   },
@@ -4081,7 +4086,7 @@
    "timestamp": "2026-10-02T02:31:30+0000",
    "type": "VIDEO",
    "caption": "Up $1,200 by 10 a.m. Down $300 at the close.",
-   "views": 1876,
+   "views": 1878,
    "likes": 37,
    "comments": 1
   },
