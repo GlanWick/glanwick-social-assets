@@ -3345,7 +3345,7 @@
     {
       "id": "2026-10-06-ein-monat",
       "slug": "stickman-oneweek",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-06T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneweek.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneweek-cover.jpg",
@@ -3355,7 +3355,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneweek.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneweek-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-06T12:00:20.594Z"
     },
     {
       "id": "2026-10-07-fuenf-prozent",
