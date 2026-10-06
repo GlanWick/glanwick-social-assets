@@ -1181,14 +1181,15 @@
       "published_at": "2026-09-21T12:01:28.180Z",
       "container_id": "18109078127136556",
       "tiktok": {
-        "status": "posting",
+        "status": "submitted",
         "nr": 18,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-rulecreep.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-rulecreep-cover.jpg",
         "gestartet_at": "2026-10-06T17:41:26.749Z",
-        "stand": "2026-10-06T17:41:26.749Z",
+        "stand": "2026-10-06T17:41:46.343Z",
         "versuch": 1,
-        "slot": "2026-10-06T17:00:00.000Z"
+        "slot": "2026-10-06T17:00:00.000Z",
+        "post_id": "6ac532cba37745465c67d3ec"
       }
     },
     {
