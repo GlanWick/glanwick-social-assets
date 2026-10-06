@@ -3393,7 +3393,7 @@
     {
       "id": "2026-10-07-fuenf-prozent",
       "slug": "stickman-slowbleed",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-06T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-slowbleed.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-slowbleed-cover.jpg",
@@ -3404,7 +3404,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-slowbleed.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-slowbleed-cover.jpg"
       },
-      "posting_started_at": "2026-10-06T23:00:15.633Z"
+      "container_id": "18111418037136556",
+      "media_id": "18346779418254379",
+      "permalink": "https://www.instagram.com/reel/DeK6h3Jgacl/",
+      "published_at": "2026-10-06T23:00:57.928Z"
     },
     {
       "id": "test-2026-10-tagesziel",
