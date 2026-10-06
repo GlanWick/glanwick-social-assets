@@ -1,14 +1,10 @@
 {
- "updated": "2026-10-05T23:34:55.716Z",
+ "updated": "2026-10-06T00:24:00.102Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-05T23:34:57.194Z",
+  "checked": "2026-10-06T00:24:01.066Z",
   "reach_days": [
-   {
-    "day": "2026-09-28",
-    "reach": 5003
-   },
    {
     "day": "2026-09-29",
     "reach": 3355
@@ -32,9 +28,13 @@
    {
     "day": "2026-10-04",
     "reach": 11086
+   },
+   {
+    "day": "2026-10-05",
+    "reach": 3770
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 11.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -3867,6 +3867,11 @@
    "ts": "2026-10-05T23:34:55.716Z",
    "followers": 302,
    "media_count": 139
+  },
+  {
+   "ts": "2026-10-06T00:24:00.102Z",
+   "followers": 302,
+   "media_count": 139
   }
  ],
  "posts": [
@@ -3877,7 +3882,7 @@
    "timestamp": "2026-10-05T23:00:40+0000",
    "type": "VIDEO",
    "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 84,
+   "views": 232,
    "likes": 3,
    "comments": 1
   },
@@ -3888,7 +3893,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 167,
+   "views": 199,
    "likes": 8,
    "comments": 2
   },
@@ -3899,7 +3904,7 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 39,
+   "views": 40,
    "likes": 5,
    "comments": 1
   },
@@ -3910,7 +3915,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3078,
+   "views": 3088,
    "likes": 33,
    "comments": 1
   },
@@ -3921,8 +3926,8 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1274,
-   "likes": 28,
+   "views": 1283,
+   "likes": 29,
    "comments": 1
   },
   {
@@ -3932,7 +3937,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1683,
+   "views": 1685,
    "likes": 13,
    "comments": 1
   },
@@ -3943,7 +3948,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2350,
+   "views": 2352,
    "likes": 41,
    "comments": 2
   },
@@ -3976,7 +3981,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2066,
+   "views": 2067,
    "likes": 25,
    "comments": 3
   },
@@ -3998,7 +4003,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3909,
+   "views": 3911,
    "likes": 50,
    "comments": 1
   },
@@ -4031,7 +4036,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2229,
+   "views": 2230,
    "likes": 24,
    "comments": 1
   },
@@ -4141,7 +4146,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3639,
+   "views": 3641,
    "likes": 29,
    "comments": 3
   },
@@ -4273,7 +4278,7 @@
    "timestamp": "2026-10-01T02:31:00+0000",
    "type": "VIDEO",
    "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3395,
+   "views": 3396,
    "likes": 20,
    "comments": 2
   },
