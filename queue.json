@@ -3274,7 +3274,7 @@
     {
       "id": "2026-10-06-schwankung",
       "slug": "stickman-swingyear",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-06T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-swingyear.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-swingyear-cover.jpg",
@@ -3285,7 +3285,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-swingyear.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-swingyear-cover.jpg"
       },
-      "posting_started_at": "2026-10-06T17:00:13.989Z"
+      "container_id": "18111382694136556",
+      "media_id": "18012789884992895",
+      "permalink": "https://www.instagram.com/reel/DeKRU5fAVn8/",
+      "published_at": "2026-10-06T17:00:53.886Z"
     },
     {
       "id": "2026-10-06-erste-auszahlung",
