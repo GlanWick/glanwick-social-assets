@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-06T22:26:49.111Z",
+ "updated": "2026-10-06T23:27:10.813Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-06T22:26:50.705Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 4.6 s"
+  ],
+  "checked": "2026-10-06T23:27:11.930Z",
   "reach_days": [
    {
     "day": "2026-09-29",
@@ -34,13 +36,13 @@
     "reach": 5856
    }
   ],
-  "avg_watch_last_reels": 12
+  "avg_watch_last_reels": 4.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 327,
-  "media_count": 142
+  "followers": 331,
+  "media_count": 144
  },
  "history": [
   {
@@ -3977,9 +3979,36 @@
    "ts": "2026-10-06T22:26:49.111Z",
    "followers": 327,
    "media_count": 142
+  },
+  {
+   "ts": "2026-10-06T23:27:10.813Z",
+   "followers": 331,
+   "media_count": 144
   }
  ],
  "posts": [
+  {
+   "id": "18101436767217620",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DeK8bzdMbN-/",
+   "timestamp": "2026-10-06T23:18:20+0000",
+   "type": "VIDEO",
+   "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
+   "views": 5,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "18346779418254379",
+   "slug": "stickman-slowbleed",
+   "permalink": "https://www.instagram.com/reel/DeK6h3Jgacl/",
+   "timestamp": "2026-10-06T23:00:49+0000",
+   "type": "VIDEO",
+   "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
+   "views": 5,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18012789884992895",
    "slug": "stickman-swingyear",
@@ -3987,8 +4016,8 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 1961,
-   "likes": 13,
+   "views": 2173,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -3998,7 +4027,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1525,
+   "views": 1590,
    "likes": 14,
    "comments": 1
   },
@@ -4009,7 +4038,7 @@
    "timestamp": "2026-10-06T02:31:32+0000",
    "type": "VIDEO",
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
-   "views": 1355,
+   "views": 1361,
    "likes": 15,
    "comments": 1
   },
@@ -4020,7 +4049,7 @@
    "timestamp": "2026-10-05T23:00:40+0000",
    "type": "VIDEO",
    "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 1537,
+   "views": 1540,
    "likes": 13,
    "comments": 1
   },
@@ -4031,9 +4060,9 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 3598,
-   "likes": 72,
-   "comments": 52
+   "views": 3822,
+   "likes": 76,
+   "comments": 55
   },
   {
    "id": "18031365014885625",
@@ -4042,7 +4071,7 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 70,
+   "views": 74,
    "likes": 6,
    "comments": 1
   },
@@ -4053,7 +4082,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3407,
+   "views": 3427,
    "likes": 36,
    "comments": 1
   },
@@ -4064,7 +4093,7 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1328,
+   "views": 1330,
    "likes": 32,
    "comments": 1
   },
@@ -4075,7 +4104,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1699,
+   "views": 1701,
    "likes": 14,
    "comments": 1
   },
@@ -4086,7 +4115,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2387,
+   "views": 2389,
    "likes": 42,
    "comments": 4
   },
@@ -4097,7 +4126,7 @@
    "timestamp": "2026-10-04T17:00:52+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 1676,
+   "views": 1677,
    "likes": 19,
    "comments": 1
   },
@@ -4119,7 +4148,7 @@
    "timestamp": "2026-10-04T13:35:43+0000",
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
-   "views": 2082,
+   "views": 2083,
    "likes": 26,
    "comments": 6
   },
@@ -4317,7 +4346,7 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 262,
+   "views": 263,
    "likes": 4,
    "comments": 4
   },
@@ -4372,7 +4401,7 @@
    "timestamp": "2026-10-01T23:31:44+0000",
    "type": "VIDEO",
    "caption": "You lost $300. You doubled the size to win it back. Now you're down $900.",
-   "views": 2005,
+   "views": 2007,
    "likes": 25,
    "comments": 1
   },
@@ -4397,28 +4426,6 @@
    "views": 2682,
    "likes": 35,
    "comments": 4
-  },
-  {
-   "id": "18078890924372196",
-   "slug": "stickman-halfswing",
-   "permalink": "https://www.instagram.com/reel/Dd82_qwDqCy/",
-   "timestamp": "2026-10-01T12:00:35+0000",
-   "type": "VIDEO",
-   "caption": "Your $10,000 goes up 50 %, then down 50 %. You have $7,500.",
-   "views": 2439,
-   "likes": 18,
-   "comments": 1
-  },
-  {
-   "id": "18062299541787760",
-   "slug": "stickman-hole300",
-   "permalink": "https://www.instagram.com/reel/Dd710AVgTIw/",
-   "timestamp": "2026-10-01T02:31:00+0000",
-   "type": "VIDEO",
-   "caption": "At $100 a trade, a $3,000 hole takes 300 trades to fill.",
-   "views": 3407,
-   "likes": 20,
-   "comments": 2
   }
  ]
 }
