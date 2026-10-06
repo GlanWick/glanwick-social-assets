@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:17:55.308Z",
+  "generated_at": "2026-10-06T07:39:03.449Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1093,14 +1093,13 @@
         "nr": 17,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outcomebias.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-outcomebias-cover.jpg",
-        "gestartet_at": "2026-10-05T17:40:52.956Z",
-        "stand": "2026-10-05T18:33:31.078Z",
-        "versuch": 1,
-        "slot": "2026-10-05T17:00:00.000Z",
         "post_id": "6ac3e12c85397584f59074f5",
-        "published_at": "2026-10-05T17:41:28.025Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693240252202323233",
-        "plattform_id": "7693240252202323233"
+        "plattform_id": "7693240252202323233",
+        "published_at": "2026-10-05T17:41:28.025Z",
+        "gestartet_at": "2026-10-05T17:40:52.956Z",
+        "slot": "2026-10-05T17:00:00.000Z",
+        "stand": "2026-10-05T18:33:31.078Z"
       }
     },
     {
@@ -3225,18 +3224,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fundedmath-cover.jpg",
-        "gestartet_at": "2026-10-05T17:00:51.073Z",
-        "stand": "2026-10-05T17:02:18.106Z",
-        "versuch": 1,
         "post_id": "6ac3d7ca207563443009d48c",
-        "published_at": "2026-10-05T17:01:38.652Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693229958709153057",
-        "plattform_id": "7693229958709153057"
+        "plattform_id": "7693229958709153057",
+        "published_at": "2026-10-05T17:01:38.652Z",
+        "gestartet_at": "2026-10-05T17:00:51.073Z",
+        "stand": "2026-10-05T17:02:18.106Z"
       },
-      "container_id": "18111239984136556",
       "media_id": "18031365014885625",
       "permalink": "https://www.instagram.com/reel/DeHshElD4OL/",
       "published_at": "2026-10-05T17:00:46.497Z",
+      "container_id": "18111239984136556",
       "kommentar_id": "18128541868744561",
       "views_12h": {
         "views": 47,
@@ -3256,28 +3254,42 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-paycheck-cover.jpg",
-        "gestartet_at": "2026-10-05T23:00:57.249Z",
-        "stand": "2026-10-05T23:02:20.895Z",
-        "versuch": 1,
         "post_id": "6ac42c2e8b544855bab25c1b",
-        "published_at": "2026-10-05T23:01:27.250Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693322671974632736",
-        "plattform_id": "7693322671974632736"
+        "plattform_id": "7693322671974632736",
+        "published_at": "2026-10-05T23:01:27.250Z",
+        "gestartet_at": "2026-10-05T23:00:57.249Z",
+        "stand": "2026-10-05T23:02:20.895Z"
       },
-      "container_id": "18111271796136556",
       "media_id": "18119787811820079",
       "permalink": "https://www.instagram.com/reel/DeIVuBgjSnw/",
       "published_at": "2026-10-05T23:00:52.916Z",
+      "container_id": "18111271796136556",
       "kommentar_id": "18110602159893083"
+    },
+    {
+      "id": "2026-10-06-schwankung",
+      "slug": "stickman-swingyear",
+      "status": "ready",
+      "scheduled_at": "2026-10-06T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-swingyear.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-swingyear-cover.jpg",
+      "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.\n\nUp 5 % takes $10,000 to $10,500. Down 5 % from there is $9,975, so one swing costs $25. Repeat it 52 times and $1,220 is gone, with exactly as many wins as losses. With swings of 2.5 %, the same year costs about $320.\n\nHalf the swing costs a quarter as much.\n\nFree journal, link in bio.\n\nSend this to the friend whose account swings 5 % every week.\n\nHow big is your average winning week in percent? 👇\n\nPart 76 of the series.\n\n#riskmanagement #volatility #daytrading #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-swingyear.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-swingyear-cover.jpg"
+      }
     },
     {
       "id": "2026-10-06-erste-auszahlung",
       "slug": "stickman-payout",
       "status": "ready",
-      "scheduled_at": "2026-10-06T17:00:00Z",
+      "scheduled_at": "2026-10-07T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payout.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-payout-cover.jpg",
-      "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.\n\nAt an 80 % split, the firm pays you $1,600. You needed 5 attempts at $150 each to get there, so $750 went into fees first. $1,600 minus $750 leaves $850. (Splits and fees differ by firm.)\n\nCount every attempt before you count the payout.\n\nFree journal, link in bio.\n\nSend this to the friend who is on his fifth evaluation.\n\nHow many attempts did your first payout take? 👇\n\nPart 76 of the series.\n\n#propfirm #fundedtrader #riskmanagement #tradingjournal #knowthedifference",
+      "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.\n\nAt an 80 % split, the firm pays you $1,600. You needed 5 attempts at $150 each to get there, so $750 went into fees first. $1,600 minus $750 leaves $850. (Splits and fees differ by firm.)\n\nCount every attempt before you count the payout.\n\nFree journal, link in bio.\n\nSend this to the friend who is on his fifth evaluation.\n\nHow many attempts did your first payout take? 👇\n\nPart 79 of the series.\n\n#propfirm #fundedtrader #riskmanagement #tradingjournal #knowthedifference",
       "bild": "bibliothek",
       "tiktok": {
         "status": "ready",
@@ -3313,18 +3325,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubledsize.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubledsize-cover.jpg",
-        "gestartet_at": "2026-10-06T02:31:43.742Z",
-        "stand": "2026-10-06T02:33:10.974Z",
-        "versuch": 1,
         "post_id": "6ac45d97fac66bfc1cf31e8a",
-        "published_at": "2026-10-06T02:32:23.128Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693376902190370080",
-        "plattform_id": "7693376902190370080"
+        "plattform_id": "7693376902190370080",
+        "published_at": "2026-10-06T02:32:23.128Z",
+        "gestartet_at": "2026-10-06T02:31:43.742Z",
+        "stand": "2026-10-06T02:33:10.974Z"
       },
-      "container_id": "18111288740136556",
       "media_id": "18394978510160855",
       "permalink": "https://www.instagram.com/reel/DeIt2W3lEqP/",
       "published_at": "2026-10-06T02:31:40.260Z",
+      "container_id": "18111288740136556",
       "kommentar_id": "17924157897438991"
     },
     {
