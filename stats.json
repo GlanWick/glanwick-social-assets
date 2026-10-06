@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-06T00:24:00.102Z",
+ "updated": "2026-10-06T01:24:26.511Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-06T00:24:01.066Z",
+  "checked": "2026-10-06T01:24:27.883Z",
   "reach_days": [
    {
     "day": "2026-09-29",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-05",
-    "reach": 3770
+    "reach": 3873
    }
   ],
   "avg_watch_last_reels": 11.3
@@ -3872,6 +3872,11 @@
    "ts": "2026-10-06T00:24:00.102Z",
    "followers": 302,
    "media_count": 139
+  },
+  {
+   "ts": "2026-10-06T01:24:26.511Z",
+   "followers": 302,
+   "media_count": 139
   }
  ],
  "posts": [
@@ -3882,7 +3887,7 @@
    "timestamp": "2026-10-05T23:00:40+0000",
    "type": "VIDEO",
    "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 232,
+   "views": 311,
    "likes": 3,
    "comments": 1
   },
@@ -3893,7 +3898,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 199,
+   "views": 263,
    "likes": 8,
    "comments": 2
   },
@@ -3915,7 +3920,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3088,
+   "views": 3111,
    "likes": 33,
    "comments": 1
   },
@@ -3926,7 +3931,7 @@
    "timestamp": "2026-10-05T02:30:58+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and still made $200.",
-   "views": 1283,
+   "views": 1294,
    "likes": 29,
    "comments": 1
   },
@@ -3937,7 +3942,7 @@
    "timestamp": "2026-10-04T23:00:51+0000",
    "type": "VIDEO",
    "caption": "At 100x, a 1 % move takes your whole $500.",
-   "views": 1685,
+   "views": 1686,
    "likes": 13,
    "comments": 1
   },
@@ -3948,7 +3953,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2352,
+   "views": 2353,
    "likes": 41,
    "comments": 2
   },
@@ -4003,7 +4008,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3911,
+   "views": 3914,
    "likes": 50,
    "comments": 1
   },
@@ -4036,7 +4041,7 @@
    "timestamp": "2026-10-04T00:40:59+0000",
    "type": "VIDEO",
    "caption": "The same $100 of risk can be a $5,000 trade or a $20,000 trade.",
-   "views": 2230,
+   "views": 2232,
    "likes": 24,
    "comments": 1
   },
@@ -4146,7 +4151,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3641,
+   "views": 3645,
    "likes": 29,
    "comments": 3
   },
@@ -4168,8 +4173,8 @@
    "timestamp": "2026-10-02T23:00:44+0000",
    "type": "VIDEO",
    "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1838,
-   "likes": 57,
+   "views": 1841,
+   "likes": 58,
    "comments": 1
   },
   {
