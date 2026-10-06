@@ -3345,7 +3345,7 @@
     {
       "id": "2026-10-06-ein-monat",
       "slug": "stickman-oneweek",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-06T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneweek.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-oneweek-cover.jpg",
@@ -3356,7 +3356,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneweek.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-oneweek-cover.jpg"
       },
-      "posting_started_at": "2026-10-06T12:00:20.594Z"
+      "container_id": "18111342809136556",
+      "media_id": "18091063496427619",
+      "permalink": "https://www.instagram.com/reel/DeJvAm9FBNG/",
+      "published_at": "2026-10-06T12:01:02.328Z"
     },
     {
       "id": "2026-10-07-fuenf-prozent",
