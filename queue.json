@@ -1226,15 +1226,18 @@
       "published_at": "2026-09-22T12:00:46.807Z",
       "container_id": "18109231025136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 20,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-stopsize.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-stopsize-cover.jpg",
         "gestartet_at": "2026-10-07T17:42:47.079Z",
-        "stand": "2026-10-07T17:43:07.584Z",
+        "stand": "2026-10-07T17:43:39.060Z",
         "versuch": 1,
         "slot": "2026-10-07T17:00:00.000Z",
-        "post_id": "6ac6849c25d856337babcf59"
+        "post_id": "6ac6849c25d856337babcf59",
+        "published_at": "2026-10-07T17:43:21.035Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7693982558752819233"
       }
     },
     {
