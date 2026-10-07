@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T21:03:08.554Z",
+ "updated": "2026-10-07T22:03:09.108Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T21:03:09.391Z",
+  "checked": "2026-10-07T22:03:10.086Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -34,12 +34,12 @@
     "reach": 7487
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 10.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 337,
+  "followers": 338,
   "media_count": 148
  },
  "history": [
@@ -4092,9 +4092,25 @@
    "ts": "2026-10-07T21:03:08.554Z",
    "followers": 337,
    "media_count": 148
+  },
+  {
+   "ts": "2026-10-07T22:03:09.108Z",
+   "followers": 338,
+   "media_count": 148
   }
  ],
  "posts": [
+  {
+   "id": "18176665396450408",
+   "slug": "stickman-sold8",
+   "permalink": "https://www.instagram.com/reel/DeNVD31jEqV/",
+   "timestamp": "2026-10-07T21:31:08+0000",
+   "type": "VIDEO",
+   "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.",
+   "views": 0,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "17871197895643273",
    "slug": "stickman-onepercent",
@@ -4103,7 +4119,7 @@
    "type": "VIDEO",
    "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
    "views": 0,
-   "likes": 2,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -4114,8 +4130,8 @@
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
    "views": 239,
-   "likes": 17,
-   "comments": 2
+   "likes": 19,
+   "comments": 3
   },
   {
    "id": "17989197840100599",
@@ -4125,7 +4141,7 @@
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
    "views": 392,
-   "likes": 8,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4522,17 +4538,6 @@
    "caption": "You sold the winner at +$200. You held the loser to −$1,100.",
    "views": 2172,
    "likes": 29,
-   "comments": 1
-  },
-  {
-   "id": "17942488143358580",
-   "slug": "stickman-oneoversized",
-   "permalink": "https://www.instagram.com/reel/DeAnV7MD42A/",
-   "timestamp": "2026-10-02T23:00:44+0000",
-   "type": "VIDEO",
-   "caption": "Two weeks of wins made $1,500. One oversized trade lost $1,800.",
-   "views": 1849,
-   "likes": 58,
    "comments": 1
   }
  ]
