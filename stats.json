@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T22:03:09.108Z",
+ "updated": "2026-10-07T22:53:03.245Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T22:03:10.086Z",
+  "checked": "2026-10-07T22:53:04.803Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -34,7 +34,7 @@
     "reach": 7487
    }
   ],
-  "avg_watch_last_reels": 10.7
+  "avg_watch_last_reels": 10.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4097,6 +4097,11 @@
    "ts": "2026-10-07T22:03:09.108Z",
    "followers": 338,
    "media_count": 148
+  },
+  {
+   "ts": "2026-10-07T22:53:03.245Z",
+   "followers": 338,
+   "media_count": 148
   }
  ],
  "posts": [
@@ -4119,7 +4124,7 @@
    "type": "VIDEO",
    "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
    "views": 0,
-   "likes": 8,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -4130,7 +4135,7 @@
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
    "views": 239,
-   "likes": 19,
+   "likes": 21,
    "comments": 3
   },
   {
@@ -4141,7 +4146,7 @@
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
    "views": 392,
-   "likes": 11,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -4218,7 +4223,7 @@
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
    "views": 1665,
-   "likes": 10,
+   "likes": 11,
    "comments": 1
   },
   {
