@@ -3523,7 +3523,7 @@
     {
       "id": "2026-10-08-zehnfach-hebel",
       "slug": "stickman-liquidated",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-07T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-liquidated.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-liquidated-cover.jpg",
@@ -3534,7 +3534,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-liquidated.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-liquidated-cover.jpg"
       },
-      "posting_started_at": "2026-10-07T23:00:11.300Z"
+      "container_id": "18111567146136556",
+      "media_id": "18646649938030905",
+      "permalink": "https://www.instagram.com/reel/DeNfT6iDCsi/",
+      "published_at": "2026-10-07T23:00:42.810Z"
     },
     {
       "id": "test-2026-10-ein-prozent-am-tag",
