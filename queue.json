@@ -3590,7 +3590,7 @@
     {
       "id": "2026-10-07-gleicher-coin",
       "slug": "stickman-samecoin",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-07T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samecoin.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-samecoin-cover.jpg",
@@ -3600,7 +3600,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-samecoin.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-samecoin-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-07T17:01:58.698Z"
     },
     {
       "id": "2026-10-08-gleiche-einstiege",
