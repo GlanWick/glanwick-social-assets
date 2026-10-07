@@ -3458,7 +3458,16 @@
       "container_id": "18111483884136556",
       "media_id": "17988626973075713",
       "permalink": "https://www.instagram.com/reel/DeMQYhYDyTH/",
-      "published_at": "2026-10-07T11:31:15.230Z"
+      "published_at": "2026-10-07T11:31:15.230Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 145,
+        "beitraege_nachher": 145,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T11:32:17.730Z"
+      }
     },
     {
       "id": "test-2026-10-kredit-haelfte",
