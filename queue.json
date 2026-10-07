@@ -3841,7 +3841,7 @@
     {
       "id": "test-2026-10-zwanzig-verluste",
       "slug": "stickman-fixed20",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-07T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixed20.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixed20-cover.jpg",
@@ -3851,7 +3851,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage fixeddollar (No. 37) mit genauen Zahlen"
-      }
+      },
+      "posting_started_at": "2026-10-07T17:30:25.156Z"
     },
     {
       "id": "test-2026-10-acht-gewinner",
