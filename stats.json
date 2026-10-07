@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T07:10:24.950Z",
+ "updated": "2026-10-07T08:10:49.202Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T07:10:26.470Z",
+  "checked": "2026-10-07T08:10:50.053Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-10-06",
-    "reach": 7429
+    "reach": 7475
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 8.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 334,
+  "followers": 335,
   "media_count": 145
  },
  "history": [
@@ -4022,6 +4022,11 @@
    "ts": "2026-10-07T07:10:24.950Z",
    "followers": 334,
    "media_count": 145
+  },
+  {
+   "ts": "2026-10-07T08:10:49.202Z",
+   "followers": 335,
+   "media_count": 145
   }
  ],
  "posts": [
@@ -4032,8 +4037,8 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 275,
-   "likes": 5,
+   "views": 338,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -4043,9 +4048,9 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1227,
-   "likes": 19,
-   "comments": 3
+   "views": 1328,
+   "likes": 21,
+   "comments": 5
   },
   {
    "id": "18346779418254379",
@@ -4054,7 +4059,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1499,
+   "views": 1515,
    "likes": 10,
    "comments": 1
   },
@@ -4065,8 +4070,8 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2405,
-   "likes": 14,
+   "views": 2446,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -4076,7 +4081,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1692,
+   "views": 1704,
    "likes": 14,
    "comments": 1
   },
@@ -4087,7 +4092,7 @@
    "timestamp": "2026-10-06T02:31:32+0000",
    "type": "VIDEO",
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
-   "views": 1371,
+   "views": 1376,
    "likes": 15,
    "comments": 1
   },
@@ -4109,9 +4114,9 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4003,
-   "likes": 78,
-   "comments": 62
+   "views": 4043,
+   "likes": 79,
+   "comments": 64
   },
   {
    "id": "18031365014885625",
@@ -4164,7 +4169,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2391,
+   "views": 2392,
    "likes": 42,
    "comments": 4
   },
@@ -4274,8 +4279,8 @@
    "timestamp": "2026-10-03T23:00:33+0000",
    "type": "VIDEO",
    "caption": "3 trades, $200 of risk on each. One move, and you're down $600.",
-   "views": 738,
-   "likes": 10,
+   "views": 739,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4285,7 +4290,7 @@
    "timestamp": "2026-10-03T19:30:46+0000",
    "type": "VIDEO",
    "caption": "You waited for confirmation. The risk went from $200 to $400.",
-   "views": 1778,
+   "views": 1779,
    "likes": 20,
    "comments": 1
   },
