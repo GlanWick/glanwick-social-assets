@@ -3681,7 +3681,7 @@
     {
       "id": "test-2026-10-ein-roter-tag",
       "slug": "stickman-redday",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-07T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redday-cover.jpg",
@@ -3692,7 +3692,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage dailyloss (No. 31) mit Dollarbeträgen"
       },
-      "posting_started_at": "2026-10-07T23:30:30.524Z"
+      "container_id": "18111570506136556",
+      "media_id": "17992598625109866",
+      "permalink": "https://www.instagram.com/reel/DeNi2epgvCC/",
+      "published_at": "2026-10-07T23:31:44.048Z"
     },
     {
       "id": "test-2026-10-zwei-von-drei",
