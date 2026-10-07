@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-07T12:12:31.071Z",
+ "updated": "2026-10-07T13:03:38.665Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 4.9 s"
-  ],
-  "checked": "2026-10-07T12:12:32.979Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-07T13:03:40.024Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -36,7 +34,7 @@
     "reach": 7480
    }
   ],
-  "avg_watch_last_reels": 4.9
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4049,6 +4047,11 @@
    "ts": "2026-10-07T12:12:31.071Z",
    "followers": 336,
    "media_count": 146
+  },
+  {
+   "ts": "2026-10-07T13:03:38.665Z",
+   "followers": 336,
+   "media_count": 146
   }
  ],
  "posts": [
@@ -4059,8 +4062,8 @@
    "timestamp": "2026-10-07T12:00:59+0000",
    "type": "VIDEO",
    "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.",
-   "views": 3,
-   "likes": 0,
+   "views": 195,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -4070,8 +4073,8 @@
    "timestamp": "2026-10-07T11:31:02+0000",
    "type": "VIDEO",
    "caption": "You hit your $300 goal by 10:15. You kept trading. The day closed at −$450.",
-   "views": 102,
-   "likes": 0,
+   "views": 230,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -4081,8 +4084,8 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 760,
-   "likes": 20,
+   "views": 1094,
+   "likes": 25,
    "comments": 1
   },
   {
@@ -4092,7 +4095,7 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1408,
+   "views": 1412,
    "likes": 22,
    "comments": 5
   },
@@ -4103,7 +4106,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1609,
+   "views": 1643,
    "likes": 10,
    "comments": 1
   },
@@ -4114,7 +4117,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2631,
+   "views": 2675,
    "likes": 16,
    "comments": 1
   },
@@ -4125,7 +4128,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1781,
+   "views": 1797,
    "likes": 15,
    "comments": 1
   },
@@ -4158,7 +4161,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4259,
+   "views": 4268,
    "likes": 82,
    "comments": 68
   },
@@ -4180,7 +4183,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3453,
+   "views": 3455,
    "likes": 36,
    "comments": 1
   },
@@ -4213,7 +4216,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2395,
+   "views": 2398,
    "likes": 42,
    "comments": 4
   },
@@ -4477,7 +4480,7 @@
    "timestamp": "2026-10-02T01:45:38+0000",
    "type": "VIDEO",
    "caption": "11 green months made $4,400. One red month lost $5,000.",
-   "views": 2489,
+   "views": 2491,
    "likes": 20,
    "comments": 1
   },
