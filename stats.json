@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T09:11:14.172Z",
+ "updated": "2026-10-07T10:11:39.546Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T09:11:15.576Z",
+  "checked": "2026-10-07T10:11:41.369Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -34,7 +34,7 @@
     "reach": 7480
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4032,6 +4032,11 @@
    "ts": "2026-10-07T09:11:14.172Z",
    "followers": 335,
    "media_count": 145
+  },
+  {
+   "ts": "2026-10-07T10:11:39.546Z",
+   "followers": 335,
+   "media_count": 145
   }
  ],
  "posts": [
@@ -4042,8 +4047,8 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 402,
-   "likes": 8,
+   "views": 480,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -4053,7 +4058,7 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1365,
+   "views": 1389,
    "likes": 22,
    "comments": 5
   },
@@ -4064,7 +4069,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1538,
+   "views": 1544,
    "likes": 10,
    "comments": 1
   },
@@ -4075,7 +4080,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2482,
+   "views": 2527,
    "likes": 16,
    "comments": 1
   },
@@ -4086,7 +4091,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1723,
+   "views": 1749,
    "likes": 14,
    "comments": 1
   },
@@ -4097,7 +4102,7 @@
    "timestamp": "2026-10-06T02:31:32+0000",
    "type": "VIDEO",
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
-   "views": 1383,
+   "views": 1387,
    "likes": 15,
    "comments": 1
   },
@@ -4119,7 +4124,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4078,
+   "views": 4086,
    "likes": 79,
    "comments": 64
   },
@@ -4141,7 +4146,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3443,
+   "views": 3444,
    "likes": 36,
    "comments": 1
   },
@@ -4174,7 +4179,7 @@
    "timestamp": "2026-10-04T19:30:51+0000",
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
-   "views": 2393,
+   "views": 2395,
    "likes": 41,
    "comments": 4
   },
@@ -4229,7 +4234,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3941,
+   "views": 3942,
    "likes": 50,
    "comments": 1
   },
@@ -4372,7 +4377,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3658,
+   "views": 3659,
    "likes": 29,
    "comments": 3
   },
