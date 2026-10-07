@@ -3322,7 +3322,7 @@
     {
       "id": "2026-10-07-ein-trade-mehr",
       "slug": "stickman-extratrade",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-07T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-extratrade.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-extratrade-cover.jpg",
@@ -3333,7 +3333,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade-cover.jpg"
       },
-      "posting_started_at": "2026-10-07T02:30:18.507Z"
+      "container_id": "18111433445136556",
+      "media_id": "18062422079630604",
+      "permalink": "https://www.instagram.com/reel/DeLSkNPlI4M/",
+      "published_at": "2026-10-07T02:30:58.972Z"
     },
     {
       "id": "2026-10-06-groesse-verdoppelt",
