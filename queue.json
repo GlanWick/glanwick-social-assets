@@ -3444,7 +3444,7 @@
     {
       "id": "test-2026-10-tagesziel",
       "slug": "stickman-dailygoal",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-07T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailygoal.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-dailygoal-cover.jpg",
@@ -3454,7 +3454,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage greentored (No. 59) mit Tagesziel im Hook"
-      }
+      },
+      "posting_started_at": "2026-10-07T11:30:26.352Z"
     },
     {
       "id": "test-2026-10-kredit-haelfte",
