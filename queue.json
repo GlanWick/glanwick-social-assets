@@ -3538,7 +3538,7 @@
     {
       "id": "test-2026-10-ein-prozent-am-tag",
       "slug": "stickman-onepercent",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-07T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onepercent.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onepercent-cover.jpg",
@@ -3549,7 +3549,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage incomegoal (Testreel 04.10.) als Tagesziel in Prozent"
       },
-      "posting_started_at": "2026-10-07T19:30:22.144Z"
+      "container_id": "18111550871136556",
+      "media_id": "17871197895643273",
+      "permalink": "https://www.instagram.com/reel/DeNHTatCVcL/",
+      "published_at": "2026-10-07T19:31:04.603Z"
     },
     {
       "id": "2026-10-08-sieben-verluste",
