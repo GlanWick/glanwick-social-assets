@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T10:11:39.546Z",
+ "updated": "2026-10-07T11:12:07.558Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T10:11:41.369Z",
+  "checked": "2026-10-07T11:12:09.375Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -34,12 +34,12 @@
     "reach": 7480
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 335,
+  "followers": 336,
   "media_count": 145
  },
  "history": [
@@ -4037,6 +4037,11 @@
    "ts": "2026-10-07T10:11:39.546Z",
    "followers": 335,
    "media_count": 145
+  },
+  {
+   "ts": "2026-10-07T11:12:07.558Z",
+   "followers": 336,
+   "media_count": 145
   }
  ],
  "posts": [
@@ -4047,8 +4052,8 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 480,
-   "likes": 12,
+   "views": 580,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -4058,7 +4063,7 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1389,
+   "views": 1403,
    "likes": 22,
    "comments": 5
   },
@@ -4069,7 +4074,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1544,
+   "views": 1572,
    "likes": 10,
    "comments": 1
   },
@@ -4080,7 +4085,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2527,
+   "views": 2601,
    "likes": 16,
    "comments": 1
   },
@@ -4091,7 +4096,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1749,
+   "views": 1763,
    "likes": 14,
    "comments": 1
   },
@@ -4102,7 +4107,7 @@
    "timestamp": "2026-10-06T02:31:32+0000",
    "type": "VIDEO",
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
-   "views": 1387,
+   "views": 1390,
    "likes": 15,
    "comments": 1
   },
@@ -4113,7 +4118,7 @@
    "timestamp": "2026-10-05T23:00:40+0000",
    "type": "VIDEO",
    "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 1553,
+   "views": 1554,
    "likes": 13,
    "comments": 1
   },
@@ -4124,9 +4129,9 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4086,
-   "likes": 79,
-   "comments": 64
+   "views": 4244,
+   "likes": 81,
+   "comments": 68
   },
   {
    "id": "18031365014885625",
@@ -4146,7 +4151,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3444,
+   "views": 3450,
    "likes": 36,
    "comments": 1
   },
@@ -4180,7 +4185,7 @@
    "type": "VIDEO",
    "caption": "You skipped one trade after three losses. It was the winner that would have paid",
    "views": 2395,
-   "likes": 41,
+   "likes": 42,
    "comments": 4
   },
   {
@@ -4213,7 +4218,7 @@
    "type": "VIDEO",
    "caption": "You want $3,000 a month from a $10,000 account. That's +30 % a month.",
    "views": 2083,
-   "likes": 25,
+   "likes": 26,
    "comments": 6
   },
   {
@@ -4377,7 +4382,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3659,
+   "views": 3662,
    "likes": 29,
    "comments": 3
   },
@@ -4410,7 +4415,7 @@
    "timestamp": "2026-10-02T22:42:53+0000",
    "type": "VIDEO",
    "caption": "When your company’s journal has everything you need. ",
-   "views": 263,
+   "views": 264,
    "likes": 4,
    "comments": 4
   },
