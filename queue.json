@@ -3435,7 +3435,11 @@
       "media_id": "18346779418254379",
       "permalink": "https://www.instagram.com/reel/DeK6h3Jgacl/",
       "published_at": "2026-10-06T23:00:57.928Z",
-      "kommentar_id": "18049176710609236"
+      "kommentar_id": "18049176710609236",
+      "views_12h": {
+        "views": 1572,
+        "stunden": 12.19
+      }
     },
     {
       "id": "test-2026-10-tagesziel",
