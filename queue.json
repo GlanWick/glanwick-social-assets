@@ -3486,7 +3486,7 @@
     {
       "id": "test-2026-10-kredit-haelfte",
       "slug": "stickman-margin25",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-07T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-margin25.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-margin25-cover.jpg",
@@ -3496,7 +3496,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage margin (No. 48) mit Dollarbetrag im Hook"
-      }
+      },
+      "posting_started_at": "2026-10-07T15:30:01.650Z"
     },
     {
       "id": "2026-10-08-zehnfach-hebel",
