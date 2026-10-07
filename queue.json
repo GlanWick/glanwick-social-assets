@@ -3906,7 +3906,16 @@
       "container_id": "18111560588136556",
       "media_id": "18176665396450408",
       "permalink": "https://www.instagram.com/reel/DeNVD31jEqV/",
-      "published_at": "2026-10-07T21:31:15.755Z"
+      "published_at": "2026-10-07T21:31:15.755Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 148,
+        "beitraege_nachher": 148,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T21:32:17.723Z"
+      }
     },
     {
       "id": "test-2026-10-bester-tag",
