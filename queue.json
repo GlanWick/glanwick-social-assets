@@ -3632,7 +3632,7 @@
     {
       "id": "test-2026-10-zwei-von-drei",
       "slug": "stickman-twoofthree",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-07T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twoofthree.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twoofthree-cover.jpg",
@@ -3643,7 +3643,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage eightoften/winrate mit Gewinnschwelle (2 von 3) im Hook"
       },
-      "posting_started_at": "2026-10-07T13:30:04.439Z"
+      "container_id": "18111503516136556",
+      "media_id": "17873899302594973",
+      "permalink": "https://www.instagram.com/reel/DeMeE3CiEbk/",
+      "published_at": "2026-10-07T13:30:45.936Z"
     },
     {
       "id": "test-2026-10-dreimal-nachgekauft",
