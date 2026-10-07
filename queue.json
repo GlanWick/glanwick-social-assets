@@ -3500,7 +3500,16 @@
       "container_id": "18111521606136556",
       "media_id": "18189658192406149",
       "permalink": "https://www.instagram.com/reel/DeMrzVOgT_R/",
-      "published_at": "2026-10-07T15:30:54.408Z"
+      "published_at": "2026-10-07T15:30:54.408Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 146,
+        "beitraege_nachher": 146,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T15:31:57.529Z"
+      }
     },
     {
       "id": "2026-10-08-zehnfach-hebel",
