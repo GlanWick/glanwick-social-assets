@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T19:02:35.108Z",
+ "updated": "2026-10-07T20:03:00.963Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T19:02:36.149Z",
+  "checked": "2026-10-07T20:03:02.438Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -4082,9 +4082,25 @@
    "ts": "2026-10-07T19:02:35.108Z",
    "followers": 337,
    "media_count": 148
+  },
+  {
+   "ts": "2026-10-07T20:03:00.963Z",
+   "followers": 337,
+   "media_count": 148
   }
  ],
  "posts": [
+  {
+   "id": "17871197895643273",
+   "slug": "stickman-onepercent",
+   "permalink": "https://www.instagram.com/reel/DeNHTatCVcL/",
+   "timestamp": "2026-10-07T19:30:56+0000",
+   "type": "VIDEO",
+   "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
+   "views": 0,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18131437243665738",
    "slug": "stickman-fixed20",
@@ -4093,8 +4109,8 @@
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
    "views": 239,
-   "likes": 0,
-   "comments": 1
+   "likes": 12,
+   "comments": 2
   },
   {
    "id": "17989197840100599",
@@ -4104,7 +4120,7 @@
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
    "views": 392,
-   "likes": 4,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -4115,7 +4131,7 @@
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
    "views": 1718,
-   "likes": 16,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -4148,7 +4164,7 @@
    "type": "VIDEO",
    "caption": "You hit your $300 goal by 10:15. You kept trading. The day closed at −$450.",
    "views": 759,
-   "likes": 9,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -4513,17 +4529,6 @@
    "views": 1849,
    "likes": 58,
    "comments": 1
-  },
-  {
-   "id": "18105976943194356",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DeAkCacusID/",
-   "timestamp": "2026-10-02T22:42:53+0000",
-   "type": "VIDEO",
-   "caption": "When your company’s journal has everything you need. ",
-   "views": 264,
-   "likes": 4,
-   "comments": 4
   }
  ]
 }
