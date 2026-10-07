@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:44:32.741Z",
+  "generated_at": "2026-10-07T12:33:25.354Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -3321,18 +3321,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payout.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-payout-cover.jpg",
-        "gestartet_at": "2026-10-07T12:01:11.157Z",
-        "stand": "2026-10-07T12:02:41.324Z",
-        "versuch": 1,
         "post_id": "6ac6349010a6e97d1a743cca",
-        "published_at": "2026-10-07T12:01:56.141Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693894910440688928",
-        "plattform_id": "7693894910440688928"
+        "plattform_id": "7693894910440688928",
+        "published_at": "2026-10-07T12:01:56.141Z",
+        "gestartet_at": "2026-10-07T12:01:11.157Z",
+        "stand": "2026-10-07T12:02:41.324Z"
       },
-      "container_id": "18111489143136556",
       "media_id": "18107074430206878",
       "permalink": "https://www.instagram.com/reel/DeMT0TuGIuC/",
       "published_at": "2026-10-07T12:01:06.305Z",
+      "container_id": "18111489143136556",
       "kommentar_id": "18149571229551563"
     },
     {
@@ -3348,18 +3347,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-extratrade-cover.jpg",
-        "gestartet_at": "2026-10-07T02:31:02.121Z",
-        "stand": "2026-10-07T02:32:26.056Z",
-        "versuch": 1,
         "post_id": "6ac5aeece26967a7d3dcb350",
-        "published_at": "2026-10-07T02:31:35.111Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693747817952611616",
-        "plattform_id": "7693747817952611616"
+        "plattform_id": "7693747817952611616",
+        "published_at": "2026-10-07T02:31:35.111Z",
+        "gestartet_at": "2026-10-07T02:31:02.121Z",
+        "stand": "2026-10-07T02:32:26.056Z"
       },
-      "container_id": "18111433445136556",
       "media_id": "18062422079630604",
       "permalink": "https://www.instagram.com/reel/DeLSkNPlI4M/",
       "published_at": "2026-10-07T02:30:58.972Z",
+      "container_id": "18111433445136556",
       "kommentar_id": "18089812622232922"
     },
     {
@@ -3435,18 +3433,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-slowbleed.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-slowbleed-cover.jpg",
+        "post_id": "6ac57db2d9f5954a11f5a62c",
         "gestartet_at": "2026-10-06T23:01:01.317Z",
         "stand": "2026-10-06T23:02:24.666Z",
-        "versuch": 1,
-        "post_id": "6ac57db2d9f5954a11f5a62c",
-        "published_at": "2026-10-06T23:01:39.723Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7693693789147303200",
-        "plattform_id": "7693693789147303200"
+        "plattform_id": "7693693789147303200",
+        "published_at": "2026-10-06T23:01:39.723Z"
       },
-      "container_id": "18111418037136556",
       "media_id": "18346779418254379",
       "permalink": "https://www.instagram.com/reel/DeK6h3Jgacl/",
       "published_at": "2026-10-06T23:00:57.928Z",
+      "container_id": "18111418037136556",
       "kommentar_id": "18049176710609236",
       "views_12h": {
         "views": 1572,
@@ -3467,10 +3464,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage greentored (No. 59) mit Tagesziel im Hook"
       },
-      "container_id": "18111483884136556",
       "media_id": "17988626973075713",
       "permalink": "https://www.instagram.com/reel/DeMQYhYDyTH/",
       "published_at": "2026-10-07T11:31:15.230Z",
+      "container_id": "18111483884136556",
+      "kommentar_id": "17948512965327290",
       "trial_pruefung": {
         "beitraege_vorher": 145,
         "beitraege_nachher": 145,
@@ -3479,8 +3477,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-07T11:32:17.730Z"
-      },
-      "kommentar_id": "17948512965327290"
+      }
     },
     {
       "id": "test-2026-10-kredit-haelfte",
@@ -3651,7 +3648,7 @@
       "id": "test-2026-10-dreimal-nachgekauft",
       "slug": "stickman-avgdown3",
       "status": "ready",
-      "scheduled_at": "2026-10-08T01:45:00Z",
+      "scheduled_at": "2026-10-08T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgdown3.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgdown3-cover.jpg",
       "caption": "You bought at $100, at $80 and at $60. Your average is $80. The stock is at $50.\n\n10 shares each time: 30 shares, $2,400 in. At $50 they're worth $1,500, so you're down $900. The first 10 shares alone would be down $500. Every buy lowered your average and raised your position.\n\nA lower average is a bigger bet.\n\nFree journal, link in bio.\n\nSend this to the friend who buys every dip of the same stock.\n\nDo you add to losing positions? 👇\n\n#averagingdown #investing #riskmanagement #tradingjournal #knowthedifference",
@@ -3756,7 +3753,7 @@
       "id": "test-2026-10-wochen-zurueck",
       "slug": "stickman-timeback",
       "status": "ready",
-      "scheduled_at": "2026-10-08T00:40:00Z",
+      "scheduled_at": "2026-10-08T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-timeback.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-timeback-cover.jpg",
       "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.\n\nThat's 5 times the loss and more than 6 times the wait. 10 % down needs 11 % back, 50 % down needs 100 %. 70 weeks is a year and 4 months of doing everything right, just to stand where you stood.\n\nCut the loss while it still costs weeks.\n\nFree journal, link in bio.\n\nSend this to the friend who lets a small loss turn into a big one.\n\nHow long did your biggest drawdown take to recover? 👇\n\n#drawdown #riskmanagement #daytrading #tradingjournal #knowthedifference",
@@ -3771,7 +3768,7 @@
       "id": "test-2026-10-fuenfzig-trades",
       "slug": "stickman-edge20",
       "status": "ready",
-      "scheduled_at": "2026-10-09T00:40:00Z",
+      "scheduled_at": "2026-10-09T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge20.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge20-cover.jpg",
       "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.\n\nSay you risk $200 to make $200 and win 55 % of the time. Over 100 trades that's +$2,000, or $20 a trade. $1,000 divided by $20 is 50 trades. At 5 trades a day, that's 2 weeks of work for one bad day.\n\nEvery $100 lost is 5 trades of work.\n\nFree journal, link in bio.\n\nSend this to the friend who says he'll make it back tomorrow.\n\nHow many trades do you take on a normal day? 👇\n\n#daytrading #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
@@ -3795,6 +3792,291 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage trailing (No. 45) mit kleinerem Konto und dem Endstand im Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-zwanzig-verluste",
+      "slug": "stickman-fixed20",
+      "status": "ready",
+      "scheduled_at": "2026-10-07T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixed20.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fixed20-cover.jpg",
+      "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,585 is left.\n\n20 × $500 is $10,000. Gone. 5 % of what's left gets smaller with every loss: the first costs $500, the twentieth costs $189. Same 20 losses, and one trader is out while the other is still trading.\n\nA percent never reaches zero.\n\nFree journal, link in bio.\n\nSend this to the friend who risks the same dollar amount no matter what.\n\nFixed dollars or fixed percent: what do you use? 👇\n\n#positionsizing #drawdown #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage fixeddollar (No. 37) mit genauen Zahlen"
+      }
+    },
+    {
+      "id": "test-2026-10-acht-gewinner",
+      "slug": "stickman-sold8",
+      "status": "ready",
+      "scheduled_at": "2026-10-07T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sold8.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sold8-cover.jpg",
+      "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.\n\n8 × $50 is $400. 2 × $400 is $800. You were right 8 times out of 10 and still paid for the week. Cut the 2 losers at −$100, and the same week is $200 up.\n\nThe size of the loss decides the week.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profit fast and holds every loser.\n\nIs your average loss bigger than your average win? 👇\n\n#tradingpsychology #winrate #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage soldwinner/disposition mit Wochenrechnung"
+      }
+    },
+    {
+      "id": "test-2026-10-bester-tag",
+      "slug": "stickman-bestday",
+      "status": "ready",
+      "scheduled_at": "2026-10-08T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday-cover.jpg",
+      "caption": "He posted his best day: +$2,000. His month closed at −$1,100.\n\nOne day made $2,000. The other 19 days lost $3,100, about $163 a day on the days he didn't post. Your feed is made of best days, his and everyone else's.\n\nAsk for the month.\n\nFree journal, link in bio.\n\nSend this to the friend who believes every screenshot in his feed.\n\nWould you post your whole month? 👇\n\n#tradingpsychology #daytrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage screenshot (No. 58) mit neuen Zahlen"
+      }
+    },
+    {
+      "id": "test-2026-10-vierzig-prozent-im-monat",
+      "slug": "stickman-goal40",
+      "status": "ready",
+      "scheduled_at": "2026-10-08T07:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-goal40.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-goal40-cover.jpg",
+      "caption": "You want $2,000 a month from a $5,000 account. That's +40 % a month.\n\nTake a real edge: 55 % winners, wins and losses the same size, 20 trades a month, 1 % risk. That makes about $100 a month on $5,000. For $2,000 you need 20 times the risk, so 20 % per trade. 5 losses in a row, and two thirds of the account are gone.\n\nA big goal on a small account is a big risk.\n\nFree journal, link in bio.\n\nSend this to the friend who wants to pay his rent from a small account.\n\nWhat would you need a month to trade full time? 👇\n\n#tradinggoals #smallaccount #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage incomegoal (Testreel 04.10.) mit kleinerem Konto"
+      }
+    },
+    {
+      "id": "test-2026-10-drei-von-vier",
+      "slug": "stickman-onethree",
+      "status": "ready",
+      "scheduled_at": "2026-10-08T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethree.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethree-cover.jpg",
+      "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out of 4.\n\nThe closer level gets hit first, most of the time: 1 step to the stop, 3 to the target. With no edge at all, that trade wins 1 time in 4. And 1 win pays for exactly 3 losses: +$300 against 3 × −$100. So 25 % is break even, and every win above that is your edge.\n\nJudge a 1:3 system at 25 %.\n\nFree journal, link in bio.\n\nSend this to the friend who quits every strategy that loses more than half the time.\n\nWhat win rate does your setup need to break even? 👇\n\n#riskreward #winrate #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: neues Thema Trefferquote bei 1:3 (Abstand von Stop und Ziel)"
+      }
+    },
+    {
+      "id": "test-2026-10-oben-nachgelegt",
+      "slug": "stickman-addedtop",
+      "status": "ready",
+      "scheduled_at": "2026-10-08T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addedtop.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addedtop-cover.jpg",
+      "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $0.\n\nYou bought at $50, and at $60 you were up $1,000. You added 100 shares at $60, so your average moved to $55. The stock dipped to $55, and the whole gain was gone. Without the second buy, you'd still be up $500.\n\nAdding at the top moves your break even up.\n\nFree journal, link in bio.\n\nSend this to the friend who adds to every winner at the high.\n\nDo you add to winning positions? 👇\n\n#positionsizing #swingtrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: neues Thema Aufstocken im Gewinn (Einstand wandert nach oben)"
+      }
+    },
+    {
+      "id": "test-2026-10-dreissig-trades",
+      "slug": "stickman-coin30",
+      "status": "ready",
+      "scheduled_at": "2026-10-08T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin30.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin30-cover.jpg",
+      "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time in 6.\n\n$100 a trade, won or lost: 18 wins, 12 losses, +$600. Flip a coin 30 times, and 18 or more heads come up 18 % of the time. 30 trades is one good month. It can't tell skill from luck yet.\n\nJudge the edge at 200 trades.\n\nFree journal, link in bio.\n\nSend this to the friend who found his edge after one good month.\n\nHow many trades have you logged so far? 👇\n\n#samplesize #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage samplesize (No. 26, 23 Saves) mit Dollarbetrag"
+      }
+    },
+    {
+      "id": "test-2026-10-dreifach-fonds",
+      "slug": "stickman-letf3x",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T03:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letf3x.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letf3x-cover.jpg",
+      "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.\n\nDay 1: the index gains 10 %, the fund 30 %. Day 2: the index loses 10 %, the fund 30 %. $10,000 in the index is $9,900. $10,000 in the 3x fund is $9,100. The fund resets its leverage every day, so every swing costs it more.\n\n3 times the move, 9 times the drag.\n\nFree journal, link in bio.\n\nSend this to the friend who holds a 3x fund for the long run.\n\nHave you ever held a leveraged fund for more than a week? 👇\n\n#leverage #etf #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage letf (No. 44) mit Dollarbetraegen und anderen Bildern"
+      }
+    },
+    {
+      "id": "test-2026-10-zehn-in-folge",
+      "slug": "stickman-riskten",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskten.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskten-cover.jpg",
+      "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.\n\nBoth accounts start at $10,000 and take the same 10 losses. The first needs +22 % to get back. The second needs +187 %. That's 5 times the risk and more than 8 times the way back.\n\nPick a risk you can survive 10 times in a row.\n\nFree journal, link in bio.\n\nSend this to the friend who thinks 10 losses in a row can't happen to him.\n\nHow much do you risk per trade? 👇\n\n#positionsizing #drawdown #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage riskstreak (No. 28) mit zwei Risiken und Dollarbetraegen"
+      }
+    },
+    {
+      "id": "test-2026-10-bestaetigung-kostet",
+      "slug": "stickman-confirm2",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T07:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm2.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm2-cover.jpg",
+      "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, and you risk $400 to make $400.\n\n100 shares, stop at $98, target at $106. Two dollars later the stop and the target are the same, but the risk has doubled and the reward is a third smaller. At 3:1 you can lose 3 trades out of 4 and break even. At 1:1 you need to win half.\n\nConfirmation has a price.\n\nFree journal, link in bio.\n\nSend this to the friend who always waits for one more candle.\n\nDo you enter early or wait for confirmation? 👇\n\n#riskreward #daytrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage confirmation/confirm (No. 25) mit Chance und Risiko in Dollar"
+      }
+    },
+    {
+      "id": "test-2026-10-drei-rote-monate",
+      "slug": "stickman-redmonths",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redmonths.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redmonths-cover.jpg",
+      "caption": "A real edge, 20 trades a month, $100 a trade. 3 months a year still end red.\n\n55 % winners make $200 in an average month. But 9 wins or fewer out of 20 happens 1 month in 4, with the same edge and the same rules. A single red month says little about a strategy. 12 months say more.\n\nMeasure an edge in years.\n\nFree journal, link in bio.\n\nSend this to the friend who changes his strategy after one red month.\n\nHow many red months did you have this year? 👇\n\n#tradingpsychology #drawdown #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: neues Thema rote Monate trotz Vorteil (Streuung mit Dollarbetrag)"
+      }
+    },
+    {
+      "id": "test-2026-10-neunhundert-prozent",
+      "slug": "stickman-ladder900",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ladder900.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ladder900-cover.jpg",
+      "caption": "Lose 90 % of your account, and you need +900 % to get it back.\n\n$10,000 down 90 % is $1,000. From $1,000 back to $10,000 is 10 times your money. At 80 % down you need 5 times, so the last 10 % of the fall doubles the way back.\n\nA 90 % loss needs a 10x gain.\n\nFree journal, link in bio.\n\nSend this to the friend who holds a coin that's down 90 %.\n\nWhat's the deepest drawdown you ever came back from? 👇\n\n#drawdown #cryptotrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage drawdown/halfgone mit dem Extremfall (90 Prozent)"
+      }
+    },
+    {
+      "id": "test-2026-10-fuenffache-groesse",
+      "slug": "stickman-fivesize",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivesize.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivesize-cover.jpg",
+      "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,000.\n\nYour normal loss is $200. At 5 times the size, the same loss is $1,000. One trade, and two weeks of work are gone. It was the trade you were most sure about.\n\nSize the sure trade like every other one.\n\nFree journal, link in bio.\n\nSend this to the friend who goes big when he's sure.\n\nWhen did you last size up because you were sure? 👇\n\n#positionsizing #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage oneoversized (No. 61, 23 Weiterleitungen) mit neuen Zahlen"
+      }
+    },
+    {
+      "id": "test-2026-10-ein-monat-arbeit",
+      "slug": "stickman-badweek",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badweek.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badweek-cover.jpg",
+      "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.\n\nYour average green day makes $100, so $2,000 is 20 of them. The first $500 was the trade. The other $1,500 was the chase. Stop at −$500, and the same day costs one week.\n\nPrice every loss in days of work.\n\nFree journal, link in bio.\n\nSend this to the friend who tries to win it all back the same day.\n\nWhat did your worst day cost you in days of work? 👇\n\n#daytrading #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage badday (No. 63) mit einem Monat Arbeit im Hook"
+      }
+    },
+    {
+      "id": "test-2026-10-ohne-den-besten",
+      "slug": "stickman-besttrade2",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade2.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade2-cover.jpg",
+      "caption": "Your year made $3,000. Your best trade alone made $4,500.\n\nSo the other 149 trades lost $1,500, about $10 on every ordinary trade. One trade in 150 decided the sign of your year.\n\nRun your year without the best trade.\n\nFree journal, link in bio.\n\nSend this to the friend who lives off one big win.\n\nWhat would your year look like without your best trade? 👇\n\n#tradingpsychology #daytrading #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage outlier/besttrade (No. 38, 68) mit neuen Zahlen"
+      }
+    },
+    {
+      "id": "test-2026-10-elf-gute-monate",
+      "slug": "stickman-elevenplus",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenplus.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenplus-cover.jpg",
+      "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.\n\n11 good months turn $10,000 into $17,103. Then one month takes 40 % of it: $6,841. $10,262 is left. A year of work for $262.\n\nOne month can cost eleven.\n\nFree journal, link in bio.\n\nSend this to the friend who is up all year and getting careless.\n\nWhat was your worst month this year? 👇\n\n#drawdown #riskmanagement #daytrading #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage smoothcurve/elevenmonths (No. 13) in Prozent mit Kontostand"
+      }
+    },
+    {
+      "id": "test-2026-10-zwanzig-einstellungen",
+      "slug": "stickman-overfit2",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit2.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit2-cover.jpg",
+      "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost $600.\n\nTest 20 random settings, and odds are that one of them looks like a winner by pure chance. You picked the curve that fit the past best. Before you trade it, run it on data it has never seen.\n\nThe best of 20 backtests is often the luckiest.\n\nFree journal, link in bio.\n\nSend this to the friend who optimizes his strategy every weekend.\n\nHow many settings did you test before going live? 👇\n\n#backtesting #tradingstrategy #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage overfit (No. 16, damals ohne Geld: 360 Aufrufe) mit Dollarbetrag"
+      }
+    },
+    {
+      "id": "2026-10-10-plus-25-minus-20",
+      "slug": "stickman-up25",
+      "status": "ready",
+      "scheduled_at": "2026-10-09T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up25.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up25-cover.jpg",
+      "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.\n\n+25 % makes it $12,500. −20 % takes $2,500, the whole gain. The loss was the smaller number, but it was taken from the bigger account. A 50 % gain is gone after a 33 % loss, a 100 % gain after a 50 % loss.\n\nA 20 % loss cancels a 25 % gain.\n\nFree journal, link in bio.\n\nSend this to the friend who counts his gains in percent and forgets the dips.\n\nWhat's the biggest gain you ever gave back completely? 👇\n\nPart 89 of the series.\n\n#drawdown #percentages #riskmanagement #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up25.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up25-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-10-trade-vier-ausgelassen",
+      "slug": "stickman-satout",
+      "status": "ready",
+      "scheduled_at": "2026-10-10T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-satout.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-satout-cover.jpg",
+      "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.\n\n3 × $200 is $600. Trade 4 was the same setup and the same rules. Taken, your week is $200 up. Skipped, it's $600 down. Your plan doesn't know you just lost 3 times.\n\nThe fourth trade is still the plan.\n\nFree journal, link in bio.\n\nSend this to the friend who sits out after every losing streak.\n\nWhat do you do after 3 losses in a row? 👇\n\nPart 90 of the series.\n\n#tradingpsychology #tradingplan #losingstreak #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-satout.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-satout-cover.jpg"
       }
     }
   ]
