@@ -3855,7 +3855,16 @@
       "container_id": "18111536156136556",
       "media_id": "18131437243665738",
       "permalink": "https://www.instagram.com/reel/DeM5kvGjl9u/",
-      "published_at": "2026-10-07T17:31:05.235Z"
+      "published_at": "2026-10-07T17:31:05.235Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 148,
+        "beitraege_nachher": 148,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T17:32:07.004Z"
+      }
     },
     {
       "id": "test-2026-10-acht-gewinner",
