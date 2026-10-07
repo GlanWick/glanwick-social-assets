@@ -3552,7 +3552,16 @@
       "container_id": "18111550871136556",
       "media_id": "17871197895643273",
       "permalink": "https://www.instagram.com/reel/DeNHTatCVcL/",
-      "published_at": "2026-10-07T19:31:04.603Z"
+      "published_at": "2026-10-07T19:31:04.603Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 148,
+        "beitraege_nachher": 148,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T19:32:06.071Z"
+      }
     },
     {
       "id": "2026-10-08-sieben-verluste",
