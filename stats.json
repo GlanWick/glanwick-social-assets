@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-07T16:04:03.801Z",
+ "updated": "2026-10-07T17:01:56.242Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-07T16:04:04.740Z",
+  "checked": "2026-10-07T17:01:57.168Z",
   "reach_days": [
    {
     "day": "2026-09-30",
@@ -4067,6 +4067,11 @@
    "ts": "2026-10-07T16:04:03.801Z",
    "followers": 336,
    "media_count": 147
+  },
+  {
+   "ts": "2026-10-07T17:01:56.242Z",
+   "followers": 336,
+   "media_count": 147
   }
  ],
  "posts": [
@@ -4077,8 +4082,8 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 42,
-   "likes": 0,
+   "views": 368,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -4088,8 +4093,8 @@
    "timestamp": "2026-10-07T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Risk $100 to make $50, and you need 2 wins out of 3 just to break even.",
-   "views": 934,
-   "likes": 9,
+   "views": 1482,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -4099,8 +4104,8 @@
    "timestamp": "2026-10-07T12:00:59+0000",
    "type": "VIDEO",
    "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.",
-   "views": 1340,
-   "likes": 12,
+   "views": 1383,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4110,8 +4115,8 @@
    "timestamp": "2026-10-07T11:31:02+0000",
    "type": "VIDEO",
    "caption": "You hit your $300 goal by 10:15. You kept trading. The day closed at −$450.",
-   "views": 578,
-   "likes": 5,
+   "views": 647,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -4121,7 +4126,7 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 1308,
+   "views": 1320,
    "likes": 29,
    "comments": 1
   },
@@ -4132,7 +4137,7 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1430,
+   "views": 1439,
    "likes": 22,
    "comments": 5
   },
@@ -4143,7 +4148,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1656,
+   "views": 1660,
    "likes": 10,
    "comments": 1
   },
@@ -4154,7 +4159,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2751,
+   "views": 2771,
    "likes": 16,
    "comments": 1
   },
@@ -4165,7 +4170,7 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1827,
+   "views": 1848,
    "likes": 15,
    "comments": 1
   },
@@ -4176,7 +4181,7 @@
    "timestamp": "2026-10-06T02:31:32+0000",
    "type": "VIDEO",
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
-   "views": 1394,
+   "views": 1396,
    "likes": 15,
    "comments": 1
   },
@@ -4187,7 +4192,7 @@
    "timestamp": "2026-10-05T23:00:40+0000",
    "type": "VIDEO",
    "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 1554,
+   "views": 1555,
    "likes": 13,
    "comments": 1
   },
@@ -4198,7 +4203,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4292,
+   "views": 4303,
    "likes": 82,
    "comments": 70
   },
@@ -4209,7 +4214,7 @@
    "timestamp": "2026-10-05T17:00:39+0000",
    "type": "VIDEO",
    "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 78,
+   "views": 81,
    "likes": 6,
    "comments": 1
   },
@@ -4220,7 +4225,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3459,
+   "views": 3460,
    "likes": 36,
    "comments": 1
   },
@@ -4352,7 +4357,7 @@
    "timestamp": "2026-10-03T23:31:04+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, and loss number 7 costs $6,400.",
-   "views": 2313,
+   "views": 2314,
    "likes": 29,
    "comments": 2
   },
@@ -4451,7 +4456,7 @@
    "timestamp": "2026-10-03T00:40:51+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. One account has $5,000 left, the other $5,987.",
-   "views": 3667,
+   "views": 3671,
    "likes": 29,
    "comments": 3
   },
