@@ -3646,7 +3646,16 @@
       "container_id": "18111503516136556",
       "media_id": "17873899302594973",
       "permalink": "https://www.instagram.com/reel/DeMeE3CiEbk/",
-      "published_at": "2026-10-07T13:30:45.936Z"
+      "published_at": "2026-10-07T13:30:45.936Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 146,
+        "beitraege_nachher": 146,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T13:31:47.824Z"
+      }
     },
     {
       "id": "test-2026-10-dreimal-nachgekauft",
