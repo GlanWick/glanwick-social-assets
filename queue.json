@@ -3695,7 +3695,16 @@
       "container_id": "18111570506136556",
       "media_id": "17992598625109866",
       "permalink": "https://www.instagram.com/reel/DeNi2epgvCC/",
-      "published_at": "2026-10-07T23:31:44.048Z"
+      "published_at": "2026-10-07T23:31:44.048Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 149,
+        "beitraege_nachher": 149,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-07T23:32:45.960Z"
+      }
     },
     {
       "id": "test-2026-10-zwei-von-drei",
