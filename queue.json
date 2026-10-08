@@ -3610,6 +3610,10 @@
       "views_12h": {
         "views": 390,
         "stunden": 12.23
+      },
+      "views_24h": {
+        "views": 619,
+        "stunden": 24.93
       }
     },
     {
@@ -4200,7 +4204,11 @@
         "verdacht": false,
         "at": "2026-10-08T07:32:21.782Z"
       },
-      "kommentar_id": "18118565968943270"
+      "kommentar_id": "18118565968943270",
+      "views_12h": {
+        "views": 1653,
+        "stunden": 12.92
+      }
     },
     {
       "id": "test-2026-10-drei-von-vier",
