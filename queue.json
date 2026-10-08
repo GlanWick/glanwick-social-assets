@@ -3901,7 +3901,16 @@
       "container_id": "18111664271136556",
       "media_id": "18330452374262934",
       "permalink": "https://www.instagram.com/reel/DePC3gBgob_/",
-      "published_at": "2026-10-08T13:30:51.963Z"
+      "published_at": "2026-10-08T13:30:51.963Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 158,
+        "beitraege_nachher": 158,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T13:31:53.437Z"
+      }
     },
     {
       "id": "test-2026-10-gleiche-strategie",
