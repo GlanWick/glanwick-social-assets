@@ -3938,7 +3938,16 @@
       "container_id": "18111679079136556",
       "media_id": "17935875996392811",
       "permalink": "https://www.instagram.com/reel/DePQpsHET1J/",
-      "published_at": "2026-10-08T15:31:32.333Z"
+      "published_at": "2026-10-08T15:31:32.333Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 159,
+        "beitraege_nachher": 159,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T15:32:33.903Z"
+      }
     },
     {
       "id": "test-2026-10-achtzig-prozent-gefallen",
