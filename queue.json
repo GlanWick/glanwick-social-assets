@@ -818,10 +818,14 @@
       "published_at": "2026-09-16T17:01:51.353Z",
       "container_id": "18108375860136556",
       "tiktok": {
-        "status": "ready",
+        "status": "posting",
         "nr": 22,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-revenge.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-revenge-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-revenge-cover.jpg",
+        "gestartet_at": "2026-10-08T17:41:06.919Z",
+        "stand": "2026-10-08T17:41:06.919Z",
+        "versuch": 1,
+        "slot": "2026-10-08T17:00:00.000Z"
       }
     },
     {
