@@ -3534,6 +3534,10 @@
       "views_12h": {
         "views": 1730,
         "stunden": 12.39
+      },
+      "views_24h": {
+        "views": 1827,
+        "stunden": 24.08
       }
     },
     {
@@ -3831,7 +3835,11 @@
         "verdacht": false,
         "at": "2026-10-08T03:32:43.265Z"
       },
-      "kommentar_id": "18118416775885189"
+      "kommentar_id": "18118416775885189",
+      "views_12h": {
+        "views": 1743,
+        "stunden": 12.07
+      }
     },
     {
       "id": "test-2026-10-hundert-auf-zehntausend",
