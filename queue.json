@@ -4204,7 +4204,7 @@
     {
       "id": "test-2026-10-oben-nachgelegt",
       "slug": "stickman-addedtop",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addedtop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addedtop-cover.jpg",
@@ -4214,7 +4214,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema Aufstocken im Gewinn (Einstand wandert nach oben)"
-      }
+      },
+      "posting_started_at": "2026-10-08T17:30:17.290Z"
     },
     {
       "id": "test-2026-10-dreissig-trades",
