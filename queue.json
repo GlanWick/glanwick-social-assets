@@ -4010,7 +4010,11 @@
         "verdacht": false,
         "at": "2026-10-07T21:32:17.723Z"
       },
-      "kommentar_id": "18118118044782583"
+      "kommentar_id": "18118118044782583",
+      "views_12h": {
+        "views": 1165,
+        "stunden": 12.24
+      }
     },
     {
       "id": "test-2026-10-bester-tag",
