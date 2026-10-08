@@ -4087,7 +4087,16 @@
       "container_id": "18111635723136556",
       "media_id": "18098737322385335",
       "permalink": "https://www.instagram.com/reel/DeOncD9EnHF/",
-      "published_at": "2026-10-08T09:31:01.228Z"
+      "published_at": "2026-10-08T09:31:01.228Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 154,
+        "beitraege_nachher": 154,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T09:32:03.141Z"
+      }
     },
     {
       "id": "test-2026-10-oben-nachgelegt",
