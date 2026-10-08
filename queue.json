@@ -4003,7 +4003,7 @@
     {
       "id": "test-2026-10-bester-tag",
       "slug": "stickman-bestday",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday-cover.jpg",
@@ -4014,7 +4014,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage screenshot (No. 58) mit neuen Zahlen"
       },
-      "posting_started_at": "2026-10-08T05:30:20.688Z"
+      "container_id": "18111607529136556",
+      "media_id": "17906004306569218",
+      "permalink": "https://www.instagram.com/reel/DeOMAKum8m2/",
+      "published_at": "2026-10-08T05:31:22.126Z"
     },
     {
       "id": "test-2026-10-vierzig-prozent-im-monat",
