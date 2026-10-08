@@ -4087,6 +4087,10 @@
       "views_12h": {
         "views": 349,
         "stunden": 12.22
+      },
+      "views_24h": {
+        "views": 389,
+        "stunden": 24.92
       }
     },
     {
@@ -4149,7 +4153,11 @@
         "verdacht": false,
         "at": "2026-10-08T05:32:23.928Z"
       },
-      "kommentar_id": "18641768350042156"
+      "kommentar_id": "18641768350042156",
+      "views_12h": {
+        "views": 1600,
+        "stunden": 12.91
+      }
     },
     {
       "id": "test-2026-10-vierzig-prozent-im-monat",
