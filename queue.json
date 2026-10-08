@@ -4088,7 +4088,16 @@
       "container_id": "18111726551136556",
       "media_id": "18126678334649609",
       "permalink": "https://www.instagram.com/reel/DeQHiSGimgf/",
-      "published_at": "2026-10-08T23:30:46.288Z"
+      "published_at": "2026-10-08T23:30:46.288Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 162,
+        "beitraege_nachher": 162,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T23:31:47.773Z"
+      }
     },
     {
       "id": "test-2026-10-zwanzig-verluste",
