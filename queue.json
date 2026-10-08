@@ -4285,7 +4285,16 @@
       "container_id": "18111718073136556",
       "media_id": "17881827669691856",
       "permalink": "https://www.instagram.com/reel/DeP51HtjSBe/",
-      "published_at": "2026-10-08T21:31:03.650Z"
+      "published_at": "2026-10-08T21:31:03.650Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 161,
+        "beitraege_nachher": 161,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T21:32:05.210Z"
+      }
     },
     {
       "id": "test-2026-10-dreifach-fonds",
