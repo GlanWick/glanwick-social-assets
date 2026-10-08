@@ -3586,7 +3586,11 @@
         "verdacht": false,
         "at": "2026-10-07T19:32:06.071Z"
       },
-      "kommentar_id": "18093109175186161"
+      "kommentar_id": "18093109175186161",
+      "views_12h": {
+        "views": 390,
+        "stunden": 12.23
+      }
     },
     {
       "id": "2026-10-08-sieben-verluste",
