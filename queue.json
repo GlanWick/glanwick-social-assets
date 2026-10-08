@@ -3587,7 +3587,7 @@
     {
       "id": "2026-10-08-sieben-verluste",
       "slug": "stickman-halfin7",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfin7.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfin7-cover.jpg",
@@ -3598,7 +3598,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfin7.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfin7-cover.jpg"
       },
-      "posting_started_at": "2026-10-08T02:30:08.413Z"
+      "container_id": "18111587876136556",
+      "media_id": "18056024048592454",
+      "permalink": "https://www.instagram.com/reel/DeN3Vz7jHFk/",
+      "published_at": "2026-10-08T02:30:50.867Z"
     },
     {
       "id": "2026-10-08-plus-200-minus-70",
