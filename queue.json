@@ -4142,6 +4142,10 @@
       "views_12h": {
         "views": 1165,
         "stunden": 12.24
+      },
+      "views_24h": {
+        "views": 1283,
+        "stunden": 24.75
       }
     },
     {
@@ -4237,7 +4241,11 @@
         "verdacht": false,
         "at": "2026-10-08T09:32:03.141Z"
       },
-      "kommentar_id": "17900210736600516"
+      "kommentar_id": "17900210736600516",
+      "views_12h": {
+        "views": 992,
+        "stunden": 12.75
+      }
     },
     {
       "id": "test-2026-10-oben-nachgelegt",
