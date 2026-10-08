@@ -3995,7 +3995,16 @@
       "container_id": "18111704759136556",
       "media_id": "17911955421537488",
       "permalink": "https://www.instagram.com/reel/DePsGnKkpgy/",
-      "published_at": "2026-10-08T19:31:00.597Z"
+      "published_at": "2026-10-08T19:31:00.597Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 160,
+        "beitraege_nachher": 160,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T19:32:02.084Z"
+      }
     },
     {
       "id": "test-2026-10-wochen-zurueck",
