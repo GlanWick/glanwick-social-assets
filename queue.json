@@ -3763,7 +3763,7 @@
     {
       "id": "test-2026-10-dreimal-nachgekauft",
       "slug": "stickman-avgdown3",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgdown3.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgdown3-cover.jpg",
@@ -3773,7 +3773,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage averagedown/boughtmore (No. 18, 62) mit drei Käufen"
-      }
+      },
+      "posting_started_at": "2026-10-08T03:30:08.722Z"
     },
     {
       "id": "test-2026-10-hundert-auf-zehntausend",
