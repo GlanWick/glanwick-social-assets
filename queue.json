@@ -3818,7 +3818,16 @@
       "container_id": "18111646916136556",
       "media_id": "17947074492349196",
       "permalink": "https://www.instagram.com/reel/DeO1LUkjHSF/",
-      "published_at": "2026-10-08T11:31:05.878Z"
+      "published_at": "2026-10-08T11:31:05.878Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 154,
+        "beitraege_nachher": 154,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T11:32:07.244Z"
+      }
     },
     {
       "id": "2026-10-09-verdoppeln-ab-zehn",
