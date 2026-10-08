@@ -3924,7 +3924,7 @@
     {
       "id": "test-2026-10-gleiche-strategie",
       "slug": "stickman-sameedge",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameedge.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameedge-cover.jpg",
@@ -3935,7 +3935,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage luck (No. 35) mit Dollarbeträgen und zwei Tradern"
       },
-      "posting_started_at": "2026-10-08T15:30:12.325Z"
+      "container_id": "18111679079136556",
+      "media_id": "17935875996392811",
+      "permalink": "https://www.instagram.com/reel/DePQpsHET1J/",
+      "published_at": "2026-10-08T15:31:32.333Z"
     },
     {
       "id": "test-2026-10-achtzig-prozent-gefallen",
