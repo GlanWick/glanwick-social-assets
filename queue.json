@@ -3887,7 +3887,7 @@
     {
       "id": "test-2026-10-eroeffnung-zwoelf-prozent",
       "slug": "stickman-gapopen",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gapopen.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-gapopen-cover.jpg",
@@ -3897,7 +3897,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage earningsgap (Testreel 30.09.) mit neuen Zahlen"
-      }
+      },
+      "posting_started_at": "2026-10-08T13:30:01.591Z"
     },
     {
       "id": "test-2026-10-gleiche-strategie",
