@@ -3497,6 +3497,10 @@
       "views_12h": {
         "views": 765,
         "stunden": 12.37
+      },
+      "views_24h": {
+        "views": 860,
+        "stunden": 24.06
       }
     },
     {
@@ -3557,7 +3561,11 @@
       "media_id": "18646649938030905",
       "permalink": "https://www.instagram.com/reel/DeNfT6iDCsi/",
       "published_at": "2026-10-07T23:00:42.810Z",
-      "kommentar_id": "18094071956664231"
+      "kommentar_id": "18094071956664231",
+      "views_12h": {
+        "views": 1751,
+        "stunden": 12.57
+      }
     },
     {
       "id": "test-2026-10-ein-prozent-am-tag",
@@ -3737,7 +3745,11 @@
         "verdacht": false,
         "at": "2026-10-07T23:32:45.960Z"
       },
-      "kommentar_id": "18033710948667625"
+      "kommentar_id": "18033710948667625",
+      "views_12h": {
+        "views": 1806,
+        "stunden": 12.05
+      }
     },
     {
       "id": "test-2026-10-zwei-von-drei",
