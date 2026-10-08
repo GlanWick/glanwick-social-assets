@@ -3677,7 +3677,7 @@
     {
       "id": "2026-10-09-zurueck-auf-null",
       "slug": "stickman-backtoeven",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-backtoeven.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-backtoeven-cover.jpg",
@@ -3687,7 +3687,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-backtoeven.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-backtoeven-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-08T23:00:26.882Z"
     },
     {
       "id": "2026-10-07-gleicher-coin",
