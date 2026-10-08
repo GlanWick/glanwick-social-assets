@@ -3526,7 +3526,11 @@
         "verdacht": false,
         "at": "2026-10-07T15:31:57.529Z"
       },
-      "kommentar_id": "18132703939738889"
+      "kommentar_id": "18132703939738889",
+      "views_12h": {
+        "views": 1730,
+        "stunden": 12.39
+      }
     },
     {
       "id": "2026-10-08-zehnfach-hebel",
