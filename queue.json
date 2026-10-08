@@ -3981,7 +3981,7 @@
     {
       "id": "test-2026-10-achtzig-prozent-gefallen",
       "slug": "stickman-cheap80",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-cheap80.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-cheap80-cover.jpg",
@@ -3992,7 +3992,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema Kauf nach -80 % (Familie drawdown, Krypto)"
       },
-      "posting_started_at": "2026-10-08T19:30:19.541Z"
+      "container_id": "18111704759136556",
+      "media_id": "17911955421537488",
+      "permalink": "https://www.instagram.com/reel/DePsGnKkpgy/",
+      "published_at": "2026-10-08T19:31:00.597Z"
     },
     {
       "id": "test-2026-10-wochen-zurueck",
