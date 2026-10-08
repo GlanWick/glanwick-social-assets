@@ -4054,7 +4054,16 @@
       "container_id": "18111617012136556",
       "media_id": "18382054618226446",
       "permalink": "https://www.instagram.com/reel/DeOZuqfDjks/",
-      "published_at": "2026-10-08T07:31:19.964Z"
+      "published_at": "2026-10-08T07:31:19.964Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 154,
+        "beitraege_nachher": 154,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T07:32:21.782Z"
+      }
     },
     {
       "id": "test-2026-10-drei-von-vier",
