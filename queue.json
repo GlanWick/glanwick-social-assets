@@ -3670,7 +3670,11 @@
       "media_id": "17989197840100599",
       "permalink": "https://www.instagram.com/reel/DeM2UiECW2D/",
       "published_at": "2026-10-07T17:02:38.690Z",
-      "kommentar_id": "18464962840142508"
+      "kommentar_id": "18464962840142508",
+      "views_12h": {
+        "views": 434,
+        "stunden": 12.69
+      }
     },
     {
       "id": "2026-10-08-gleiche-einstiege",
@@ -3969,7 +3973,11 @@
         "verdacht": false,
         "at": "2026-10-07T17:32:07.004Z"
       },
-      "kommentar_id": "18145598878572074"
+      "kommentar_id": "18145598878572074",
+      "views_12h": {
+        "views": 349,
+        "stunden": 12.22
+      }
     },
     {
       "id": "test-2026-10-acht-gewinner",
