@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-08T16:25:21.197Z",
+ "updated": "2026-10-08T17:25:42.804Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-08T16:25:22.237Z",
+  "checked": "2026-10-08T17:25:43.598Z",
   "reach_days": [
    {
     "day": "2026-10-01",
@@ -34,13 +34,13 @@
     "reach": 14696
    }
   ],
-  "avg_watch_last_reels": 14
+  "avg_watch_last_reels": 11.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 343,
-  "media_count": 159
+  "media_count": 160
  },
  "history": [
   {
@@ -4192,9 +4192,25 @@
    "ts": "2026-10-08T16:25:21.197Z",
    "followers": 343,
    "media_count": 159
+  },
+  {
+   "ts": "2026-10-08T17:25:42.804Z",
+   "followers": 343,
+   "media_count": 160
   }
  ],
  "posts": [
+  {
+   "id": "18102574673317577",
+   "slug": "stickman-sameentries",
+   "permalink": "https://www.instagram.com/reel/DePa67FDQo1/",
+   "timestamp": "2026-10-08T17:00:45+0000",
+   "type": "VIDEO",
+   "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
+   "views": 35,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17935875996392811",
    "slug": "stickman-sameedge",
@@ -4202,8 +4218,8 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 158,
-   "likes": 2,
+   "views": 587,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -4213,8 +4229,8 @@
    "timestamp": "2026-10-08T13:30:44+0000",
    "type": "VIDEO",
    "caption": "Your stop said −$300. The stock opened 12 % lower. You lost $1,200.",
-   "views": 150,
-   "likes": 1,
+   "views": 181,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -4224,8 +4240,8 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 2077,
-   "likes": 27,
+   "views": 2117,
+   "likes": 28,
    "comments": 1
   },
   {
@@ -4235,8 +4251,8 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1511,
-   "likes": 17,
+   "views": 1526,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -4246,7 +4262,7 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 744,
+   "views": 791,
    "likes": 6,
    "comments": 1
   },
@@ -4257,7 +4273,7 @@
    "timestamp": "2026-10-08T07:31:13+0000",
    "type": "VIDEO",
    "caption": "You want $2,000 a month from a $5,000 account. That's +40 % a month.",
-   "views": 1627,
+   "views": 1634,
    "likes": 7,
    "comments": 1
   },
@@ -4268,7 +4284,7 @@
    "timestamp": "2026-10-08T05:31:15+0000",
    "type": "VIDEO",
    "caption": "He posted his best day: +$2,000. His month closed at −$1,100.",
-   "views": 1579,
+   "views": 1586,
    "likes": 8,
    "comments": 1
   },
@@ -4279,7 +4295,7 @@
    "timestamp": "2026-10-08T03:31:33+0000",
    "type": "VIDEO",
    "caption": "You bought at $100, at $80 and at $60. Your average is $80. The stock is at $50.",
-   "views": 1755,
+   "views": 1766,
    "likes": 10,
    "comments": 1
   },
@@ -4290,7 +4306,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 2045,
+   "views": 2052,
    "likes": 32,
    "comments": 1
   },
@@ -4301,7 +4317,7 @@
    "timestamp": "2026-10-08T01:30:41+0000",
    "type": "VIDEO",
    "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.",
-   "views": 1507,
+   "views": 1509,
    "likes": 12,
    "comments": 1
   },
@@ -4312,7 +4328,7 @@
    "timestamp": "2026-10-07T23:31:35+0000",
    "type": "VIDEO",
    "caption": "20 green days at +$50. One red day at −$1,200. The month is down $200.",
-   "views": 1856,
+   "views": 1860,
    "likes": 14,
    "comments": 1
   },
@@ -4323,8 +4339,8 @@
    "timestamp": "2026-10-07T23:00:35+0000",
    "type": "VIDEO",
    "caption": "The price fell 10 % and came back the same day. At 10x leverage, your $1,000 did",
-   "views": 1823,
-   "likes": 10,
+   "views": 1827,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4334,7 +4350,7 @@
    "timestamp": "2026-10-07T21:31:08+0000",
    "type": "VIDEO",
    "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.",
-   "views": 1246,
+   "views": 1254,
    "likes": 17,
    "comments": 1
   },
@@ -4345,8 +4361,8 @@
    "timestamp": "2026-10-07T19:30:56+0000",
    "type": "VIDEO",
    "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
-   "views": 565,
-   "likes": 20,
+   "views": 583,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -4356,7 +4372,7 @@
    "timestamp": "2026-10-07T17:30:58+0000",
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
-   "views": 384,
+   "views": 387,
    "likes": 23,
    "comments": 3
   },
@@ -4367,7 +4383,7 @@
    "timestamp": "2026-10-07T17:02:32+0000",
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
-   "views": 505,
+   "views": 512,
    "likes": 12,
    "comments": 1
   },
@@ -4378,7 +4394,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1831,
+   "views": 1842,
    "likes": 21,
    "comments": 1
   },
@@ -4455,7 +4471,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2934,
+   "views": 2938,
    "likes": 16,
    "comments": 1
   },
@@ -4466,8 +4482,8 @@
    "timestamp": "2026-10-06T12:00:55+0000",
    "type": "VIDEO",
    "caption": "One −30 % month erased 36 weeks of +1 % a week.",
-   "views": 1876,
-   "likes": 15,
+   "views": 1878,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -4499,8 +4515,8 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4346,
-   "likes": 85,
+   "views": 4348,
+   "likes": 86,
    "comments": 70
   },
   {
@@ -4521,7 +4537,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3479,
+   "views": 3480,
    "likes": 36,
    "comments": 1
   },
@@ -4622,17 +4638,6 @@
    "caption": "Your winner ran to +$400. You took +$200.",
    "views": 1755,
    "likes": 13,
-   "comments": 1
-  },
-  {
-   "id": "18109036010167790",
-   "slug": "stickman-rightloss",
-   "permalink": "https://www.instagram.com/reel/DeDfBaPDmCx/",
-   "timestamp": "2026-10-04T01:45:46+0000",
-   "type": "VIDEO",
-   "caption": "You followed your plan and lost $200. It was still the right trade.",
-   "views": 811,
-   "likes": 21,
    "comments": 1
   }
  ]
