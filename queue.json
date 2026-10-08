@@ -4017,7 +4017,16 @@
       "container_id": "18111607529136556",
       "media_id": "17906004306569218",
       "permalink": "https://www.instagram.com/reel/DeOMAKum8m2/",
-      "published_at": "2026-10-08T05:31:22.126Z"
+      "published_at": "2026-10-08T05:31:22.126Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 150,
+        "beitraege_nachher": 150,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T05:32:23.928Z"
+      }
     },
     {
       "id": "test-2026-10-vierzig-prozent-im-monat",
