@@ -3794,6 +3794,10 @@
       "views_12h": {
         "views": 1747,
         "stunden": 12.38
+      },
+      "views_24h": {
+        "views": 1944,
+        "stunden": 24.08
       }
     },
     {
@@ -3970,7 +3974,11 @@
         "verdacht": false,
         "at": "2026-10-08T01:31:49.345Z"
       },
-      "kommentar_id": "18209979634368304"
+      "kommentar_id": "18209979634368304",
+      "views_12h": {
+        "views": 1483,
+        "stunden": 12.08
+      }
     },
     {
       "id": "test-2026-10-fuenfzig-trades",
