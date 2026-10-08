@@ -3852,7 +3852,7 @@
     {
       "id": "test-2026-10-wochen-zurueck",
       "slug": "stickman-timeback",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-timeback.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-timeback-cover.jpg",
@@ -3863,7 +3863,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage recovery (No. 33) mit Wochen statt Monaten und zwei Verlustgrößen"
       },
-      "posting_started_at": "2026-10-08T01:30:07.075Z"
+      "container_id": "18111582299136556",
+      "media_id": "17867840271661630",
+      "permalink": "https://www.instagram.com/reel/DeNweS3j_nu/",
+      "published_at": "2026-10-08T01:30:47.583Z"
     },
     {
       "id": "test-2026-10-fuenfzig-trades",
