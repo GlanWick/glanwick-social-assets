@@ -3804,7 +3804,7 @@
     {
       "id": "test-2026-10-hundert-auf-zehntausend",
       "slug": "stickman-flip100",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-flip100.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-flip100-cover.jpg",
@@ -3814,7 +3814,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema Konto-Flip (Glück mit Dollarbetrag, Familie evalluck)"
-      }
+      },
+      "posting_started_at": "2026-10-08T11:30:28.378Z"
     },
     {
       "id": "2026-10-09-verdoppeln-ab-zehn",
