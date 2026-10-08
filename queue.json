@@ -4218,7 +4218,16 @@
       "container_id": "18111692786136556",
       "media_id": "18464974564188050",
       "permalink": "https://www.instagram.com/reel/DePeWnEj3gL/",
-      "published_at": "2026-10-08T17:30:57.224Z"
+      "published_at": "2026-10-08T17:30:57.224Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 160,
+        "beitraege_nachher": 160,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T17:31:58.796Z"
+      }
     },
     {
       "id": "test-2026-10-dreissig-trades",
