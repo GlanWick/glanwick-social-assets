@@ -4073,7 +4073,7 @@
     {
       "id": "test-2026-10-drei-von-vier",
       "slug": "stickman-onethree",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethree.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethree-cover.jpg",
@@ -4083,7 +4083,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema Trefferquote bei 1:3 (Abstand von Stop und Ziel)"
-      }
+      },
+      "posting_started_at": "2026-10-08T09:30:18.892Z"
     },
     {
       "id": "test-2026-10-oben-nachgelegt",
