@@ -4271,7 +4271,7 @@
     {
       "id": "test-2026-10-dreissig-trades",
       "slug": "stickman-coin30",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin30.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin30-cover.jpg",
@@ -4282,7 +4282,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage samplesize (No. 26, 23 Saves) mit Dollarbetrag"
       },
-      "posting_started_at": "2026-10-08T21:30:23.125Z"
+      "container_id": "18111718073136556",
+      "media_id": "17881827669691856",
+      "permalink": "https://www.instagram.com/reel/DeP51HtjSBe/",
+      "published_at": "2026-10-08T21:31:03.650Z"
     },
     {
       "id": "test-2026-10-dreifach-fonds",
