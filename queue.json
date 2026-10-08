@@ -4003,7 +4003,7 @@
     {
       "id": "test-2026-10-bester-tag",
       "slug": "stickman-bestday",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bestday-cover.jpg",
@@ -4013,7 +4013,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage screenshot (No. 58) mit neuen Zahlen"
-      }
+      },
+      "posting_started_at": "2026-10-08T05:30:20.688Z"
     },
     {
       "id": "test-2026-10-vierzig-prozent-im-monat",
