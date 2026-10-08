@@ -3711,7 +3711,7 @@
     {
       "id": "2026-10-08-gleiche-einstiege",
       "slug": "stickman-sameentries",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameentries.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameentries-cover.jpg",
@@ -3721,7 +3721,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameentries.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameentries-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-08T17:00:11.847Z"
     },
     {
       "id": "2026-10-09-sechs-gewinne-vierzig-prozent",
