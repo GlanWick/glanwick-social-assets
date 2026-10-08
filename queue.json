@@ -3630,7 +3630,7 @@
     {
       "id": "2026-10-08-plus-200-minus-70",
       "slug": "stickman-up200",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up200.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up200-cover.jpg",
@@ -3640,7 +3640,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up200.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up200-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-08T12:00:01.417Z"
     },
     {
       "id": "2026-10-09-zurueck-auf-null",
