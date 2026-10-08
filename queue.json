@@ -4074,7 +4074,7 @@
     {
       "id": "test-2026-10-fuenfhundert-unter-start",
       "slug": "stickman-trailing500",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-08T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-trailing500.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-trailing500-cover.jpg",
@@ -4085,7 +4085,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage trailing (No. 45) mit kleinerem Konto und dem Endstand im Hook"
       },
-      "posting_started_at": "2026-10-08T23:30:06.255Z"
+      "container_id": "18111726551136556",
+      "media_id": "18126678334649609",
+      "permalink": "https://www.instagram.com/reel/DeQHiSGimgf/",
+      "published_at": "2026-10-08T23:30:46.288Z"
     },
     {
       "id": "test-2026-10-zwanzig-verluste",
