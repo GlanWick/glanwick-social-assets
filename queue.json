@@ -4040,7 +4040,7 @@
     {
       "id": "test-2026-10-vierzig-prozent-im-monat",
       "slug": "stickman-goal40",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-08T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-goal40.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-goal40-cover.jpg",
@@ -4050,7 +4050,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage incomegoal (Testreel 04.10.) mit kleinerem Konto"
-      }
+      },
+      "posting_started_at": "2026-10-08T07:30:19.498Z"
     },
     {
       "id": "test-2026-10-drei-von-vier",
