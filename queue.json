@@ -3777,7 +3777,16 @@
       "container_id": "18111594644136556",
       "media_id": "17923681809428270",
       "permalink": "https://www.instagram.com/reel/DeN-TkNEjgo/",
-      "published_at": "2026-10-08T03:31:41.763Z"
+      "published_at": "2026-10-08T03:31:41.763Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 150,
+        "beitraege_nachher": 150,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-08T03:32:43.265Z"
+      }
     },
     {
       "id": "test-2026-10-hundert-auf-zehntausend",
