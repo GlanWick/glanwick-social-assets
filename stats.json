@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-08T13:35:34.067Z",
+ "updated": "2026-10-08T14:35:42.346Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-08T13:35:35.235Z",
+  "checked": "2026-10-08T14:35:43.405Z",
   "reach_days": [
    {
     "day": "2026-10-01",
@@ -4177,6 +4177,11 @@
    "ts": "2026-10-08T13:35:34.067Z",
    "followers": 343,
    "media_count": 158
+  },
+  {
+   "ts": "2026-10-08T14:35:42.346Z",
+   "followers": 343,
+   "media_count": 158
   }
  ],
  "posts": [
@@ -4187,8 +4192,8 @@
    "timestamp": "2026-10-08T13:30:44+0000",
    "type": "VIDEO",
    "caption": "Your stop said −$300. The stock opened 12 % lower. You lost $1,200.",
-   "views": 0,
-   "likes": 0,
+   "views": 130,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -4198,8 +4203,8 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 1640,
-   "likes": 25,
+   "views": 1807,
+   "likes": 27,
    "comments": 1
   },
   {
@@ -4209,8 +4214,8 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 799,
-   "likes": 7,
+   "views": 1246,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -4220,8 +4225,8 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 512,
-   "likes": 3,
+   "views": 597,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -4231,7 +4236,7 @@
    "timestamp": "2026-10-08T07:31:13+0000",
    "type": "VIDEO",
    "caption": "You want $2,000 a month from a $5,000 account. That's +40 % a month.",
-   "views": 1558,
+   "views": 1600,
    "likes": 7,
    "comments": 1
   },
@@ -4242,7 +4247,7 @@
    "timestamp": "2026-10-08T05:31:15+0000",
    "type": "VIDEO",
    "caption": "He posted his best day: +$2,000. His month closed at −$1,100.",
-   "views": 1551,
+   "views": 1563,
    "likes": 8,
    "comments": 1
   },
@@ -4253,7 +4258,7 @@
    "timestamp": "2026-10-08T03:31:33+0000",
    "type": "VIDEO",
    "caption": "You bought at $100, at $80 and at $60. Your average is $80. The stock is at $50.",
-   "views": 1669,
+   "views": 1725,
    "likes": 9,
    "comments": 1
   },
@@ -4264,7 +4269,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 1986,
+   "views": 2014,
    "likes": 31,
    "comments": 1
   },
@@ -4275,7 +4280,7 @@
    "timestamp": "2026-10-08T01:30:41+0000",
    "type": "VIDEO",
    "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.",
-   "views": 1483,
+   "views": 1494,
    "likes": 12,
    "comments": 1
   },
@@ -4286,7 +4291,7 @@
    "timestamp": "2026-10-07T23:31:35+0000",
    "type": "VIDEO",
    "caption": "20 green days at +$50. One red day at −$1,200. The month is down $200.",
-   "views": 1840,
+   "views": 1848,
    "likes": 14,
    "comments": 1
   },
@@ -4297,7 +4302,7 @@
    "timestamp": "2026-10-07T23:00:35+0000",
    "type": "VIDEO",
    "caption": "The price fell 10 % and came back the same day. At 10x leverage, your $1,000 did",
-   "views": 1795,
+   "views": 1807,
    "likes": 10,
    "comments": 1
   },
@@ -4308,7 +4313,7 @@
    "timestamp": "2026-10-07T21:31:08+0000",
    "type": "VIDEO",
    "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.",
-   "views": 1224,
+   "views": 1233,
    "likes": 16,
    "comments": 1
   },
@@ -4319,7 +4324,7 @@
    "timestamp": "2026-10-07T19:30:56+0000",
    "type": "VIDEO",
    "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
-   "views": 489,
+   "views": 496,
    "likes": 19,
    "comments": 1
   },
@@ -4330,7 +4335,7 @@
    "timestamp": "2026-10-07T17:30:58+0000",
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
-   "views": 380,
+   "views": 381,
    "likes": 23,
    "comments": 3
   },
@@ -4341,7 +4346,7 @@
    "timestamp": "2026-10-07T17:02:32+0000",
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
-   "views": 487,
+   "views": 491,
    "likes": 12,
    "comments": 1
   },
@@ -4352,7 +4357,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1814,
+   "views": 1816,
    "likes": 21,
    "comments": 1
   },
@@ -4363,7 +4368,7 @@
    "timestamp": "2026-10-07T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Risk $100 to make $50, and you need 2 wins out of 3 just to break even.",
-   "views": 1944,
+   "views": 1947,
    "likes": 25,
    "comments": 1
   },
@@ -4374,7 +4379,7 @@
    "timestamp": "2026-10-07T12:00:59+0000",
    "type": "VIDEO",
    "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.",
-   "views": 1468,
+   "views": 1469,
    "likes": 14,
    "comments": 1
   },
@@ -4396,7 +4401,7 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 1383,
+   "views": 1384,
    "likes": 29,
    "comments": 1
   },
@@ -4418,7 +4423,7 @@
    "timestamp": "2026-10-06T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Lose 5 % a month, and half of your $10,000 is gone in 14 months.",
-   "views": 1679,
+   "views": 1680,
    "likes": 11,
    "comments": 1
   },
@@ -4429,7 +4434,7 @@
    "timestamp": "2026-10-06T17:00:47+0000",
    "type": "VIDEO",
    "caption": "Win 5 %, lose 5 %, every week. A year later, your $10,000 is $8,780.",
-   "views": 2915,
+   "views": 2922,
    "likes": 16,
    "comments": 1
   },
@@ -4473,7 +4478,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4344,
+   "views": 4346,
    "likes": 85,
    "comments": 70
   },
@@ -4583,7 +4588,7 @@
    "timestamp": "2026-10-04T11:32:27+0000",
    "type": "VIDEO",
    "caption": "He made $400 on the trade. You copied it and made $200.",
-   "views": 3952,
+   "views": 3954,
    "likes": 50,
    "comments": 1
   },
