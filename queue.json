@@ -4438,6 +4438,10 @@
       "views_12h": {
         "views": 1445,
         "stunden": 12.6
+      },
+      "views_24h": {
+        "views": 1829,
+        "stunden": 24.29
       }
     },
     {
@@ -4533,7 +4537,11 @@
         "verdacht": false,
         "at": "2026-10-09T05:32:02.671Z"
       },
-      "kommentar_id": "18101557487575652"
+      "kommentar_id": "18101557487575652",
+      "views_12h": {
+        "views": 2824,
+        "stunden": 12.29
+      }
     },
     {
       "id": "test-2026-10-bestaetigung-kostet",
