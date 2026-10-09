@@ -4421,7 +4421,7 @@
     {
       "id": "test-2026-10-zehn-in-folge",
       "slug": "stickman-riskten",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskten.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-riskten-cover.jpg",
@@ -4431,7 +4431,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage riskstreak (No. 28) mit zwei Risiken und Dollarbetraegen"
-      }
+      },
+      "posting_started_at": "2026-10-09T05:30:30.276Z"
     },
     {
       "id": "test-2026-10-bestaetigung-kostet",
