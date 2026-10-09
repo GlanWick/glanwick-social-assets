@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-09T19:49:20.065Z",
+ "updated": "2026-10-09T20:49:40.052Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-09T19:49:21.645Z",
+  "checked": "2026-10-09T20:49:41.116Z",
   "reach_days": [
    {
     "day": "2026-10-02",
@@ -34,12 +34,12 @@
     "reach": 16527
    }
   ],
-  "avg_watch_last_reels": 12.5
+  "avg_watch_last_reels": 12.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 366,
+  "followers": 370,
   "media_count": 169
  },
  "history": [
@@ -4332,6 +4332,11 @@
    "ts": "2026-10-09T19:49:20.065Z",
    "followers": 366,
    "media_count": 169
+  },
+  {
+   "ts": "2026-10-09T20:49:40.052Z",
+   "followers": 370,
+   "media_count": 169
   }
  ],
  "posts": [
@@ -4342,8 +4347,8 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 0,
-   "likes": 0,
+   "views": 430,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -4353,8 +4358,8 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 1529,
-   "likes": 18,
+   "views": 2230,
+   "likes": 24,
    "comments": 1
   },
   {
@@ -4364,8 +4369,8 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 581,
-   "likes": 7,
+   "views": 1256,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -4375,8 +4380,8 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 625,
-   "likes": 4,
+   "views": 682,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -4386,8 +4391,8 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 2257,
-   "likes": 31,
+   "views": 2453,
+   "likes": 33,
    "comments": 1
   },
   {
@@ -4397,7 +4402,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 3485,
+   "views": 3884,
    "likes": 17,
    "comments": 2
   },
@@ -4408,8 +4413,8 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 2459,
-   "likes": 10,
+   "views": 2538,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4419,7 +4424,7 @@
    "timestamp": "2026-10-09T09:30:35+0000",
    "type": "VIDEO",
    "caption": "A real edge, 20 trades a month, $100 a trade. 3 months a year still end red.",
-   "views": 1280,
+   "views": 1286,
    "likes": 14,
    "comments": 1
   },
@@ -4430,7 +4435,7 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2128,
+   "views": 2129,
    "likes": 18,
    "comments": 2
   },
@@ -4441,7 +4446,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 2851,
+   "views": 2869,
    "likes": 24,
    "comments": 1
   },
@@ -4452,7 +4457,7 @@
    "timestamp": "2026-10-09T03:30:56+0000",
    "type": "VIDEO",
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
-   "views": 2329,
+   "views": 2330,
    "likes": 6,
    "comments": 1
   },
@@ -4463,7 +4468,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2611,
+   "views": 2617,
    "likes": 16,
    "comments": 1
   },
@@ -4474,7 +4479,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3281,
+   "views": 3315,
    "likes": 37,
    "comments": 2
   },
@@ -4485,7 +4490,7 @@
    "timestamp": "2026-10-08T23:30:39+0000",
    "type": "VIDEO",
    "caption": "Your $50,000 evaluation ended at $49,500. You were down $500.",
-   "views": 1832,
+   "views": 1848,
    "likes": 8,
    "comments": 1
   },
@@ -4496,7 +4501,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2570,
+   "views": 2572,
    "likes": 14,
    "comments": 1
   },
@@ -4507,7 +4512,7 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 2187,
+   "views": 2232,
    "likes": 29,
    "comments": 1
   },
@@ -4529,7 +4534,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 1868,
+   "views": 1890,
    "likes": 13,
    "comments": 1
   },
@@ -4540,7 +4545,7 @@
    "timestamp": "2026-10-08T17:00:45+0000",
    "type": "VIDEO",
    "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
-   "views": 1669,
+   "views": 1670,
    "likes": 29,
    "comments": 1
   },
@@ -4551,7 +4556,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1589,
+   "views": 1590,
    "likes": 24,
    "comments": 1
   },
@@ -4573,7 +4578,7 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 2544,
+   "views": 2547,
    "likes": 31,
    "comments": 1
   },
@@ -4584,7 +4589,7 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1701,
+   "views": 1705,
    "likes": 22,
    "comments": 1
   },
@@ -4595,7 +4600,7 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 1312,
+   "views": 1317,
    "likes": 13,
    "comments": 1
   },
@@ -4639,7 +4644,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 2156,
+   "views": 2158,
    "likes": 35,
    "comments": 1
   },
@@ -4749,7 +4754,7 @@
    "timestamp": "2026-10-07T12:00:59+0000",
    "type": "VIDEO",
    "caption": "You passed the evaluation and made $2,000 in month one. You keep $850.",
-   "views": 1474,
+   "views": 1475,
    "likes": 14,
    "comments": 1
   },
