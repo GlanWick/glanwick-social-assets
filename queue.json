@@ -4435,7 +4435,16 @@
       "container_id": "18111758069136556",
       "media_id": "18121034092935320",
       "permalink": "https://www.instagram.com/reel/DeQwxlyDPl9/",
-      "published_at": "2026-10-09T05:31:00.674Z"
+      "published_at": "2026-10-09T05:31:00.674Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 163,
+        "beitraege_nachher": 163,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T05:32:02.671Z"
+      }
     },
     {
       "id": "test-2026-10-bestaetigung-kostet",
