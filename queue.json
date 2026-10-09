@@ -4675,7 +4675,7 @@
     {
       "id": "test-2026-10-ohne-den-besten",
       "slug": "stickman-besttrade2",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade2.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-besttrade2-cover.jpg",
@@ -4686,7 +4686,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage outlier/besttrade (No. 38, 68) mit neuen Zahlen"
       },
-      "posting_started_at": "2026-10-09T17:30:24.947Z"
+      "container_id": "18111842186136556",
+      "media_id": "18091365242199026",
+      "permalink": "https://www.instagram.com/reel/DeSDKeWlNGA/",
+      "published_at": "2026-10-09T17:31:09.838Z"
     },
     {
       "id": "test-2026-10-elf-gute-monate",
