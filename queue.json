@@ -4532,7 +4532,7 @@
     {
       "id": "test-2026-10-neunhundert-prozent",
       "slug": "stickman-ladder900",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ladder900.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ladder900-cover.jpg",
@@ -4543,7 +4543,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage drawdown/halfgone mit dem Extremfall (90 Prozent)"
       },
-      "posting_started_at": "2026-10-09T11:30:19.700Z"
+      "container_id": "18111793607136556",
+      "media_id": "18150787255551445",
+      "permalink": "https://www.instagram.com/reel/DeRZ9Lok43_/",
+      "published_at": "2026-10-09T11:30:49.131Z"
     },
     {
       "id": "test-2026-10-fuenffache-groesse",
