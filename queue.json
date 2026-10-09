@@ -4509,7 +4509,16 @@
       "container_id": "18111778667136556",
       "media_id": "18212631148363903",
       "permalink": "https://www.instagram.com/reel/DeRMMLCD6sY/",
-      "published_at": "2026-10-09T09:30:44.202Z"
+      "published_at": "2026-10-09T09:30:44.202Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 164,
+        "beitraege_nachher": 164,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T09:31:45.979Z"
+      }
     },
     {
       "id": "test-2026-10-neunhundert-prozent",
