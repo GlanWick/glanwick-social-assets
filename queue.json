@@ -1430,10 +1430,14 @@
       "published_at": "2026-09-25T02:30:49.178Z",
       "container_id": "18109607912136556",
       "tiktok": {
-        "status": "ready",
+        "status": "posting",
         "nr": 23,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-dailyloss.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-dailyloss-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-dailyloss-cover.jpg",
+        "gestartet_at": "2026-10-09T17:41:21.474Z",
+        "stand": "2026-10-09T17:41:21.474Z",
+        "versuch": 1,
+        "slot": "2026-10-09T17:00:00.000Z"
       }
     },
     {
