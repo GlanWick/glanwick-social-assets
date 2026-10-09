@@ -4394,7 +4394,16 @@
       "container_id": "18111748598136556",
       "media_id": "17990505482863221",
       "permalink": "https://www.instagram.com/reel/DeQjCNokcO2/",
-      "published_at": "2026-10-09T03:31:03.792Z"
+      "published_at": "2026-10-09T03:31:03.792Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 163,
+        "beitraege_nachher": 163,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T03:32:05.806Z"
+      }
     },
     {
       "id": "test-2026-10-zehn-in-folge",
