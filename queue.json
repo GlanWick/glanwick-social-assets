@@ -4720,7 +4720,7 @@
     {
       "id": "test-2026-10-elf-gute-monate",
       "slug": "stickman-elevenplus",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenplus.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenplus-cover.jpg",
@@ -4731,7 +4731,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage smoothcurve/elevenmonths (No. 13) in Prozent mit Kontostand"
       },
-      "posting_started_at": "2026-10-09T19:30:17.554Z"
+      "container_id": "18111855986136556",
+      "media_id": "18074623826773860",
+      "permalink": "https://www.instagram.com/reel/DeSQ4jbEkGS/",
+      "published_at": "2026-10-09T19:30:55.558Z"
     },
     {
       "id": "test-2026-10-zwanzig-einstellungen",
