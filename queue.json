@@ -3774,7 +3774,7 @@
     {
       "id": "2026-10-09-sechs-gewinne-vierzig-prozent",
       "slug": "stickman-sixwins40",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixwins40.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixwins40-cover.jpg",
@@ -3784,7 +3784,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixwins40.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixwins40-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-09T17:00:14.745Z"
     },
     {
       "id": "test-2026-10-ein-roter-tag",
