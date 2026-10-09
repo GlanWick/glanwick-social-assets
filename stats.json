@@ -1,16 +1,10 @@
 {
- "updated": "2026-10-08T23:16:27.435Z",
+ "updated": "2026-10-09T00:16:48.018Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.4 s"
-  ],
-  "checked": "2026-10-08T23:16:28.702Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-09T00:16:49.229Z",
   "reach_days": [
-   {
-    "day": "2026-10-01",
-    "reach": 9134
-   },
    {
     "day": "2026-10-02",
     "reach": 8883
@@ -34,9 +28,13 @@
    {
     "day": "2026-10-07",
     "reach": 14696
+   },
+   {
+    "day": "2026-10-08",
+    "reach": 10795
    }
   ],
-  "avg_watch_last_reels": 7.4
+  "avg_watch_last_reels": 11
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4229,9 +4227,25 @@
    "ts": "2026-10-08T23:16:27.435Z",
    "followers": 348,
    "media_count": 162
+  },
+  {
+   "ts": "2026-10-09T00:16:48.018Z",
+   "followers": 348,
+   "media_count": 162
   }
  ],
  "posts": [
+  {
+   "id": "18126678334649609",
+   "slug": "stickman-trailing500",
+   "permalink": "https://www.instagram.com/reel/DeQHiSGimgf/",
+   "timestamp": "2026-10-08T23:30:39+0000",
+   "type": "VIDEO",
+   "caption": "Your $50,000 evaluation ended at $49,500. You were down $500.",
+   "views": 132,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18108602351233886",
    "slug": "stickman-backtoeven",
@@ -4239,8 +4253,8 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 6,
-   "likes": 2,
+   "views": 272,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -4250,8 +4264,8 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 389,
-   "likes": 2,
+   "views": 550,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -4261,7 +4275,7 @@
    "timestamp": "2026-10-08T19:30:52+0000",
    "type": "VIDEO",
    "caption": "The coin was down 80 %, so you bought. Now it's down 90 %. You lost half your mo",
-   "views": 1542,
+   "views": 1549,
    "likes": 8,
    "comments": 1
   },
@@ -4272,7 +4286,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 1176,
+   "views": 1278,
    "likes": 8,
    "comments": 1
   },
@@ -4283,8 +4297,8 @@
    "timestamp": "2026-10-08T17:00:45+0000",
    "type": "VIDEO",
    "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
-   "views": 590,
-   "likes": 11,
+   "views": 687,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4294,7 +4308,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1423,
+   "views": 1445,
    "likes": 24,
    "comments": 1
   },
@@ -4305,7 +4319,7 @@
    "timestamp": "2026-10-08T13:30:44+0000",
    "type": "VIDEO",
    "caption": "Your stop said −$300. The stock opened 12 % lower. You lost $1,200.",
-   "views": 1322,
+   "views": 1359,
    "likes": 13,
    "comments": 1
   },
@@ -4316,7 +4330,7 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 2272,
+   "views": 2305,
    "likes": 30,
    "comments": 1
   },
@@ -4327,7 +4341,7 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1604,
+   "views": 1611,
    "likes": 22,
    "comments": 1
   },
@@ -4338,7 +4352,7 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 1021,
+   "views": 1039,
    "likes": 10,
    "comments": 1
   },
@@ -4371,7 +4385,7 @@
    "timestamp": "2026-10-08T03:31:33+0000",
    "type": "VIDEO",
    "caption": "You bought at $100, at $80 and at $60. Your average is $80. The stock is at $50.",
-   "views": 1805,
+   "views": 1815,
    "likes": 10,
    "comments": 1
   },
@@ -4382,7 +4396,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 2097,
+   "views": 2103,
    "likes": 34,
    "comments": 1
   },
@@ -4404,7 +4418,7 @@
    "timestamp": "2026-10-07T23:31:35+0000",
    "type": "VIDEO",
    "caption": "20 green days at +$50. One red day at −$1,200. The month is down $200.",
-   "views": 1876,
+   "views": 1879,
    "likes": 15,
    "comments": 1
   },
@@ -4426,7 +4440,7 @@
    "timestamp": "2026-10-07T21:31:08+0000",
    "type": "VIDEO",
    "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.",
-   "views": 1288,
+   "views": 1289,
    "likes": 19,
    "comments": 1
   },
@@ -4437,7 +4451,7 @@
    "timestamp": "2026-10-07T19:30:56+0000",
    "type": "VIDEO",
    "caption": "1 % a day sounds modest. Over a trading year, that's +1,103 %.",
-   "views": 628,
+   "views": 645,
    "likes": 22,
    "comments": 1
   },
@@ -4470,7 +4484,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1868,
+   "views": 1870,
    "likes": 21,
    "comments": 1
   },
@@ -4481,7 +4495,7 @@
    "timestamp": "2026-10-07T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Risk $100 to make $50, and you need 2 wins out of 3 just to break even.",
-   "views": 1970,
+   "views": 1971,
    "likes": 26,
    "comments": 1
   },
@@ -4591,7 +4605,7 @@
    "timestamp": "2026-10-05T22:25:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4357,
+   "views": 4359,
    "likes": 86,
    "comments": 70
   },
@@ -4613,7 +4627,7 @@
    "timestamp": "2026-10-05T12:00:38+0000",
    "type": "VIDEO",
    "caption": "Lose 2 % a day for 10 days, and your $10,000 is $8,171.",
-   "views": 3489,
+   "views": 3490,
    "likes": 36,
    "comments": 1
   },
@@ -4659,17 +4673,6 @@
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
    "views": 1686,
    "likes": 19,
-   "comments": 1
-  },
-  {
-   "id": "18106453936956386",
-   "slug": "stickman-hourlywage",
-   "permalink": "https://www.instagram.com/reel/DeE9axUjAtf/",
-   "timestamp": "2026-10-04T15:30:38+0000",
-   "type": "VIDEO",
-   "caption": "You traded 5 hours a day for a month and made $400.",
-   "views": 677,
-   "likes": 9,
    "comments": 1
   }
  ]
