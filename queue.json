@@ -3703,7 +3703,11 @@
       "media_id": "18108602351233886",
       "permalink": "https://www.instagram.com/reel/DeQELBBjZmL/",
       "published_at": "2026-10-08T23:01:18.089Z",
-      "kommentar_id": "18106060772610454"
+      "kommentar_id": "18106060772610454",
+      "views_12h": {
+        "views": 2212,
+        "stunden": 12.93
+      }
     },
     {
       "id": "2026-10-07-gleicher-coin",
@@ -3924,6 +3928,10 @@
       "views_12h": {
         "views": 1611,
         "stunden": 12.76
+      },
+      "views_24h": {
+        "views": 1679,
+        "stunden": 24.43
       }
     },
     {
@@ -4160,7 +4168,11 @@
         "verdacht": false,
         "at": "2026-10-08T23:31:47.773Z"
       },
-      "kommentar_id": "18107936147251382"
+      "kommentar_id": "18107936147251382",
+      "views_12h": {
+        "views": 1628,
+        "stunden": 12.44
+      }
     },
     {
       "id": "test-2026-10-zwanzig-verluste",
