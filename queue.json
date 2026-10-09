@@ -4495,7 +4495,7 @@
     {
       "id": "test-2026-10-drei-rote-monate",
       "slug": "stickman-redmonths",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redmonths.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-redmonths-cover.jpg",
@@ -4505,7 +4505,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema rote Monate trotz Vorteil (Streuung mit Dollarbetrag)"
-      }
+      },
+      "posting_started_at": "2026-10-09T09:30:02.060Z"
     },
     {
       "id": "test-2026-10-neunhundert-prozent",
