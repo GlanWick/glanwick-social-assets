@@ -4734,7 +4734,16 @@
       "container_id": "18111855986136556",
       "media_id": "18074623826773860",
       "permalink": "https://www.instagram.com/reel/DeSQ4jbEkGS/",
-      "published_at": "2026-10-09T19:30:55.558Z"
+      "published_at": "2026-10-09T19:30:55.558Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 166,
+        "beitraege_nachher": 166,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T19:31:57.355Z"
+      }
     },
     {
       "id": "test-2026-10-zwanzig-einstellungen",
