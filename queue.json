@@ -4546,7 +4546,16 @@
       "container_id": "18111793607136556",
       "media_id": "18150787255551445",
       "permalink": "https://www.instagram.com/reel/DeRZ9Lok43_/",
-      "published_at": "2026-10-09T11:30:49.131Z"
+      "published_at": "2026-10-09T11:30:49.131Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 164,
+        "beitraege_nachher": 164,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T11:31:50.609Z"
+      }
     },
     {
       "id": "test-2026-10-fuenffache-groesse",
