@@ -4117,6 +4117,10 @@
       "views_12h": {
         "views": 1560,
         "stunden": 12.61
+      },
+      "views_24h": {
+        "views": 1569,
+        "stunden": 24.31
       }
     },
     {
@@ -4570,7 +4574,11 @@
         "verdacht": false,
         "at": "2026-10-09T07:31:49.728Z"
       },
-      "kommentar_id": "18153500005523031"
+      "kommentar_id": "18153500005523031",
+      "views_12h": {
+        "views": 2128,
+        "stunden": 12.31
+      }
     },
     {
       "id": "test-2026-10-drei-rote-monate",
