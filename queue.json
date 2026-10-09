@@ -4794,7 +4794,7 @@
     {
       "id": "2026-10-10-plus-25-minus-20",
       "slug": "stickman-up25",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up25.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up25-cover.jpg",
@@ -4805,7 +4805,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up25.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-up25-cover.jpg"
       },
-      "posting_started_at": "2026-10-09T23:00:09.412Z"
+      "container_id": "18111879092136556",
+      "media_id": "17995270614045987",
+      "permalink": "https://www.instagram.com/reel/DeSo5c8n_9K/",
+      "published_at": "2026-10-09T23:00:53.259Z"
     },
     {
       "id": "2026-10-10-trade-vier-ausgelassen",
