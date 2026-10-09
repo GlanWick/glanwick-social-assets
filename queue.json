@@ -4224,6 +4224,10 @@
       "views_12h": {
         "views": 1628,
         "stunden": 12.44
+      },
+      "views_24h": {
+        "views": 1937,
+        "stunden": 24.13
       }
     },
     {
@@ -4644,7 +4648,11 @@
         "verdacht": false,
         "at": "2026-10-09T11:31:50.609Z"
       },
-      "kommentar_id": "18105352309964136"
+      "kommentar_id": "18105352309964136",
+      "views_12h": {
+        "views": 2825,
+        "stunden": 12.13
+      }
     },
     {
       "id": "test-2026-10-fuenffache-groesse",
