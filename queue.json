@@ -4689,7 +4689,16 @@
       "container_id": "18111842186136556",
       "media_id": "18091365242199026",
       "permalink": "https://www.instagram.com/reel/DeSDKeWlNGA/",
-      "published_at": "2026-10-09T17:31:09.838Z"
+      "published_at": "2026-10-09T17:31:09.838Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 166,
+        "beitraege_nachher": 166,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T17:32:11.477Z"
+      }
     },
     {
       "id": "test-2026-10-elf-gute-monate",
