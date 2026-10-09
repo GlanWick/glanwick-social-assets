@@ -4771,7 +4771,16 @@
       "container_id": "18111870425136556",
       "media_id": "18112572755607255",
       "permalink": "https://www.instagram.com/reel/DeSemJsDSfd/",
-      "published_at": "2026-10-09T21:30:47.142Z"
+      "published_at": "2026-10-09T21:30:47.142Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 169,
+        "beitraege_nachher": 169,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T21:31:48.754Z"
+      }
     },
     {
       "id": "2026-10-10-plus-25-minus-20",
