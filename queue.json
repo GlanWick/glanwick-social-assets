@@ -4061,7 +4061,11 @@
         "verdacht": false,
         "at": "2026-10-08T19:32:02.084Z"
       },
-      "kommentar_id": "18198088510381661"
+      "kommentar_id": "18198088510381661",
+      "views_12h": {
+        "views": 1560,
+        "stunden": 12.61
+      }
     },
     {
       "id": "test-2026-10-wochen-zurueck",
@@ -4300,6 +4304,10 @@
       "views_12h": {
         "views": 1653,
         "stunden": 12.92
+      },
+      "views_24h": {
+        "views": 1683,
+        "stunden": 24.6
       }
     },
     {
