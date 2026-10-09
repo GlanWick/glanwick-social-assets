@@ -4640,7 +4640,16 @@
       "container_id": "18111826631136556",
       "media_id": "18073565486733665",
       "permalink": "https://www.instagram.com/reel/DeR1cICjAbx/",
-      "published_at": "2026-10-09T15:31:09.422Z"
+      "published_at": "2026-10-09T15:31:09.422Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 165,
+        "beitraege_nachher": 165,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T15:32:11.263Z"
+      }
     },
     {
       "id": "test-2026-10-ohne-den-besten",
