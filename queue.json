@@ -4599,7 +4599,16 @@
       "container_id": "18111810764136556",
       "media_id": "18358089709220408",
       "permalink": "https://www.instagram.com/reel/DeRnxyLgN7E/",
-      "published_at": "2026-10-09T13:31:43.176Z"
+      "published_at": "2026-10-09T13:31:43.176Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 165,
+        "beitraege_nachher": 165,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-09T13:32:44.994Z"
+      }
     },
     {
       "id": "test-2026-10-ein-monat-arbeit",
