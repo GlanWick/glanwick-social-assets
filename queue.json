@@ -4626,7 +4626,7 @@
     {
       "id": "test-2026-10-ein-monat-arbeit",
       "slug": "stickman-badweek",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badweek.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-badweek-cover.jpg",
@@ -4637,7 +4637,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage badday (No. 63) mit einem Monat Arbeit im Hook"
       },
-      "posting_started_at": "2026-10-09T15:30:29.064Z"
+      "container_id": "18111826631136556",
+      "media_id": "18073565486733665",
+      "permalink": "https://www.instagram.com/reel/DeR1cICjAbx/",
+      "published_at": "2026-10-09T15:31:09.422Z"
     },
     {
       "id": "test-2026-10-ohne-den-besten",
