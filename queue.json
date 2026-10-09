@@ -3936,7 +3936,7 @@
     {
       "id": "2026-10-09-durchschnitt-plus-fuenf",
       "slug": "stickman-avgmonth",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgmonth.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgmonth-cover.jpg",
@@ -3947,7 +3947,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-avgmonth.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-avgmonth-cover.jpg"
       },
-      "posting_started_at": "2026-10-09T02:30:07.078Z"
+      "container_id": "18111742343136556",
+      "media_id": "18022417427718205",
+      "permalink": "https://www.instagram.com/reel/DeQcIxBAnBZ/",
+      "published_at": "2026-10-09T02:30:47.943Z"
     },
     {
       "id": "test-2026-10-eroeffnung-zwoelf-prozent",
