@@ -4380,7 +4380,7 @@
     {
       "id": "test-2026-10-dreifach-fonds",
       "slug": "stickman-letf3x",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letf3x.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letf3x-cover.jpg",
@@ -4390,7 +4390,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage letf (No. 44) mit Dollarbetraegen und anderen Bildern"
-      }
+      },
+      "posting_started_at": "2026-10-09T03:30:23.045Z"
     },
     {
       "id": "test-2026-10-zehn-in-folge",
