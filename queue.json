@@ -4060,6 +4060,10 @@
       "views_12h": {
         "views": 1489,
         "stunden": 12.58
+      },
+      "views_24h": {
+        "views": 1579,
+        "stunden": 24.27
       }
     },
     {
@@ -4476,7 +4480,11 @@
         "verdacht": false,
         "at": "2026-10-09T03:32:05.806Z"
       },
-      "kommentar_id": "18464144890137962"
+      "kommentar_id": "18464144890137962",
+      "views_12h": {
+        "views": 2305,
+        "stunden": 12.28
+      }
     },
     {
       "id": "test-2026-10-zehn-in-folge",
