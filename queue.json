@@ -4263,6 +4263,10 @@
       "views_12h": {
         "views": 1600,
         "stunden": 12.91
+      },
+      "views_24h": {
+        "views": 1636,
+        "stunden": 24.6
       }
     },
     {
@@ -4358,7 +4362,11 @@
         "verdacht": false,
         "at": "2026-10-08T17:31:58.796Z"
       },
-      "kommentar_id": "18116572127094976"
+      "kommentar_id": "18116572127094976",
+      "views_12h": {
+        "views": 1445,
+        "stunden": 12.6
+      }
     },
     {
       "id": "test-2026-10-dreissig-trades",
