@@ -4585,7 +4585,7 @@
     {
       "id": "test-2026-10-fuenffache-groesse",
       "slug": "stickman-fivesize",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivesize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivesize-cover.jpg",
@@ -4595,7 +4595,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage oneoversized (No. 61, 23 Weiterleitungen) mit neuen Zahlen"
-      }
+      },
+      "posting_started_at": "2026-10-09T13:30:15.205Z"
     },
     {
       "id": "test-2026-10-ein-monat-arbeit",
