@@ -4757,7 +4757,7 @@
     {
       "id": "test-2026-10-zwanzig-einstellungen",
       "slug": "stickman-overfit2",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit2.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-overfit2-cover.jpg",
@@ -4767,7 +4767,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage overfit (No. 16, damals ohne Geld: 360 Aufrufe) mit Dollarbetrag"
-      }
+      },
+      "posting_started_at": "2026-10-09T21:30:07.087Z"
     },
     {
       "id": "2026-10-10-plus-25-minus-20",
