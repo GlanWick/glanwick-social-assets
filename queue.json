@@ -3975,7 +3975,11 @@
         "verdacht": false,
         "at": "2026-10-08T13:31:53.437Z"
       },
-      "kommentar_id": "17874048675593466"
+      "kommentar_id": "17874048675593466",
+      "views_12h": {
+        "views": 1397,
+        "stunden": 12.77
+      }
     },
     {
       "id": "test-2026-10-gleiche-strategie",
@@ -4066,6 +4070,10 @@
       "views_12h": {
         "views": 1483,
         "stunden": 12.08
+      },
+      "views_24h": {
+        "views": 1534,
+        "stunden": 24.77
       }
     },
     {
