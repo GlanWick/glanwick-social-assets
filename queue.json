@@ -4071,7 +4071,7 @@
     {
       "id": "test-2026-10-fuenfzig-trades",
       "slug": "stickman-edge20",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-09T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge20.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge20-cover.jpg",
@@ -4081,7 +4081,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage hole300 (No. 55) mit einem Verlusttag"
-      }
+      },
+      "posting_started_at": "2026-10-09T01:30:07.316Z"
     },
     {
       "id": "test-2026-10-fuenfhundert-unter-start",
