@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-09T11:57:09.473Z",
+ "updated": "2026-10-09T12:57:28.588Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-09T11:57:10.452Z",
+  "checked": "2026-10-09T12:57:29.852Z",
   "reach_days": [
    {
     "day": "2026-10-02",
@@ -34,13 +34,13 @@
     "reach": 16516
    }
   ],
-  "avg_watch_last_reels": 13.3
+  "avg_watch_last_reels": 12.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 356,
-  "media_count": 164
+  "followers": 357,
+  "media_count": 165
  },
  "history": [
   {
@@ -4292,9 +4292,25 @@
    "ts": "2026-10-09T11:57:09.473Z",
    "followers": 356,
    "media_count": 164
+  },
+  {
+   "ts": "2026-10-09T12:57:28.588Z",
+   "followers": 357,
+   "media_count": 165
   }
  ],
  "posts": [
+  {
+   "id": "18149697358504969",
+   "slug": "stickman-double10",
+   "permalink": "https://www.instagram.com/reel/DeRdYNQDULS/",
+   "timestamp": "2026-10-09T12:00:48+0000",
+   "type": "VIDEO",
+   "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
+   "views": 183,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18150787255551445",
    "slug": "stickman-ladder900",
@@ -4302,8 +4318,8 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 46,
-   "likes": 0,
+   "views": 591,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -4313,8 +4329,8 @@
    "timestamp": "2026-10-09T09:30:35+0000",
    "type": "VIDEO",
    "caption": "A real edge, 20 trades a month, $100 a trade. 3 months a year still end red.",
-   "views": 778,
-   "likes": 10,
+   "views": 1103,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4324,8 +4340,8 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 1646,
-   "likes": 12,
+   "views": 1822,
+   "likes": 15,
    "comments": 2
   },
   {
@@ -4335,8 +4351,8 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 2577,
-   "likes": 21,
+   "views": 2650,
+   "likes": 22,
    "comments": 1
   },
   {
@@ -4346,8 +4362,8 @@
    "timestamp": "2026-10-09T03:30:56+0000",
    "type": "VIDEO",
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
-   "views": 2079,
-   "likes": 5,
+   "views": 2173,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -4357,7 +4373,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2564,
+   "views": 2576,
    "likes": 16,
    "comments": 1
   },
@@ -4368,7 +4384,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 2833,
+   "views": 2857,
    "likes": 36,
    "comments": 1
   },
@@ -4379,8 +4395,8 @@
    "timestamp": "2026-10-08T23:30:39+0000",
    "type": "VIDEO",
    "caption": "Your $50,000 evaluation ended at $49,500. You were down $500.",
-   "views": 1628,
-   "likes": 6,
+   "views": 1671,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -4390,8 +4406,8 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2212,
-   "likes": 13,
+   "views": 2363,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -4401,7 +4417,7 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 1710,
+   "views": 1760,
    "likes": 20,
    "comments": 1
   },
@@ -4423,7 +4439,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 1638,
+   "views": 1655,
    "likes": 12,
    "comments": 1
   },
@@ -4434,7 +4450,7 @@
    "timestamp": "2026-10-08T17:00:45+0000",
    "type": "VIDEO",
    "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
-   "views": 1477,
+   "views": 1509,
    "likes": 28,
    "comments": 1
   },
@@ -4445,7 +4461,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1557,
+   "views": 1566,
    "likes": 24,
    "comments": 1
   },
@@ -4467,7 +4483,7 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 2469,
+   "views": 2477,
    "likes": 31,
    "comments": 1
   },
@@ -4478,7 +4494,7 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1679,
+   "views": 1686,
    "likes": 22,
    "comments": 1
   },
@@ -4489,7 +4505,7 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 1237,
+   "views": 1252,
    "likes": 11,
    "comments": 1
   },
@@ -4500,7 +4516,7 @@
    "timestamp": "2026-10-08T07:31:13+0000",
    "type": "VIDEO",
    "caption": "You want $2,000 a month from a $5,000 account. That's +40 % a month.",
-   "views": 1683,
+   "views": 1684,
    "likes": 9,
    "comments": 1
   },
@@ -4511,7 +4527,7 @@
    "timestamp": "2026-10-08T05:31:15+0000",
    "type": "VIDEO",
    "caption": "He posted his best day: +$2,000. His month closed at −$1,100.",
-   "views": 1640,
+   "views": 1642,
    "likes": 11,
    "comments": 1
   },
@@ -4577,7 +4593,7 @@
    "timestamp": "2026-10-07T21:31:08+0000",
    "type": "VIDEO",
    "caption": "8 winners closed at +$50. 2 losers held to −$400. Your week is down $400.",
-   "views": 1296,
+   "views": 1298,
    "likes": 19,
    "comments": 1
   },
@@ -4599,7 +4615,7 @@
    "timestamp": "2026-10-07T17:30:58+0000",
    "type": "VIDEO",
    "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
-   "views": 407,
+   "views": 409,
    "likes": 23,
    "comments": 3
   },
@@ -4722,17 +4738,6 @@
    "caption": "5 wins at $200 each. Then you doubled your size, and one loss took 2 of them bac",
    "views": 1406,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "18119787811820079",
-   "slug": "stickman-paycheck",
-   "permalink": "https://www.instagram.com/reel/DeIVuBgjSnw/",
-   "timestamp": "2026-10-05T23:00:40+0000",
-   "type": "VIDEO",
-   "caption": "$10,000 at 3 % a month, and you pay yourself $500 a month. Two years later, $3,1",
-   "views": 1573,
-   "likes": 13,
    "comments": 1
   }
  ]
