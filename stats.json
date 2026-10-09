@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-09T09:07:40.566Z",
+ "updated": "2026-10-09T09:56:58.053Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-09T09:07:41.553Z",
+  "checked": "2026-10-09T09:56:59.034Z",
   "reach_days": [
    {
     "day": "2026-10-02",
@@ -4277,9 +4277,25 @@
    "ts": "2026-10-09T09:07:40.566Z",
    "followers": 353,
    "media_count": 164
+  },
+  {
+   "ts": "2026-10-09T09:56:58.053Z",
+   "followers": 353,
+   "media_count": 164
   }
  ],
  "posts": [
+  {
+   "id": "18212631148363903",
+   "slug": "stickman-redmonths",
+   "permalink": "https://www.instagram.com/reel/DeRMMLCD6sY/",
+   "timestamp": "2026-10-09T09:30:35+0000",
+   "type": "VIDEO",
+   "caption": "A real edge, 20 trades a month, $100 a trade. 3 months a year still end red.",
+   "views": 45,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18025801292872950",
    "slug": "stickman-confirm2",
@@ -4287,8 +4303,8 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 513,
-   "likes": 5,
+   "views": 773,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -4298,8 +4314,8 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 1458,
-   "likes": 9,
+   "views": 1813,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4309,8 +4325,8 @@
    "timestamp": "2026-10-09T03:30:56+0000",
    "type": "VIDEO",
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
-   "views": 1800,
-   "likes": 4,
+   "views": 1887,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -4320,8 +4336,8 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2137,
-   "likes": 14,
+   "views": 2293,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -4331,8 +4347,8 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 2527,
-   "likes": 32,
+   "views": 2742,
+   "likes": 34,
    "comments": 1
   },
   {
@@ -4342,7 +4358,7 @@
    "timestamp": "2026-10-08T23:30:39+0000",
    "type": "VIDEO",
    "caption": "Your $50,000 evaluation ended at $49,500. You were down $500.",
-   "views": 1532,
+   "views": 1570,
    "likes": 6,
    "comments": 1
   },
@@ -4353,7 +4369,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 1898,
+   "views": 1959,
    "likes": 12,
    "comments": 1
   },
@@ -4364,7 +4380,7 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 1619,
+   "views": 1652,
    "likes": 19,
    "comments": 1
   },
@@ -4386,7 +4402,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 1548,
+   "views": 1569,
    "likes": 12,
    "comments": 1
   },
@@ -4397,7 +4413,7 @@
    "timestamp": "2026-10-08T17:00:45+0000",
    "type": "VIDEO",
    "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
-   "views": 1403,
+   "views": 1412,
    "likes": 26,
    "comments": 1
   },
@@ -4408,7 +4424,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1545,
+   "views": 1548,
    "likes": 24,
    "comments": 1
   },
@@ -4430,7 +4446,7 @@
    "timestamp": "2026-10-08T12:00:34+0000",
    "type": "VIDEO",
    "caption": "Up 200 %, then down 70 %. Your $1,000 is now $900.",
-   "views": 2423,
+   "views": 2431,
    "likes": 31,
    "comments": 1
   },
@@ -4441,7 +4457,7 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1649,
+   "views": 1656,
    "likes": 22,
    "comments": 1
   },
@@ -4452,7 +4468,7 @@
    "timestamp": "2026-10-08T09:30:52+0000",
    "type": "VIDEO",
    "caption": "Your target is 3 times farther away than your stop. Expect to lose 3 trades out ",
-   "views": 1222,
+   "views": 1227,
    "likes": 11,
    "comments": 1
   },
@@ -4485,7 +4501,7 @@
    "timestamp": "2026-10-08T03:31:33+0000",
    "type": "VIDEO",
    "caption": "You bought at $100, at $80 and at $60. Your average is $80. The stock is at $50.",
-   "views": 1846,
+   "views": 1850,
    "likes": 10,
    "comments": 1
   },
@@ -4496,7 +4512,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 2124,
+   "views": 2125,
    "likes": 35,
    "comments": 1
   },
@@ -4584,7 +4600,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1874,
+   "views": 1875,
    "likes": 22,
    "comments": 1
   },
@@ -4595,7 +4611,7 @@
    "timestamp": "2026-10-07T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Risk $100 to make $50, and you need 2 wins out of 3 just to break even.",
-   "views": 1979,
+   "views": 1980,
    "likes": 26,
    "comments": 1
   },
@@ -4628,7 +4644,7 @@
    "timestamp": "2026-10-07T02:30:51+0000",
    "type": "VIDEO",
    "caption": "One extra trade a day that loses $15 on average costs you $3,750 a year.",
-   "views": 1389,
+   "views": 1390,
    "likes": 29,
    "comments": 1
   },
@@ -4639,7 +4655,7 @@
    "timestamp": "2026-10-06T23:18:20+0000",
    "type": "VIDEO",
    "caption": "“Build the Best all in one Software for Traders.” - That’s what @glanwick_com ai",
-   "views": 1509,
+   "views": 1510,
    "likes": 22,
    "comments": 7
   },
@@ -4708,17 +4724,6 @@
    "views": 4373,
    "likes": 86,
    "comments": 70
-  },
-  {
-   "id": "18031365014885625",
-   "slug": "stickman-fundedmath",
-   "permalink": "https://www.instagram.com/reel/DeHshElD4OL/",
-   "timestamp": "2026-10-05T17:00:39+0000",
-   "type": "VIDEO",
-   "caption": "Your $100,000 funded account is a $3,000 account.",
-   "views": 88,
-   "likes": 6,
-   "comments": 1
   }
  ]
 }
