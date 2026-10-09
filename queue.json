@@ -4458,7 +4458,7 @@
     {
       "id": "test-2026-10-bestaetigung-kostet",
       "slug": "stickman-confirm2",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-09T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm2.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-confirm2-cover.jpg",
@@ -4469,7 +4469,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage confirmation/confirm (No. 25) mit Chance und Risiko in Dollar"
       },
-      "posting_started_at": "2026-10-09T07:30:05.604Z"
+      "container_id": "18111768092136556",
+      "media_id": "18025801292872950",
+      "permalink": "https://www.instagram.com/reel/DeQ-d5IAqX7/",
+      "published_at": "2026-10-09T07:30:47.901Z"
     },
     {
       "id": "test-2026-10-drei-rote-monate",
