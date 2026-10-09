@@ -4479,6 +4479,10 @@
       "views_12h": {
         "views": 1652,
         "stunden": 12.43
+      },
+      "views_24h": {
+        "views": 2271,
+        "stunden": 24.12
       }
     },
     {
@@ -4607,7 +4611,11 @@
         "verdacht": false,
         "at": "2026-10-09T09:31:45.979Z"
       },
-      "kommentar_id": "17896324632655401"
+      "kommentar_id": "17896324632655401",
+      "views_12h": {
+        "views": 1303,
+        "stunden": 12.13
+      }
     },
     {
       "id": "test-2026-10-neunhundert-prozent",
