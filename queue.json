@@ -4019,6 +4019,10 @@
       "views_12h": {
         "views": 1397,
         "stunden": 12.77
+      },
+      "views_24h": {
+        "views": 1441,
+        "stunden": 24.45
       }
     },
     {
@@ -4151,7 +4155,11 @@
         "verdacht": false,
         "at": "2026-10-09T01:31:55.611Z"
       },
-      "kommentar_id": "18151907293535021"
+      "kommentar_id": "18151907293535021",
+      "views_12h": {
+        "views": 2938,
+        "stunden": 12.45
+      }
     },
     {
       "id": "test-2026-10-fuenfhundert-unter-start",
