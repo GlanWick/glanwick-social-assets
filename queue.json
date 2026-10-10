@@ -4528,6 +4528,10 @@
       "views_12h": {
         "views": 2305,
         "stunden": 12.28
+      },
+      "views_24h": {
+        "views": 2356,
+        "stunden": 24.97
       }
     },
     {
@@ -4722,7 +4726,11 @@
         "verdacht": false,
         "at": "2026-10-09T15:32:11.263Z"
       },
-      "kommentar_id": "17969564385176875"
+      "kommentar_id": "17969564385176875",
+      "views_12h": {
+        "views": 1407,
+        "stunden": 12.96
+      }
     },
     {
       "id": "test-2026-10-ohne-den-besten",
