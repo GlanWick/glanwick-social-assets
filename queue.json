@@ -1287,15 +1287,18 @@
       "published_at": "2026-09-22T23:01:23.338Z",
       "container_id": "18109300757136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 24,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-confirmation.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-confirmation-cover.jpg",
         "gestartet_at": "2026-10-10T17:00:24.124Z",
-        "stand": "2026-10-10T17:00:51.231Z",
+        "stand": "2026-10-10T17:01:22.542Z",
         "versuch": 1,
         "slot": "2026-10-10T17:00:00.000Z",
-        "post_id": "6aca6f2ed13bd036a5a8fa12"
+        "post_id": "6aca6f2ed13bd036a5a8fa12",
+        "published_at": "2026-10-10T17:01:09.521Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7695085146109921312"
       }
     },
     {
