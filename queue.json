@@ -4754,6 +4754,10 @@
       "views_12h": {
         "views": 1407,
         "stunden": 12.96
+      },
+      "views_24h": {
+        "views": 2321,
+        "stunden": 24.04
       }
     },
     {
@@ -4911,7 +4915,11 @@
       "media_id": "17991901740111824",
       "permalink": "https://www.instagram.com/reel/DeTA-A4FHnv/",
       "published_at": "2026-10-10T02:30:56.710Z",
-      "kommentar_id": "18074593313729666"
+      "kommentar_id": "18074593313729666",
+      "views_12h": {
+        "views": 3025,
+        "stunden": 13.05
+      }
     }
   ]
 }
