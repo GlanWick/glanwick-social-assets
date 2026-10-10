@@ -4606,6 +4606,10 @@
       "views_12h": {
         "views": 2128,
         "stunden": 12.31
+      },
+      "views_24h": {
+        "views": 2145,
+        "stunden": 25
       }
     },
     {
@@ -4800,7 +4804,11 @@
         "verdacht": false,
         "at": "2026-10-09T19:31:57.355Z"
       },
-      "kommentar_id": "18117064099785430"
+      "kommentar_id": "18117064099785430",
+      "views_12h": {
+        "views": 2578,
+        "stunden": 13
+      }
     },
     {
       "id": "test-2026-10-zwanzig-einstellungen",
