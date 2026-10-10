@@ -4569,6 +4569,10 @@
       "views_12h": {
         "views": 2824,
         "stunden": 12.29
+      },
+      "views_24h": {
+        "views": 2955,
+        "stunden": 24.98
       }
     },
     {
@@ -4763,7 +4767,11 @@
         "verdacht": false,
         "at": "2026-10-09T17:32:11.477Z"
       },
-      "kommentar_id": "18226286422335281"
+      "kommentar_id": "18226286422335281",
+      "views_12h": {
+        "views": 2901,
+        "stunden": 12.98
+      }
     },
     {
       "id": "test-2026-10-elf-gute-monate",
