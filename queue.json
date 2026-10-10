@@ -4195,6 +4195,10 @@
       "views_12h": {
         "views": 2938,
         "stunden": 12.45
+      },
+      "views_24h": {
+        "views": 3424,
+        "stunden": 24.14
       }
     },
     {
@@ -4685,7 +4689,11 @@
         "verdacht": false,
         "at": "2026-10-09T13:32:44.994Z"
       },
-      "kommentar_id": "18151383499531468"
+      "kommentar_id": "18151383499531468",
+      "views_12h": {
+        "views": 2807,
+        "stunden": 12.13
+      }
     },
     {
       "id": "test-2026-10-ein-monat-arbeit",
