@@ -4841,7 +4841,7 @@
     {
       "id": "2026-10-10-trade-vier-ausgelassen",
       "slug": "stickman-satout",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-10T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-satout.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-satout-cover.jpg",
@@ -4851,7 +4851,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-satout.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-satout-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-10T02:30:27.797Z"
     }
   ]
 }
