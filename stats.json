@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T19:55:39.745Z",
+ "updated": "2026-10-11T20:45:49.146Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T19:55:40.898Z",
+  "checked": "2026-10-11T20:45:50.253Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4579,6 +4579,11 @@
    "ts": "2026-10-11T19:55:39.745Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T20:45:49.146Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4589,7 +4594,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3243,
+   "views": 3244,
    "likes": 35,
    "comments": 1
   },
@@ -4600,7 +4605,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3074,
+   "views": 3075,
    "likes": 31,
    "comments": 1
   },
@@ -4633,7 +4638,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3088,
+   "views": 3089,
    "likes": 34,
    "comments": 1
   },
@@ -4644,7 +4649,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3424,
+   "views": 3427,
    "likes": 30,
    "comments": 1
   },
@@ -4677,7 +4682,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4898,
+   "views": 4902,
    "likes": 20,
    "comments": 1
   },
@@ -4754,7 +4759,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3634,
+   "views": 3635,
    "likes": 39,
    "comments": 2
   },
