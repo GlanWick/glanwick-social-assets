@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T21:46:04.108Z",
+ "updated": "2026-10-11T22:46:16.129Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T21:46:05.054Z",
+  "checked": "2026-10-11T22:46:18.206Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4589,6 +4589,11 @@
    "ts": "2026-10-11T21:46:04.108Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T22:46:16.129Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4599,7 +4604,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3245,
+   "views": 3247,
    "likes": 35,
    "comments": 1
   },
@@ -4665,7 +4670,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2447,
+   "views": 2448,
    "likes": 19,
    "comments": 1
   },
