@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T16:55:31.290Z",
+ "updated": "2026-10-11T17:55:34.966Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T16:55:32.246Z",
+  "checked": "2026-10-11T17:55:36.027Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4564,6 +4564,11 @@
    "ts": "2026-10-11T16:55:31.290Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T17:55:34.966Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4574,7 +4579,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3239,
+   "views": 3242,
    "likes": 35,
    "comments": 1
   },
@@ -4629,7 +4634,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3417,
+   "views": 3423,
    "likes": 30,
    "comments": 1
   },
@@ -4651,7 +4656,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3202,
+   "views": 3203,
    "likes": 49,
    "comments": 1
   },
@@ -4662,7 +4667,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4891,
+   "views": 4892,
    "likes": 20,
    "comments": 1
   },
@@ -4706,7 +4711,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3111,
+   "views": 3112,
    "likes": 26,
    "comments": 1
   },
