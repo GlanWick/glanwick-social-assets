@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T17:55:34.966Z",
+ "updated": "2026-10-11T18:55:36.655Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T17:55:36.027Z",
+  "checked": "2026-10-11T18:55:37.853Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4569,6 +4569,11 @@
    "ts": "2026-10-11T17:55:34.966Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T18:55:36.655Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4579,7 +4584,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3242,
+   "views": 3243,
    "likes": 35,
    "comments": 1
   },
@@ -4623,7 +4628,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3087,
+   "views": 3088,
    "likes": 34,
    "comments": 1
   },
@@ -4667,7 +4672,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4892,
+   "views": 4895,
    "likes": 20,
    "comments": 1
   },
@@ -4744,8 +4749,8 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3631,
-   "likes": 38,
+   "views": 3633,
+   "likes": 39,
    "comments": 2
   },
   {
@@ -4766,7 +4771,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2613,
+   "views": 2614,
    "likes": 14,
    "comments": 1
   },
@@ -4777,7 +4782,7 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 2411,
+   "views": 2412,
    "likes": 30,
    "comments": 1
   },
