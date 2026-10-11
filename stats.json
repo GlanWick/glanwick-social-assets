@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T01:24:50.343Z",
+ "updated": "2026-10-11T02:25:03.475Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-10: 3402 gegen Mittel 13059"
+   "Reichweite 2026-10-10: 3428 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T01:24:51.257Z",
+  "checked": "2026-10-11T02:25:04.802Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-10",
-    "reach": 3402
+    "reach": 3428
    }
   ],
   "avg_watch_last_reels": 15.1
@@ -4484,6 +4484,11 @@
    "ts": "2026-10-11T01:24:50.343Z",
    "followers": 384,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T02:25:03.475Z",
+   "followers": 384,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4516,7 +4521,7 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1502,
+   "views": 1506,
    "likes": 12,
    "comments": 1
   },
@@ -4527,7 +4532,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2742,
+   "views": 2743,
    "likes": 22,
    "comments": 1
   },
@@ -4538,7 +4543,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3064,
+   "views": 3065,
    "likes": 34,
    "comments": 1
   },
@@ -4549,7 +4554,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3382,
+   "views": 3384,
    "likes": 30,
    "comments": 1
   },
@@ -4560,7 +4565,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2428,
+   "views": 2430,
    "likes": 19,
    "comments": 1
   },
@@ -4571,7 +4576,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3192,
+   "views": 3193,
    "likes": 49,
    "comments": 1
   },
@@ -4659,7 +4664,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3620,
+   "views": 3621,
    "likes": 38,
    "comments": 2
   },
