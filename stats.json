@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T14:06:08.906Z",
+ "updated": "2026-10-11T14:55:27.919Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T14:06:09.952Z",
+  "checked": "2026-10-11T14:55:29.041Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4549,6 +4549,11 @@
    "ts": "2026-10-11T14:06:08.906Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T14:55:27.919Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4603,7 +4608,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3080,
+   "views": 3082,
    "likes": 34,
    "comments": 1
   },
@@ -4614,7 +4619,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3410,
+   "views": 3411,
    "likes": 30,
    "comments": 1
   },
@@ -4647,9 +4652,9 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4880,
-   "likes": 21,
-   "comments": 2
+   "views": 4887,
+   "likes": 20,
+   "comments": 1
   },
   {
    "id": "18150787255551445",
@@ -4658,7 +4663,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3130,
+   "views": 3132,
    "likes": 17,
    "comments": 1
   },
@@ -4691,7 +4696,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3109,
+   "views": 3110,
    "likes": 26,
    "comments": 1
   },
@@ -4856,7 +4861,7 @@
    "timestamp": "2026-10-08T07:31:13+0000",
    "type": "VIDEO",
    "caption": "You want $2,000 a month from a $5,000 account. That's +40 % a month.",
-   "views": 1701,
+   "views": 1702,
    "likes": 9,
    "comments": 1
   },
