@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T15:55:29.625Z",
+ "updated": "2026-10-11T16:55:31.290Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T15:55:30.702Z",
+  "checked": "2026-10-11T16:55:32.246Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4559,6 +4559,11 @@
    "ts": "2026-10-11T15:55:29.625Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T16:55:31.290Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4569,7 +4574,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3237,
+   "views": 3239,
    "likes": 35,
    "comments": 1
   },
@@ -4613,7 +4618,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3084,
+   "views": 3087,
    "likes": 34,
    "comments": 1
   },
@@ -4624,7 +4629,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3414,
+   "views": 3417,
    "likes": 30,
    "comments": 1
   },
@@ -4657,7 +4662,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4890,
+   "views": 4891,
    "likes": 20,
    "comments": 1
   },
@@ -4701,7 +4706,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3110,
+   "views": 3111,
    "likes": 26,
    "comments": 1
   },
@@ -4767,7 +4772,7 @@
    "timestamp": "2026-10-08T21:30:56+0000",
    "type": "VIDEO",
    "caption": "18 wins in 30 trades, and you're up $600. A coin flip does that more than 1 time",
-   "views": 2409,
+   "views": 2411,
    "likes": 30,
    "comments": 1
   },
