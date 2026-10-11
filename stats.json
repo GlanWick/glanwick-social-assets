@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T02:25:03.475Z",
+ "updated": "2026-10-11T03:14:18.382Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-10: 3428 gegen Mittel 13059"
+   "Reichweite 2026-10-10: 3450 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T02:25:04.802Z",
+  "checked": "2026-10-11T03:14:19.339Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-10",
-    "reach": 3428
+    "reach": 3450
    }
   ],
   "avg_watch_last_reels": 15.1
@@ -4489,6 +4489,11 @@
    "ts": "2026-10-11T02:25:03.475Z",
    "followers": 384,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T03:14:18.382Z",
+   "followers": 384,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4499,7 +4504,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3178,
+   "views": 3198,
    "likes": 35,
    "comments": 1
   },
@@ -4521,7 +4526,7 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1506,
+   "views": 1508,
    "likes": 12,
    "comments": 1
   },
@@ -4543,7 +4548,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3065,
+   "views": 3066,
    "likes": 34,
    "comments": 1
   },
@@ -4565,7 +4570,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2430,
+   "views": 2432,
    "likes": 19,
    "comments": 1
   },
@@ -4587,7 +4592,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4850,
+   "views": 4853,
    "likes": 21,
    "comments": 2
   },
@@ -4653,7 +4658,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2660,
+   "views": 2662,
    "likes": 16,
    "comments": 1
   },
@@ -4664,7 +4669,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3621,
+   "views": 3625,
    "likes": 38,
    "comments": 2
   },
@@ -4906,7 +4911,7 @@
    "timestamp": "2026-10-07T17:02:32+0000",
    "type": "VIDEO",
    "caption": "Same coin. He's up 140 %. You're down 40 %.",
-   "views": 526,
+   "views": 528,
    "likes": 12,
    "comments": 1
   },
