@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T13:05:53.703Z",
+ "updated": "2026-10-11T14:06:08.906Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T13:05:54.603Z",
+  "checked": "2026-10-11T14:06:09.952Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4544,6 +4544,11 @@
    "ts": "2026-10-11T13:05:53.703Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T14:06:08.906Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4565,7 +4570,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3073,
+   "views": 3074,
    "likes": 31,
    "comments": 1
   },
@@ -4576,7 +4581,7 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1602,
+   "views": 1604,
    "likes": 13,
    "comments": 1
   },
@@ -4609,7 +4614,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3408,
+   "views": 3410,
    "likes": 30,
    "comments": 1
   },
@@ -4620,7 +4625,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2443,
+   "views": 2445,
    "likes": 19,
    "comments": 1
   },
@@ -4642,7 +4647,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4876,
+   "views": 4880,
    "likes": 21,
    "comments": 2
   },
@@ -4675,7 +4680,7 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2155,
+   "views": 2156,
    "likes": 18,
    "comments": 2
   },
@@ -4884,7 +4889,7 @@
    "timestamp": "2026-10-08T02:30:43+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 7 losses in a row take half your account. At 1 %, it takes 69.",
-   "views": 2167,
+   "views": 2168,
    "likes": 35,
    "comments": 1
   },
@@ -4895,7 +4900,7 @@
    "timestamp": "2026-10-08T01:30:41+0000",
    "type": "VIDEO",
    "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.",
-   "views": 1547,
+   "views": 1548,
    "likes": 12,
    "comments": 1
   },
@@ -4917,7 +4922,7 @@
    "timestamp": "2026-10-07T23:00:35+0000",
    "type": "VIDEO",
    "caption": "The price fell 10 % and came back the same day. At 10x leverage, your $1,000 did",
-   "views": 1882,
+   "views": 1883,
    "likes": 11,
    "comments": 1
   },
@@ -4972,7 +4977,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1885,
+   "views": 1886,
    "likes": 22,
    "comments": 1
   },
