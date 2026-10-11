@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T09:04:53.930Z",
+ "updated": "2026-10-11T10:05:09.191Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T09:04:54.963Z",
+  "checked": "2026-10-11T10:05:10.068Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 385,
+  "followers": 386,
   "media_count": 174
  },
  "history": [
@@ -4524,6 +4524,11 @@
    "ts": "2026-10-11T09:04:53.930Z",
    "followers": 385,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T10:05:09.191Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4534,7 +4539,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3233,
+   "views": 3234,
    "likes": 35,
    "comments": 1
   },
@@ -4556,7 +4561,7 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1593,
+   "views": 1601,
    "likes": 13,
    "comments": 1
   },
@@ -4578,7 +4583,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3073,
+   "views": 3075,
    "likes": 34,
    "comments": 1
   },
@@ -4589,7 +4594,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3396,
+   "views": 3398,
    "likes": 30,
    "comments": 1
   },
@@ -4600,7 +4605,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2440,
+   "views": 2441,
    "likes": 19,
    "comments": 1
   },
@@ -4611,7 +4616,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3198,
+   "views": 3199,
    "likes": 49,
    "comments": 1
   },
@@ -4622,7 +4627,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4867,
+   "views": 4873,
    "likes": 21,
    "comments": 2
   },
@@ -4754,7 +4759,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 2046,
+   "views": 2047,
    "likes": 14,
    "comments": 1
   },
