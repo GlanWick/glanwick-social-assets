@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T05:15:16.444Z",
+ "updated": "2026-10-11T06:15:45.044Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-10: 3477 gegen Mittel 13059"
+   "Reichweite 2026-10-10: 3493 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T05:15:17.202Z",
+  "checked": "2026-10-11T06:15:45.840Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-10",
-    "reach": 3477
+    "reach": 3493
    }
   ],
   "avg_watch_last_reels": 15
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 384,
+  "followers": 385,
   "media_count": 174
  },
  "history": [
@@ -4504,6 +4504,11 @@
    "ts": "2026-10-11T05:15:16.444Z",
    "followers": 384,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T06:15:45.044Z",
+   "followers": 385,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4514,7 +4519,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3199,
+   "views": 3210,
    "likes": 35,
    "comments": 1
   },
@@ -4536,8 +4541,8 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1525,
-   "likes": 12,
+   "views": 1539,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4547,7 +4552,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2744,
+   "views": 2747,
    "likes": 22,
    "comments": 1
   },
@@ -4569,7 +4574,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3386,
+   "views": 3387,
    "likes": 30,
    "comments": 1
   },
@@ -4591,7 +4596,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3193,
+   "views": 3194,
    "likes": 49,
    "comments": 1
   },
@@ -4602,7 +4607,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4857,
+   "views": 4860,
    "likes": 21,
    "comments": 2
   },
@@ -4613,7 +4618,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3124,
+   "views": 3126,
    "likes": 17,
    "comments": 1
   },
@@ -4734,7 +4739,7 @@
    "timestamp": "2026-10-08T17:30:50+0000",
    "type": "VIDEO",
    "caption": "You were up $1,000 on 100 shares. You added 100 more. A small pullback made it $",
-   "views": 2045,
+   "views": 2046,
    "likes": 14,
    "comments": 1
   },
@@ -4866,7 +4871,7 @@
    "timestamp": "2026-10-07T23:31:35+0000",
    "type": "VIDEO",
    "caption": "20 green days at +$50. One red day at −$1,200. The month is down $200.",
-   "views": 1903,
+   "views": 1905,
    "likes": 16,
    "comments": 1
   },
