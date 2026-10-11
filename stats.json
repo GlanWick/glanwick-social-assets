@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T12:05:38.994Z",
+ "updated": "2026-10-11T13:05:53.703Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T12:05:39.754Z",
+  "checked": "2026-10-11T13:05:54.603Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4539,6 +4539,11 @@
    "ts": "2026-10-11T12:05:38.994Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T13:05:53.703Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4571,7 +4576,7 @@
    "timestamp": "2026-10-09T21:30:40+0000",
    "type": "VIDEO",
    "caption": "You tested 20 settings. The best one made $4,000 in the backtest. Live, it lost ",
-   "views": 1601,
+   "views": 1602,
    "likes": 13,
    "comments": 1
   },
@@ -4582,7 +4587,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2749,
+   "views": 2750,
    "likes": 22,
    "comments": 1
   },
@@ -4604,7 +4609,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3406,
+   "views": 3408,
    "likes": 30,
    "comments": 1
   },
@@ -4615,7 +4620,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2442,
+   "views": 2443,
    "likes": 19,
    "comments": 1
   },
@@ -4626,7 +4631,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3200,
+   "views": 3201,
    "likes": 49,
    "comments": 1
   },
@@ -4637,7 +4642,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4874,
+   "views": 4876,
    "likes": 21,
    "comments": 2
   },
@@ -4681,7 +4686,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3107,
+   "views": 3109,
    "likes": 26,
    "comments": 1
   },
@@ -4692,7 +4697,7 @@
    "timestamp": "2026-10-09T03:30:56+0000",
    "type": "VIDEO",
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
-   "views": 2367,
+   "views": 2368,
    "likes": 6,
    "comments": 1
   },
@@ -4725,7 +4730,7 @@
    "timestamp": "2026-10-08T23:30:39+0000",
    "type": "VIDEO",
    "caption": "Your $50,000 evaluation ended at $49,500. You were down $500.",
-   "views": 1970,
+   "views": 1972,
    "likes": 8,
    "comments": 1
   },
