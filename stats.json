@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-11T20:45:49.146Z",
+ "updated": "2026-10-11T21:46:04.108Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-10: 3543 gegen Mittel 13059"
   ],
-  "checked": "2026-10-11T20:45:50.253Z",
+  "checked": "2026-10-11T21:46:05.054Z",
   "reach_days": [
    {
     "day": "2026-10-04",
@@ -4584,6 +4584,11 @@
    "ts": "2026-10-11T20:45:49.146Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-11T21:46:04.108Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4594,7 +4599,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3244,
+   "views": 3245,
    "likes": 35,
    "comments": 1
   },
@@ -4671,7 +4676,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3203,
+   "views": 3205,
    "likes": 49,
    "comments": 1
   },
@@ -4682,7 +4687,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4902,
+   "views": 4903,
    "likes": 20,
    "comments": 1
   },
@@ -4715,7 +4720,7 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2156,
+   "views": 2157,
    "likes": 18,
    "comments": 2
   },
@@ -4726,7 +4731,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3113,
+   "views": 3115,
    "likes": 26,
    "comments": 1
   },
@@ -4748,7 +4753,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2663,
+   "views": 2664,
    "likes": 16,
    "comments": 1
   },
