@@ -5096,7 +5096,7 @@
     {
       "id": "test-2026-10-12-wdh-recovery",
       "slug": "stickman-recovery-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-12T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-wdh-cover.jpg",
@@ -5109,7 +5109,10 @@
         "vorlage": "recovery",
         "vorlage_aufrufe": 3575
       },
-      "posting_started_at": "2026-10-12T23:30:29.783Z"
+      "container_id": "18112368575136556",
+      "media_id": "18094403366175018",
+      "permalink": "https://www.instagram.com/reel/DeaawXdj5Zs/",
+      "published_at": "2026-10-12T23:31:10.061Z"
     },
     {
       "id": "test-2026-10-12-wdh-stophunt",
