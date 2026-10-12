@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T11:22:29.101Z",
+ "updated": "2026-10-12T12:22:56.208Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-11: 322 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T11:22:30.256Z",
+  "checked": "2026-10-12T12:22:59.648Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -4654,6 +4654,11 @@
    "ts": "2026-10-12T11:22:29.101Z",
    "followers": 385,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-12T12:22:56.208Z",
+   "followers": 385,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4675,7 +4680,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3078,
+   "views": 3079,
    "likes": 31,
    "comments": 1
   },
@@ -4719,7 +4724,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3435,
+   "views": 3437,
    "likes": 30,
    "comments": 1
   },
@@ -4752,7 +4757,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4928,
+   "views": 4931,
    "likes": 20,
    "comments": 1
   },
@@ -4796,8 +4801,8 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3129,
-   "likes": 26,
+   "views": 3131,
+   "likes": 27,
    "comments": 1
   },
   {
@@ -4807,7 +4812,7 @@
    "timestamp": "2026-10-09T03:30:56+0000",
    "type": "VIDEO",
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
-   "views": 2369,
+   "views": 2370,
    "likes": 6,
    "comments": 1
   },
@@ -4829,7 +4834,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3653,
+   "views": 3654,
    "likes": 40,
    "comments": 2
   },
@@ -4851,7 +4856,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2616,
+   "views": 2617,
    "likes": 14,
    "comments": 1
   },
