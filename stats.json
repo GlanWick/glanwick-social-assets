@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T14:23:37.642Z",
+ "updated": "2026-10-12T18:15:03.865Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-11: 322 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T14:23:38.555Z",
+  "checked": "2026-10-12T18:15:05.234Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -4669,6 +4669,11 @@
    "ts": "2026-10-12T14:23:37.642Z",
    "followers": 385,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-12T18:15:03.865Z",
+   "followers": 385,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4679,7 +4684,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3256,
+   "views": 3258,
    "likes": 35,
    "comments": 1
   },
@@ -4712,7 +4717,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2754,
+   "views": 2757,
    "likes": 22,
    "comments": 1
   },
@@ -4723,7 +4728,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3093,
+   "views": 3094,
    "likes": 34,
    "comments": 1
   },
@@ -4734,7 +4739,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3445,
+   "views": 3454,
    "likes": 30,
    "comments": 1
   },
@@ -4745,7 +4750,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2457,
+   "views": 2459,
    "likes": 19,
    "comments": 1
   },
@@ -4756,7 +4761,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3219,
+   "views": 3220,
    "likes": 49,
    "comments": 1
   },
@@ -4767,7 +4772,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4938,
+   "views": 4946,
    "likes": 20,
    "comments": 1
   },
@@ -4778,7 +4783,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3146,
+   "views": 3147,
    "likes": 17,
    "comments": 1
   },
@@ -4811,7 +4816,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3140,
+   "views": 3150,
    "likes": 27,
    "comments": 1
   },
@@ -4844,7 +4849,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3655,
+   "views": 3658,
    "likes": 40,
    "comments": 2
   },
@@ -5020,7 +5025,7 @@
    "timestamp": "2026-10-08T01:30:41+0000",
    "type": "VIDEO",
    "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.",
-   "views": 1548,
+   "views": 1549,
    "likes": 12,
    "comments": 1
   },
@@ -5097,7 +5102,7 @@
    "timestamp": "2026-10-07T15:30:46+0000",
    "type": "VIDEO",
    "caption": "You put in $10,000 and borrowed $10,000. The stock fell 25 %. You lost half.",
-   "views": 1887,
+   "views": 1889,
    "likes": 22,
    "comments": 1
   },
@@ -5108,7 +5113,7 @@
    "timestamp": "2026-10-07T13:30:39+0000",
    "type": "VIDEO",
    "caption": "Risk $100 to make $50, and you need 2 wins out of 3 just to break even.",
-   "views": 1990,
+   "views": 1991,
    "likes": 26,
    "comments": 1
   }
