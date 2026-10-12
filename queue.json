@@ -5005,7 +5005,16 @@
       "container_id": "18112339379136556",
       "media_id": "18158841448503706",
       "permalink": "https://www.instagram.com/reel/DeZ2zmJgGjg/",
-      "published_at": "2026-10-12T18:16:59.645Z"
+      "published_at": "2026-10-12T18:16:59.645Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 175,
+        "beitraege_nachher": 175,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-12T18:18:02.061Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-voldrag",
