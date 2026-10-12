@@ -5039,7 +5039,16 @@
       "container_id": "18112348298136556",
       "media_id": "18207979048369341",
       "permalink": "https://www.instagram.com/reel/DeZ_PUJDrtQ/",
-      "published_at": "2026-10-12T19:30:40.719Z"
+      "published_at": "2026-10-12T19:30:40.719Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 175,
+        "beitraege_nachher": 175,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-12T19:31:42.782Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-mental",
