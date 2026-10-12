@@ -5023,7 +5023,7 @@
     {
       "id": "test-2026-10-12-wdh-voldrag",
       "slug": "stickman-voldrag-wdh",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-12T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-voldrag-wdh-cover.jpg",
@@ -5035,7 +5035,8 @@
         "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
         "vorlage": "voldrag",
         "vorlage_aufrufe": 4597
-      }
+      },
+      "posting_started_at": "2026-10-12T19:30:01.807Z"
     },
     {
       "id": "test-2026-10-12-wdh-mental",
