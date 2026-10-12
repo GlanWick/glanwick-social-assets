@@ -5112,7 +5112,16 @@
       "container_id": "18112368575136556",
       "media_id": "18094403366175018",
       "permalink": "https://www.instagram.com/reel/DeaawXdj5Zs/",
-      "published_at": "2026-10-12T23:31:10.061Z"
+      "published_at": "2026-10-12T23:31:10.061Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 176,
+        "beitraege_nachher": 176,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-12T23:32:11.996Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-stophunt",
