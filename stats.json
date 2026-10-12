@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T21:15:40.647Z",
+ "updated": "2026-10-12T22:15:46.476Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-11: 322 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T21:15:41.778Z",
+  "checked": "2026-10-12T22:15:47.540Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -36,12 +36,12 @@
     "reach": 322
    }
   ],
-  "avg_watch_last_reels": 14.4
+  "avg_watch_last_reels": 14.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 388,
+  "followers": 391,
   "media_count": 175
  },
  "history": [
@@ -4689,9 +4689,25 @@
    "ts": "2026-10-12T21:15:40.647Z",
    "followers": 388,
    "media_count": 175
+  },
+  {
+   "ts": "2026-10-12T22:15:46.476Z",
+   "followers": 391,
+   "media_count": 175
   }
  ],
  "posts": [
+  {
+   "id": "17912481168519985",
+   "slug": "stop-loss-vs-mental-stop-wdh",
+   "permalink": "https://www.instagram.com/reel/DeaNAmNDq6A/",
+   "timestamp": "2026-10-12T21:30:57+0000",
+   "type": "VIDEO",
+   "caption": "Stop loss or mental stop: what's the difference?",
+   "views": 116,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18207979048369341",
    "slug": "stickman-voldrag-wdh",
@@ -4699,8 +4715,8 @@
    "timestamp": "2026-10-12T19:30:36+0000",
    "type": "VIDEO",
    "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 1700,
-   "likes": 10,
+   "views": 2542,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -4710,8 +4726,8 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 803,
-   "likes": 12,
+   "views": 1282,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -4721,8 +4737,8 @@
    "timestamp": "2026-10-12T18:15:41+0000",
    "type": "VIDEO",
    "caption": "Start at $25 and double after every loss. Bet number 8 is $3,200.",
-   "views": 424,
-   "likes": 2,
+   "views": 972,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -4732,7 +4748,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3264,
+   "views": 3267,
    "likes": 35,
    "comments": 1
   },
@@ -4743,7 +4759,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3083,
+   "views": 3086,
    "likes": 31,
    "comments": 1
   },
@@ -4765,7 +4781,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2762,
+   "views": 2764,
    "likes": 22,
    "comments": 1
   },
@@ -4776,7 +4792,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3097,
+   "views": 3100,
    "likes": 34,
    "comments": 1
   },
@@ -4787,7 +4803,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3458,
+   "views": 3463,
    "likes": 30,
    "comments": 1
   },
@@ -4798,7 +4814,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2464,
+   "views": 2468,
    "likes": 19,
    "comments": 1
   },
@@ -4809,7 +4825,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3222,
+   "views": 3224,
    "likes": 49,
    "comments": 1
   },
@@ -4820,7 +4836,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4958,
+   "views": 4961,
    "likes": 20,
    "comments": 1
   },
@@ -4831,7 +4847,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3149,
+   "views": 3153,
    "likes": 17,
    "comments": 1
   },
@@ -4864,7 +4880,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3162,
+   "views": 3167,
    "likes": 27,
    "comments": 1
   },
@@ -4886,7 +4902,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2666,
+   "views": 2668,
    "likes": 16,
    "comments": 1
   },
@@ -4897,7 +4913,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3665,
+   "views": 3667,
    "likes": 40,
    "comments": 2
   },
@@ -4919,7 +4935,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2621,
+   "views": 2623,
    "likes": 14,
    "comments": 1
   },
@@ -4963,7 +4979,7 @@
    "timestamp": "2026-10-08T17:00:45+0000",
    "type": "VIDEO",
    "caption": "Same 10 entries. He's up $1,000. You're down $1,000.",
-   "views": 1692,
+   "views": 1693,
    "likes": 30,
    "comments": 1
   },
@@ -4974,7 +4990,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1619,
+   "views": 1620,
    "likes": 24,
    "comments": 1
   },
@@ -5007,7 +5023,7 @@
    "timestamp": "2026-10-08T11:31:01+0000",
    "type": "VIDEO",
    "caption": "Turning $100 into $10,000 takes 7 doubles in a row. On a coin flip, that's 1 cha",
-   "views": 1730,
+   "views": 1731,
    "likes": 22,
    "comments": 1
   },
@@ -5120,17 +5136,6 @@
    "views": 710,
    "likes": 23,
    "comments": 1
-  },
-  {
-   "id": "18131437243665738",
-   "slug": "stickman-fixed20",
-   "permalink": "https://www.instagram.com/reel/DeM5kvGjl9u/",
-   "timestamp": "2026-10-07T17:30:58+0000",
-   "type": "VIDEO",
-   "caption": "Risk $500 a trade on $10,000, and 20 losses in a row is zero. Risk 5 %, and $3,5",
-   "views": 415,
-   "likes": 23,
-   "comments": 3
   }
  ]
 }
