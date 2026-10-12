@@ -4990,7 +4990,7 @@
     {
       "id": "test-2026-10-12-wdh-trailing",
       "slug": "stop-loss-vs-trailing-stop-wdh",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-12T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-trailing-stop-wdh.mp4",
       "caption": "Stop loss or trailing stop: what's the difference?\n\nOne stays where you put it. The other follows the price.\n\nBuy at 100, stop at 95. Price climbs to 120. The stop loss still sits at 95. The trailing stop moved up with it and now sits at 115. Then price falls: one is still waiting at 95, the other closed you out at 115.\n\nSame trade, 20 apart.\n\nFree journal, link in bio.\n\nSend this to the friend who watched a +20 trade go all the way back to the stop.\n\nWhich difference should I explain next? 👇\n\n#stoploss #trailingstop #riskmanagement #tradingjournal #knowthedifference",
@@ -5001,7 +5001,8 @@
         "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
         "vorlage": "stop-loss-vs-trailing-stop",
         "vorlage_aufrufe": 3405
-      }
+      },
+      "posting_started_at": "2026-10-12T18:16:19.439Z"
     },
     {
       "id": "test-2026-10-12-wdh-voldrag",
