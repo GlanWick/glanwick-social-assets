@@ -5096,7 +5096,7 @@
     {
       "id": "test-2026-10-12-wdh-recovery",
       "slug": "stickman-recovery-wdh",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-12T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-recovery-wdh-cover.jpg",
@@ -5108,7 +5108,8 @@
         "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
         "vorlage": "recovery",
         "vorlage_aufrufe": 3575
-      }
+      },
+      "posting_started_at": "2026-10-12T23:30:29.783Z"
     },
     {
       "id": "test-2026-10-12-wdh-stophunt",
