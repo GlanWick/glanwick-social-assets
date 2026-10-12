@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T01:46:56.239Z",
+ "updated": "2026-10-12T02:36:12.854Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-11: 283 gegen Mittel 11801"
+   "Reichweite 2026-10-11: 285 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T01:46:57.328Z",
+  "checked": "2026-10-12T02:36:13.761Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-11",
-    "reach": 283
+    "reach": 285
    }
   ],
   "avg_watch_last_reels": 15
@@ -4609,6 +4609,11 @@
    "ts": "2026-10-12T01:46:56.239Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-12T02:36:12.854Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4707,7 +4712,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4905,
+   "views": 4906,
    "likes": 20,
    "comments": 1
   },
