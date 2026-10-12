@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:25:50.792Z",
+  "generated_at": "2026-10-12T15:47:34.155Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -5092,6 +5092,285 @@
         "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
         "vorlage": "hole300",
         "vorlage_aufrufe": 3373
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-martingale",
+      "slug": "stickman-martingale-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale-wdh.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martingale-wdh-cover.jpg",
+      "caption": "Double after every loss, and loss number 7 costs 64 times the first one.\n\n1, 2, 4, 8, 16, 32, 64. After 7 losses in a row you're down 127 units. Win at any point before that and you're up exactly 1. At a coin flip, 7 losses in a row come up about once in 128 tries.\n\nAbout 127 small wins, then one streak takes all of them back.\n\nFree journal, link in bio.\n\nSend this to the friend who calls doubling down a system.\n\nWhat's the longest losing streak you've had? 👇\n\n#martingale #positionsizing #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-treffer",
+        "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
+        "vorlage": "martingale",
+        "vorlage_aufrufe": 4103
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-twopercent",
+      "slug": "stickman-twopercent-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-wdh.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-wdh-cover.jpg",
+      "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.\n\n$10,000 minus 2 % a day for 10 days is $8,171. Getting back to $10,000 takes +22.4 %. Ten days of +2 % add up to +21.9 %, because every gain is counted on a smaller account.\n\nLosses and gains of the same size never cancel out.\n\nFree journal, link in bio.\n\nSend this to the friend who thinks a green week erases a red one.\n\nWhat's your rule after 3 red days in a row? 👇\n\n#drawdown #compounding #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-treffer",
+        "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
+        "vorlage": "twopercent",
+        "vorlage_aufrufe": 3435
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-slippage",
+      "slug": "spread-vs-slippage-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/spread-vs-slippage-wdh.mp4",
+      "caption": "Spread or slippage: what's the difference?\n\nThe spread is on your screen before you click. Slippage shows up after.\n\nPrice is 100 and you hit buy. The spread already takes a few cents: that's the gap between the buy price and the sell price. Then a fast market fills you at 100.30. Those 30 cents are slippage.\n\nOne you can see coming. The other you find in the statement.\n\nFree journal, link in bio.\n\nSend this to the friend who only counts commission as a cost.\n\nWhich difference should I explain next? 👇\n\n#spread #slippage #tradingcosts #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-difference",
+        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
+        "vorlage": "spread-vs-slippage",
+        "vorlage_aufrufe": 2002
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-tageslimit",
+      "slug": "stop-loss-vs-daily-loss-limit-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-daily-loss-limit-wdh.mp4",
+      "caption": "Stop loss or daily loss limit: what's the difference?\n\nA stop loss protects one trade. A daily limit caps the whole day.\n\nYour prop firm allows 5,000 of losses per day. You take 3 trades and each one hits its stop at 2,000. Every stop did its job, and the day still stands at 6,000. Over the limit, challenge over.\n\nOne rule counts a trade. The other counts all of them.\n\nFree journal, link in bio.\n\nSend this to the friend who failed a challenge with every stop in place.\n\nWhich difference should I explain next? 👇\n\n#propfirm #dailylosslimit #stoploss #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-difference",
+        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
+        "vorlage": "stop-loss-vs-daily-loss-limit",
+        "vorlage_aufrufe": 1981
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-drawdown",
+      "slug": "loss-vs-drawdown-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-drawdown-wdh.mp4",
+      "caption": "Loss or drawdown: what's the difference?\n\nA loss is counted from where you started. A drawdown is counted from your highest point.\n\nYou fund 1,000 and grow it to 1,500. Then it drops to 1,200. You're up 200 and in a 20 % drawdown, both at once. Prop firms and funds look at the second number.\n\nIn profit and in trouble at the same time.\n\nFree journal, link in bio.\n\nSend this to the friend who says a green account means no trouble.\n\nWhich difference should I explain next? 👇\n\n#drawdown #propfirm #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-difference",
+        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
+        "vorlage": "loss-vs-drawdown",
+        "vorlage_aufrufe": 1721
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-kosten",
+      "slug": "loss-vs-cost-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-cost-wdh.mp4",
+      "caption": "Loss or cost: what's the difference?\n\nA loss is a trade that went against you. A cost is what you pay even when it goes your way.\n\nWin 10 trades in a row, 5 each: that's 50. Every trade cost 6 in spread and commission: that's 60. Ten wins, and the account is down 10.\n\nA perfect win rate can still lose money.\n\nFree journal, link in bio.\n\nSend this to the friend who scalps for 5 and pays 6.\n\nWhich difference should I explain next? 👇\n\n#tradingcosts #commission #scalping #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-difference",
+        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
+        "vorlage": "loss-vs-cost",
+        "vorlage_aufrufe": 1511
+      }
+    },
+    {
+      "id": "test-2026-10-12-wdh-liquidation",
+      "slug": "stop-loss-vs-liquidation-wdh",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T01:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-liquidation-wdh.mp4",
+      "caption": "Stop loss or liquidation: what's the difference?\n\nYou set the stop. The exchange sets the liquidation.\n\nTrade with 20x leverage and your stop can sit wherever you like. But at 20x, a 5 % move against you wipes the whole position, and the exchange closes it for you. A stop further away than that never gets its turn.\n\nOne is your decision. The other ends the decision.\n\nFree journal, link in bio.\n\nSend this to the friend who trades 20x with a 10 % stop.\n\nWhich difference should I explain next? 👇\n\n#leverage #liquidation #stoploss #tradingjournal #knowthedifference",
+      "trial": "MANUAL",
+      "tiktok": false,
+      "test": {
+        "bild": "wdh-difference",
+        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
+        "vorlage": "stop-loss-vs-liquidation",
+        "vorlage_aufrufe": 1483
+      }
+    },
+    {
+      "id": "2026-10-13-minus-95-prozent",
+      "slug": "stickman-down95",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-down95.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-down95-cover.jpg",
+      "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.\n\n$500 has to become $10,000 again. That's 20 times your money. At −50 % you need to double. At −80 % you need 5 times. At −10 % you need +11 %. The math gets worse with every percent you let it fall. Decide how far the account may drop before you place the first trade.\n\nThe deeper the drop, the steeper the way back.\n\nFree journal, link in bio.\n\nSend this to the friend who is waiting for the account to come back.\n\nWhat's the deepest hole you've climbed out of? 👇\n\nPart 94 of the series.\n\n#drawdown #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-14-ein-tag-sechzig-trades",
+      "slug": "stickman-edge25",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge25.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge25-cover.jpg",
+      "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.\n\nAt 4 trades a day, that's 15 trading days. Three weeks of work to be back where you were yesterday. The day went wrong after loss number 3, and you kept clicking. Set a daily loss limit before the open and stop when you hit it.\n\nA daily limit is cheaper than 3 weeks.\n\nFree journal, link in bio.\n\nSend this to the friend who keeps trading after 3 losses in a row.\n\nWhat's your daily loss limit? 👇\n\nPart 96 of the series.\n\n#dailylosslimit #riskmanagement #overtrading #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-13-plus-400-minus-80",
+      "slug": "stickman-up400",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up400.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up400-cover.jpg",
+      "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.\n\n$1,000 became $5,000. That's the +400 % you told everyone about. Then the account dropped 80 %. 80 % of $5,000 is $4,000. What's left is the $1,000 you started with. The gain sounded 5 times bigger than the loss. In dollars they were the same size.\n\nAn 80 % drop cancels a 400 % gain.\n\nFree journal, link in bio.\n\nSend this to the friend who is still talking about a 400 % gain.\n\nWhat was your biggest gain, and how much of it did you keep? 👇\n\n#drawdown #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: neues Thema, Gewinn in Prozent gegen Verlust in Dollar"
+      }
+    },
+    {
+      "id": "test-2026-10-13-sicherer-trade",
+      "slug": "stickman-surebet",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surebet.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surebet-cover.jpg",
+      "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.\n\nIt lost. After 10 trades you're at −$1,600. One trade outweighed the other 9, five to one. It was 20 times your normal risk. The market doesn't know which trade you were sure about. Write down the risk of every trade next to how sure you felt.\n\nSize every trade as if it can lose.\n\nFree journal, link in bio.\n\nSend this to the friend who goes big when it feels certain.\n\nWhat happened the last time you were 100 % sure? 👇\n\n#positionsizing #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Familie fivesize, ein übergroßer Trade gegen neun normale"
+      }
+    },
+    {
+      "id": "2026-10-13-sieben-geplante-verluste",
+      "slug": "stickman-sevenstops",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenstops.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenstops-cover.jpg",
+      "caption": "Planned loss: −$200. You held the trade to −$1,400.\n\nThat's 7 planned losses in one trade. With an average win of $300, you need 5 wins just to get back to where you were. The stop was in the market. You moved it twice, because the trade was about to turn. Write down every time you move a stop, and what the trade did after.\n\nThe loss you planned is the cheapest one.\n\nFree journal, link in bio.\n\nSend this to the friend who moves the stop when the trade gets close.\n\nHow far have you moved a stop on one trade? 👇\n\nPart 95 of the series.\n\n#stoploss #riskmanagement #tradingpsychology #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-14-plus-minus-fuenfzig",
+      "slug": "stickman-fiftyfifty",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty-cover.jpg",
+      "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.\n\nRound 1: $10,000 goes up to $15,000 and down to $7,500. The loss is taken from the bigger number, so every round keeps 75 %. $7,500, $5,625, $4,219, $3,164. The average of +50 % and −50 % is zero. The account is down 68 %.\n\nEqual swings up and down add up to a loss.\n\nFree journal, link in bio.\n\nSend this to the friend who says a 50 % loss is fine after a 50 % win.\n\nWhat's the biggest swing your account has seen in one week? 👇\n\nPart 97 of the series.\n\n#volatility #riskmanagement #positionsizing #tradingjournal #knowthedifference",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfifty.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfifty-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-14-gewinner-verkauft-verlierer-gehalten",
+      "slug": "stickman-heldloser",
+      "status": "ready",
+      "scheduled_at": "2026-10-13T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser-cover.jpg",
+      "caption": "You sold the winner at +$200. You held the loser to −$900.\n\nThe winner ran to +$1,400 without you. Your result on the two trades: −$700. Hold the winner and cut the loser at −$200, and the same two trades make +$1,200. Taking a small win feels safe. Taking a small loss feels like being wrong. So the wins stay small and the losses grow.\n\nSame 2 trades. $1,900 apart.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profits fast and holds the losers.\n\nWhich one is harder for you: holding a winner or cutting a loser? 👇\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Familie disposition/soldwinner mit Gegenrechnung"
+      }
+    },
+    {
+      "id": "test-2026-10-14-fuenfzig-gute-wochen",
+      "slug": "stickman-fiftyweeks",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T03:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks-cover.jpg",
+      "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.\n\nAfter 50 good weeks you're at $16,446, earned 1 % at a time. Then 2 weeks at −25 % take $7,195. You were right in 50 of 52 weeks and finished the year down. Write down what was different in those two weeks: the size, the number of trades, the reason.\n\n2 weeks decided the year.\n\nFree journal, link in bio.\n\nSend this to the friend who is green almost every week.\n\nWhat did your worst week this year cost you? 👇\n\n#riskmanagement #drawdown #positionsizing #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Familie elevenplus, 50 gute Wochen gegen zwei schlechte"
+      }
+    },
+    {
+      "id": "test-2026-10-14-muenze-vierzig-trades",
+      "slug": "stickman-coin40",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40-cover.jpg",
+      "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.\n\nFlip a coin 40 times and count heads. About 1 run in 3 shows 22 or more. At $100 a flip, that's the same +$400 with no edge at all. At 400 trades and the same 55 %, only 1 coin in 39 keeps up. Count your trades before you raise the size.\n\n40 trades can't tell skill from a coin.\n\nFree journal, link in bio.\n\nSend this to the friend who wants to go full time after one good month.\n\nHow many trades did you take before you trusted your strategy? 👇\n\n#samplesize #winrate #tradingpsychology #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Familie coinflip/luck, 22 von 40 gegen die Münze"
+      }
+    },
+    {
+      "id": "test-2026-10-14-freitag-nachmittag",
+      "slug": "stickman-friday",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T07:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday-cover.jpg",
+      "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.\n\nFour careful days, then one hour off the plan. The week ends at −$300. Without that hour it ends at +$1,200. One bad hour is easy to forget by Monday. Write down the time of every trade.\n\nOne hour can cost you the whole week.\n\nFree journal, link in bio.\n\nSend this to the friend who gives the week back on Friday.\n\nWhich day of the week costs you the most? 👇\n\n#overtrading #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Neuauflage fridayleak mit Wochenrechnung"
+      }
+    },
+    {
+      "id": "test-2026-10-14-zehn-verluste-in-folge",
+      "slug": "stickman-tenrow",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow-cover.jpg",
+      "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.\n\nSame trades, same $10,000 account. At 1 % risk you need +11 % to get back to even. At 10 % you need +187 %. Long losing streaks show up in every strategy. When it comes is out of your hands. What it costs is up to you.\n\nThe streak is luck. The size is your decision.\n\nFree journal, link in bio.\n\nSend this to the friend who risks 10 % because the setup looks perfect.\n\nWhat's your longest losing streak so far? 👇\n\n#positionsizing #riskmanagement #losingstreak #tradingjournal #knowthedifference",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "Bibliothek: Familie riskten/riskstreak, zehn Verluste bei 1 % und 10 %"
       }
     }
   ]
