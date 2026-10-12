@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T10:22:02.195Z",
+ "updated": "2026-10-12T11:22:29.101Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-11: 322 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T10:22:03.129Z",
+  "checked": "2026-10-12T11:22:30.256Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -4649,6 +4649,11 @@
    "ts": "2026-10-12T10:22:02.195Z",
    "followers": 385,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-12T11:22:29.101Z",
+   "followers": 385,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4659,7 +4664,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3252,
+   "views": 3254,
    "likes": 35,
    "comments": 1
   },
@@ -4670,7 +4675,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3077,
+   "views": 3078,
    "likes": 31,
    "comments": 1
   },
@@ -4703,7 +4708,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3092,
+   "views": 3093,
    "likes": 34,
    "comments": 1
   },
@@ -4714,7 +4719,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3433,
+   "views": 3435,
    "likes": 30,
    "comments": 1
   },
@@ -4747,7 +4752,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4925,
+   "views": 4928,
    "likes": 20,
    "comments": 1
   },
@@ -4758,7 +4763,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3141,
+   "views": 3143,
    "likes": 17,
    "comments": 1
   },
@@ -4780,7 +4785,7 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2160,
+   "views": 2161,
    "likes": 18,
    "comments": 2
   },
@@ -4791,7 +4796,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3125,
+   "views": 3129,
    "likes": 26,
    "comments": 1
   },
@@ -4846,7 +4851,7 @@
    "timestamp": "2026-10-08T23:01:11+0000",
    "type": "VIDEO",
    "caption": "You bought at $100. It's at $60. Getting back to even takes +67 %.",
-   "views": 2615,
+   "views": 2616,
    "likes": 14,
    "comments": 1
   },
