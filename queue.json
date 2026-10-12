@@ -5054,7 +5054,7 @@
     {
       "id": "test-2026-10-12-wdh-mental",
       "slug": "stop-loss-vs-mental-stop-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-12T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-mental-stop-wdh.mp4",
       "caption": "Stop loss or mental stop: what's the difference?\n\nOne is an order. The other is a decision.\n\nBuy at 100, line at 95. The order closes you at 95, whether you're watching or asleep. The mental stop waits for you to act. At 95 you hope for a bounce. At 93 you give it a bit longer. You close at 90.\n\nThe order cost 5. The decision cost 10.\n\nFree journal, link in bio.\n\nSend this to the friend who keeps the stop in their head.\n\nWhich difference should I explain next? 👇\n\n#stoploss #mentalstop #tradingpsychology #tradingjournal #knowthedifference",
@@ -5066,7 +5066,10 @@
         "vorlage": "stop-loss-vs-mental-stop",
         "vorlage_aufrufe": 2581
       },
-      "posting_started_at": "2026-10-12T21:30:22.785Z"
+      "container_id": "18112360076136556",
+      "media_id": "17912481168519985",
+      "permalink": "https://www.instagram.com/reel/DeaNAmNDq6A/",
+      "published_at": "2026-10-12T21:31:04.681Z"
     },
     {
       "id": "test-2026-10-12-wdh-recovery",
