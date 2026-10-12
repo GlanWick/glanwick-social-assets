@@ -4936,7 +4936,7 @@
     {
       "id": "2026-10-12-verdoppeln-konto-reicht-nicht",
       "slug": "stickman-martin",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-12T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martin.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martin-cover.jpg",
@@ -4946,7 +4946,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martin.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martin-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-12T18:15:07.122Z"
     },
     {
       "id": "2026-10-13-sechs-gewinne-fuenfzig-prozent",
