@@ -5069,7 +5069,16 @@
       "container_id": "18112360076136556",
       "media_id": "17912481168519985",
       "permalink": "https://www.instagram.com/reel/DeaNAmNDq6A/",
-      "published_at": "2026-10-12T21:31:04.681Z"
+      "published_at": "2026-10-12T21:31:04.681Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 175,
+        "beitraege_nachher": 175,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-12T21:32:06.661Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-recovery",
