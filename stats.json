@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-12T02:36:12.854Z",
+ "updated": "2026-10-12T03:36:32.370Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-11: 285 gegen Mittel 11801"
+   "Reichweite 2026-10-11: 296 gegen Mittel 11801"
   ],
-  "checked": "2026-10-12T02:36:13.761Z",
+  "checked": "2026-10-12T03:36:33.405Z",
   "reach_days": [
    {
     "day": "2026-10-05",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-11",
-    "reach": 285
+    "reach": 296
    }
   ],
   "avg_watch_last_reels": 15
@@ -4614,6 +4614,11 @@
    "ts": "2026-10-12T02:36:12.854Z",
    "followers": 386,
    "media_count": 174
+  },
+  {
+   "ts": "2026-10-12T03:36:32.370Z",
+   "followers": 386,
+   "media_count": 174
   }
  ],
  "posts": [
@@ -4679,7 +4684,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3427,
+   "views": 3428,
    "likes": 30,
    "comments": 1
   },
@@ -4701,7 +4706,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3206,
+   "views": 3213,
    "likes": 49,
    "comments": 1
   },
@@ -4712,7 +4717,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4906,
+   "views": 4908,
    "likes": 20,
    "comments": 1
   },
@@ -4723,7 +4728,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3132,
+   "views": 3135,
    "likes": 17,
    "comments": 1
   },
@@ -4745,7 +4750,7 @@
    "timestamp": "2026-10-09T07:30:39+0000",
    "type": "VIDEO",
    "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2157,
+   "views": 2159,
    "likes": 18,
    "comments": 2
   },
@@ -4789,8 +4794,8 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3639,
-   "likes": 39,
+   "views": 3645,
+   "likes": 40,
    "comments": 2
   },
   {
@@ -4866,7 +4871,7 @@
    "timestamp": "2026-10-08T15:31:26+0000",
    "type": "VIDEO",
    "caption": "Same strategy, 200 trades each. He made $3,400. You made $600.",
-   "views": 1614,
+   "views": 1615,
    "likes": 24,
    "comments": 1
   },
