@@ -5208,7 +5208,7 @@
     {
       "id": "test-2026-10-12-wdh-hole300",
       "slug": "stickman-hole300-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hole300-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hole300-wdh-cover.jpg",
@@ -5221,7 +5221,10 @@
         "vorlage": "hole300",
         "vorlage_aufrufe": 3373
       },
-      "posting_started_at": "2026-10-13T07:30:27.772Z"
+      "container_id": "18112408784136556",
+      "media_id": "18117706763086133",
+      "permalink": "https://www.instagram.com/reel/DebRsabgpgG/",
+      "published_at": "2026-10-13T07:31:18.663Z"
     },
     {
       "id": "test-2026-10-12-wdh-martingale",
