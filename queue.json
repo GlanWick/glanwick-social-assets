@@ -5340,7 +5340,11 @@
         "verdacht": false,
         "at": "2026-10-13T05:31:51.520Z"
       },
-      "kommentar_id": "18120158522058883"
+      "kommentar_id": "18120158522058883",
+      "views_12h": {
+        "views": 6,
+        "stunden": 12.13
+      }
     },
     {
       "id": "test-2026-10-12-wdh-tageslimit",
