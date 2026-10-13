@@ -5142,7 +5142,16 @@
       "container_id": "18112377401136556",
       "media_id": "18104849261200541",
       "permalink": "https://www.instagram.com/reel/DeaodCJAY13/",
-      "published_at": "2026-10-13T01:30:50.717Z"
+      "published_at": "2026-10-13T01:30:50.717Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 176,
+        "beitraege_nachher": 176,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T01:31:52.718Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-sizing",
