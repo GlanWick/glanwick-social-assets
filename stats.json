@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13T02:06:29.477Z",
+ "updated": "2026-10-13T03:06:39.468Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-13T02:06:30.694Z",
+  "checked": "2026-10-13T03:06:41.034Z",
   "reach_days": [
    {
     "day": "2026-10-06",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-10-12",
-    "reach": 8045
+    "reach": 9619
    }
   ],
-  "avg_watch_last_reels": 17.4
+  "avg_watch_last_reels": 13.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 404,
-  "media_count": 176
+  "followers": 407,
+  "media_count": 177
  },
  "history": [
   {
@@ -4712,9 +4712,25 @@
    "ts": "2026-10-13T02:06:29.477Z",
    "followers": 404,
    "media_count": 176
+  },
+  {
+   "ts": "2026-10-13T03:06:39.468Z",
+   "followers": 407,
+   "media_count": 177
   }
  ],
  "posts": [
+  {
+   "id": "18129396910696653",
+   "slug": "stickman-worst3",
+   "permalink": "https://www.instagram.com/reel/Deavc_YCPPg/",
+   "timestamp": "2026-10-13T02:31:55+0000",
+   "type": "VIDEO",
+   "caption": "Your year: −$2,000. Your 3 worst trades: −$5,500.",
+   "views": 141,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18104849261200541",
    "slug": "stop-loss-vs-stop-hunt-wdh",
@@ -4722,8 +4738,8 @@
    "timestamp": "2026-10-13T01:30:45+0000",
    "type": "VIDEO",
    "caption": "Stop loss or stop hunt: what's the difference?",
-   "views": 56,
-   "likes": 0,
+   "views": 339,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -4733,8 +4749,8 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 2204,
-   "likes": 26,
+   "views": 2623,
+   "likes": 28,
    "comments": 1
   },
   {
@@ -4744,9 +4760,9 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 1349,
-   "likes": 14,
-   "comments": 1
+   "views": 2833,
+   "likes": 20,
+   "comments": 2
   },
   {
    "id": "17912481168519985",
@@ -4755,8 +4771,8 @@
    "timestamp": "2026-10-12T21:30:57+0000",
    "type": "VIDEO",
    "caption": "Stop loss or mental stop: what's the difference?",
-   "views": 388,
-   "likes": 3,
+   "views": 529,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -4766,8 +4782,8 @@
    "timestamp": "2026-10-12T19:30:36+0000",
    "type": "VIDEO",
    "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 2760,
-   "likes": 17,
+   "views": 2790,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -4777,8 +4793,8 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 2591,
-   "likes": 34,
+   "views": 2680,
+   "likes": 35,
    "comments": 1
   },
   {
@@ -4788,8 +4804,8 @@
    "timestamp": "2026-10-12T18:15:41+0000",
    "type": "VIDEO",
    "caption": "Start at $25 and double after every loss. Bet number 8 is $3,200.",
-   "views": 3096,
-   "likes": 12,
+   "views": 3163,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4799,7 +4815,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3273,
+   "views": 3276,
    "likes": 35,
    "comments": 1
   },
@@ -4810,7 +4826,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3089,
+   "views": 3091,
    "likes": 31,
    "comments": 1
   },
@@ -4832,7 +4848,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2769,
+   "views": 2770,
    "likes": 22,
    "comments": 1
   },
@@ -4854,7 +4870,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3465,
+   "views": 3468,
    "likes": 30,
    "comments": 1
   },
@@ -4865,7 +4881,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2474,
+   "views": 2475,
    "likes": 19,
    "comments": 1
   },
@@ -4876,7 +4892,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3227,
+   "views": 3228,
    "likes": 49,
    "comments": 1
   },
@@ -4887,7 +4903,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4966,
+   "views": 4967,
    "likes": 20,
    "comments": 1
   },
@@ -4898,7 +4914,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3155,
+   "views": 3156,
    "likes": 17,
    "comments": 1
   },
@@ -4931,7 +4947,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3184,
+   "views": 3185,
    "likes": 27,
    "comments": 1
   },
@@ -5142,17 +5158,6 @@
    "caption": "At 1 % a week, a 10 % loss takes 11 weeks to win back. A 50 % loss takes 70.",
    "views": 1549,
    "likes": 12,
-   "comments": 1
-  },
-  {
-   "id": "17992598625109866",
-   "slug": "stickman-redday",
-   "permalink": "https://www.instagram.com/reel/DeNi2epgvCC/",
-   "timestamp": "2026-10-07T23:31:35+0000",
-   "type": "VIDEO",
-   "caption": "20 green days at +$50. One red day at −$1,200. The month is down $200.",
-   "views": 1905,
-   "likes": 16,
    "comments": 1
   }
  ]
