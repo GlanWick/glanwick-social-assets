@@ -5251,7 +5251,7 @@
     {
       "id": "test-2026-10-12-wdh-slippage",
       "slug": "spread-vs-slippage-wdh",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-13T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/spread-vs-slippage-wdh.mp4",
       "caption": "Spread or slippage: what's the difference?\n\nThe spread is on your screen before you click. Slippage shows up after.\n\nPrice is 100 and you hit buy. The spread already takes a few cents: that's the gap between the buy price and the sell price. Then a fast market fills you at 100.30. Those 30 cents are slippage.\n\nOne you can see coming. The other you find in the statement.\n\nFree journal, link in bio.\n\nSend this to the friend who only counts commission as a cost.\n\nWhich difference should I explain next? 👇\n\n#spread #slippage #tradingcosts #tradingjournal #knowthedifference",
@@ -5262,7 +5262,8 @@
         "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
         "vorlage": "spread-vs-slippage",
         "vorlage_aufrufe": 2002
-      }
+      },
+      "posting_started_at": "2026-10-13T05:30:09.897Z"
     },
     {
       "id": "test-2026-10-12-wdh-tageslimit",
