@@ -5386,7 +5386,16 @@
       "container_id": "18112459430136556",
       "media_id": "18135488449650265",
       "permalink": "https://www.instagram.com/reel/DecIldLFFIj/",
-      "published_at": "2026-10-13T15:30:51.520Z"
+      "published_at": "2026-10-13T15:30:51.520Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 182,
+        "beitraege_nachher": 182,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T15:31:53.471Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-kosten",
