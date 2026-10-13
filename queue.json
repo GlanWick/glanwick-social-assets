@@ -4989,7 +4989,11 @@
       "media_id": "18073552631775832",
       "permalink": "https://www.instagram.com/reel/DeaXTFQjhye/",
       "published_at": "2026-10-12T23:00:52.852Z",
-      "kommentar_id": "18101852825634185"
+      "kommentar_id": "18101852825634185",
+      "views_12h": {
+        "views": 5727,
+        "stunden": 12.79
+      }
     },
     {
       "id": "2026-10-13-drei-schlechteste-trades",
@@ -5150,7 +5154,11 @@
         "verdacht": false,
         "at": "2026-10-12T23:32:11.996Z"
       },
-      "kommentar_id": "18144067336580633"
+      "kommentar_id": "18144067336580633",
+      "views_12h": {
+        "views": 3140,
+        "stunden": 12.28
+      }
     },
     {
       "id": "test-2026-10-12-wdh-stophunt",
