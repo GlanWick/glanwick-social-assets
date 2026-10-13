@@ -5433,7 +5433,16 @@
       "container_id": "18112431587136556",
       "media_id": "17969475963181303",
       "permalink": "https://www.instagram.com/reel/DebtIaDH9Up/",
-      "published_at": "2026-10-13T11:30:57.445Z"
+      "published_at": "2026-10-13T11:30:57.445Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 180,
+        "beitraege_nachher": 180,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T11:31:58.837Z"
+      }
     },
     {
       "id": "test-2026-10-13-sicherer-trade",
