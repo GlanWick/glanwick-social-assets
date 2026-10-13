@@ -5449,7 +5449,7 @@
     {
       "id": "2026-10-14-ein-tag-sechzig-trades",
       "slug": "stickman-edge25",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge25.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-edge25-cover.jpg",
@@ -5460,7 +5460,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25-cover.jpg"
       },
-      "posting_started_at": "2026-10-13T23:00:15.834Z"
+      "container_id": "18112505891136556",
+      "media_id": "18107118074355193",
+      "permalink": "https://www.instagram.com/reel/Dec8GNhAqIZ/",
+      "published_at": "2026-10-13T23:00:56.846Z"
     },
     {
       "id": "test-2026-10-13-plus-400-minus-80",
