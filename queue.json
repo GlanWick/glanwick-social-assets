@@ -5307,7 +5307,7 @@
     {
       "id": "test-2026-10-12-wdh-tageslimit",
       "slug": "stop-loss-vs-daily-loss-limit-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-daily-loss-limit-wdh.mp4",
       "caption": "Stop loss or daily loss limit: what's the difference?\n\nA stop loss protects one trade. A daily limit caps the whole day.\n\nYour prop firm allows 5,000 of losses per day. You take 3 trades and each one hits its stop at 2,000. Every stop did its job, and the day still stands at 6,000. Over the limit, challenge over.\n\nOne rule counts a trade. The other counts all of them.\n\nFree journal, link in bio.\n\nSend this to the friend who failed a challenge with every stop in place.\n\nWhich difference should I explain next? 👇\n\n#propfirm #dailylosslimit #stoploss #tradingjournal #knowthedifference",
@@ -5319,7 +5319,10 @@
         "vorlage": "stop-loss-vs-daily-loss-limit",
         "vorlage_aufrufe": 1981
       },
-      "posting_started_at": "2026-10-13T09:30:00.887Z"
+      "container_id": "18112418924136556",
+      "media_id": "18113855474122513",
+      "permalink": "https://www.instagram.com/reel/Debfeaqjfo4/",
+      "published_at": "2026-10-13T09:31:32.939Z"
     },
     {
       "id": "test-2026-10-12-wdh-drawdown",
