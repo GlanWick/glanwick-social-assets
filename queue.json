@@ -5105,6 +5105,10 @@
       "views_12h": {
         "views": 2900,
         "stunden": 12.45
+      },
+      "views_24h": {
+        "views": 3322,
+        "stunden": 24.14
       }
     },
     {
@@ -5274,7 +5278,11 @@
         "verdacht": false,
         "at": "2026-10-13T07:32:20.174Z"
       },
-      "kommentar_id": "18125676467485004"
+      "kommentar_id": "18125676467485004",
+      "views_12h": {
+        "views": 3142,
+        "stunden": 12.13
+      }
     },
     {
       "id": "test-2026-10-12-wdh-martingale",
