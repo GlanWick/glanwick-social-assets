@@ -5169,7 +5169,7 @@
     {
       "id": "test-2026-10-12-wdh-sizing",
       "slug": "stickman-sizing-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizing-wdh-cover.jpg",
@@ -5182,7 +5182,10 @@
         "vorlage": "sizing",
         "vorlage_aufrufe": 3151
       },
-      "posting_started_at": "2026-10-13T03:30:00.711Z"
+      "container_id": "18112388786136556",
+      "media_id": "18135509275660948",
+      "permalink": "https://www.instagram.com/reel/Dea2LLUCOt3/",
+      "published_at": "2026-10-13T03:30:41.989Z"
     },
     {
       "id": "test-2026-10-12-wdh-hole300",
