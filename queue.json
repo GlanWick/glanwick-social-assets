@@ -5227,7 +5227,11 @@
         "verdacht": false,
         "at": "2026-10-13T03:31:43.899Z"
       },
-      "kommentar_id": "18131275051847752"
+      "kommentar_id": "18131275051847752",
+      "views_12h": {
+        "views": 3061,
+        "stunden": 12.31
+      }
     },
     {
       "id": "test-2026-10-12-wdh-hole300",
