@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:26:32.555Z",
+  "generated_at": "2026-10-13T23:17:10.844Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -5459,18 +5459,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-edge25-cover.jpg",
-        "gestartet_at": "2026-10-13T23:01:00.681Z",
-        "stand": "2026-10-13T23:02:25.750Z",
-        "versuch": 1,
         "post_id": "6aceb831166283d341c04a8e",
-        "published_at": "2026-10-13T23:01:30.349Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696291402359098656",
-        "plattform_id": "7696291402359098656"
+        "plattform_id": "7696291402359098656",
+        "published_at": "2026-10-13T23:01:30.349Z",
+        "gestartet_at": "2026-10-13T23:01:00.681Z",
+        "stand": "2026-10-13T23:02:25.750Z"
       },
-      "container_id": "18112505891136556",
       "media_id": "18107118074355193",
       "permalink": "https://www.instagram.com/reel/Dec8GNhAqIZ/",
       "published_at": "2026-10-13T23:00:56.846Z",
+      "container_id": "18112505891136556",
       "kommentar_id": "17884315677690628"
     },
     {
@@ -5564,7 +5563,7 @@
       "scheduled_at": "2026-10-14T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty-cover.jpg",
-      "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.\n\nRound 1: $10,000 goes up to $15,000 and down to $7,500. The loss is taken from the bigger number, so every round keeps 75 %. $7,500, $5,625, $4,219, $3,164. The average of +50 % and −50 % is zero. The account is down 68 %.\n\nEqual swings up and down add up to a loss.\n\nFree journal, link in bio.\n\nSend this to the friend who says a 50 % loss is fine after a 50 % win.\n\nWhat's the biggest swing your account has seen in one week? 👇\n\nPart 97 of the series.\n\n#volatility #riskmanagement #positionsizing #tradingjournal #knowthedifference",
+      "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.\n\nRound 1: $10,000 goes up to $15,000 and down to $7,500. The loss is taken from the bigger number, so every round keeps 75 %. $7,500, $5,625, $4,219, $3,164. The average of +50 % and −50 % is zero. The account is down 68 %.\n\nEqual swings up and down add up to a loss.\n\nFree journal, link in bio.\n\nSome traders say a 50 % loss is fine after a 50 % win.\n\nWhat's the biggest swing your account has seen in one week?\n\nPart 97 of the series. Part 98: same trade, same $1,000 loss. He lost 1 % of his account, you lost 20 %.\n\n#volatility #riskmanagement #positionsizing #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
         "status": "ready",
@@ -5579,7 +5578,7 @@
       "scheduled_at": "2026-10-13T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser-cover.jpg",
-      "caption": "You sold the winner at +$200. You held the loser to −$900.\n\nThe winner ran to +$1,400 without you. Your result on the two trades: −$700. Hold the winner and cut the loser at −$200, and the same two trades make +$1,200. Taking a small win feels safe. Taking a small loss feels like being wrong. So the wins stay small and the losses grow.\n\nSame 2 trades. $1,900 apart.\n\nFree journal, link in bio.\n\nSend this to the friend who takes profits fast and holds the losers.\n\nWhich one is harder for you: holding a winner or cutting a loser? 👇\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "caption": "You sold the winner at +$200. You held the loser to −$900.\n\nThe winner ran to +$1,400 without you. Your result on the two trades: −$700. Hold the winner and cut the loser at −$200, and the same two trades make +$1,200. Taking a small win feels safe. Taking a small loss feels like being wrong. So the wins stay small and the losses grow.\n\nSame 2 trades. $1,900 apart.\n\nFree journal, link in bio.\n\nYou may know a trader who takes profits fast and holds the losers.\n\nWhich one is harder for you: holding a winner or cutting a loser?\n\nPart 90 of the series is on the profile: 3 losses in a row, and the trade you sat out made $800.\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal",
       "trial": "SS_PERFORMANCE",
       "tiktok": false,
       "test": {
@@ -5594,7 +5593,7 @@
       "scheduled_at": "2026-10-14T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks-cover.jpg",
-      "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.\n\nAfter 50 good weeks you're at $16,446, earned 1 % at a time. Then 2 weeks at −25 % take $7,195. You were right in 50 of 52 weeks and finished the year down. Write down what was different in those two weeks: the size, the number of trades, the reason.\n\n2 weeks decided the year.\n\nFree journal, link in bio.\n\nSend this to the friend who is green almost every week.\n\nWhat did your worst week this year cost you? 👇\n\n#riskmanagement #drawdown #positionsizing #tradingjournal #knowthedifference",
+      "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.\n\nAfter 50 good weeks you're at $16,446, earned 1 % at a time. Then 2 weeks at −25 % take $7,195. You were right in 50 of 52 weeks and finished the year down. Write down what was different in those two weeks: the size, the number of trades, the reason.\n\n2 weeks decided the year.\n\nFree journal, link in bio.\n\nSome traders are green almost every week and still finish the year down.\n\nWhat did your worst week this year cost you?\n\nPart 93 of the series is on the profile: a year at −$2,000, and the 3 worst trades alone cost $5,500.\n\n#riskmanagement #drawdown #positionsizing #tradingjournal",
       "trial": "SS_PERFORMANCE",
       "tiktok": false,
       "test": {
@@ -5609,7 +5608,7 @@
       "scheduled_at": "2026-10-14T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40-cover.jpg",
-      "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.\n\nFlip a coin 40 times and count heads. About 1 run in 3 shows 22 or more. At $100 a flip, that's the same +$400 with no edge at all. At 400 trades and the same 55 %, only 1 coin in 39 keeps up. Count your trades before you raise the size.\n\n40 trades can't tell skill from a coin.\n\nFree journal, link in bio.\n\nSend this to the friend who wants to go full time after one good month.\n\nHow many trades did you take before you trusted your strategy? 👇\n\n#samplesize #winrate #tradingpsychology #tradingjournal #knowthedifference",
+      "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.\n\nFlip a coin 40 times and count heads. About 1 run in 3 shows 22 or more. At $100 a flip, that's the same +$400 with no edge at all. At 400 trades and the same 55 %, only 1 coin in 39 keeps up. Count your trades before you raise the size.\n\n40 trades can't tell skill from a coin.\n\nFree journal, link in bio.\n\nYou may know a trader who wants to go full time after one good month.\n\nHow many trades did you take before you trusted your strategy?\n\nPart 87 of the series is on the profile: double after every loss from $10, and bet number 10 is $5,120.\n\n#samplesize #winrate #tradingpsychology #tradingjournal",
       "trial": "SS_PERFORMANCE",
       "tiktok": false,
       "test": {
@@ -5624,7 +5623,7 @@
       "scheduled_at": "2026-10-14T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday-cover.jpg",
-      "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.\n\nFour careful days, then one hour off the plan. The week ends at −$300. Without that hour it ends at +$1,200. One bad hour is easy to forget by Monday. Write down the time of every trade.\n\nOne hour can cost you the whole week.\n\nFree journal, link in bio.\n\nSend this to the friend who gives the week back on Friday.\n\nWhich day of the week costs you the most? 👇\n\n#overtrading #tradingpsychology #riskmanagement #tradingjournal #knowthedifference",
+      "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.\n\nFour careful days, then one hour off the plan. The week ends at −$300. Without that hour it ends at +$1,200. One bad hour is easy to forget by Monday. Write down the time of every trade.\n\nOne hour can cost you the whole week.\n\nFree journal, link in bio.\n\nSome traders give the week back on Friday.\n\nWhich day of the week costs you the most?\n\nPart 96 of the series is on the profile: one −$1,500 day costs 60 trades.\n\n#overtrading #tradingpsychology #riskmanagement #tradingjournal",
       "trial": "SS_PERFORMANCE",
       "tiktok": false,
       "test": {
@@ -5639,12 +5638,102 @@
       "scheduled_at": "2026-10-14T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow-cover.jpg",
-      "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.\n\nSame trades, same $10,000 account. At 1 % risk you need +11 % to get back to even. At 10 % you need +187 %. Long losing streaks show up in every strategy. When it comes is out of your hands. What it costs is up to you.\n\nThe streak is luck. The size is your decision.\n\nFree journal, link in bio.\n\nSend this to the friend who risks 10 % because the setup looks perfect.\n\nWhat's your longest losing streak so far? 👇\n\n#positionsizing #riskmanagement #losingstreak #tradingjournal #knowthedifference",
+      "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.\n\nSame trades, same $10,000 account. At 1 % risk you need +11 % to get back to even. At 10 % you need +187 %. Long losing streaks show up in every strategy. When it comes is out of your hands. What it costs is up to you.\n\nThe streak is luck. The size is your decision.\n\nFree journal, link in bio.\n\nYou may know a trader who risks 10 % because the setup looks perfect.\n\nWhat's your longest losing streak so far?\n\nPart 92 of the series is on the profile: 6 wins in 10 trades at 50 % risk, and $10,000 becomes $7,119.\n\n#positionsizing #riskmanagement #losingstreak #tradingjournal",
       "trial": "SS_PERFORMANCE",
       "tiktok": false,
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie riskten/riskstreak, zehn Verluste bei 1 % und 10 %"
+      }
+    },
+    {
+      "id": "2026-10-14-gleicher-trade-anderes-konto",
+      "slug": "stickman-copysize",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copysize.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copysize-cover.jpg",
+      "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.\n\nWhat did you both buy? 100 shares at $50. That is a $5,000 trade.\nWhat happened? The price fell $10. Each of you lost $1,000.\nWhy did it hurt him less? He has $100,000 in his account. For him, $1,000 is 1 %.\nAnd for you? You have $5,000 in yours. For you, $1,000 is 20 %. One fifth, gone in one trade.\nSo what went wrong? You bought as much as he did. That amount fits an account of $100,000.\nWhat can you copy? The idea. How much you buy has to fit your own account.\n\nBefore you copy a trade, work out the loss in percent of your own account.\n\nFree journal, link in bio.\n\nSome traders copy every call from the group chat, size included.\n\nHave you ever copied a trade that was too big for your account?\n\nPart 98 of the series. Part 99: 5 losses in a row, you quit, and the next 20 trades make $1,200.\n\n#positionsizing #riskmanagement #copytrading #daytrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-copysize.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-copysize-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-14-fuenf-verluste-aufgegeben",
+      "slug": "stickman-quitstreak",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quitstreak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quitstreak-cover.jpg",
+      "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.\n\nWas the strategy still fine? Yes. It wins 4 trades out of 10, and that is enough.\nHow can 4 out of 10 be enough? Each win brings $300. Each loss takes $100.\nWhat did the next 20 trades bring? 8 wins made $2,400. 12 losses cost $1,200. That left $1,200.\nThen why 5 losses in a row? 6 trades out of 10 lose. Sooner or later, 5 of them come together.\nHow often? Take 50 trades. In 8 cases out of 10, there is a row of 5 losses in them.\nSo what should you know before you start? How long a normal row of losses is.\n\nCount the longest row of losses in your last 50 trades before you judge the strategy.\n\nFree journal, link in bio.\n\nYou may know a trader who changes the strategy after every bad week.\n\nAfter how many losses in a row do you start doubting your strategy?\n\nPart 99 of the series. Part 100: doubling after every loss wins $50 a day for 100 days. Then comes one streak.\n\n#losingstreak #winrate #tradingpsychology #riskmanagement #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-quitstreak.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-quitstreak-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-15-hundert-tage-verdoppeln",
+      "slug": "stickman-hundreddays",
+      "status": "ready",
+      "scheduled_at": "2026-10-14T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundreddays.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundreddays-cover.jpg",
+      "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row took $6,350.\n\nHow does doubling work? You bet $50. After a loss you bet double, until you win.\nWhat does a win pay? $50, no matter how many losses came before it.\nWhere is the catch? 7 losses in a row. The bets are $50, $100, $200, $400, $800, $1,600 and $3,200.\nWhat do they cost together? $6,350.\nAnd what did 100 good days make? $5,000. One bad day takes all of it, and $1,350 more.\nHow likely is that day? If every bet is a coin flip, 1 day in 128 starts with 7 losses. Over 100 days, the chance of one such day is 54 %.\n\nBefore you double, add up what 7 losses in a row would cost you.\n\nFree journal, link in bio.\n\nSome traders call doubling a system because it has not failed yet.\n\nAt which loss would you stop doubling?\n\nPart 100 of the series. Part 101: 55 wins in 100 trades, and the account is down.\n\n#martingale #riskmanagement #positionsizing #tradingpsychology #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundreddays.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundreddays-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-15-doppeltes-risiko-gewinn-weg",
+      "slug": "stickman-twicerisk",
+      "status": "ready",
+      "scheduled_at": "2026-10-15T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twicerisk.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twicerisk-cover.jpg",
+      "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.\n\nHow can you win more often than you lose and still be down? A loss weighs more than a win of the same size.\nWhat does that mean? Risk 20 % and win: $100 becomes $120. Then lose 20 %: $120 becomes $96.\nSo one win and one loss cost you 4 %? Yes, every time.\nAnd at 10 % risk? One win and one loss cost only 1 %. The same 55 wins turn $10,000 into $16,501.\nAnd at 30 %? They cost 9 %. You end with $1,978.\nWhat changed between the three? Only the size. The trades were the same.\n\nWork out what one win and one loss leave at your size before you raise it.\n\nFree journal, link in bio.\n\nYou may know a trader who turns the size up as soon as the win rate is above 50 %.\n\nWhen did you last raise your size, and what happened next?\n\nPart 101 of the series. Part 102: your $10,000 is down to $2,000, and the way back takes 33 months.\n\n#positionsizing #riskmanagement #winrate #compounding #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-15-rueckweg-dreiunddreissig-monate",
+      "slug": "stickman-wayback",
+      "status": "ready",
+      "scheduled_at": "2026-10-15T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-wayback.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-wayback-cover.jpg",
+      "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.\n\nWhy so long? You lost 80 %. To get back you need +400 %, because you start from $2,000.\nIsn't +5 % a month a lot? It is. And even then it takes almost 3 years.\nWhere are you after one year? At $3,592. Still $6,408 short.\nAnd after two years? At $6,450.\nWhat if the loss had been 20 %? Then $8,000 needs +25 %. At the same pace, that takes 5 months.\nSo what decides how long it takes? How deep the loss was.\n\nDecide the most you are willing to lose before the trade, and write it down.\n\nFree journal, link in bio.\n\nSome traders say they will make it back next month.\n\nHow long did your biggest loss take to win back?\n\nPart 102 of the series. Part 103: two accounts average +10 % a year. Two years later, one is up $2,100, the other $500.\n\n#drawdown #riskmanagement #compounding #tradingpsychology #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback-cover.jpg"
+      }
+    },
+    {
+      "id": "2026-10-15-gleicher-schnitt-halbes-geld",
+      "slug": "stickman-sameaverage",
+      "status": "ready",
+      "scheduled_at": "2026-10-15T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameaverage.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameaverage-cover.jpg",
+      "caption": "You both average +10 % a year. Two years later he's up $2,100. You're up $500.\n\nHow can the same average pay so differently? The average adds the two years. Your account multiplies them.\nWhat does he do? He makes 10 %, then 10 % again. $10,000 becomes $11,000, then $12,100.\nAnd you? You gain 50 % in year one and lose 30 % in year two. $10,000 becomes $15,000, then $10,500.\nWhy only $10,500? The 30 % is taken from $15,000. That is $4,500, almost the whole gain.\nAnd after 10 years? He has $25,937. You have $12,763.\nSo what counts? How even the years are, as much as how high the average is.\n\nWrite down every month in percent, the good ones and the bad ones, before you trust your average.\n\nFree journal, link in bio.\n\nSome traders quote their average return and leave out the swings.\n\nWhat was your best month, and what came right after it?\n\nPart 103 of the series.\n\n#volatility #compounding #riskmanagement #positionsizing #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage-cover.jpg"
       }
     }
   ]
