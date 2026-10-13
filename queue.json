@@ -5371,7 +5371,7 @@
     {
       "id": "test-2026-10-12-wdh-drawdown",
       "slug": "loss-vs-drawdown-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-drawdown-wdh.mp4",
       "caption": "Loss or drawdown: what's the difference?\n\nA loss is counted from where you started. A drawdown is counted from your highest point.\n\nYou fund 1,000 and grow it to 1,500. Then it drops to 1,200. You're up 200 and in a 20 % drawdown, both at once. Prop firms and funds look at the second number.\n\nIn profit and in trouble at the same time.\n\nFree journal, link in bio.\n\nSend this to the friend who says a green account means no trouble.\n\nWhich difference should I explain next? 👇\n\n#drawdown #propfirm #riskmanagement #tradingjournal #knowthedifference",
@@ -5383,7 +5383,10 @@
         "vorlage": "loss-vs-drawdown",
         "vorlage_aufrufe": 1721
       },
-      "posting_started_at": "2026-10-13T15:30:11.846Z"
+      "container_id": "18112459430136556",
+      "media_id": "18135488449650265",
+      "permalink": "https://www.instagram.com/reel/DecIldLFFIj/",
+      "published_at": "2026-10-13T15:30:51.520Z"
     },
     {
       "id": "test-2026-10-12-wdh-kosten",
