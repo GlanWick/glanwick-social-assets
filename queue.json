@@ -5523,7 +5523,7 @@
     {
       "id": "2026-10-13-sieben-geplante-verluste",
       "slug": "stickman-sevenstops",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenstops.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sevenstops-cover.jpg",
@@ -5534,7 +5534,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops-cover.jpg"
       },
-      "posting_started_at": "2026-10-13T17:00:05.757Z"
+      "container_id": "18112469936136556",
+      "media_id": "18000537953812190",
+      "permalink": "https://www.instagram.com/reel/DecS379DPXX/",
+      "published_at": "2026-10-13T17:00:44.953Z"
     },
     {
       "id": "2026-10-14-plus-minus-fuenfzig",
