@@ -5224,7 +5224,16 @@
       "container_id": "18112408784136556",
       "media_id": "18117706763086133",
       "permalink": "https://www.instagram.com/reel/DebRsabgpgG/",
-      "published_at": "2026-10-13T07:31:18.663Z"
+      "published_at": "2026-10-13T07:31:18.663Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 180,
+        "beitraege_nachher": 180,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T07:32:20.174Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-martingale",
