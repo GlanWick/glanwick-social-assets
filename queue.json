@@ -5271,7 +5271,16 @@
       "container_id": "18112445747136556",
       "media_id": "18125706665482550",
       "permalink": "https://www.instagram.com/reel/Deb65F2iWMx/",
-      "published_at": "2026-10-13T13:31:08.363Z"
+      "published_at": "2026-10-13T13:31:08.363Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 181,
+        "beitraege_nachher": 181,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T13:32:10.089Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-twopercent",
