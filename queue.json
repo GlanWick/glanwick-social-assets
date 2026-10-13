@@ -4990,7 +4990,7 @@
     {
       "id": "2026-10-13-drei-schlechteste-trades",
       "slug": "stickman-worst3",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-13T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-worst3.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-worst3-cover.jpg",
@@ -5000,7 +5000,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worst3.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worst3-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-13T02:30:21.254Z"
     },
     {
       "id": "test-2026-10-12-wdh-trailing",
