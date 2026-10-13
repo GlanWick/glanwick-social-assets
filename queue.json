@@ -5208,7 +5208,7 @@
     {
       "id": "test-2026-10-12-wdh-hole300",
       "slug": "stickman-hole300-wdh",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-13T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hole300-wdh.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hole300-wdh-cover.jpg",
@@ -5220,7 +5220,8 @@
         "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
         "vorlage": "hole300",
         "vorlage_aufrufe": 3373
-      }
+      },
+      "posting_started_at": "2026-10-13T07:30:27.772Z"
     },
     {
       "id": "test-2026-10-12-wdh-martingale",
