@@ -5081,7 +5081,11 @@
         "verdacht": false,
         "at": "2026-10-12T19:31:42.782Z"
       },
-      "kommentar_id": "18335202967277482"
+      "kommentar_id": "18335202967277482",
+      "views_12h": {
+        "views": 2900,
+        "stunden": 12.45
+      }
     },
     {
       "id": "test-2026-10-12-wdh-mental",
