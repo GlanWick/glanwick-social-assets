@@ -5266,7 +5266,16 @@
       "container_id": "18112397636136556",
       "media_id": "18111051122579625",
       "permalink": "https://www.instagram.com/reel/DebD6qXDYzd/",
-      "published_at": "2026-10-13T05:30:48.527Z"
+      "published_at": "2026-10-13T05:30:48.527Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 177,
+        "beitraege_nachher": 177,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T05:31:51.520Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-tageslimit",
