@@ -5419,7 +5419,7 @@
     {
       "id": "test-2026-10-13-plus-400-minus-80",
       "slug": "stickman-up400",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up400.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-up400-cover.jpg",
@@ -5430,7 +5430,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema, Gewinn in Prozent gegen Verlust in Dollar"
       },
-      "posting_started_at": "2026-10-13T11:30:16.871Z"
+      "container_id": "18112431587136556",
+      "media_id": "17969475963181303",
+      "permalink": "https://www.instagram.com/reel/DebtIaDH9Up/",
+      "published_at": "2026-10-13T11:30:57.445Z"
     },
     {
       "id": "test-2026-10-13-sicherer-trade",
