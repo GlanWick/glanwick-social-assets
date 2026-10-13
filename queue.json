@@ -4958,7 +4958,11 @@
       "media_id": "18099648839354184",
       "permalink": "https://www.instagram.com/reel/DeZ2rTFj8Eh/",
       "published_at": "2026-10-12T18:15:49.019Z",
-      "kommentar_id": "18135960166634449"
+      "kommentar_id": "18135960166634449",
+      "views_12h": {
+        "views": 3293,
+        "stunden": 12.69
+      }
     },
     {
       "id": "2026-10-13-sechs-gewinne-fuenfzig-prozent",
@@ -5042,7 +5046,11 @@
         "verdacht": false,
         "at": "2026-10-12T18:18:02.061Z"
       },
-      "kommentar_id": "18336603739279992"
+      "kommentar_id": "18336603739279992",
+      "views_12h": {
+        "views": 2780,
+        "stunden": 12.67
+      }
     },
     {
       "id": "test-2026-10-12-wdh-voldrag",
