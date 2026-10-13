@@ -5127,7 +5127,7 @@
     {
       "id": "test-2026-10-12-wdh-stophunt",
       "slug": "stop-loss-vs-stop-hunt-wdh",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-stop-hunt-wdh.mp4",
       "caption": "Stop loss or stop hunt: what's the difference?\n\nYour stop is one order. A stop hunt is thousands of them at the same price.\n\nA stock sits at 100. Most traders park the stop just below, at 99.90. Price dips to 99.85 and every one of those stops sells at once. That selling pushes it lower, then it snaps back to 101 without them.\n\nYour stop was standing in a crowd.\n\nFree journal, link in bio.\n\nSend this to the friend who swears the market is out to get them.\n\nWhich difference should I explain next? 👇\n\n#stoploss #stophunt #liquidity #tradingjournal #knowthedifference",
@@ -5139,7 +5139,10 @@
         "vorlage": "stop-loss-vs-stop-hunt",
         "vorlage_aufrufe": 2550
       },
-      "posting_started_at": "2026-10-13T01:30:11.787Z"
+      "container_id": "18112377401136556",
+      "media_id": "18104849261200541",
+      "permalink": "https://www.instagram.com/reel/DeaodCJAY13/",
+      "published_at": "2026-10-13T01:30:50.717Z"
     },
     {
       "id": "test-2026-10-12-wdh-sizing",
