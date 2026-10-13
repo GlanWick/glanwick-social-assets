@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13T05:57:08.508Z",
+ "updated": "2026-10-13T06:57:10.335Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-13T05:57:09.655Z",
+  "checked": "2026-10-13T06:57:11.217Z",
   "reach_days": [
    {
     "day": "2026-10-06",
@@ -31,15 +31,15 @@
    },
    {
     "day": "2026-10-12",
-    "reach": 12464
+    "reach": 13092
    }
   ],
-  "avg_watch_last_reels": 15.2
+  "avg_watch_last_reels": 15.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 412,
+  "followers": 414,
   "media_count": 177
  },
  "history": [
@@ -4732,6 +4732,11 @@
    "ts": "2026-10-13T05:57:08.508Z",
    "followers": 412,
    "media_count": 177
+  },
+  {
+   "ts": "2026-10-13T06:57:10.335Z",
+   "followers": 414,
+   "media_count": 177
   }
  ],
  "posts": [
@@ -4753,8 +4758,8 @@
    "timestamp": "2026-10-13T03:30:35+0000",
    "type": "VIDEO",
    "caption": "10 losing trades in a row. One sizing rule leaves $5,000, the other $5,987.",
-   "views": 1063,
-   "likes": 7,
+   "views": 1879,
+   "likes": 17,
    "comments": 2
   },
   {
@@ -4764,8 +4769,8 @@
    "timestamp": "2026-10-13T02:31:55+0000",
    "type": "VIDEO",
    "caption": "Your year: −$2,000. Your 3 worst trades: −$5,500.",
-   "views": 337,
-   "likes": 1,
+   "views": 455,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -4775,7 +4780,7 @@
    "timestamp": "2026-10-13T01:30:45+0000",
    "type": "VIDEO",
    "caption": "Stop loss or stop hunt: what's the difference?",
-   "views": 924,
+   "views": 1234,
    "likes": 8,
    "comments": 1
   },
@@ -4786,7 +4791,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 2820,
+   "views": 2844,
    "likes": 28,
    "comments": 1
   },
@@ -4797,8 +4802,8 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 4160,
-   "likes": 24,
+   "views": 4322,
+   "likes": 25,
    "comments": 2
   },
   {
@@ -4808,8 +4813,8 @@
    "timestamp": "2026-10-12T21:30:57+0000",
    "type": "VIDEO",
    "caption": "Stop loss or mental stop: what's the difference?",
-   "views": 1221,
-   "likes": 10,
+   "views": 1423,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -4819,7 +4824,7 @@
    "timestamp": "2026-10-12T19:30:36+0000",
    "type": "VIDEO",
    "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 2837,
+   "views": 2872,
    "likes": 18,
    "comments": 1
   },
@@ -4830,7 +4835,7 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 2747,
+   "views": 2780,
    "likes": 35,
    "comments": 1
   },
@@ -4841,7 +4846,7 @@
    "timestamp": "2026-10-12T18:15:41+0000",
    "type": "VIDEO",
    "caption": "Start at $25 and double after every loss. Bet number 8 is $3,200.",
-   "views": 3252,
+   "views": 3293,
    "likes": 13,
    "comments": 1
   },
@@ -4852,7 +4857,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3282,
+   "views": 3286,
    "likes": 35,
    "comments": 1
   },
@@ -4863,7 +4868,7 @@
    "timestamp": "2026-10-09T23:00:43+0000",
    "type": "VIDEO",
    "caption": "Up 25 %, then down 20 %. Your $10,000 is $10,000.",
-   "views": 3096,
+   "views": 3097,
    "likes": 31,
    "comments": 1
   },
@@ -4885,7 +4890,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2775,
+   "views": 2776,
    "likes": 22,
    "comments": 1
   },
@@ -4896,7 +4901,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3107,
+   "views": 3109,
    "likes": 34,
    "comments": 1
   },
@@ -4907,7 +4912,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3472,
+   "views": 3473,
    "likes": 30,
    "comments": 1
   },
@@ -4918,7 +4923,7 @@
    "timestamp": "2026-10-09T15:31:02+0000",
    "type": "VIDEO",
    "caption": "One day cost you $2,000. At +$100 a day, that's 20 trading days. A whole month.",
-   "views": 2481,
+   "views": 2483,
    "likes": 19,
    "comments": 1
   },
@@ -4929,7 +4934,7 @@
    "timestamp": "2026-10-09T13:31:38+0000",
    "type": "VIDEO",
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
-   "views": 3231,
+   "views": 3232,
    "likes": 49,
    "comments": 1
   },
@@ -4940,7 +4945,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 4971,
+   "views": 4975,
    "likes": 20,
    "comments": 1
   },
@@ -4951,7 +4956,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3160,
+   "views": 3161,
    "likes": 17,
    "comments": 1
   },
@@ -4984,7 +4989,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3194,
+   "views": 3197,
    "likes": 27,
    "comments": 1
   },
@@ -5006,7 +5011,7 @@
    "timestamp": "2026-10-09T02:30:40+0000",
    "type": "VIDEO",
    "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2672,
+   "views": 2673,
    "likes": 16,
    "comments": 1
   },
@@ -5017,7 +5022,7 @@
    "timestamp": "2026-10-09T01:30:41+0000",
    "type": "VIDEO",
    "caption": "Your edge is $20 a trade. One −$1,000 day costs you 50 trades.",
-   "views": 3676,
+   "views": 3679,
    "likes": 40,
    "comments": 2
   },
