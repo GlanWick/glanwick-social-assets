@@ -5397,7 +5397,7 @@
     {
       "id": "2026-10-13-minus-95-prozent",
       "slug": "stickman-down95",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-13T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-down95.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-down95-cover.jpg",
@@ -5408,7 +5408,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95-cover.jpg"
       },
-      "posting_started_at": "2026-10-13T12:00:16.790Z"
+      "container_id": "18112435097136556",
+      "media_id": "18464117704136994",
+      "permalink": "https://www.instagram.com/reel/DebwkB-DRRt/",
+      "published_at": "2026-10-13T12:00:56.794Z"
     },
     {
       "id": "2026-10-14-ein-tag-sechzig-trades",
