@@ -5322,7 +5322,16 @@
       "container_id": "18112418924136556",
       "media_id": "18113855474122513",
       "permalink": "https://www.instagram.com/reel/Debfeaqjfo4/",
-      "published_at": "2026-10-13T09:31:32.939Z"
+      "published_at": "2026-10-13T09:31:32.939Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 180,
+        "beitraege_nachher": 180,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-13T09:32:34.784Z"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-drawdown",
