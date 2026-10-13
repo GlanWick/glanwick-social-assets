@@ -889,15 +889,18 @@
       "published_at": "2026-09-17T02:30:55.878Z",
       "container_id": "18108425339136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 27,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-tightstop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-tightstop-cover.jpg",
         "gestartet_at": "2026-10-13T17:41:10.506Z",
-        "stand": "2026-10-13T17:41:31.971Z",
+        "stand": "2026-10-13T17:42:04.435Z",
         "versuch": 1,
         "slot": "2026-10-13T17:00:00.000Z",
-        "post_id": "6ace6d3ca9578c0338a92ae0"
+        "post_id": "6ace6d3ca9578c0338a92ae0",
+        "published_at": "2026-10-13T17:41:42.467Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7696208702814144544"
       }
     },
     {
