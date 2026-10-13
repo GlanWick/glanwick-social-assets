@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:47:34.155Z",
+  "generated_at": "2026-10-13T20:26:32.555Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -523,16 +523,6 @@
       "container_id": "18107322896136556"
     },
     {
-      "id": "2026-09-09-revenge-trade-vs-re-entry",
-      "slug": "revenge-trade-vs-re-entry",
-      "kind": "reel",
-      "video_url": "https://glanwick.github.io/glanwick-social-assets/revenge-trade-vs-re-entry.mp4",
-      "cover_url": "https://glanwick.github.io/glanwick-social-assets/revenge-trade-vs-re-entry-cover.jpg",
-      "caption": "Follow for more differences.\n\nWhat's the difference between a revenge trade and a re-entry?\nBoth happen right after a loss. A re-entry has a reason on the chart. A revenge trade has a reason in your chest.\nStopped at 95. Price comes back and breaks the level again: re-entry, same size, same stop. Price does nothing, but you need the 5 back: revenge, double size, no stop. Same click, different trader.\n\nWhich one was your last trade after a loss? Comment CHART or CHEST.\n\n#revengetrading #tradingpsychology #riskmanagement #daytrading #swingtrading #forex #cryptotrading #tilt #tradingjournal #knowthedifference",
-      "scheduled_at": "2026-09-10T10:30:00Z",
-      "status": "draft"
-    },
-    {
       "id": "2026-09-09-comic-witness",
       "slug": "comic-witness",
       "kind": "carousel",
@@ -893,14 +883,13 @@
         "nr": 27,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-tightstop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-tightstop-cover.jpg",
-        "gestartet_at": "2026-10-13T17:41:10.506Z",
-        "stand": "2026-10-13T17:42:04.435Z",
-        "versuch": 1,
-        "slot": "2026-10-13T17:00:00.000Z",
         "post_id": "6ace6d3ca9578c0338a92ae0",
-        "published_at": "2026-10-13T17:41:42.467Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696209008037825824",
-        "plattform_id": "7696209008037825824"
+        "plattform_id": "7696209008037825824",
+        "published_at": "2026-10-13T17:41:42.467Z",
+        "gestartet_at": "2026-10-13T17:41:10.506Z",
+        "slot": "2026-10-13T17:00:00.000Z",
+        "stand": "2026-10-13T17:42:04.435Z"
       }
     },
     {
@@ -4954,18 +4943,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martin.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martin-cover.jpg",
-        "gestartet_at": "2026-10-12T18:15:53.515Z",
-        "stand": "2026-10-12T18:18:05.991Z",
-        "versuch": 1,
         "post_id": "6acd23dff13fde8a2024fc3f",
-        "published_at": "2026-10-12T18:16:27.322Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7695846870714944800",
-        "plattform_id": "7695846870714944800"
+        "plattform_id": "7695846870714944800",
+        "published_at": "2026-10-12T18:16:27.322Z",
+        "gestartet_at": "2026-10-12T18:15:53.515Z",
+        "stand": "2026-10-12T18:18:05.991Z"
       },
-      "container_id": "18112339199136556",
       "media_id": "18099648839354184",
       "permalink": "https://www.instagram.com/reel/DeZ2rTFj8Eh/",
       "published_at": "2026-10-12T18:15:49.019Z",
+      "container_id": "18112339199136556",
       "kommentar_id": "18135960166634449",
       "views_12h": {
         "views": 3293,
@@ -4985,18 +4973,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixwins50.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixwins50-cover.jpg",
-        "gestartet_at": "2026-10-12T23:00:56.465Z",
-        "stand": "2026-10-12T23:02:27.994Z",
-        "versuch": 1,
         "post_id": "6acd66b477f8dd2367e4e504",
-        "published_at": "2026-10-12T23:01:34.988Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7695920325984357665",
-        "plattform_id": "7695920325984357665"
+        "plattform_id": "7695920325984357665",
+        "published_at": "2026-10-12T23:01:34.988Z",
+        "gestartet_at": "2026-10-12T23:00:56.465Z",
+        "stand": "2026-10-12T23:02:27.994Z"
       },
-      "container_id": "18112365422136556",
       "media_id": "18073552631775832",
       "permalink": "https://www.instagram.com/reel/DeaXTFQjhye/",
       "published_at": "2026-10-12T23:00:52.852Z",
+      "container_id": "18112365422136556",
       "kommentar_id": "18101852825634185",
       "views_12h": {
         "views": 5727,
@@ -5016,18 +5003,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worst3.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-worst3-cover.jpg",
-        "gestartet_at": "2026-10-13T02:32:07.072Z",
-        "stand": "2026-10-13T02:33:35.858Z",
-        "versuch": 1,
         "post_id": "6acd982c1b5956d903109372",
-        "published_at": "2026-10-13T02:32:42.790Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7695974566119755041",
-        "plattform_id": "7695974566119755041"
+        "plattform_id": "7695974566119755041",
+        "published_at": "2026-10-13T02:32:42.790Z",
+        "gestartet_at": "2026-10-13T02:32:07.072Z",
+        "stand": "2026-10-13T02:33:35.858Z"
       },
-      "container_id": "18112384151136556",
       "media_id": "18129396910696653",
       "permalink": "https://www.instagram.com/reel/Deavc_YCPPg/",
       "published_at": "2026-10-13T02:32:03.715Z",
+      "container_id": "18112384151136556",
       "kommentar_id": "18141479584604179",
       "views_12h": {
         "views": 1883,
@@ -5049,10 +5035,11 @@
         "vorlage": "stop-loss-vs-trailing-stop",
         "vorlage_aufrufe": 3405
       },
-      "container_id": "18112339379136556",
       "media_id": "18158841448503706",
       "permalink": "https://www.instagram.com/reel/DeZ2zmJgGjg/",
       "published_at": "2026-10-12T18:16:59.645Z",
+      "container_id": "18112339379136556",
+      "kommentar_id": "18336603739279992",
       "trial_pruefung": {
         "beitraege_vorher": 175,
         "beitraege_nachher": 175,
@@ -5062,7 +5049,6 @@
         "verdacht": false,
         "at": "2026-10-12T18:18:02.061Z"
       },
-      "kommentar_id": "18336603739279992",
       "views_12h": {
         "views": 2780,
         "stunden": 12.67
@@ -5088,10 +5074,11 @@
         "vorlage": "voldrag",
         "vorlage_aufrufe": 4597
       },
-      "container_id": "18112348298136556",
       "media_id": "18207979048369341",
       "permalink": "https://www.instagram.com/reel/DeZ_PUJDrtQ/",
       "published_at": "2026-10-12T19:30:40.719Z",
+      "container_id": "18112348298136556",
+      "kommentar_id": "18335202967277482",
       "trial_pruefung": {
         "beitraege_vorher": 175,
         "beitraege_nachher": 175,
@@ -5101,7 +5088,6 @@
         "verdacht": false,
         "at": "2026-10-12T19:31:42.782Z"
       },
-      "kommentar_id": "18335202967277482",
       "views_12h": {
         "views": 2900,
         "stunden": 12.45
@@ -5126,10 +5112,11 @@
         "vorlage": "stop-loss-vs-mental-stop",
         "vorlage_aufrufe": 2581
       },
-      "container_id": "18112360076136556",
       "media_id": "17912481168519985",
       "permalink": "https://www.instagram.com/reel/DeaNAmNDq6A/",
       "published_at": "2026-10-12T21:31:04.681Z",
+      "container_id": "18112360076136556",
+      "kommentar_id": "18501948781096336",
       "trial_pruefung": {
         "beitraege_vorher": 175,
         "beitraege_nachher": 175,
@@ -5139,7 +5126,6 @@
         "verdacht": false,
         "at": "2026-10-12T21:32:06.661Z"
       },
-      "kommentar_id": "18501948781096336",
       "views_12h": {
         "views": 1896,
         "stunden": 12.45
@@ -5161,10 +5147,11 @@
         "vorlage": "recovery",
         "vorlage_aufrufe": 3575
       },
-      "container_id": "18112368575136556",
       "media_id": "18094403366175018",
       "permalink": "https://www.instagram.com/reel/DeaawXdj5Zs/",
       "published_at": "2026-10-12T23:31:10.061Z",
+      "container_id": "18112368575136556",
+      "kommentar_id": "18144067336580633",
       "trial_pruefung": {
         "beitraege_vorher": 176,
         "beitraege_nachher": 176,
@@ -5174,7 +5161,6 @@
         "verdacht": false,
         "at": "2026-10-12T23:32:11.996Z"
       },
-      "kommentar_id": "18144067336580633",
       "views_12h": {
         "views": 3140,
         "stunden": 12.28
@@ -5195,10 +5181,11 @@
         "vorlage": "stop-loss-vs-stop-hunt",
         "vorlage_aufrufe": 2550
       },
-      "container_id": "18112377401136556",
       "media_id": "18104849261200541",
       "permalink": "https://www.instagram.com/reel/DeaodCJAY13/",
       "published_at": "2026-10-13T01:30:50.717Z",
+      "container_id": "18112377401136556",
+      "kommentar_id": "18187068079415490",
       "trial_pruefung": {
         "beitraege_vorher": 176,
         "beitraege_nachher": 176,
@@ -5208,7 +5195,6 @@
         "verdacht": false,
         "at": "2026-10-13T01:31:52.718Z"
       },
-      "kommentar_id": "18187068079415490",
       "views_12h": {
         "views": 2308,
         "stunden": 12.3
@@ -5230,10 +5216,11 @@
         "vorlage": "sizing",
         "vorlage_aufrufe": 3151
       },
-      "container_id": "18112388786136556",
       "media_id": "18135509275660948",
       "permalink": "https://www.instagram.com/reel/Dea2LLUCOt3/",
       "published_at": "2026-10-13T03:30:41.989Z",
+      "container_id": "18112388786136556",
+      "kommentar_id": "18131275051847752",
       "trial_pruefung": {
         "beitraege_vorher": 177,
         "beitraege_nachher": 177,
@@ -5243,7 +5230,6 @@
         "verdacht": false,
         "at": "2026-10-13T03:31:43.899Z"
       },
-      "kommentar_id": "18131275051847752",
       "views_12h": {
         "views": 3061,
         "stunden": 12.31
@@ -5265,10 +5251,11 @@
         "vorlage": "hole300",
         "vorlage_aufrufe": 3373
       },
-      "container_id": "18112408784136556",
       "media_id": "18117706763086133",
       "permalink": "https://www.instagram.com/reel/DebRsabgpgG/",
       "published_at": "2026-10-13T07:31:18.663Z",
+      "container_id": "18112408784136556",
+      "kommentar_id": "18125676467485004",
       "trial_pruefung": {
         "beitraege_vorher": 180,
         "beitraege_nachher": 180,
@@ -5278,7 +5265,6 @@
         "verdacht": false,
         "at": "2026-10-13T07:32:20.174Z"
       },
-      "kommentar_id": "18125676467485004",
       "views_12h": {
         "views": 3142,
         "stunden": 12.13
@@ -5300,10 +5286,11 @@
         "vorlage": "martingale",
         "vorlage_aufrufe": 4103
       },
-      "container_id": "18112445747136556",
       "media_id": "18125706665482550",
       "permalink": "https://www.instagram.com/reel/Deb65F2iWMx/",
       "published_at": "2026-10-13T13:31:08.363Z",
+      "container_id": "18112445747136556",
+      "kommentar_id": "18132337765706957",
       "trial_pruefung": {
         "beitraege_vorher": 181,
         "beitraege_nachher": 181,
@@ -5312,8 +5299,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-13T13:32:10.089Z"
-      },
-      "kommentar_id": "18132337765706957"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-twopercent",
@@ -5347,10 +5333,11 @@
         "vorlage": "spread-vs-slippage",
         "vorlage_aufrufe": 2002
       },
-      "container_id": "18112397636136556",
       "media_id": "18111051122579625",
       "permalink": "https://www.instagram.com/reel/DebD6qXDYzd/",
       "published_at": "2026-10-13T05:30:48.527Z",
+      "container_id": "18112397636136556",
+      "kommentar_id": "18120158522058883",
       "trial_pruefung": {
         "beitraege_vorher": 177,
         "beitraege_nachher": 177,
@@ -5360,7 +5347,6 @@
         "verdacht": false,
         "at": "2026-10-13T05:31:51.520Z"
       },
-      "kommentar_id": "18120158522058883",
       "views_12h": {
         "views": 6,
         "stunden": 12.13
@@ -5381,10 +5367,11 @@
         "vorlage": "stop-loss-vs-daily-loss-limit",
         "vorlage_aufrufe": 1981
       },
-      "container_id": "18112418924136556",
       "media_id": "18113855474122513",
       "permalink": "https://www.instagram.com/reel/Debfeaqjfo4/",
       "published_at": "2026-10-13T09:31:32.939Z",
+      "container_id": "18112418924136556",
+      "kommentar_id": "18191449972405158",
       "trial_pruefung": {
         "beitraege_vorher": 180,
         "beitraege_nachher": 180,
@@ -5393,8 +5380,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-13T09:32:34.784Z"
-      },
-      "kommentar_id": "18191449972405158"
+      }
     },
     {
       "id": "test-2026-10-12-wdh-drawdown",
@@ -5411,10 +5397,11 @@
         "vorlage": "loss-vs-drawdown",
         "vorlage_aufrufe": 1721
       },
-      "container_id": "18112459430136556",
       "media_id": "18135488449650265",
       "permalink": "https://www.instagram.com/reel/DecIldLFFIj/",
       "published_at": "2026-10-13T15:30:51.520Z",
+      "container_id": "18112459430136556",
+      "kommentar_id": "17910209430551219",
       "trial_pruefung": {
         "beitraege_vorher": 182,
         "beitraege_nachher": 182,
@@ -5423,39 +5410,6 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-13T15:31:53.471Z"
-      },
-      "kommentar_id": "17910209430551219"
-    },
-    {
-      "id": "test-2026-10-12-wdh-kosten",
-      "slug": "loss-vs-cost-wdh",
-      "status": "ready",
-      "scheduled_at": "2026-10-13T21:30:00Z",
-      "video_url": "https://glanwick.github.io/glanwick-social-assets/loss-vs-cost-wdh.mp4",
-      "caption": "Loss or cost: what's the difference?\n\nA loss is a trade that went against you. A cost is what you pay even when it goes your way.\n\nWin 10 trades in a row, 5 each: that's 50. Every trade cost 6 in spread and commission: that's 60. Ten wins, and the account is down 10.\n\nA perfect win rate can still lose money.\n\nFree journal, link in bio.\n\nSend this to the friend who scalps for 5 and pays 6.\n\nWhich difference should I explain next? 👇\n\n#tradingcosts #commission #scalping #tradingjournal #knowthedifference",
-      "trial": "MANUAL",
-      "tiktok": false,
-      "test": {
-        "bild": "wdh-difference",
-        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
-        "vorlage": "loss-vs-cost",
-        "vorlage_aufrufe": 1511
-      }
-    },
-    {
-      "id": "test-2026-10-12-wdh-liquidation",
-      "slug": "stop-loss-vs-liquidation-wdh",
-      "status": "ready",
-      "scheduled_at": "2026-10-14T01:30:00Z",
-      "video_url": "https://glanwick.github.io/glanwick-social-assets/stop-loss-vs-liquidation-wdh.mp4",
-      "caption": "Stop loss or liquidation: what's the difference?\n\nYou set the stop. The exchange sets the liquidation.\n\nTrade with 20x leverage and your stop can sit wherever you like. But at 20x, a 5 % move against you wipes the whole position, and the exchange closes it for you. A stop further away than that never gets its turn.\n\nOne is your decision. The other ends the decision.\n\nFree journal, link in bio.\n\nSend this to the friend who trades 20x with a 10 % stop.\n\nWhich difference should I explain next? 👇\n\n#leverage #liquidation #stoploss #tradingjournal #knowthedifference",
-      "trial": "MANUAL",
-      "tiktok": false,
-      "test": {
-        "bild": "wdh-difference",
-        "frage": "Bringt die Reihe \"Which difference\" ohne die Zeile \"Follow for more\" Follower? Gruppe gegen Stick-Man-Testreels derselben Tage",
-        "vorlage": "stop-loss-vs-liquidation",
-        "vorlage_aufrufe": 1483
       }
     },
     {
@@ -5471,18 +5425,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-down95-cover.jpg",
-        "gestartet_at": "2026-10-13T12:01:00.760Z",
-        "stand": "2026-10-13T12:02:37.760Z",
-        "versuch": 1,
         "post_id": "6ace1d8ba3dce2db0313b1de",
-        "published_at": "2026-10-13T12:01:52.579Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696121386766568736",
-        "plattform_id": "7696121386766568736"
+        "plattform_id": "7696121386766568736",
+        "published_at": "2026-10-13T12:01:52.579Z",
+        "gestartet_at": "2026-10-13T12:01:00.760Z",
+        "stand": "2026-10-13T12:02:37.760Z"
       },
-      "container_id": "18112435097136556",
       "media_id": "18464117704136994",
       "permalink": "https://www.instagram.com/reel/DebwkB-DRRt/",
       "published_at": "2026-10-13T12:00:56.794Z",
+      "container_id": "18112435097136556",
       "kommentar_id": "18165168637488804"
     },
     {
@@ -5514,10 +5467,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: neues Thema, Gewinn in Prozent gegen Verlust in Dollar"
       },
-      "container_id": "18112431587136556",
       "media_id": "17969475963181303",
       "permalink": "https://www.instagram.com/reel/DebtIaDH9Up/",
       "published_at": "2026-10-13T11:30:57.445Z",
+      "container_id": "18112431587136556",
+      "kommentar_id": "18118991564518677",
       "trial_pruefung": {
         "beitraege_vorher": 180,
         "beitraege_nachher": 180,
@@ -5526,8 +5480,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-13T11:31:58.837Z"
-      },
-      "kommentar_id": "18118991564518677"
+      }
     },
     {
       "id": "test-2026-10-13-sicherer-trade",
@@ -5543,10 +5496,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie fivesize, ein übergroßer Trade gegen neun normale"
       },
-      "container_id": "18112473683136556",
       "media_id": "18477072892114698",
       "permalink": "https://www.instagram.com/reel/DecWUA-DNVc/",
       "published_at": "2026-10-13T17:30:49.304Z",
+      "container_id": "18112473683136556",
+      "kommentar_id": "18112997828035878",
       "trial_pruefung": {
         "beitraege_vorher": 184,
         "beitraege_nachher": 185,
@@ -5555,8 +5509,7 @@
         "media_product_type": "REELS",
         "verdacht": true,
         "at": "2026-10-13T17:31:51.421Z"
-      },
-      "kommentar_id": "18112997828035878"
+      }
     },
     {
       "id": "2026-10-13-sieben-geplante-verluste",
@@ -5571,18 +5524,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sevenstops-cover.jpg",
-        "gestartet_at": "2026-10-13T17:00:49.196Z",
-        "stand": "2026-10-13T17:02:16.032Z",
-        "versuch": 1,
         "post_id": "6ace63c6292ba63b6564d17d",
-        "published_at": "2026-10-13T17:01:25.189Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696198622165126433",
-        "plattform_id": "7696198622165126433"
+        "plattform_id": "7696198622165126433",
+        "published_at": "2026-10-13T17:01:25.189Z",
+        "gestartet_at": "2026-10-13T17:00:49.196Z",
+        "stand": "2026-10-13T17:02:16.032Z"
       },
-      "container_id": "18112469936136556",
       "media_id": "18000537953812190",
       "permalink": "https://www.instagram.com/reel/DecS379DPXX/",
       "published_at": "2026-10-13T17:00:44.953Z",
+      "container_id": "18112469936136556",
       "kommentar_id": "18040632737836204"
     },
     {
