@@ -5115,7 +5115,11 @@
         "verdacht": false,
         "at": "2026-10-12T21:32:06.661Z"
       },
-      "kommentar_id": "18501948781096336"
+      "kommentar_id": "18501948781096336",
+      "views_12h": {
+        "views": 1896,
+        "stunden": 12.45
+      }
     },
     {
       "id": "test-2026-10-12-wdh-recovery",
