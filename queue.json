@@ -5522,7 +5522,16 @@
       "container_id": "18112473683136556",
       "media_id": "18477072892114698",
       "permalink": "https://www.instagram.com/reel/DecWUA-DNVc/",
-      "published_at": "2026-10-13T17:30:49.304Z"
+      "published_at": "2026-10-13T17:30:49.304Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 184,
+        "beitraege_nachher": 185,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": true,
+        "at": "2026-10-13T17:31:51.421Z"
+      }
     },
     {
       "id": "2026-10-13-sieben-geplante-verluste",
