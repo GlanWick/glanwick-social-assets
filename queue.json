@@ -5508,7 +5508,7 @@
     {
       "id": "test-2026-10-13-sicherer-trade",
       "slug": "stickman-surebet",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-13T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surebet.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surebet-cover.jpg",
@@ -5518,7 +5518,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie fivesize, ein übergroßer Trade gegen neun normale"
-      }
+      },
+      "posting_started_at": "2026-10-13T17:30:09.714Z"
     },
     {
       "id": "2026-10-13-sieben-geplante-verluste",
