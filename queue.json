@@ -5188,7 +5188,11 @@
         "verdacht": false,
         "at": "2026-10-13T01:31:52.718Z"
       },
-      "kommentar_id": "18187068079415490"
+      "kommentar_id": "18187068079415490",
+      "views_12h": {
+        "views": 2308,
+        "stunden": 12.3
+      }
     },
     {
       "id": "test-2026-10-12-wdh-sizing",
