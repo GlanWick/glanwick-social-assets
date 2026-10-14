@@ -1081,10 +1081,14 @@
       "published_at": "2026-09-20T02:30:40.081Z",
       "container_id": "18108866354136556",
       "tiktok": {
-        "status": "ready",
+        "status": "posting",
         "nr": 28,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-overfit.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-overfit-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-overfit-cover.jpg",
+        "gestartet_at": "2026-10-14T17:40:56.142Z",
+        "stand": "2026-10-14T17:40:56.142Z",
+        "versuch": 1,
+        "slot": "2026-10-14T17:00:00.000Z"
       }
     },
     {
