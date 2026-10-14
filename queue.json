@@ -5713,7 +5713,7 @@
     {
       "id": "2026-10-14-gleicher-trade-anderes-konto",
       "slug": "stickman-copysize",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-14T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copysize.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copysize-cover.jpg",
@@ -5724,7 +5724,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-copysize.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-copysize-cover.jpg"
       },
-      "posting_started_at": "2026-10-14T12:00:08.523Z"
+      "container_id": "18112577633136556",
+      "media_id": "18098888885542676",
+      "permalink": "https://www.instagram.com/reel/DeeVWQvCKsU/",
+      "published_at": "2026-10-14T12:00:51.640Z"
     },
     {
       "id": "2026-10-14-fuenf-verluste-aufgegeben",
