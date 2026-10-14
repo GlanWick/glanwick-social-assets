@@ -5795,7 +5795,7 @@
     {
       "id": "2026-10-15-hundert-tage-verdoppeln",
       "slug": "stickman-hundreddays",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-14T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundreddays.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-hundreddays-cover.jpg",
@@ -5805,7 +5805,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundreddays.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-hundreddays-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-14T23:00:16.396Z"
     },
     {
       "id": "2026-10-15-doppeltes-risiko-gewinn-weg",
