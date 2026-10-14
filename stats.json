@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-14T22:02:36.154Z",
+ "updated": "2026-10-14T22:52:38.738Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-14T22:02:37.556Z",
+  "checked": "2026-10-14T22:52:40.091Z",
   "reach_days": [
    {
     "day": "2026-10-07",
@@ -34,7 +34,7 @@
     "reach": 19013
    }
   ],
-  "avg_watch_last_reels": 11.1
+  "avg_watch_last_reels": 11
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4937,6 +4937,11 @@
    "ts": "2026-10-14T22:02:36.154Z",
    "followers": 458,
    "media_count": 190
+  },
+  {
+   "ts": "2026-10-14T22:52:38.738Z",
+   "followers": 458,
+   "media_count": 190
   }
  ],
  "posts": [
@@ -4947,8 +4952,8 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 1841,
-   "likes": 28,
+   "views": 2191,
+   "likes": 35,
    "comments": 1
   },
   {
@@ -4958,7 +4963,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3063,
+   "views": 3078,
    "likes": 39,
    "comments": 3
   },
@@ -4969,7 +4974,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2807,
+   "views": 2812,
    "likes": 17,
    "comments": 1
   },
@@ -4980,7 +4985,7 @@
    "timestamp": "2026-10-13T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.",
-   "views": 2140,
+   "views": 2160,
    "likes": 27,
    "comments": 1
   },
@@ -5002,8 +5007,8 @@
    "timestamp": "2026-10-13T17:30:42+0000",
    "type": "VIDEO",
    "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 1493,
-   "likes": 8,
+   "views": 1495,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -5035,7 +5040,7 @@
    "timestamp": "2026-10-13T17:00:38+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 2261,
+   "views": 2263,
    "likes": 34,
    "comments": 1
   },
@@ -5068,7 +5073,7 @@
    "timestamp": "2026-10-13T12:00:50+0000",
    "type": "VIDEO",
    "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.",
-   "views": 3490,
+   "views": 3497,
    "likes": 36,
    "comments": 1
   },
@@ -5079,7 +5084,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4333,
+   "views": 4343,
    "likes": 42,
    "comments": 2
   },
@@ -5101,7 +5106,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3288,
+   "views": 3293,
    "likes": 23,
    "comments": 1
   },
@@ -5123,7 +5128,7 @@
    "timestamp": "2026-10-13T03:30:35+0000",
    "type": "VIDEO",
    "caption": "10 losing trades in a row. One sizing rule leaves $5,000, the other $5,987.",
-   "views": 3367,
+   "views": 3369,
    "likes": 32,
    "comments": 2
   },
@@ -5156,7 +5161,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3704,
+   "views": 3717,
    "likes": 39,
    "comments": 1
   },
@@ -5167,7 +5172,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8409,
+   "views": 8435,
    "likes": 49,
    "comments": 2
   },
@@ -5189,7 +5194,7 @@
    "timestamp": "2026-10-12T19:30:36+0000",
    "type": "VIDEO",
    "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 3447,
+   "views": 3449,
    "likes": 24,
    "comments": 1
   },
@@ -5310,7 +5315,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5082,
+   "views": 5086,
    "likes": 20,
    "comments": 1
   },
