@@ -5756,7 +5756,7 @@
     {
       "id": "2026-10-14-fuenf-verluste-aufgegeben",
       "slug": "stickman-quitstreak",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-14T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quitstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quitstreak-cover.jpg",
@@ -5766,7 +5766,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-quitstreak.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-quitstreak-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-14T17:00:02.805Z"
     },
     {
       "id": "2026-10-15-hundert-tage-verdoppeln",
