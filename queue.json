@@ -5168,6 +5168,10 @@
       "views_12h": {
         "views": 3140,
         "stunden": 12.28
+      },
+      "views_24h": {
+        "views": 3617,
+        "stunden": 24.98
       }
     },
     {
@@ -5444,7 +5448,11 @@
       "permalink": "https://www.instagram.com/reel/DebwkB-DRRt/",
       "published_at": "2026-10-13T12:00:56.794Z",
       "container_id": "18112435097136556",
-      "kommentar_id": "18165168637488804"
+      "kommentar_id": "18165168637488804",
+      "views_12h": {
+        "views": 3093,
+        "stunden": 12.48
+      }
     },
     {
       "id": "2026-10-14-ein-tag-sechzig-trades",
@@ -5499,6 +5507,10 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-13T11:31:58.837Z"
+      },
+      "views_12h": {
+        "views": 3586,
+        "stunden": 12.98
       }
     },
     {
