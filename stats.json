@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-14T22:52:38.738Z",
+ "updated": "2026-10-14T23:52:44.197Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-14T22:52:40.091Z",
+  "checked": "2026-10-14T23:52:45.072Z",
   "reach_days": [
    {
     "day": "2026-10-07",
@@ -34,13 +34,13 @@
     "reach": 19013
    }
   ],
-  "avg_watch_last_reels": 11
+  "avg_watch_last_reels": 9.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 458,
-  "media_count": 190
+  "media_count": 191
  },
  "history": [
   {
@@ -4942,9 +4942,25 @@
    "ts": "2026-10-14T22:52:38.738Z",
    "followers": 458,
    "media_count": 190
+  },
+  {
+   "ts": "2026-10-14T23:52:44.197Z",
+   "followers": 458,
+   "media_count": 191
   }
  ],
  "posts": [
+  {
+   "id": "18032002595911508",
+   "slug": "stickman-hundreddays",
+   "permalink": "https://www.instagram.com/reel/Defg4qFlArW/",
+   "timestamp": "2026-10-14T23:00:49+0000",
+   "type": "VIDEO",
+   "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
+   "views": 219,
+   "likes": 3,
+   "comments": 1
+  },
   {
    "id": "17986677609083287",
    "slug": "stickman-quitstreak",
@@ -4952,7 +4968,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2191,
+   "views": 2330,
    "likes": 35,
    "comments": 1
   },
@@ -4963,7 +4979,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3078,
+   "views": 3085,
    "likes": 39,
    "comments": 3
   },
@@ -4974,7 +4990,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2812,
+   "views": 2821,
    "likes": 17,
    "comments": 1
   },
@@ -4985,8 +5001,8 @@
    "timestamp": "2026-10-13T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.",
-   "views": 2160,
-   "likes": 27,
+   "views": 2169,
+   "likes": 28,
    "comments": 1
   },
   {
@@ -4996,7 +5012,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2814,
+   "views": 2819,
    "likes": 39,
    "comments": 0
   },
@@ -5007,7 +5023,7 @@
    "timestamp": "2026-10-13T17:30:42+0000",
    "type": "VIDEO",
    "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 1495,
+   "views": 1503,
    "likes": 9,
    "comments": 1
   },
@@ -5018,7 +5034,7 @@
    "timestamp": "2026-10-13T17:30:35+0000",
    "type": "VIDEO",
    "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 2399,
+   "views": 2404,
    "likes": 29,
    "comments": 0
   },
@@ -5029,7 +5045,7 @@
    "timestamp": "2026-10-13T17:01:20+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 505,
+   "views": 510,
    "likes": 6,
    "comments": 0
   },
@@ -5040,7 +5056,7 @@
    "timestamp": "2026-10-13T17:00:38+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 2263,
+   "views": 2267,
    "likes": 34,
    "comments": 1
   },
@@ -5073,7 +5089,7 @@
    "timestamp": "2026-10-13T12:00:50+0000",
    "type": "VIDEO",
    "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.",
-   "views": 3497,
+   "views": 3501,
    "likes": 36,
    "comments": 1
   },
@@ -5084,7 +5100,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4343,
+   "views": 4348,
    "likes": 42,
    "comments": 2
   },
@@ -5128,7 +5144,7 @@
    "timestamp": "2026-10-13T03:30:35+0000",
    "type": "VIDEO",
    "caption": "10 losing trades in a row. One sizing rule leaves $5,000, the other $5,987.",
-   "views": 3369,
+   "views": 3370,
    "likes": 32,
    "comments": 2
   },
@@ -5139,7 +5155,7 @@
    "timestamp": "2026-10-13T02:31:55+0000",
    "type": "VIDEO",
    "caption": "Your year: −$2,000. Your 3 worst trades: −$5,500.",
-   "views": 2340,
+   "views": 2341,
    "likes": 25,
    "comments": 1
   },
@@ -5161,7 +5177,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3717,
+   "views": 3720,
    "likes": 39,
    "comments": 1
   },
@@ -5183,7 +5199,7 @@
    "timestamp": "2026-10-12T21:30:57+0000",
    "type": "VIDEO",
    "caption": "Stop loss or mental stop: what's the difference?",
-   "views": 2520,
+   "views": 2522,
    "likes": 31,
    "comments": 1
   },
@@ -5194,7 +5210,7 @@
    "timestamp": "2026-10-12T19:30:36+0000",
    "type": "VIDEO",
    "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 3449,
+   "views": 3450,
    "likes": 24,
    "comments": 1
   },
@@ -5205,7 +5221,7 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 3449,
+   "views": 3450,
    "likes": 42,
    "comments": 1
   },
@@ -5359,7 +5375,7 @@
    "timestamp": "2026-10-09T05:30:53+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row. At 2 % risk, $8,171 is left. At 10 % risk, $3,487.",
-   "views": 3249,
+   "views": 3250,
    "likes": 28,
    "comments": 1
   },
@@ -5372,17 +5388,6 @@
    "caption": "The index fell 1 % in two days. Your 3x fund fell 9 %.",
    "views": 2376,
    "likes": 6,
-   "comments": 1
-  },
-  {
-   "id": "18022417427718205",
-   "slug": "stickman-avgmonth",
-   "permalink": "https://www.instagram.com/reel/DeQcIxBAnBZ/",
-   "timestamp": "2026-10-09T02:30:40+0000",
-   "type": "VIDEO",
-   "caption": "Your average month is +5 %. Your $10,000 is now $8,000.",
-   "views": 2678,
-   "likes": 16,
    "comments": 1
   }
  ]
