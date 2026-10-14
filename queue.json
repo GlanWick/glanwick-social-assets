@@ -5579,7 +5579,7 @@
     {
       "id": "2026-10-14-plus-minus-fuenfzig",
       "slug": "stickman-fiftyfifty",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-14T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfifty-cover.jpg",
@@ -5590,7 +5590,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfifty.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfifty-cover.jpg"
       },
-      "posting_started_at": "2026-10-14T02:30:22.775Z"
+      "container_id": "18112522337136556",
+      "media_id": "17960239878217122",
+      "permalink": "https://www.instagram.com/reel/DedUJHPjGYa/",
+      "published_at": "2026-10-14T02:31:03.930Z"
     },
     {
       "id": "test-2026-10-14-gewinner-verkauft-verlierer-gehalten",
