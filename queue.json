@@ -6154,7 +6154,16 @@
       "container_id": "18112793999136556",
       "media_id": "18638920153007374",
       "permalink": "https://www.instagram.com/reel/Dehhx-Xk755/",
-      "published_at": "2026-10-15T17:47:10.514Z"
+      "published_at": "2026-10-15T17:47:10.514Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 195,
+        "beitraege_nachher": 195,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T17:48:12.213Z"
+      }
     },
     {
       "id": "test-2026-10-15-screenshot2",
