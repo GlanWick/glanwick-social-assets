@@ -6033,7 +6033,7 @@
     {
       "id": "test-2026-10-15-workhours",
       "slug": "stickman-workhours",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-workhours.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-workhours-cover.jpg",
@@ -6044,7 +6044,10 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit: Verlust in Arbeitsstunden umgerechnet. Traegt der Bezug zum eigenen Job?"
       },
-      "posting_started_at": "2026-10-15T14:42:22.231Z"
+      "container_id": "18112766144136556",
+      "media_id": "18221289127340957",
+      "permalink": "https://www.instagram.com/reel/DehMtfgiEtg/",
+      "published_at": "2026-10-15T14:43:25.290Z"
     },
     {
       "id": "test-2026-10-15-gapstop",
