@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T07:44:00.008Z",
+ "updated": "2026-10-15T08:44:03.846Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T07:44:00.826Z",
+  "checked": "2026-10-15T08:44:04.624Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -34,7 +34,7 @@
     "reach": 9462
    }
   ],
-  "avg_watch_last_reels": 10.4
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4987,6 +4987,11 @@
    "ts": "2026-10-15T07:44:00.008Z",
    "followers": 463,
    "media_count": 192
+  },
+  {
+   "ts": "2026-10-15T08:44:03.846Z",
+   "followers": 463,
+   "media_count": 192
   }
  ],
  "posts": [
@@ -4997,8 +5002,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 1769,
-   "likes": 19,
+   "views": 2037,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -5008,8 +5013,8 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 2792,
-   "likes": 16,
+   "views": 2852,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -5019,7 +5024,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2382,
+   "views": 2386,
    "likes": 35,
    "comments": 1
   },
@@ -5030,7 +5035,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3150,
+   "views": 3156,
    "likes": 39,
    "comments": 3
   },
@@ -5140,7 +5145,7 @@
    "timestamp": "2026-10-13T12:00:50+0000",
    "type": "VIDEO",
    "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.",
-   "views": 3519,
+   "views": 3520,
    "likes": 36,
    "comments": 1
   },
@@ -5151,7 +5156,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4367,
+   "views": 4369,
    "likes": 42,
    "comments": 2
   },
@@ -5173,7 +5178,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3297,
+   "views": 3298,
    "likes": 23,
    "comments": 1
   },
@@ -5228,7 +5233,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3733,
+   "views": 3734,
    "likes": 39,
    "comments": 1
   },
@@ -5239,7 +5244,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8450,
+   "views": 8452,
    "likes": 49,
    "comments": 2
   },
@@ -5250,7 +5255,7 @@
    "timestamp": "2026-10-12T21:30:57+0000",
    "type": "VIDEO",
    "caption": "Stop loss or mental stop: what's the difference?",
-   "views": 2523,
+   "views": 2524,
    "likes": 31,
    "comments": 1
   },
@@ -5327,7 +5332,7 @@
    "timestamp": "2026-10-09T19:30:50+0000",
    "type": "VIDEO",
    "caption": "11 months of +5 %. One month of −40 %. Your year ends at +2.6 %.",
-   "views": 2791,
+   "views": 2792,
    "likes": 22,
    "comments": 1
   },
@@ -5338,7 +5343,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3123,
+   "views": 3124,
    "likes": 34,
    "comments": 1
   },
@@ -5349,7 +5354,7 @@
    "timestamp": "2026-10-09T17:00:57+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 40 % risk, and $10,000 becomes $9,758.",
-   "views": 3488,
+   "views": 3491,
    "likes": 30,
    "comments": 1
   },
@@ -5382,7 +5387,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5096,
+   "views": 5097,
    "likes": 20,
    "comments": 1
   },
@@ -5393,7 +5398,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3173,
+   "views": 3175,
    "likes": 17,
    "comments": 1
   },
