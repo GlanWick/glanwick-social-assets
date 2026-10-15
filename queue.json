@@ -6239,7 +6239,7 @@
     {
       "id": "test-2026-10-15-earlyprofit",
       "slug": "stickman-earlyprofit",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-15T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earlyprofit.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earlyprofit-cover.jpg",
@@ -6249,7 +6249,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: Gewinne zu frueh mitgenommen, Trefferquote steigt, Ergebnis faellt. Traegt der Widerspruch im Aufhaenger?"
-      }
+      },
+      "posting_started_at": "2026-10-15T23:30:20.497Z"
     },
     {
       "id": "test-2026-10-16-fortywins",
