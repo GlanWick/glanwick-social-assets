@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T15:36:42.590Z",
+ "updated": "2026-10-15T16:26:17.102Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T15:36:43.628Z",
+  "checked": "2026-10-15T16:26:18.155Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -34,12 +34,12 @@
     "reach": 9462
    }
   ],
-  "avg_watch_last_reels": 8.7
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 466,
+  "followers": 468,
   "media_count": 193
  },
  "history": [
@@ -5027,9 +5027,25 @@
    "ts": "2026-10-15T15:36:42.590Z",
    "followers": 466,
    "media_count": 193
+  },
+  {
+   "ts": "2026-10-15T16:26:17.102Z",
+   "followers": 468,
+   "media_count": 193
   }
  ],
  "posts": [
+  {
+   "id": "18117618335051800",
+   "slug": "stickman-gapstop",
+   "permalink": "https://www.instagram.com/reel/DehTvqQku8g/",
+   "timestamp": "2026-10-15T15:44:47+0000",
+   "type": "VIDEO",
+   "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
+   "views": 147,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18221289127340957",
    "slug": "stickman-workhours",
@@ -5037,7 +5053,7 @@
    "timestamp": "2026-10-15T14:43:23+0000",
    "type": "VIDEO",
    "caption": "You make $30 an hour at work. One −$900 trade cost you 30 hours.",
-   "views": 10,
+   "views": 22,
    "likes": 0,
    "comments": 1
   },
@@ -5048,8 +5064,8 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 1102,
-   "likes": 15,
+   "views": 1626,
+   "likes": 26,
    "comments": 1
   },
   {
@@ -5059,8 +5075,8 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 1009,
-   "likes": 7,
+   "views": 1158,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -5070,8 +5086,8 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 2489,
-   "likes": 76,
+   "views": 2610,
+   "likes": 81,
    "comments": 23
   },
   {
@@ -5081,7 +5097,7 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2597,
+   "views": 2612,
    "likes": 35,
    "comments": 1
   },
@@ -5092,7 +5108,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 3034,
+   "views": 3042,
    "likes": 18,
    "comments": 2
   },
@@ -5103,7 +5119,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2420,
+   "views": 2422,
    "likes": 36,
    "comments": 1
   },
@@ -5114,7 +5130,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3212,
+   "views": 3215,
    "likes": 40,
    "comments": 3
   },
@@ -5125,7 +5141,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2846,
+   "views": 2847,
    "likes": 17,
    "comments": 1
   },
@@ -5147,8 +5163,8 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2843,
-   "likes": 39,
+   "views": 2845,
+   "likes": 40,
    "comments": 0
   },
   {
@@ -5356,7 +5372,7 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 3462,
+   "views": 3463,
    "likes": 42,
    "comments": 1
   },
@@ -5457,17 +5473,6 @@
    "caption": "8 trades at your normal size made $800. One trade at 5 times the size lost $1,00",
    "views": 3248,
    "likes": 50,
-   "comments": 1
-  },
-  {
-   "id": "18149697358504969",
-   "slug": "stickman-double10",
-   "permalink": "https://www.instagram.com/reel/DeRdYNQDULS/",
-   "timestamp": "2026-10-09T12:00:48+0000",
-   "type": "VIDEO",
-   "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5106,
-   "likes": 20,
    "comments": 1
   }
  ]
