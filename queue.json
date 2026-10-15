@@ -6253,7 +6253,16 @@
       "container_id": "18112838654136556",
       "media_id": "17951864124297336",
       "permalink": "https://www.instagram.com/reel/DeiJJ6Zjgtd/",
-      "published_at": "2026-10-15T23:31:11.098Z"
+      "published_at": "2026-10-15T23:31:11.098Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 197,
+        "beitraege_nachher": 197,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T23:32:12.857Z"
+      }
     },
     {
       "id": "test-2026-10-16-fortywins",
