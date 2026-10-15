@@ -6105,7 +6105,16 @@
       "container_id": "18112786076136556",
       "media_id": "17965834170206700",
       "permalink": "https://www.instagram.com/reel/DehavLDj60W/",
-      "published_at": "2026-10-15T16:45:42.772Z"
+      "published_at": "2026-10-15T16:45:42.772Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 194,
+        "beitraege_nachher": 194,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T16:46:44.616Z"
+      }
     },
     {
       "id": "test-2026-10-15-sixtyzero",
