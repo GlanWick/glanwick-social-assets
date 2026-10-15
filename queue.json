@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:14:19.341Z",
+  "generated_at": "2026-10-15T13:40:51.700Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -5337,23 +5337,6 @@
       }
     },
     {
-      "id": "test-2026-10-12-wdh-twopercent",
-      "slug": "stickman-twopercent-wdh",
-      "status": "ready",
-      "scheduled_at": "2026-10-13T19:30:00Z",
-      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-wdh.mp4",
-      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopercent-wdh-cover.jpg",
-      "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.\n\n$10,000 minus 2 % a day for 10 days is $8,171. Getting back to $10,000 takes +22.4 %. Ten days of +2 % add up to +21.9 %, because every gain is counted on a smaller account.\n\nLosses and gains of the same size never cancel out.\n\nFree journal, link in bio.\n\nSend this to the friend who thinks a green week erases a red one.\n\nWhat's your rule after 3 red days in a row? 👇\n\n#drawdown #compounding #riskmanagement #tradingjournal #knowthedifference",
-      "trial": "MANUAL",
-      "tiktok": false,
-      "test": {
-        "bild": "wdh-treffer",
-        "frage": "Traegt ein Treffer unveraendert als Testreel (Jans Idee vom 07.10.)? Schwelle 1.500 Aufrufe, dazu Follower je 1.000 als Gruppe",
-        "vorlage": "twopercent",
-        "vorlage_aufrufe": 3435
-      }
-    },
-    {
       "id": "test-2026-10-12-wdh-slippage",
       "slug": "spread-vs-slippage-wdh",
       "status": "published",
@@ -5599,7 +5582,8 @@
       "views_24h": {
         "views": 1383,
         "stunden": 24.52
-      }
+      },
+      "trial_pruefung_ok": true
     },
     {
       "id": "2026-10-13-sieben-geplante-verluste",
@@ -5665,7 +5649,7 @@
       "id": "test-2026-10-14-gewinner-verkauft-verlierer-gehalten",
       "slug": "stickman-heldloser",
       "status": "ready",
-      "scheduled_at": "2026-10-13T23:30:00Z",
+      "scheduled_at": "2026-10-17T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser-cover.jpg",
       "caption": "You sold the winner at +$200. You held the loser to −$900.\n\nThe winner ran to +$1,400 without you. Your result on the two trades: −$700. Hold the winner and cut the loser at −$200, and the same two trades make +$1,200. Taking a small win feels safe. Taking a small loss feels like being wrong. So the wins stay small and the losses grow.\n\nSame 2 trades. $1,900 apart.\n\nFree journal, link in bio.\n\nYou may know a trader who takes profits fast and holds the losers.\n\nWhich one is harder for you: holding a winner or cutting a loser?\n\nPart 90 of the series is on the profile: 3 losses in a row, and the trade you sat out made $800.\n\n#dispositioneffect #tradingpsychology #riskmanagement #tradingjournal",
@@ -5680,7 +5664,7 @@
       "id": "test-2026-10-14-fuenfzig-gute-wochen",
       "slug": "stickman-fiftyweeks",
       "status": "ready",
-      "scheduled_at": "2026-10-14T03:30:00Z",
+      "scheduled_at": "2026-10-17T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks-cover.jpg",
       "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.\n\nAfter 50 good weeks you're at $16,446, earned 1 % at a time. Then 2 weeks at −25 % take $7,195. You were right in 50 of 52 weeks and finished the year down. Write down what was different in those two weeks: the size, the number of trades, the reason.\n\n2 weeks decided the year.\n\nFree journal, link in bio.\n\nSome traders are green almost every week and still finish the year down.\n\nWhat did your worst week this year cost you?\n\nPart 93 of the series is on the profile: a year at −$2,000, and the 3 worst trades alone cost $5,500.\n\n#riskmanagement #drawdown #positionsizing #tradingjournal",
@@ -5695,7 +5679,7 @@
       "id": "test-2026-10-14-muenze-vierzig-trades",
       "slug": "stickman-coin40",
       "status": "ready",
-      "scheduled_at": "2026-10-14T05:30:00Z",
+      "scheduled_at": "2026-10-17T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40-cover.jpg",
       "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.\n\nFlip a coin 40 times and count heads. About 1 run in 3 shows 22 or more. At $100 a flip, that's the same +$400 with no edge at all. At 400 trades and the same 55 %, only 1 coin in 39 keeps up. Count your trades before you raise the size.\n\n40 trades can't tell skill from a coin.\n\nFree journal, link in bio.\n\nYou may know a trader who wants to go full time after one good month.\n\nHow many trades did you take before you trusted your strategy?\n\nPart 87 of the series is on the profile: double after every loss from $10, and bet number 10 is $5,120.\n\n#samplesize #winrate #tradingpsychology #tradingjournal",
@@ -5710,7 +5694,7 @@
       "id": "test-2026-10-14-freitag-nachmittag",
       "slug": "stickman-friday",
       "status": "ready",
-      "scheduled_at": "2026-10-14T07:30:00Z",
+      "scheduled_at": "2026-10-17T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday-cover.jpg",
       "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.\n\nFour careful days, then one hour off the plan. The week ends at −$300. Without that hour it ends at +$1,200. One bad hour is easy to forget by Monday. Write down the time of every trade.\n\nOne hour can cost you the whole week.\n\nFree journal, link in bio.\n\nSome traders give the week back on Friday.\n\nWhich day of the week costs you the most?\n\nPart 96 of the series is on the profile: one −$1,500 day costs 60 trades.\n\n#overtrading #tradingpsychology #riskmanagement #tradingjournal",
@@ -5725,7 +5709,7 @@
       "id": "test-2026-10-14-zehn-verluste-in-folge",
       "slug": "stickman-tenrow",
       "status": "ready",
-      "scheduled_at": "2026-10-14T09:30:00Z",
+      "scheduled_at": "2026-10-17T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow-cover.jpg",
       "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.\n\nSame trades, same $10,000 account. At 1 % risk you need +11 % to get back to even. At 10 % you need +187 %. Long losing streaks show up in every strategy. When it comes is out of your hands. What it costs is up to you.\n\nThe streak is luck. The size is your decision.\n\nFree journal, link in bio.\n\nYou may know a trader who risks 10 % because the setup looks perfect.\n\nWhat's your longest losing streak so far?\n\nPart 92 of the series is on the profile: 6 wins in 10 trades at 50 % risk, and $10,000 becomes $7,119.\n\n#positionsizing #riskmanagement #losingstreak #tradingjournal",
@@ -5839,18 +5823,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk-cover.jpg",
-        "gestartet_at": "2026-10-15T02:30:54.639Z",
-        "stand": "2026-10-15T02:32:20.692Z",
-        "versuch": 1,
         "post_id": "6ad03ae56a3020d71cf14fc0",
-        "published_at": "2026-10-15T02:31:33.899Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696716440006577440",
-        "plattform_id": "7696716440006577440"
+        "plattform_id": "7696716440006577440",
+        "published_at": "2026-10-15T02:31:33.899Z",
+        "gestartet_at": "2026-10-15T02:30:54.639Z",
+        "stand": "2026-10-15T02:32:20.692Z"
       },
-      "container_id": "18112671524136556",
       "media_id": "18115112066115254",
       "permalink": "https://www.instagram.com/reel/Def451Oj4AC/",
       "published_at": "2026-10-15T02:30:50.751Z",
+      "container_id": "18112671524136556",
       "kommentar_id": "17947913418346466"
     },
     {
@@ -5866,18 +5849,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback-cover.jpg",
-        "gestartet_at": "2026-10-15T12:01:56.394Z",
-        "stand": "2026-10-15T12:03:22.678Z",
-        "versuch": 1,
         "post_id": "6ad0c0ba7a4384efe2340d27",
-        "published_at": "2026-10-15T12:02:27.496Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696863748279110945",
-        "plattform_id": "7696863748279110945"
+        "plattform_id": "7696863748279110945",
+        "published_at": "2026-10-15T12:02:27.496Z",
+        "gestartet_at": "2026-10-15T12:01:56.394Z",
+        "stand": "2026-10-15T12:03:22.678Z"
       },
-      "container_id": "18112742123136556",
       "media_id": "17995409868020593",
       "permalink": "https://www.instagram.com/reel/Deg6QYjgpSv/",
       "published_at": "2026-10-15T12:01:52.623Z",
+      "container_id": "18112742123136556",
       "kommentar_id": "18639401197016771"
     },
     {
