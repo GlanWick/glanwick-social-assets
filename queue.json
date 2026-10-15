@@ -6091,7 +6091,7 @@
     {
       "id": "test-2026-10-15-outlier2",
       "slug": "stickman-outlier2",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outlier2.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-outlier2-cover.jpg",
@@ -6102,7 +6102,10 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Neuauflage besttrade2 (3.122): ein Trade traegt das Jahr. Traegt die Wiederholung mit neuen Zahlen?"
       },
-      "posting_started_at": "2026-10-15T16:45:01.601Z"
+      "container_id": "18112786076136556",
+      "media_id": "17965834170206700",
+      "permalink": "https://www.instagram.com/reel/DehavLDj60W/",
+      "published_at": "2026-10-15T16:45:42.772Z"
     },
     {
       "id": "test-2026-10-15-sixtyzero",
