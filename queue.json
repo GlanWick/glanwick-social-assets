@@ -6198,7 +6198,7 @@
     {
       "id": "test-2026-10-15-avgtwo",
       "slug": "stickman-avgtwo",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgtwo.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgtwo-cover.jpg",
@@ -6209,7 +6209,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar (voldrag, sameaverage): positiver Schnitt, Konto im Minus. Traegt der Winkel nach No. 103?"
       },
-      "posting_started_at": "2026-10-15T21:30:26.848Z"
+      "container_id": "18112828493136556",
+      "media_id": "18118306831777198",
+      "permalink": "https://www.instagram.com/reel/Deh7ZsAD8_n/",
+      "published_at": "2026-10-15T21:31:07.653Z"
     },
     {
       "id": "test-2026-10-15-earlyprofit",
