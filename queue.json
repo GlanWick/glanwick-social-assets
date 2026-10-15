@@ -5821,7 +5821,7 @@
     {
       "id": "2026-10-15-doppeltes-risiko-gewinn-weg",
       "slug": "stickman-twicerisk",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twicerisk.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twicerisk-cover.jpg",
@@ -5832,7 +5832,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twicerisk-cover.jpg"
       },
-      "posting_started_at": "2026-10-15T02:30:07.873Z"
+      "container_id": "18112671524136556",
+      "media_id": "18115112066115254",
+      "permalink": "https://www.instagram.com/reel/Def451Oj4AC/",
+      "published_at": "2026-10-15T02:30:50.751Z"
     },
     {
       "id": "2026-10-15-rueckweg-dreiunddreissig-monate",
