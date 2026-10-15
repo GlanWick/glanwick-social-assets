@@ -5856,7 +5856,7 @@
     {
       "id": "2026-10-15-rueckweg-dreiunddreissig-monate",
       "slug": "stickman-wayback",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-wayback.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-wayback-cover.jpg",
@@ -5867,7 +5867,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-wayback-cover.jpg"
       },
-      "posting_started_at": "2026-10-15T12:00:11.919Z"
+      "container_id": "18112742123136556",
+      "media_id": "17995409868020593",
+      "permalink": "https://www.instagram.com/reel/Deg6QYjgpSv/",
+      "published_at": "2026-10-15T12:01:52.623Z"
     },
     {
       "id": "2026-10-15-gleicher-schnitt-halbes-geld",
