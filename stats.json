@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T05:43:51.568Z",
+ "updated": "2026-10-15T06:43:56.666Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T05:43:52.399Z",
+  "checked": "2026-10-15T06:43:57.453Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-14",
-    "reach": 8905
+    "reach": 9240
    }
   ],
-  "avg_watch_last_reels": 10.1
+  "avg_watch_last_reels": 10.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -4977,6 +4977,11 @@
    "ts": "2026-10-15T05:43:51.568Z",
    "followers": 462,
    "media_count": 192
+  },
+  {
+   "ts": "2026-10-15T06:43:56.666Z",
+   "followers": 462,
+   "media_count": 192
   }
  ],
  "posts": [
@@ -4987,8 +4992,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 728,
-   "likes": 8,
+   "views": 1127,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -4998,7 +5003,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 2701,
+   "views": 2738,
    "likes": 15,
    "comments": 1
   },
@@ -5009,7 +5014,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2376,
+   "views": 2377,
    "likes": 35,
    "comments": 1
   },
@@ -5020,7 +5025,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3142,
+   "views": 3145,
    "likes": 39,
    "comments": 3
   },
@@ -5042,7 +5047,7 @@
    "timestamp": "2026-10-13T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.",
-   "views": 2179,
+   "views": 2180,
    "likes": 28,
    "comments": 1
   },
@@ -5141,7 +5146,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4364,
+   "views": 4365,
    "likes": 42,
    "comments": 2
   },
@@ -5218,7 +5223,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3730,
+   "views": 3731,
    "likes": 39,
    "comments": 1
   },
@@ -5229,7 +5234,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8447,
+   "views": 8448,
    "likes": 49,
    "comments": 2
   },
@@ -5372,7 +5377,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5094,
+   "views": 5095,
    "likes": 20,
    "comments": 1
   },
