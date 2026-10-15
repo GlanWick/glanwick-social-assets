@@ -6212,7 +6212,16 @@
       "container_id": "18112828493136556",
       "media_id": "18118306831777198",
       "permalink": "https://www.instagram.com/reel/Deh7ZsAD8_n/",
-      "published_at": "2026-10-15T21:31:07.653Z"
+      "published_at": "2026-10-15T21:31:07.653Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 194,
+        "beitraege_nachher": 194,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T21:32:09.322Z"
+      }
     },
     {
       "id": "test-2026-10-15-earlyprofit",
