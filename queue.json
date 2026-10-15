@@ -6000,7 +6000,7 @@
     {
       "id": "test-2026-10-15-ninetyten",
       "slug": "stickman-ninetyten",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetyten.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetyten-cover.jpg",
@@ -6011,7 +6011,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 9 von 10 gewonnen, ein Verlust ohne Stop. Traegt die hohe Trefferquote als Aufhaenger?"
       },
-      "posting_started_at": "2026-10-15T13:41:14.590Z"
+      "container_id": "18112757021136556",
+      "media_id": "18127386148876623",
+      "permalink": "https://www.instagram.com/reel/DehFuDElH0U/",
+      "published_at": "2026-10-15T13:41:54.837Z"
     },
     {
       "id": "test-2026-10-15-workhours",
