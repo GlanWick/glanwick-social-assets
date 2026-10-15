@@ -6183,7 +6183,16 @@
       "container_id": "18112819010136556",
       "media_id": "18180743542428808",
       "permalink": "https://www.instagram.com/reel/DehtpLCDUFw/",
-      "published_at": "2026-10-15T19:30:45.547Z"
+      "published_at": "2026-10-15T19:30:45.547Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 195,
+        "beitraege_nachher": 195,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T19:31:47.349Z"
+      }
     },
     {
       "id": "test-2026-10-15-avgtwo",
