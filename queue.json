@@ -6169,7 +6169,7 @@
     {
       "id": "test-2026-10-15-screenshot2",
       "slug": "stickman-screenshot2",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-15T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-screenshot2.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-screenshot2-cover.jpg",
@@ -6179,7 +6179,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Neuauflage screenshot/bestday: bester Tag gegen den Monat. Traegt der Vergleich mit fremden Screenshots?"
-      }
+      },
+      "posting_started_at": "2026-10-15T19:30:12.087Z"
     },
     {
       "id": "test-2026-10-15-avgtwo",
