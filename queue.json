@@ -5869,7 +5869,7 @@
     {
       "id": "2026-10-15-gleicher-schnitt-halbes-geld",
       "slug": "stickman-sameaverage",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-15T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameaverage.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sameaverage-cover.jpg",
@@ -5879,7 +5879,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-15T17:00:00.187Z"
     },
     {
       "id": "2026-10-16-vier-gegen-sieben",
