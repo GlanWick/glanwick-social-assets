@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T10:35:05.456Z",
+ "updated": "2026-10-15T11:35:22.220Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T10:35:06.207Z",
+  "checked": "2026-10-15T11:35:23.340Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -34,7 +34,7 @@
     "reach": 9462
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5002,6 +5002,11 @@
    "ts": "2026-10-15T10:35:05.456Z",
    "followers": 463,
    "media_count": 192
+  },
+  {
+   "ts": "2026-10-15T11:35:22.220Z",
+   "followers": 463,
+   "media_count": 192
   }
  ],
  "posts": [
@@ -5012,8 +5017,8 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 393,
-   "likes": 10,
+   "views": 769,
+   "likes": 16,
    "comments": 2
   },
   {
@@ -5023,8 +5028,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2414,
-   "likes": 30,
+   "views": 2498,
+   "likes": 31,
    "comments": 1
   },
   {
@@ -5034,9 +5039,9 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 2947,
+   "views": 2973,
    "likes": 18,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "17986677609083287",
@@ -5045,7 +5050,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2401,
+   "views": 2408,
    "likes": 36,
    "comments": 1
   },
@@ -5056,7 +5061,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3171,
+   "views": 3181,
    "likes": 40,
    "comments": 3
   },
@@ -5067,7 +5072,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2840,
+   "views": 2841,
    "likes": 17,
    "comments": 1
   },
@@ -5078,7 +5083,7 @@
    "timestamp": "2026-10-13T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.",
-   "views": 2190,
+   "views": 2191,
    "likes": 29,
    "comments": 1
   },
@@ -5089,7 +5094,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2828,
+   "views": 2831,
    "likes": 39,
    "comments": 0
   },
@@ -5122,7 +5127,7 @@
    "timestamp": "2026-10-13T17:01:20+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 513,
+   "views": 514,
    "likes": 6,
    "comments": 0
   },
@@ -5166,7 +5171,7 @@
    "timestamp": "2026-10-13T12:00:50+0000",
    "type": "VIDEO",
    "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.",
-   "views": 3520,
+   "views": 3523,
    "likes": 36,
    "comments": 1
   },
@@ -5199,7 +5204,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3298,
+   "views": 3299,
    "likes": 23,
    "comments": 1
   },
@@ -5254,7 +5259,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3739,
+   "views": 3742,
    "likes": 39,
    "comments": 1
   },
@@ -5265,7 +5270,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8454,
+   "views": 8460,
    "likes": 49,
    "comments": 2
   },
@@ -5298,7 +5303,7 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 3457,
+   "views": 3459,
    "likes": 42,
    "comments": 1
   },
@@ -5320,7 +5325,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3306,
+   "views": 3310,
    "likes": 35,
    "comments": 1
   },
@@ -5364,7 +5369,7 @@
    "timestamp": "2026-10-09T17:30:59+0000",
    "type": "VIDEO",
    "caption": "Your year made $3,000. Your best trade alone made $4,500.",
-   "views": 3124,
+   "views": 3125,
    "likes": 34,
    "comments": 1
   },
@@ -5419,7 +5424,7 @@
    "timestamp": "2026-10-09T11:30:42+0000",
    "type": "VIDEO",
    "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3177,
+   "views": 3178,
    "likes": 17,
    "comments": 1
   },
