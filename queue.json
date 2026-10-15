@@ -6076,7 +6076,16 @@
       "container_id": "18112775564136556",
       "media_id": "18117618335051800",
       "permalink": "https://www.instagram.com/reel/DehTvqQku8g/",
-      "published_at": "2026-10-15T15:44:54.547Z"
+      "published_at": "2026-10-15T15:44:54.547Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 193,
+        "beitraege_nachher": 193,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-15T15:45:56.289Z"
+      }
     },
     {
       "id": "test-2026-10-15-outlier2",
