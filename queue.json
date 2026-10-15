@@ -5904,7 +5904,7 @@
     {
       "id": "2026-10-16-vier-gegen-sieben",
       "slug": "stickman-fourseven",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fourseven.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fourseven-cover.jpg",
@@ -5915,7 +5915,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fourseven.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fourseven-cover.jpg"
       },
-      "posting_started_at": "2026-10-15T23:00:12.551Z"
+      "container_id": "18112835150136556",
+      "media_id": "18084803354715345",
+      "permalink": "https://www.instagram.com/reel/DeiFrMOgZMc/",
+      "published_at": "2026-10-15T23:00:53.399Z"
     },
     {
       "id": "2026-10-16-prozent-gegen-dollar",
