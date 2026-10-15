@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T11:35:22.220Z",
+ "updated": "2026-10-15T12:35:50.483Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T11:35:23.340Z",
+  "checked": "2026-10-15T12:35:51.611Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -34,13 +34,13 @@
     "reach": 9462
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 8.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 463,
-  "media_count": 192
+  "media_count": 193
  },
  "history": [
   {
@@ -5007,9 +5007,25 @@
    "ts": "2026-10-15T11:35:22.220Z",
    "followers": 463,
    "media_count": 192
+  },
+  {
+   "ts": "2026-10-15T12:35:50.483Z",
+   "followers": 463,
+   "media_count": 193
   }
  ],
  "posts": [
+  {
+   "id": "17995409868020593",
+   "slug": "stickman-wayback",
+   "permalink": "https://www.instagram.com/reel/Deg6QYjgpSv/",
+   "timestamp": "2026-10-15T12:01:46+0000",
+   "type": "VIDEO",
+   "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
+   "views": 134,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18119533912757850",
    "slug": null,
@@ -5017,8 +5033,8 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 769,
-   "likes": 16,
+   "views": 972,
+   "likes": 23,
    "comments": 2
   },
   {
@@ -5028,8 +5044,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2498,
-   "likes": 31,
+   "views": 2527,
+   "likes": 32,
    "comments": 1
   },
   {
@@ -5039,7 +5055,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 2973,
+   "views": 2998,
    "likes": 18,
    "comments": 2
   },
@@ -5050,7 +5066,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2408,
+   "views": 2410,
    "likes": 36,
    "comments": 1
   },
@@ -5061,7 +5077,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3181,
+   "views": 3205,
    "likes": 40,
    "comments": 3
   },
@@ -5072,7 +5088,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2841,
+   "views": 2843,
    "likes": 17,
    "comments": 1
   },
@@ -5083,7 +5099,7 @@
    "timestamp": "2026-10-13T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Your edge is $25 a trade. One −$1,500 day costs 60 trades.",
-   "views": 2191,
+   "views": 2193,
    "likes": 29,
    "comments": 1
   },
@@ -5094,7 +5110,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2831,
+   "views": 2836,
    "likes": 39,
    "comments": 0
   },
@@ -5116,7 +5132,7 @@
    "timestamp": "2026-10-13T17:30:35+0000",
    "type": "VIDEO",
    "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 2444,
+   "views": 2445,
    "likes": 30,
    "comments": 0
   },
@@ -5127,7 +5143,7 @@
    "timestamp": "2026-10-13T17:01:20+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 514,
+   "views": 515,
    "likes": 6,
    "comments": 0
   },
@@ -5138,7 +5154,7 @@
    "timestamp": "2026-10-13T17:00:38+0000",
    "type": "VIDEO",
    "caption": "Planned loss: −$200. You held the trade to −$1,400.",
-   "views": 2296,
+   "views": 2297,
    "likes": 34,
    "comments": 1
   },
@@ -5171,7 +5187,7 @@
    "timestamp": "2026-10-13T12:00:50+0000",
    "type": "VIDEO",
    "caption": "Down 95 %, $10,000 is $500. Getting back to even takes +1,900 %.",
-   "views": 3523,
+   "views": 3524,
    "likes": 36,
    "comments": 1
   },
@@ -5182,7 +5198,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4375,
+   "views": 4376,
    "likes": 42,
    "comments": 2
   },
@@ -5204,7 +5220,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3299,
+   "views": 3302,
    "likes": 23,
    "comments": 1
   },
@@ -5259,7 +5275,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3742,
+   "views": 3743,
    "likes": 39,
    "comments": 1
   },
@@ -5270,7 +5286,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8460,
+   "views": 8464,
    "likes": 49,
    "comments": 2
   },
@@ -5303,7 +5319,7 @@
    "timestamp": "2026-10-12T18:16:53+0000",
    "type": "VIDEO",
    "caption": "Stop loss or trailing stop: what's the difference?",
-   "views": 3459,
+   "views": 3461,
    "likes": 42,
    "comments": 1
   },
@@ -5325,7 +5341,7 @@
    "timestamp": "2026-10-10T02:30:51+0000",
    "type": "VIDEO",
    "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3310,
+   "views": 3311,
    "likes": 35,
    "comments": 1
   },
@@ -5413,7 +5429,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5097,
+   "views": 5099,
    "likes": 20,
    "comments": 1
   },
@@ -5438,17 +5454,6 @@
    "views": 1679,
    "likes": 23,
    "comments": 1
-  },
-  {
-   "id": "18025801292872950",
-   "slug": "stickman-confirm2",
-   "permalink": "https://www.instagram.com/reel/DeQ-d5IAqX7/",
-   "timestamp": "2026-10-09T07:30:39+0000",
-   "type": "VIDEO",
-   "caption": "Enter at $100, and you risk $200 to make $600. Wait for confirmation at $102, an",
-   "views": 2162,
-   "likes": 18,
-   "comments": 2
   }
  ]
 }
