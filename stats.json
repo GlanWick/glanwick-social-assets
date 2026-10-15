@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T12:35:50.483Z",
+ "updated": "2026-10-15T13:36:07.917Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T12:35:51.611Z",
+  "checked": "2026-10-15T13:36:08.945Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 463,
+  "followers": 462,
   "media_count": 193
  },
  "history": [
@@ -5012,6 +5012,11 @@
    "ts": "2026-10-15T12:35:50.483Z",
    "followers": 463,
    "media_count": 193
+  },
+  {
+   "ts": "2026-10-15T13:36:07.917Z",
+   "followers": 462,
+   "media_count": 193
   }
  ],
  "posts": [
@@ -5022,8 +5027,8 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 134,
-   "likes": 0,
+   "views": 644,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -5033,9 +5038,9 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 972,
-   "likes": 23,
-   "comments": 2
+   "views": 1479,
+   "likes": 39,
+   "comments": 7
   },
   {
    "id": "18115112066115254",
@@ -5044,8 +5049,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2527,
-   "likes": 32,
+   "views": 2546,
+   "likes": 33,
    "comments": 1
   },
   {
@@ -5055,7 +5060,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 2998,
+   "views": 3007,
    "likes": 18,
    "comments": 2
   },
@@ -5066,7 +5071,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2410,
+   "views": 2415,
    "likes": 36,
    "comments": 1
   },
@@ -5077,7 +5082,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3205,
+   "views": 3211,
    "likes": 40,
    "comments": 3
   },
@@ -5088,7 +5093,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2843,
+   "views": 2845,
    "likes": 17,
    "comments": 1
   },
@@ -5110,7 +5115,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2836,
+   "views": 2840,
    "likes": 39,
    "comments": 0
   },
@@ -5198,7 +5203,7 @@
    "timestamp": "2026-10-13T11:30:50+0000",
    "type": "VIDEO",
    "caption": "Up 400 %, then down 80 %: $1,000 is still $1,000.",
-   "views": 4376,
+   "views": 4379,
    "likes": 42,
    "comments": 2
   },
@@ -5275,7 +5280,7 @@
    "timestamp": "2026-10-12T23:30:54+0000",
    "type": "VIDEO",
    "caption": "A 30 % drawdown at 2 % a month takes about 18 months to climb out of.",
-   "views": 3743,
+   "views": 3746,
    "likes": 39,
    "comments": 1
   },
@@ -5286,7 +5291,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8464,
+   "views": 8465,
    "likes": 49,
    "comments": 2
   },
@@ -5429,7 +5434,7 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5099,
+   "views": 5103,
    "likes": 20,
    "comments": 1
   },
