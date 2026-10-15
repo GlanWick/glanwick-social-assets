@@ -6140,7 +6140,7 @@
     {
       "id": "test-2026-10-15-sixtyzero",
       "slug": "stickman-sixtyzero",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-15T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixtyzero.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixtyzero-cover.jpg",
@@ -6151,7 +6151,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 60 % Trefferquote, Ergebnis null. Traegt das Ergebnis $0 als Aufhaenger?"
       },
-      "posting_started_at": "2026-10-15T17:45:50.623Z"
+      "container_id": "18112793999136556",
+      "media_id": "18638920153007374",
+      "permalink": "https://www.instagram.com/reel/Dehhx-Xk755/",
+      "published_at": "2026-10-15T17:47:10.514Z"
     },
     {
       "id": "test-2026-10-15-screenshot2",
