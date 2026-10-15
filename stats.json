@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-15T14:36:12.549Z",
+ "updated": "2026-10-15T15:36:42.590Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-15T14:36:13.411Z",
+  "checked": "2026-10-15T15:36:43.628Z",
   "reach_days": [
    {
     "day": "2026-10-08",
@@ -34,12 +34,12 @@
     "reach": 9462
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 465,
+  "followers": 466,
   "media_count": 193
  },
  "history": [
@@ -5022,9 +5022,25 @@
    "ts": "2026-10-15T14:36:12.549Z",
    "followers": 465,
    "media_count": 193
+  },
+  {
+   "ts": "2026-10-15T15:36:42.590Z",
+   "followers": 466,
+   "media_count": 193
   }
  ],
  "posts": [
+  {
+   "id": "18221289127340957",
+   "slug": "stickman-workhours",
+   "permalink": "https://www.instagram.com/reel/DehMtfgiEtg/",
+   "timestamp": "2026-10-15T14:43:23+0000",
+   "type": "VIDEO",
+   "caption": "You make $30 an hour at work. One −$900 trade cost you 30 hours.",
+   "views": 10,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18127386148876623",
    "slug": "stickman-ninetyten",
@@ -5032,8 +5048,8 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 316,
-   "likes": 4,
+   "views": 1102,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -5043,8 +5059,8 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 826,
-   "likes": 4,
+   "views": 1009,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5054,9 +5070,9 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 1857,
-   "likes": 54,
-   "comments": 14
+   "views": 2489,
+   "likes": 76,
+   "comments": 23
   },
   {
    "id": "18115112066115254",
@@ -5065,8 +5081,8 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2572,
-   "likes": 33,
+   "views": 2597,
+   "likes": 35,
    "comments": 1
   },
   {
@@ -5076,7 +5092,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 3020,
+   "views": 3034,
    "likes": 18,
    "comments": 2
   },
@@ -5087,7 +5103,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2417,
+   "views": 2420,
    "likes": 36,
    "comments": 1
   },
@@ -5109,7 +5125,7 @@
    "timestamp": "2026-10-14T02:30:56+0000",
    "type": "VIDEO",
    "caption": "+50 %, then −50 %, 4 times in a row: $10,000 becomes $3,164.",
-   "views": 2845,
+   "views": 2846,
    "likes": 17,
    "comments": 1
   },
@@ -5131,7 +5147,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2841,
+   "views": 2843,
    "likes": 39,
    "comments": 0
   },
@@ -5241,7 +5257,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3302,
+   "views": 3304,
    "likes": 23,
    "comments": 1
   },
@@ -5307,7 +5323,7 @@
    "timestamp": "2026-10-12T23:00:48+0000",
    "type": "VIDEO",
    "caption": "Win 6 trades out of 10 at 50 % risk, and $10,000 becomes $7,119.",
-   "views": 8468,
+   "views": 8471,
    "likes": 49,
    "comments": 2
   },
@@ -5450,19 +5466,8 @@
    "timestamp": "2026-10-09T12:00:48+0000",
    "type": "VIDEO",
    "caption": "Double after every loss, starting at $10. Bet number 10 is $5,120, to win $10.",
-   "views": 5103,
+   "views": 5106,
    "likes": 20,
-   "comments": 1
-  },
-  {
-   "id": "18150787255551445",
-   "slug": "stickman-ladder900",
-   "permalink": "https://www.instagram.com/reel/DeRZ9Lok43_/",
-   "timestamp": "2026-10-09T11:30:42+0000",
-   "type": "VIDEO",
-   "caption": "Lose 90 % of your account, and you need +900 % to get it back.",
-   "views": 3179,
-   "likes": 17,
    "comments": 1
   }
  ]
