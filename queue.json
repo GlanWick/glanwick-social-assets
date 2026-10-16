@@ -6001,7 +6001,7 @@
     {
       "id": "2026-10-16-achtzig-tage-fuenf-tage",
       "slug": "stickman-eightyfive",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyfive-cover.jpg",
@@ -6011,7 +6011,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-16T17:00:16.585Z"
     },
     {
       "id": "2026-10-17-nachkaufen-verdoppelt",
