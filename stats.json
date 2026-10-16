@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-16T12:58:32.821Z",
+ "updated": "2026-10-16T13:58:38.549Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 6.8 s"
-  ],
-  "checked": "2026-10-16T12:58:34.128Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-16T13:58:40.540Z",
   "reach_days": [
    {
     "day": "2026-10-09",
@@ -36,12 +34,12 @@
     "reach": 23089
    }
   ],
-  "avg_watch_last_reels": 6.8
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 487,
+  "followers": 492,
   "media_count": 199
  },
  "history": [
@@ -5139,9 +5137,25 @@
    "ts": "2026-10-16T12:58:32.821Z",
    "followers": 487,
    "media_count": 199
+  },
+  {
+   "ts": "2026-10-16T13:58:38.549Z",
+   "followers": 492,
+   "media_count": 199
   }
  ],
  "posts": [
+  {
+   "id": "18114645548040615",
+   "slug": "stickman-elevenseventy",
+   "permalink": "https://www.instagram.com/reel/Dejqp7Mjs-0/",
+   "timestamp": "2026-10-16T13:43:06+0000",
+   "type": "VIDEO",
+   "caption": "11 months at +10 %, then 1 month at −70 %. The year ends at −14 %.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18015921407959963",
    "slug": null,
@@ -5149,8 +5163,8 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 26,
-   "likes": 0,
+   "views": 558,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -5160,8 +5174,8 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 284,
-   "likes": 6,
+   "views": 465,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5171,8 +5185,8 @@
    "timestamp": "2026-10-16T11:31:03+0000",
    "type": "VIDEO",
    "caption": "You risked 1 % on 5 trades. All 5 were tech. One bad day took $500.",
-   "views": 321,
-   "likes": 3,
+   "views": 466,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5182,8 +5196,8 @@
    "timestamp": "2026-10-16T09:30:52+0000",
    "type": "VIDEO",
    "caption": "One month cost you $3,000. At +$250 a month, the way back takes a year.",
-   "views": 1930,
-   "likes": 4,
+   "views": 2433,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -5193,8 +5207,8 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 1480,
-   "likes": 23,
+   "views": 1728,
+   "likes": 26,
    "comments": 1
   },
   {
@@ -5204,7 +5218,7 @@
    "timestamp": "2026-10-16T05:30:48+0000",
    "type": "VIDEO",
    "caption": "6 evaluations at $150 cost you $900. Your first payout was $400.",
-   "views": 748,
+   "views": 855,
    "likes": 4,
    "comments": 1
   },
@@ -5215,7 +5229,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2889,
+   "views": 2900,
    "likes": 14,
    "comments": 1
   },
@@ -5226,8 +5240,8 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 2909,
-   "likes": 36,
+   "views": 2921,
+   "likes": 37,
    "comments": 1
   },
   {
@@ -5237,7 +5251,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3684,
+   "views": 3685,
    "likes": 32,
    "comments": 2
   },
@@ -5248,7 +5262,7 @@
    "timestamp": "2026-10-15T23:31:03+0000",
    "type": "VIDEO",
    "caption": "Your win rate went from 40 % to 70 %. Your result went from +$4,000 to −$200.",
-   "views": 2355,
+   "views": 2360,
    "likes": 22,
    "comments": 1
   },
@@ -5259,8 +5273,8 @@
    "timestamp": "2026-10-15T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10 and lose $500. He wins 4 in 10 and makes $1,000.",
-   "views": 1330,
-   "likes": 14,
+   "views": 1619,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -5270,8 +5284,8 @@
    "timestamp": "2026-10-15T21:31:00+0000",
    "type": "VIDEO",
    "caption": "Your trades average +2 %. After 10 of them, $10,000 is $8,239.",
-   "views": 2354,
-   "likes": 19,
+   "views": 2403,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -5281,7 +5295,7 @@
    "timestamp": "2026-10-15T19:30:37+0000",
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
-   "views": 2308,
+   "views": 2309,
    "likes": 23,
    "comments": 1
   },
@@ -5292,7 +5306,7 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2625,
+   "views": 2628,
    "likes": 24,
    "comments": 1
   },
@@ -5303,7 +5317,7 @@
    "timestamp": "2026-10-15T17:00:23+0000",
    "type": "VIDEO",
    "caption": "You both average +10 % a year. Two years later he's up $2,100. You're up $500.",
-   "views": 2553,
+   "views": 2559,
    "likes": 20,
    "comments": 1
   },
@@ -5314,9 +5328,9 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 4175,
-   "likes": 94,
-   "comments": 23
+   "views": 4269,
+   "likes": 98,
+   "comments": 25
   },
   {
    "id": "17965834170206700",
@@ -5336,7 +5350,7 @@
    "timestamp": "2026-10-15T15:44:47+0000",
    "type": "VIDEO",
    "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
-   "views": 1549,
+   "views": 1570,
    "likes": 15,
    "comments": 1
   },
@@ -5358,8 +5372,8 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 3080,
-   "likes": 45,
+   "views": 3107,
+   "likes": 46,
    "comments": 1
   },
   {
@@ -5369,7 +5383,7 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 1968,
+   "views": 1979,
    "likes": 18,
    "comments": 1
   },
@@ -5380,9 +5394,9 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 2939,
+   "views": 2949,
    "likes": 98,
-   "comments": 30
+   "comments": 32
   },
   {
    "id": "18115112066115254",
@@ -5414,7 +5428,7 @@
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
    "views": 2437,
-   "likes": 36,
+   "likes": 35,
    "comments": 1
   },
   {
@@ -5424,7 +5438,7 @@
    "timestamp": "2026-10-14T12:00:43+0000",
    "type": "VIDEO",
    "caption": "Same trade, same $1,000 loss. He lost 1 % of his account. You lost 20 %.",
-   "views": 3220,
+   "views": 3223,
    "likes": 40,
    "comments": 3
   },
@@ -5457,7 +5471,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2855,
+   "views": 2858,
    "likes": 40,
    "comments": 0
   },
@@ -5569,17 +5583,6 @@
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
    "views": 3323,
    "likes": 23,
-   "comments": 1
-  },
-  {
-   "id": "18111051122579625",
-   "slug": "spread-vs-slippage-wdh",
-   "permalink": "https://www.instagram.com/reel/DebD6qXDYzd/",
-   "timestamp": "2026-10-13T05:30:43+0000",
-   "type": "VIDEO",
-   "caption": "Spread or slippage: what's the difference?",
-   "views": 12,
-   "likes": 0,
    "comments": 1
   }
  ]
