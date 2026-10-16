@@ -6395,6 +6395,10 @@
       "views_12h": {
         "views": 2355,
         "stunden": 12.45
+      },
+      "views_24h": {
+        "views": 2380,
+        "stunden": 24.15
       }
     },
     {
@@ -6589,7 +6593,11 @@
         "verdacht": false,
         "at": "2026-10-16T11:32:15.098Z"
       },
-      "kommentar_id": "17908776063569650"
+      "kommentar_id": "17908776063569650",
+      "views_12h": {
+        "views": 2144,
+        "stunden": 12.15
+      }
     },
     {
       "id": "test-2026-10-16-elevenseventy",
