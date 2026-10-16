@@ -6100,6 +6100,10 @@
       "views_12h": {
         "views": 3026,
         "stunden": 12.6
+      },
+      "views_24h": {
+        "views": 3107,
+        "stunden": 24.28
       }
     },
     {
@@ -6360,7 +6364,11 @@
         "verdacht": false,
         "at": "2026-10-16T01:31:39.478Z"
       },
-      "kommentar_id": "17985777117065004"
+      "kommentar_id": "17985777117065004",
+      "views_12h": {
+        "views": 3685,
+        "stunden": 12.47
+      }
     },
     {
       "id": "test-2026-10-16-latestop",
