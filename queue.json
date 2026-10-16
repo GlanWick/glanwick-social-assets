@@ -6739,7 +6739,7 @@
     {
       "id": "test-2026-10-16-marginx",
       "slug": "stickman-marginx",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-marginx.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-marginx-cover.jpg",
@@ -6750,7 +6750,10 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse (margin25): vierfach auf Kredit, 5 % Bewegung kosten 20 %. Traegt die Rechnung auf die volle Position?"
       },
-      "posting_started_at": "2026-10-16T23:30:05.523Z"
+      "container_id": "18113010401136556",
+      "media_id": "18634308109004987",
+      "permalink": "https://www.instagram.com/reel/Dekt5FvE20m/",
+      "published_at": "2026-10-16T23:30:45.276Z"
     },
     {
       "id": "test-2026-10-17-sizeup",
