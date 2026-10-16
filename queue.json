@@ -6362,7 +6362,7 @@
     {
       "id": "test-2026-10-16-propfees",
       "slug": "stickman-propfees",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propfees.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propfees-cover.jpg",
@@ -6373,7 +6373,10 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Prop-Firma: Gebuehren gegen Auszahlung (Muster No. 51). Traegt die Rechnung mit Gebuehren?"
       },
-      "posting_started_at": "2026-10-16T05:30:13.304Z"
+      "container_id": "18112879040136556",
+      "media_id": "18011429648978104",
+      "permalink": "https://www.instagram.com/reel/DeiyTvyFXHE/",
+      "published_at": "2026-10-16T05:30:55.599Z"
     },
     {
       "id": "test-2026-10-16-boredom",
