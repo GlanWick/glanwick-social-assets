@@ -6622,7 +6622,16 @@
       "container_id": "18112970561136556",
       "media_id": "18019888196928311",
       "permalink": "https://www.instagram.com/reel/DekEu1vFWVG/",
-      "published_at": "2026-10-16T17:31:11.169Z"
+      "published_at": "2026-10-16T17:31:11.169Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 200,
+        "beitraege_nachher": 200,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T17:32:12.935Z"
+      }
     },
     {
       "id": "test-2026-10-16-winnerearly",
