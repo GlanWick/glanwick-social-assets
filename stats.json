@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-16T03:17:52.205Z",
+ "updated": "2026-10-16T04:07:22.588Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 8.0 s"
-  ],
-  "checked": "2026-10-16T03:17:53.218Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-16T04:07:24.020Z",
   "reach_days": [
    {
     "day": "2026-10-09",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-10-15",
-    "reach": 17804
+    "reach": 18252
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5089,9 +5087,25 @@
    "ts": "2026-10-16T03:17:52.205Z",
    "followers": 481,
    "media_count": 198
+  },
+  {
+   "ts": "2026-10-16T04:07:22.588Z",
+   "followers": 481,
+   "media_count": 198
   }
  ],
  "posts": [
+  {
+   "id": "18640322440007900",
+   "slug": "stickman-latestop",
+   "permalink": "https://www.instagram.com/reel/DeikoavDzof/",
+   "timestamp": "2026-10-16T03:31:15+0000",
+   "type": "VIDEO",
+   "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
+   "views": 164,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17987505215877451",
    "slug": "stickman-percentdollar",
@@ -5099,7 +5113,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 218,
+   "views": 389,
    "likes": 4,
    "comments": 1
   },
@@ -5110,8 +5124,8 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 411,
-   "likes": 1,
+   "views": 799,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5121,8 +5135,8 @@
    "timestamp": "2026-10-15T23:31:03+0000",
    "type": "VIDEO",
    "caption": "Your win rate went from 40 % to 70 %. Your result went from +$4,000 to −$200.",
-   "views": 717,
-   "likes": 5,
+   "views": 989,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5132,7 +5146,7 @@
    "timestamp": "2026-10-15T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10 and lose $500. He wins 4 in 10 and makes $1,000.",
-   "views": 375,
+   "views": 407,
    "likes": 4,
    "comments": 1
   },
@@ -5143,8 +5157,8 @@
    "timestamp": "2026-10-15T21:31:00+0000",
    "type": "VIDEO",
    "caption": "Your trades average +2 %. After 10 of them, $10,000 is $8,239.",
-   "views": 2020,
-   "likes": 13,
+   "views": 2056,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -5154,7 +5168,7 @@
    "timestamp": "2026-10-15T19:30:37+0000",
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
-   "views": 2278,
+   "views": 2284,
    "likes": 22,
    "comments": 1
   },
@@ -5165,8 +5179,8 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2573,
-   "likes": 23,
+   "views": 2579,
+   "likes": 24,
    "comments": 1
   },
   {
@@ -5176,7 +5190,7 @@
    "timestamp": "2026-10-15T17:00:23+0000",
    "type": "VIDEO",
    "caption": "You both average +10 % a year. Two years later he's up $2,100. You're up $500.",
-   "views": 2206,
+   "views": 2276,
    "likes": 18,
    "comments": 1
   },
@@ -5187,8 +5201,8 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 3370,
-   "likes": 68,
+   "views": 3390,
+   "likes": 69,
    "comments": 15
   },
   {
@@ -5198,7 +5212,7 @@
    "timestamp": "2026-10-15T16:45:34+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 2653,
+   "views": 2660,
    "likes": 17,
    "comments": 1
   },
@@ -5209,7 +5223,7 @@
    "timestamp": "2026-10-15T15:44:47+0000",
    "type": "VIDEO",
    "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
-   "views": 1192,
+   "views": 1233,
    "likes": 10,
    "comments": 1
   },
@@ -5231,7 +5245,7 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 3028,
+   "views": 3029,
    "likes": 44,
    "comments": 1
   },
@@ -5242,7 +5256,7 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 1740,
+   "views": 1747,
    "likes": 15,
    "comments": 1
   },
@@ -5253,7 +5267,7 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 2805,
+   "views": 2813,
    "likes": 90,
    "comments": 24
   },
@@ -5264,7 +5278,7 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2703,
+   "views": 2706,
    "likes": 38,
    "comments": 1
   },
@@ -5275,7 +5289,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 3140,
+   "views": 3143,
    "likes": 19,
    "comments": 2
   },
@@ -5330,7 +5344,7 @@
    "timestamp": "2026-10-13T19:31:23+0000",
    "type": "VIDEO",
    "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2851,
+   "views": 2852,
    "likes": 40,
    "comments": 0
   },
@@ -5352,7 +5366,7 @@
    "timestamp": "2026-10-13T17:30:35+0000",
    "type": "VIDEO",
    "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 2449,
+   "views": 2450,
    "likes": 30,
    "comments": 0
   },
@@ -5440,7 +5454,7 @@
    "timestamp": "2026-10-13T07:31:12+0000",
    "type": "VIDEO",
    "caption": "A $3,000 hole at $100 a trade takes 300 trades to fill.",
-   "views": 3312,
+   "views": 3315,
    "likes": 23,
    "comments": 1
   },
@@ -5519,17 +5533,6 @@
    "caption": "Stop loss or mental stop: what's the difference?",
    "views": 2525,
    "likes": 31,
-   "comments": 1
-  },
-  {
-   "id": "18207979048369341",
-   "slug": "stickman-voldrag-wdh",
-   "permalink": "https://www.instagram.com/reel/DeZ_PUJDrtQ/",
-   "timestamp": "2026-10-12T19:30:36+0000",
-   "type": "VIDEO",
-   "caption": "Up 20 %, down 20 %. The account is 4 % smaller.",
-   "views": 3453,
-   "likes": 24,
    "comments": 1
   }
  ]
