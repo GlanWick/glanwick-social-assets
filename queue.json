@@ -6286,7 +6286,16 @@
       "container_id": "18112850063136556",
       "media_id": "18044876774831280",
       "permalink": "https://www.instagram.com/reel/DeiW1JxDxtu/",
-      "published_at": "2026-10-16T01:30:37.788Z"
+      "published_at": "2026-10-16T01:30:37.788Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 197,
+        "beitraege_nachher": 197,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T01:31:39.478Z"
+      }
     },
     {
       "id": "test-2026-10-16-latestop",
