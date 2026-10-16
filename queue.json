@@ -6395,7 +6395,7 @@
     {
       "id": "test-2026-10-16-boredom",
       "slug": "stickman-boredom",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boredom.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-boredom-cover.jpg",
@@ -6406,7 +6406,10 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Thema Langeweile-Trades (Overtrading). Traegt das Thema ohne Rechenkniff?"
       },
-      "posting_started_at": "2026-10-16T07:30:01.943Z"
+      "container_id": "18112891220136556",
+      "media_id": "18097223900425140",
+      "permalink": "https://www.instagram.com/reel/DejAIMlgqOj/",
+      "published_at": "2026-10-16T07:31:47.016Z"
     },
     {
       "id": "test-2026-10-16-yearhole",
