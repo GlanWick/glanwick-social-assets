@@ -5970,7 +5970,7 @@
     {
       "id": "2026-10-16-vierzehn-verluste",
       "slug": "stickman-halfway",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfway.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfway-cover.jpg",
@@ -5981,7 +5981,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfway.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfway-cover.jpg"
       },
-      "posting_started_at": "2026-10-16T12:00:23.376Z"
+      "container_id": "18112921796136556",
+      "media_id": "18109223348249636",
+      "permalink": "https://www.instagram.com/reel/Deje9T8lc8I/",
+      "published_at": "2026-10-16T12:01:03.588Z"
     },
     {
       "id": "2026-10-16-achtzig-tage-fuenf-tage",
