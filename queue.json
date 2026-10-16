@@ -6321,7 +6321,7 @@
     {
       "id": "test-2026-10-16-latestop",
       "slug": "stickman-latestop",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latestop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latestop-cover.jpg",
@@ -6331,7 +6331,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F5 Kopieren (latecopy 3.989): spaeter Einstieg, gleicher Stop, schlechteres Verhaeltnis. Traegt die Rechnung mit Einstieg, Stop und Ziel?"
-      }
+      },
+      "posting_started_at": "2026-10-16T03:30:02.375Z"
     },
     {
       "id": "test-2026-10-16-propfees",
