@@ -6142,7 +6142,11 @@
         "verdacht": false,
         "at": "2026-10-15T15:45:56.289Z"
       },
-      "kommentar_id": "18014681528986749"
+      "kommentar_id": "18014681528986749",
+      "views_12h": {
+        "views": 1233,
+        "stunden": 12.38
+      }
     },
     {
       "id": "test-2026-10-15-outlier2",
