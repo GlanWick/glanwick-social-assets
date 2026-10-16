@@ -6555,7 +6555,7 @@
     {
       "id": "test-2026-10-16-doublewin",
       "slug": "stickman-doublewin",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doublewin.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doublewin-cover.jpg",
@@ -6565,7 +6565,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln (martin 4.016), neuer Winkel: nach jedem Gewinn verdoppelt. Traegt die Umkehrung des Martingale?"
-      }
+      },
+      "posting_started_at": "2026-10-16T15:30:15.310Z"
     },
     {
       "id": "test-2026-10-16-minusthirty",
