@@ -6608,7 +6608,7 @@
     {
       "id": "test-2026-10-16-minusthirty",
       "slug": "stickman-minusthirty",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-minusthirty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-minusthirty-cover.jpg",
@@ -6619,7 +6619,10 @@
         "bild": "bibliothek",
         "frage": "F2 Neuauflage voldrag (3.445) mit 30 %. Traegt die Rechnung Verlust gegen Gewinn?"
       },
-      "posting_started_at": "2026-10-16T17:30:27.225Z"
+      "container_id": "18112970561136556",
+      "media_id": "18019888196928311",
+      "permalink": "https://www.instagram.com/reel/DekEu1vFWVG/",
+      "published_at": "2026-10-16T17:31:11.169Z"
     },
     {
       "id": "test-2026-10-16-winnerearly",
