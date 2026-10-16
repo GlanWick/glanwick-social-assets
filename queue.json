@@ -6690,7 +6690,7 @@
     {
       "id": "test-2026-10-16-threeweeks",
       "slug": "stickman-threeweeks",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeweeks-cover.jpg",
@@ -6700,7 +6700,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (badweek, sevenstops): drei Wochen gegen vier Minuten mit verschobenem Stop. Traegt der Zeitvergleich?"
-      }
+      },
+      "posting_started_at": "2026-10-16T21:30:29.515Z"
     },
     {
       "id": "test-2026-10-16-marginx",
