@@ -6461,7 +6461,7 @@
     {
       "id": "test-2026-10-16-fivetech",
       "slug": "stickman-fivetech",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetech.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetech-cover.jpg",
@@ -6472,7 +6472,10 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse: fuenf Trades, eine Wette (Korrelation). Traegt das Thema Klumpenrisiko?"
       },
-      "posting_started_at": "2026-10-16T11:30:28.273Z"
+      "container_id": "18112918022136556",
+      "media_id": "18083989610650858",
+      "permalink": "https://www.instagram.com/reel/DejbiauAfEq/",
+      "published_at": "2026-10-16T11:31:12.551Z"
     },
     {
       "id": "test-2026-10-16-elevenseventy",
