@@ -6278,7 +6278,11 @@
         "verdacht": false,
         "at": "2026-10-15T21:32:09.322Z"
       },
-      "kommentar_id": "18152439469526739"
+      "kommentar_id": "18152439469526739",
+      "views_12h": {
+        "views": 2249,
+        "stunden": 12.45
+      }
     },
     {
       "id": "test-2026-10-15-earlyprofit",
