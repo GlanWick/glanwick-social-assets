@@ -6524,7 +6524,16 @@
       "container_id": "18112937597136556",
       "media_id": "18114645548040615",
       "permalink": "https://www.instagram.com/reel/Dejqp7Mjs-0/",
-      "published_at": "2026-10-16T13:43:12.799Z"
+      "published_at": "2026-10-16T13:43:12.799Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 199,
+        "beitraege_nachher": 199,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T13:44:14.749Z"
+      }
     },
     {
       "id": "test-2026-10-16-doublewin",
