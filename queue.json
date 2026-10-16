@@ -5903,7 +5903,11 @@
       "media_id": "18410394628089054",
       "permalink": "https://www.instagram.com/reel/Dehcc10j78Z/",
       "published_at": "2026-10-15T17:00:30.273Z",
-      "kommentar_id": "18636058990044761"
+      "kommentar_id": "18636058990044761",
+      "views_12h": {
+        "views": 2351,
+        "stunden": 12.11
+      }
     },
     {
       "id": "2026-10-16-vier-gegen-sieben",
@@ -6175,7 +6179,11 @@
         "verdacht": false,
         "at": "2026-10-15T16:46:44.616Z"
       },
-      "kommentar_id": "17989767156058505"
+      "kommentar_id": "17989767156058505",
+      "views_12h": {
+        "views": 2666,
+        "stunden": 12.36
+      }
     },
     {
       "id": "test-2026-10-15-sixtyzero",
