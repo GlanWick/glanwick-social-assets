@@ -6272,7 +6272,7 @@
     {
       "id": "test-2026-10-16-fortywins",
       "slug": "stickman-fortywins",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fortywins.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fortywins-cover.jpg",
@@ -6282,7 +6282,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (edge20 3.707): ein Verlust ohne Stop gegen 40 Gewinne. Traegt die Umrechnung in Gewinne?"
-      }
+      },
+      "posting_started_at": "2026-10-16T01:30:05.831Z"
     },
     {
       "id": "test-2026-10-16-latestop",
