@@ -6428,7 +6428,7 @@
     {
       "id": "test-2026-10-16-yearhole",
       "slug": "stickman-yearhole",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-yearhole.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-yearhole-cover.jpg",
@@ -6438,7 +6438,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (hole300 3.273): ein Monat Verlust gegen ein Jahr Aufholen. Traegt die Umrechnung in Monate?"
-      }
+      },
+      "posting_started_at": "2026-10-16T09:30:17.624Z"
     },
     {
       "id": "test-2026-10-16-fivetech",
