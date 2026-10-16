@@ -6653,7 +6653,7 @@
     {
       "id": "test-2026-10-16-winnerearly",
       "slug": "stickman-winnerearly",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-winnerearly.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-winnerearly-cover.jpg",
@@ -6664,7 +6664,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus (satout 3.301): nach Verlusten den Gewinner zu frueh geschlossen. Traegt der Winkel nach No. 90?"
       },
-      "posting_started_at": "2026-10-16T19:30:20.298Z"
+      "container_id": "18112988678136556",
+      "media_id": "18438358339177237",
+      "permalink": "https://www.instagram.com/reel/DekShG4Fa-7/",
+      "published_at": "2026-10-16T19:31:22.951Z"
     },
     {
       "id": "test-2026-10-16-threeweeks",
