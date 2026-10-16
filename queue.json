@@ -6212,7 +6212,11 @@
         "verdacht": false,
         "at": "2026-10-15T17:48:12.213Z"
       },
-      "kommentar_id": "18063572678716834"
+      "kommentar_id": "18063572678716834",
+      "views_12h": {
+        "views": 2593,
+        "stunden": 12.34
+      }
     },
     {
       "id": "test-2026-10-15-screenshot2",
