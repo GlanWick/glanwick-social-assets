@@ -6178,6 +6178,10 @@
       "views_12h": {
         "views": 1233,
         "stunden": 12.38
+      },
+      "views_24h": {
+        "views": 1603,
+        "stunden": 24.07
       }
     },
     {
@@ -6405,7 +6409,11 @@
         "verdacht": false,
         "at": "2026-10-16T03:32:24.614Z"
       },
-      "kommentar_id": "17950925241310298"
+      "kommentar_id": "17950925241310298",
+      "views_12h": {
+        "views": 2908,
+        "stunden": 12.29
+      }
     },
     {
       "id": "test-2026-10-16-propfees",
