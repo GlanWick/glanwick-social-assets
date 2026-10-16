@@ -6064,7 +6064,11 @@
         "verdacht": false,
         "at": "2026-10-15T13:42:56.391Z"
       },
-      "kommentar_id": "18081367541362168"
+      "kommentar_id": "18081367541362168",
+      "views_12h": {
+        "views": 3026,
+        "stunden": 12.6
+      }
     },
     {
       "id": "test-2026-10-15-workhours",
