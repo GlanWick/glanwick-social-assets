@@ -5935,7 +5935,7 @@
     {
       "id": "2026-10-16-prozent-gegen-dollar",
       "slug": "stickman-percentdollar",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-percentdollar.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-percentdollar-cover.jpg",
@@ -5945,7 +5945,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-percentdollar.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-percentdollar-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-16T02:30:25.427Z"
     },
     {
       "id": "2026-10-16-vierzehn-verluste",
