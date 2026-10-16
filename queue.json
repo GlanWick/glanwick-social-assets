@@ -6036,7 +6036,7 @@
     {
       "id": "2026-10-17-nachkaufen-verdoppelt",
       "slug": "stickman-doubleshares",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleshares.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubleshares-cover.jpg",
@@ -6046,7 +6046,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubleshares.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubleshares-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-16T23:00:12.958Z"
     },
     {
       "id": "2026-10-17-fuenf-gewinne-ein-verlust",
