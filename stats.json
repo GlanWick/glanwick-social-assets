@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-16T01:17:26.236Z",
+ "updated": "2026-10-16T02:17:44.414Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.9 s"
-  ],
-  "checked": "2026-10-16T01:17:27.177Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-16T02:17:45.944Z",
   "reach_days": [
    {
     "day": "2026-10-09",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-10-15",
-    "reach": 16823
+    "reach": 17360
    }
   ],
-  "avg_watch_last_reels": 7.9
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5079,9 +5077,25 @@
    "ts": "2026-10-16T01:17:26.236Z",
    "followers": 481,
    "media_count": 197
+  },
+  {
+   "ts": "2026-10-16T02:17:44.414Z",
+   "followers": 481,
+   "media_count": 197
   }
  ],
  "posts": [
+  {
+   "id": "18044876774831280",
+   "slug": "stickman-fortywins",
+   "permalink": "https://www.instagram.com/reel/DeiW1JxDxtu/",
+   "timestamp": "2026-10-16T01:30:29+0000",
+   "type": "VIDEO",
+   "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
+   "views": 212,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17951864124297336",
    "slug": "stickman-earlyprofit",
@@ -5089,8 +5103,8 @@
    "timestamp": "2026-10-15T23:31:03+0000",
    "type": "VIDEO",
    "caption": "Your win rate went from 40 % to 70 %. Your result went from +$4,000 to −$200.",
-   "views": 313,
-   "likes": 1,
+   "views": 436,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5100,7 +5114,7 @@
    "timestamp": "2026-10-15T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10 and lose $500. He wins 4 in 10 and makes $1,000.",
-   "views": 292,
+   "views": 329,
    "likes": 4,
    "comments": 1
   },
@@ -5111,8 +5125,8 @@
    "timestamp": "2026-10-15T21:31:00+0000",
    "type": "VIDEO",
    "caption": "Your trades average +2 %. After 10 of them, $10,000 is $8,239.",
-   "views": 1407,
-   "likes": 7,
+   "views": 1948,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5133,7 +5147,7 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2558,
+   "views": 2569,
    "likes": 23,
    "comments": 1
   },
@@ -5144,8 +5158,8 @@
    "timestamp": "2026-10-15T17:00:23+0000",
    "type": "VIDEO",
    "caption": "You both average +10 % a year. Two years later he's up $2,100. You're up $500.",
-   "views": 2093,
-   "likes": 17,
+   "views": 2164,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -5155,7 +5169,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 3330,
+   "views": 3354,
    "likes": 67,
    "comments": 16
   },
@@ -5166,7 +5180,7 @@
    "timestamp": "2026-10-15T16:45:34+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 2648,
+   "views": 2650,
    "likes": 17,
    "comments": 1
   },
@@ -5177,8 +5191,8 @@
    "timestamp": "2026-10-15T15:44:47+0000",
    "type": "VIDEO",
    "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
-   "views": 1100,
-   "likes": 7,
+   "views": 1148,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5199,7 +5213,7 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 3024,
+   "views": 3026,
    "likes": 44,
    "comments": 1
   },
@@ -5210,7 +5224,7 @@
    "timestamp": "2026-10-15T12:01:46+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 is down to $2,000. At +5 % a month, the way back takes 33 months.",
-   "views": 1729,
+   "views": 1736,
    "likes": 15,
    "comments": 1
   },
@@ -5221,9 +5235,9 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 2800,
+   "views": 2802,
    "likes": 90,
-   "comments": 25
+   "comments": 24
   },
   {
    "id": "18115112066115254",
@@ -5232,7 +5246,7 @@
    "timestamp": "2026-10-15T02:30:42+0000",
    "type": "VIDEO",
    "caption": "55 wins in 100 trades at 20 % risk: $10,000 becomes $9,863.",
-   "views": 2699,
+   "views": 2703,
    "likes": 38,
    "comments": 1
   },
@@ -5243,7 +5257,7 @@
    "timestamp": "2026-10-14T23:00:49+0000",
    "type": "VIDEO",
    "caption": "Doubling after every loss won you $50 a day for 100 days. Then 7 losses in a row",
-   "views": 3137,
+   "views": 3140,
    "likes": 19,
    "comments": 2
   },
@@ -5509,17 +5523,6 @@
    "caption": "Start at $25 and double after every loss. Bet number 8 is $3,200.",
    "views": 4056,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "17991901740111824",
-   "slug": "stickman-satout",
-   "permalink": "https://www.instagram.com/reel/DeTA-A4FHnv/",
-   "timestamp": "2026-10-10T02:30:51+0000",
-   "type": "VIDEO",
-   "caption": "3 losses in a row cost you $600. You sat out the next trade. It made $800.",
-   "views": 3315,
-   "likes": 35,
    "comments": 1
   }
  ]
