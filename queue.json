@@ -6409,7 +6409,16 @@
       "container_id": "18112891220136556",
       "media_id": "18097223900425140",
       "permalink": "https://www.instagram.com/reel/DejAIMlgqOj/",
-      "published_at": "2026-10-16T07:31:47.016Z"
+      "published_at": "2026-10-16T07:31:47.016Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 198,
+        "beitraege_nachher": 198,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T07:32:49.295Z"
+      }
     },
     {
       "id": "test-2026-10-16-yearhole",
