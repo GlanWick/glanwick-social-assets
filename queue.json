@@ -6346,6 +6346,10 @@
       "views_12h": {
         "views": 2249,
         "stunden": 12.45
+      },
+      "views_24h": {
+        "views": 2474,
+        "stunden": 24.14
       }
     },
     {
@@ -6540,7 +6544,11 @@
         "verdacht": false,
         "at": "2026-10-16T09:32:01.426Z"
       },
-      "kommentar_id": "18108378968263315"
+      "kommentar_id": "18108378968263315",
+      "views_12h": {
+        "views": 2489,
+        "stunden": 12.15
+      }
     },
     {
       "id": "test-2026-10-16-fivetech",
