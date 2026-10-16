@@ -6272,6 +6272,10 @@
       "views_12h": {
         "views": 2593,
         "stunden": 12.34
+      },
+      "views_24h": {
+        "views": 2648,
+        "stunden": 24.04
       }
     },
     {
@@ -6466,7 +6470,11 @@
         "verdacht": false,
         "at": "2026-10-16T05:31:57.774Z"
       },
-      "kommentar_id": "18447493891125426"
+      "kommentar_id": "18447493891125426",
+      "views_12h": {
+        "views": 1162,
+        "stunden": 12.31
+      }
     },
     {
       "id": "test-2026-10-16-boredom",
