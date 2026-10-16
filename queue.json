@@ -6569,7 +6569,16 @@
       "container_id": "18112953512136556",
       "media_id": "18022096040721977",
       "permalink": "https://www.instagram.com/reel/Dej2-xnijPb/",
-      "published_at": "2026-10-16T15:30:58.568Z"
+      "published_at": "2026-10-16T15:30:58.568Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 199,
+        "beitraege_nachher": 199,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T15:32:00.422Z"
+      }
     },
     {
       "id": "test-2026-10-16-minusthirty",
