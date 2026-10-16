@@ -1233,15 +1233,18 @@
       "published_at": "2026-09-22T02:30:53.653Z",
       "container_id": "18109169663136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 30,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scratch.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scratch-cover.jpg",
         "gestartet_at": "2026-10-16T17:41:53.093Z",
-        "stand": "2026-10-16T17:42:18.276Z",
+        "stand": "2026-10-16T17:42:50.296Z",
         "versuch": 1,
         "slot": "2026-10-16T17:00:00.000Z",
-        "post_id": "6ad261e85a93e2483cf1863d"
+        "post_id": "6ad261e85a93e2483cf1863d",
+        "published_at": "2026-10-16T17:42:35.709Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7697322152172865568"
       }
     },
     {
