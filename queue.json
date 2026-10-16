@@ -6001,7 +6001,7 @@
     {
       "id": "2026-10-16-achtzig-tage-fuenf-tage",
       "slug": "stickman-eightyfive",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-16T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyfive-cover.jpg",
@@ -6012,7 +6012,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive-cover.jpg"
       },
-      "posting_started_at": "2026-10-16T17:00:16.585Z"
+      "container_id": "18112966508136556",
+      "media_id": "18118461436969341",
+      "permalink": "https://www.instagram.com/reel/DekBWtsAGbr/",
+      "published_at": "2026-10-16T17:01:37.563Z"
     },
     {
       "id": "2026-10-17-nachkaufen-verdoppelt",
