@@ -6309,6 +6309,10 @@
       "views_12h": {
         "views": 2297,
         "stunden": 12.63
+      },
+      "views_24h": {
+        "views": 2325,
+        "stunden": 24.33
       }
     },
     {
@@ -6503,7 +6507,11 @@
         "verdacht": false,
         "at": "2026-10-16T07:32:49.295Z"
       },
-      "kommentar_id": "18023420156714603"
+      "kommentar_id": "18023420156714603",
+      "views_12h": {
+        "views": 2187,
+        "stunden": 12.31
+      }
     },
     {
       "id": "test-2026-10-16-yearhole",
