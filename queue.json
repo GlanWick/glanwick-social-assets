@@ -6109,7 +6109,11 @@
         "verdacht": false,
         "at": "2026-10-15T14:44:27.209Z"
       },
-      "kommentar_id": "18112116788272996"
+      "kommentar_id": "18112116788272996",
+      "views_12h": {
+        "views": 158,
+        "stunden": 12.57
+      }
     },
     {
       "id": "test-2026-10-15-gapstop",
