@@ -5965,7 +5965,11 @@
       "media_id": "17987505215877451",
       "permalink": "https://www.instagram.com/reel/Deid1mcDON3/",
       "published_at": "2026-10-16T02:31:55.859Z",
-      "kommentar_id": "18227691949327453"
+      "kommentar_id": "18227691949327453",
+      "views_12h": {
+        "views": 2931,
+        "stunden": 12.45
+      }
     },
     {
       "id": "2026-10-16-vierzehn-verluste",
@@ -6137,6 +6141,10 @@
       "views_12h": {
         "views": 158,
         "stunden": 12.57
+      },
+      "views_24h": {
+        "views": 158,
+        "stunden": 24.26
       }
     },
     {
