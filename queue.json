@@ -6753,7 +6753,16 @@
       "container_id": "18113010401136556",
       "media_id": "18634308109004987",
       "permalink": "https://www.instagram.com/reel/Dekt5FvE20m/",
-      "published_at": "2026-10-16T23:30:45.276Z"
+      "published_at": "2026-10-16T23:30:45.276Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 201,
+        "beitraege_nachher": 201,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T23:31:46.843Z"
+      }
     },
     {
       "id": "test-2026-10-17-sizeup",
