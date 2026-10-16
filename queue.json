@@ -6510,7 +6510,7 @@
     {
       "id": "test-2026-10-16-elevenseventy",
       "slug": "stickman-elevenseventy",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-16T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenseventy.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-elevenseventy-cover.jpg",
@@ -6520,7 +6520,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar (elevenplus, fiftyweeks): elf gute Monate, ein Absturz. Traegt die Jahresrechnung?"
-      }
+      },
+      "posting_started_at": "2026-10-16T13:42:11.390Z"
     },
     {
       "id": "test-2026-10-16-doublewin",
