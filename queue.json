@@ -6667,7 +6667,16 @@
       "container_id": "18112988678136556",
       "media_id": "18438358339177237",
       "permalink": "https://www.instagram.com/reel/DekShG4Fa-7/",
-      "published_at": "2026-10-16T19:31:22.951Z"
+      "published_at": "2026-10-16T19:31:22.951Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 200,
+        "beitraege_nachher": 200,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-16T19:32:25.116Z"
+      }
     },
     {
       "id": "test-2026-10-16-threeweeks",
