@@ -6130,7 +6130,7 @@
     {
       "id": "2026-10-17-dreifach-fonds",
       "slug": "stickman-letfive",
-      "status": "posting",
+      "status": "error",
       "scheduled_at": "2026-10-17T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letfive-cover.jpg",
@@ -6141,7 +6141,8 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive-cover.jpg"
       },
-      "posting_started_at": "2026-10-17T12:00:18.729Z"
+      "container_id": "18113096690136556",
+      "error": "An unexpected error has occurred. Please retry your request later. (2026-10-17T12:01:21.236Z)"
     },
     {
       "id": "2026-10-17-gruppensignale",
