@@ -5794,7 +5794,16 @@
       "container_id": "18113147411136556",
       "media_id": "18175805689457280",
       "permalink": "https://www.instagram.com/reel/DempoWGlA5F/",
-      "published_at": "2026-10-17T17:31:59.276Z"
+      "published_at": "2026-10-17T17:31:59.276Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 205,
+        "beitraege_nachher": 205,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T17:33:00.821Z"
+      }
     },
     {
       "id": "2026-10-14-gleicher-trade-anderes-konto",
