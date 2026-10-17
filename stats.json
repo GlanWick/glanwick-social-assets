@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-17T03:30:16.692Z",
+ "updated": "2026-10-17T04:30:42.534Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
+   "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-10-17T03:30:17.802Z",
+  "checked": "2026-10-17T04:30:43.323Z",
   "reach_days": [
    {
     "day": "2026-10-10",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-16",
-    "reach": 21604
+    "reach": 22199
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 7.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5214,9 +5214,25 @@
    "ts": "2026-10-17T03:30:16.692Z",
    "followers": 516,
    "media_count": 202
+  },
+  {
+   "ts": "2026-10-17T04:30:42.534Z",
+   "followers": 516,
+   "media_count": 202
   }
  ],
  "posts": [
+  {
+   "id": "18098172032385368",
+   "slug": "stickman-fiftyone",
+   "permalink": "https://www.instagram.com/reel/DelJZWAGno0/",
+   "timestamp": "2026-10-17T03:31:02+0000",
+   "type": "VIDEO",
+   "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
+   "views": 202,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17975988264145395",
    "slug": "stickman-fivethenone",
@@ -5224,7 +5240,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 149,
+   "views": 220,
    "likes": 1,
    "comments": 1
   },
@@ -5235,8 +5251,8 @@
    "timestamp": "2026-10-17T01:30:42+0000",
    "type": "VIDEO",
    "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 282,
-   "likes": 2,
+   "views": 485,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5246,7 +5262,7 @@
    "timestamp": "2026-10-16T23:30:38+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 607,
+   "views": 687,
    "likes": 0,
    "comments": 1
   },
@@ -5257,7 +5273,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 382,
+   "views": 397,
    "likes": 2,
    "comments": 1
   },
@@ -5268,8 +5284,8 @@
    "timestamp": "2026-10-16T21:30:53+0000",
    "type": "VIDEO",
    "caption": "3 weeks of trading made you $600. One trade with a moved stop lost it in 4 minut",
-   "views": 1365,
-   "likes": 14,
+   "views": 1444,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -5279,8 +5295,8 @@
    "timestamp": "2026-10-16T19:31:14+0000",
    "type": "VIDEO",
    "caption": "After 3 losses, you closed the next winner at +$100. It ran to +$900.",
-   "views": 1142,
-   "likes": 10,
+   "views": 1262,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -5290,7 +5306,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2237,
+   "views": 2242,
    "likes": 20,
    "comments": 1
   },
@@ -5301,8 +5317,8 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1430,
-   "likes": 30,
+   "views": 1462,
+   "likes": 31,
    "comments": 1
   },
   {
@@ -5323,7 +5339,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3162,
+   "views": 3169,
    "likes": 31,
    "comments": 1
   },
@@ -5334,8 +5350,8 @@
    "timestamp": "2026-10-16T13:43:06+0000",
    "type": "VIDEO",
    "caption": "11 months at +10 %, then 1 month at −70 %. The year ends at −14 %.",
-   "views": 536,
-   "likes": 2,
+   "views": 553,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -5356,7 +5372,7 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1475,
+   "views": 1479,
    "likes": 40,
    "comments": 1
   },
@@ -5389,7 +5405,7 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2197,
+   "views": 2199,
    "likes": 33,
    "comments": 1
   },
@@ -5400,7 +5416,7 @@
    "timestamp": "2026-10-16T05:30:48+0000",
    "type": "VIDEO",
    "caption": "6 evaluations at $150 cost you $900. Your first payout was $400.",
-   "views": 1433,
+   "views": 1439,
    "likes": 12,
    "comments": 1
   },
@@ -5411,7 +5427,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2965,
+   "views": 2977,
    "likes": 15,
    "comments": 1
   },
@@ -5422,7 +5438,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3036,
+   "views": 3039,
    "likes": 40,
    "comments": 1
   },
@@ -5433,7 +5449,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3785,
+   "views": 3790,
    "likes": 32,
    "comments": 2
   },
@@ -5510,7 +5526,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6352,
+   "views": 6366,
    "likes": 158,
    "comments": 37
   },
@@ -5645,17 +5661,6 @@
    "views": 2203,
    "likes": 29,
    "comments": 1
-  },
-  {
-   "id": "18129290143798651",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DeckHD9DJ98/",
-   "timestamp": "2026-10-13T19:31:23+0000",
-   "type": "VIDEO",
-   "caption": "10 red days at 2 % each, then 10 green days at 2 % each. You're still $40 short.",
-   "views": 2859,
-   "likes": 40,
-   "comments": 0
   }
  ]
 }
