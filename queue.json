@@ -6780,7 +6780,7 @@
     {
       "id": "test-2026-10-17-sizeup",
       "slug": "stickman-sizeup",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizeup.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sizeup-cover.jpg",
@@ -6791,7 +6791,10 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse (fivesize, surebet): nach einer guten Woche verdoppelt. Traegt die Wochenrechnung?"
       },
-      "posting_started_at": "2026-10-17T01:30:08.934Z"
+      "container_id": "18113020550136556",
+      "media_id": "18154463974567163",
+      "permalink": "https://www.instagram.com/reel/Dek7oYFjkgl/",
+      "published_at": "2026-10-17T01:30:48.402Z"
     },
     {
       "id": "test-2026-10-17-fiftyone",
