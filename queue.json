@@ -6777,6 +6777,10 @@
       "views_12h": {
         "views": 3169,
         "stunden": 13
+      },
+      "views_24h": {
+        "views": 3263,
+        "stunden": 24.68
       }
     },
     {
@@ -6971,7 +6975,11 @@
         "verdacht": false,
         "at": "2026-10-17T03:32:11.329Z"
       },
-      "kommentar_id": "18374746135301042"
+      "kommentar_id": "18374746135301042",
+      "views_12h": {
+        "views": 2073,
+        "stunden": 12.68
+      }
     },
     {
       "id": "test-2026-10-17-martinbank",
