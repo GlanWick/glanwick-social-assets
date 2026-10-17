@@ -5765,7 +5765,16 @@
       "container_id": "18113127233136556",
       "media_id": "18104893682358414",
       "permalink": "https://www.instagram.com/reel/Demb0BhAS7O/",
-      "published_at": "2026-10-17T15:31:13.455Z"
+      "published_at": "2026-10-17T15:31:13.455Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 204,
+        "beitraege_nachher": 204,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T15:32:15.061Z"
+      }
     },
     {
       "id": "test-2026-10-14-zehn-verluste-in-folge",
