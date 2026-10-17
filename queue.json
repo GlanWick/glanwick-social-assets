@@ -6880,7 +6880,16 @@
       "container_id": "18113052887136556",
       "media_id": "18633354613043768",
       "permalink": "https://www.instagram.com/reel/DelXGKim9x9/",
-      "published_at": "2026-10-17T05:30:52.398Z"
+      "published_at": "2026-10-17T05:30:52.398Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 202,
+        "beitraege_nachher": 202,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T05:31:53.926Z"
+      }
     },
     {
       "id": "test-2026-10-17-latenight",
