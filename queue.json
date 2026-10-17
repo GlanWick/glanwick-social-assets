@@ -5693,7 +5693,7 @@
     {
       "id": "test-2026-10-14-fuenfzig-gute-wochen",
       "slug": "stickman-fiftyweeks",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyweeks-cover.jpg",
@@ -5704,7 +5704,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie elevenplus, 50 gute Wochen gegen zwei schlechte"
       },
-      "posting_started_at": "2026-10-17T11:30:12.058Z"
+      "container_id": "18113091839136556",
+      "media_id": "18286423081295230",
+      "permalink": "https://www.instagram.com/reel/DemATJ1DbEX/",
+      "published_at": "2026-10-17T11:30:57.260Z"
     },
     {
       "id": "test-2026-10-14-muenze-vierzig-trades",
