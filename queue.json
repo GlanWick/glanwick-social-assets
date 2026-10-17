@@ -6848,6 +6848,10 @@
       "views_12h": {
         "views": 2247,
         "stunden": 12.02
+      },
+      "views_24h": {
+        "views": 2293,
+        "stunden": 24.68
       }
     },
     {
@@ -7042,7 +7046,11 @@
         "verdacht": false,
         "at": "2026-10-17T05:31:53.926Z"
       },
-      "kommentar_id": "18133881196646676"
+      "kommentar_id": "18133881196646676",
+      "views_12h": {
+        "views": 2129,
+        "stunden": 12.68
+      }
     },
     {
       "id": "test-2026-10-17-latenight",
