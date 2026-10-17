@@ -6671,6 +6671,10 @@
       "views_12h": {
         "views": 2144,
         "stunden": 12.15
+      },
+      "views_24h": {
+        "views": 2206,
+        "stunden": 24.84
       }
     },
     {
@@ -6865,7 +6869,11 @@
         "verdacht": false,
         "at": "2026-10-16T23:31:46.843Z"
       },
-      "kommentar_id": "18103478396314744"
+      "kommentar_id": "18103478396314744",
+      "views_12h": {
+        "views": 1520,
+        "stunden": 12.85
+      }
     },
     {
       "id": "test-2026-10-17-sizeup",
