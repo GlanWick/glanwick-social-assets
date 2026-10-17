@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-17T01:40:34.706Z",
+ "updated": "2026-10-17T02:40:49.734Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.5 s"
+   "Sehdauer letzte 3 Reels: 4.9 s"
   ],
-  "checked": "2026-10-17T01:40:35.897Z",
+  "checked": "2026-10-17T02:40:50.743Z",
   "reach_days": [
    {
     "day": "2026-10-10",
@@ -33,16 +33,16 @@
    },
    {
     "day": "2026-10-16",
-    "reach": 20562
+    "reach": 21010
    }
   ],
-  "avg_watch_last_reels": 6.5
+  "avg_watch_last_reels": 4.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 515,
-  "media_count": 201
+  "followers": 516,
+  "media_count": 202
  },
  "history": [
   {
@@ -5204,9 +5204,25 @@
    "ts": "2026-10-17T01:40:34.706Z",
    "followers": 515,
    "media_count": 201
+  },
+  {
+   "ts": "2026-10-17T02:40:49.734Z",
+   "followers": 516,
+   "media_count": 202
   }
  ],
  "posts": [
+  {
+   "id": "17975988264145395",
+   "slug": "stickman-fivethenone",
+   "permalink": "https://www.instagram.com/reel/DelCfIyDwC_/",
+   "timestamp": "2026-10-17T02:30:36+0000",
+   "type": "VIDEO",
+   "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
+   "views": 7,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18154463974567163",
    "slug": "stickman-sizeup",
@@ -5214,8 +5230,8 @@
    "timestamp": "2026-10-17T01:30:42+0000",
    "type": "VIDEO",
    "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 0,
-   "likes": 0,
+   "views": 186,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5225,7 +5241,7 @@
    "timestamp": "2026-10-16T23:30:38+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 283,
+   "views": 410,
    "likes": 0,
    "comments": 1
   },
@@ -5236,7 +5252,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 317,
+   "views": 360,
    "likes": 2,
    "comments": 1
   },
@@ -5247,8 +5263,8 @@
    "timestamp": "2026-10-16T21:30:53+0000",
    "type": "VIDEO",
    "caption": "3 weeks of trading made you $600. One trade with a moved stop lost it in 4 minut",
-   "views": 778,
-   "likes": 6,
+   "views": 1021,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -5258,8 +5274,8 @@
    "timestamp": "2026-10-16T19:31:14+0000",
    "type": "VIDEO",
    "caption": "After 3 losses, you closed the next winner at +$100. It ran to +$900.",
-   "views": 966,
-   "likes": 9,
+   "views": 1068,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5269,7 +5285,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2230,
+   "views": 2232,
    "likes": 20,
    "comments": 1
   },
@@ -5280,8 +5296,8 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1397,
-   "likes": 27,
+   "views": 1413,
+   "likes": 28,
    "comments": 1
   },
   {
@@ -5291,7 +5307,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1910,
+   "views": 1911,
    "likes": 33,
    "comments": 6
   },
@@ -5302,7 +5318,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3136,
+   "views": 3154,
    "likes": 31,
    "comments": 1
   },
@@ -5313,7 +5329,7 @@
    "timestamp": "2026-10-16T13:43:06+0000",
    "type": "VIDEO",
    "caption": "11 months at +10 %, then 1 month at −70 %. The year ends at −14 %.",
-   "views": 521,
+   "views": 531,
    "likes": 2,
    "comments": 1
   },
@@ -5324,7 +5340,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2494,
+   "views": 2504,
    "likes": 57,
    "comments": 9
   },
@@ -5335,7 +5351,7 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1470,
+   "views": 1473,
    "likes": 40,
    "comments": 1
   },
@@ -5346,7 +5362,7 @@
    "timestamp": "2026-10-16T11:31:03+0000",
    "type": "VIDEO",
    "caption": "You risked 1 % on 5 trades. All 5 were tech. One bad day took $500.",
-   "views": 2155,
+   "views": 2157,
    "likes": 17,
    "comments": 1
   },
@@ -5368,8 +5384,8 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2193,
-   "likes": 32,
+   "views": 2196,
+   "likes": 33,
    "comments": 1
   },
   {
@@ -5379,7 +5395,7 @@
    "timestamp": "2026-10-16T05:30:48+0000",
    "type": "VIDEO",
    "caption": "6 evaluations at $150 cost you $900. Your first payout was $400.",
-   "views": 1421,
+   "views": 1426,
    "likes": 12,
    "comments": 1
   },
@@ -5390,7 +5406,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2964,
+   "views": 2965,
    "likes": 15,
    "comments": 1
   },
@@ -5401,7 +5417,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3026,
+   "views": 3030,
    "likes": 40,
    "comments": 1
   },
@@ -5412,7 +5428,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3770,
+   "views": 3782,
    "likes": 32,
    "comments": 2
   },
@@ -5434,7 +5450,7 @@
    "timestamp": "2026-10-15T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10 and lose $500. He wins 4 in 10 and makes $1,000.",
-   "views": 2432,
+   "views": 2434,
    "likes": 28,
    "comments": 1
   },
@@ -5489,8 +5505,8 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6326,
-   "likes": 157,
+   "views": 6349,
+   "likes": 158,
    "comments": 37
   },
   {
@@ -5500,7 +5516,7 @@
    "timestamp": "2026-10-15T16:45:34+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 2702,
+   "views": 2704,
    "likes": 17,
    "comments": 1
   },
@@ -5511,7 +5527,7 @@
    "timestamp": "2026-10-15T15:44:47+0000",
    "type": "VIDEO",
    "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
-   "views": 1646,
+   "views": 1647,
    "likes": 16,
    "comments": 1
   },
@@ -5533,7 +5549,7 @@
    "timestamp": "2026-10-15T13:41:48+0000",
    "type": "VIDEO",
    "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 3169,
+   "views": 3171,
    "likes": 46,
    "comments": 1
   },
@@ -5555,7 +5571,7 @@
    "timestamp": "2026-10-15T09:21:18+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 3002,
+   "views": 3006,
    "likes": 101,
    "comments": 34
   },
@@ -5588,7 +5604,7 @@
    "timestamp": "2026-10-14T17:00:37+0000",
    "type": "VIDEO",
    "caption": "5 losses in a row cost you $500. You quit. The next 20 trades made $1,200.",
-   "views": 2446,
+   "views": 2447,
    "likes": 36,
    "comments": 1
   },
@@ -5635,17 +5651,6 @@
    "views": 2859,
    "likes": 40,
    "comments": 0
-  },
-  {
-   "id": "18477072892114698",
-   "slug": "stickman-surebet",
-   "permalink": "https://www.instagram.com/reel/DecWUA-DNVc/",
-   "timestamp": "2026-10-13T17:30:42+0000",
-   "type": "VIDEO",
-   "caption": "9 trades at $100 risk made +$400. The one you were sure about risked $2,000.",
-   "views": 1576,
-   "likes": 10,
-   "comments": 1
   }
  ]
 }
