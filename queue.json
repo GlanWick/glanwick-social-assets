@@ -6614,6 +6614,10 @@
       "views_12h": {
         "views": 2489,
         "stunden": 12.15
+      },
+      "views_24h": {
+        "views": 2493,
+        "stunden": 24.84
       }
     },
     {
@@ -6808,7 +6812,11 @@
         "verdacht": false,
         "at": "2026-10-16T21:32:02.848Z"
       },
-      "kommentar_id": "17910081126558478"
+      "kommentar_id": "17910081126558478",
+      "views_12h": {
+        "views": 1490,
+        "stunden": 12.84
+      }
     },
     {
       "id": "test-2026-10-16-marginx",
