@@ -6843,7 +6843,16 @@
       "container_id": "18113036240136556",
       "media_id": "18098172032385368",
       "permalink": "https://www.instagram.com/reel/DelJZWAGno0/",
-      "published_at": "2026-10-17T03:31:09.403Z"
+      "published_at": "2026-10-17T03:31:09.403Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 202,
+        "beitraege_nachher": 202,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T03:32:11.329Z"
+      }
     },
     {
       "id": "test-2026-10-17-martinbank",
