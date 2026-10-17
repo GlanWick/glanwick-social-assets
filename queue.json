@@ -6067,7 +6067,7 @@
     {
       "id": "2026-10-17-fuenf-gewinne-ein-verlust",
       "slug": "stickman-fivethenone",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivethenone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivethenone-cover.jpg",
@@ -6078,7 +6078,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivethenone.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivethenone-cover.jpg"
       },
-      "posting_started_at": "2026-10-17T02:30:03.824Z"
+      "container_id": "18113029883136556",
+      "media_id": "17975988264145395",
+      "permalink": "https://www.instagram.com/reel/DelCfIyDwC_/",
+      "published_at": "2026-10-17T02:30:41.959Z"
     },
     {
       "id": "2026-10-17-dreifach-fonds",
