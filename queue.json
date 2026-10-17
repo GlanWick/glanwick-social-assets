@@ -6563,6 +6563,10 @@
       "views_12h": {
         "views": 2187,
         "stunden": 12.31
+      },
+      "views_24h": {
+        "views": 2203,
+        "stunden": 24.01
       }
     },
     {
@@ -6757,7 +6761,11 @@
         "verdacht": false,
         "at": "2026-10-16T19:32:25.116Z"
       },
-      "kommentar_id": "18143291824607114"
+      "kommentar_id": "18143291824607114",
+      "views_12h": {
+        "views": 1352,
+        "stunden": 12.02
+      }
     },
     {
       "id": "test-2026-10-16-threeweeks",
