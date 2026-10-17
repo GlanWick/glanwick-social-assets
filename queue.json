@@ -6035,7 +6035,11 @@
       "media_id": "18118461436969341",
       "permalink": "https://www.instagram.com/reel/DekBWtsAGbr/",
       "published_at": "2026-10-16T17:01:37.563Z",
-      "kommentar_id": "18128835730893205"
+      "kommentar_id": "18128835730893205",
+      "views_12h": {
+        "views": 1476,
+        "stunden": 12.51
+      }
     },
     {
       "id": "2026-10-17-nachkaufen-verdoppelt",
@@ -6522,6 +6526,10 @@
       "views_12h": {
         "views": 1162,
         "stunden": 12.31
+      },
+      "views_24h": {
+        "views": 1444,
+        "stunden": 24.02
       }
     },
     {
@@ -6716,7 +6724,11 @@
         "verdacht": false,
         "at": "2026-10-16T17:32:12.935Z"
       },
-      "kommentar_id": "17995066326107522"
+      "kommentar_id": "17995066326107522",
+      "views_12h": {
+        "views": 2247,
+        "stunden": 12.02
+      }
     },
     {
       "id": "test-2026-10-16-winnerearly",
