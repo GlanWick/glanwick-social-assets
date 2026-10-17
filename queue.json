@@ -5751,7 +5751,7 @@
     {
       "id": "test-2026-10-14-freitag-nachmittag",
       "slug": "stickman-friday",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-17T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-friday-cover.jpg",
@@ -5761,7 +5761,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage fridayleak mit Wochenrechnung"
-      }
+      },
+      "posting_started_at": "2026-10-17T15:30:22.422Z"
     },
     {
       "id": "test-2026-10-14-zehn-verluste-in-folge",
