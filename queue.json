@@ -6179,7 +6179,7 @@
     {
       "id": "2026-10-17-gruppensignale",
       "slug": "stickman-groupsignals",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-17T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-groupsignals.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-groupsignals-cover.jpg",
@@ -6189,7 +6189,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-groupsignals.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-groupsignals-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-17T17:00:02.913Z"
     },
     {
       "id": "test-2026-10-15-ninetyten",
