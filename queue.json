@@ -6866,7 +6866,7 @@
     {
       "id": "test-2026-10-17-martinbank",
       "slug": "stickman-martinbank",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martinbank.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-martinbank-cover.jpg",
@@ -6877,7 +6877,10 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln (martin, double10): was 8 Verluste kosten und wie wahrscheinlich sie im Jahr sind. Traegt die Jahreswahrscheinlichkeit?"
       },
-      "posting_started_at": "2026-10-17T05:30:09.803Z"
+      "container_id": "18113052887136556",
+      "media_id": "18633354613043768",
+      "permalink": "https://www.instagram.com/reel/DelXGKim9x9/",
+      "published_at": "2026-10-17T05:30:52.398Z"
     },
     {
       "id": "test-2026-10-17-latenight",
