@@ -5678,7 +5678,16 @@
       "container_id": "18113079101136556",
       "media_id": "17885861439620785",
       "permalink": "https://www.instagram.com/reel/Delykc4lTrL/",
-      "published_at": "2026-10-17T09:30:42.876Z"
+      "published_at": "2026-10-17T09:30:42.876Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 202,
+        "beitraege_nachher": 202,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T09:31:44.291Z"
+      }
     },
     {
       "id": "test-2026-10-14-fuenfzig-gute-wochen",
