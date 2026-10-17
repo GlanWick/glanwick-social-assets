@@ -5664,7 +5664,7 @@
     {
       "id": "test-2026-10-14-gewinner-verkauft-verlierer-gehalten",
       "slug": "stickman-heldloser",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-heldloser-cover.jpg",
@@ -5675,7 +5675,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie disposition/soldwinner mit Gegenrechnung"
       },
-      "posting_started_at": "2026-10-17T09:30:14.182Z"
+      "container_id": "18113079101136556",
+      "media_id": "17885861439620785",
+      "permalink": "https://www.instagram.com/reel/Delykc4lTrL/",
+      "published_at": "2026-10-17T09:30:42.876Z"
     },
     {
       "id": "test-2026-10-14-fuenfzig-gute-wochen",
