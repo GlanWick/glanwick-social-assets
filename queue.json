@@ -6829,7 +6829,7 @@
     {
       "id": "test-2026-10-17-fiftyone",
       "slug": "stickman-fiftyone",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-17T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyone-cover.jpg",
@@ -6839,7 +6839,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus (sixwins50 7.971, twicerisk): 51 von 100 bei 10 % Risiko. Traegt die knappe Mehrheit?"
-      }
+      },
+      "posting_started_at": "2026-10-17T03:30:19.117Z"
     },
     {
       "id": "test-2026-10-17-martinbank",
