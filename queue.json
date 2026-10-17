@@ -6907,7 +6907,7 @@
     {
       "id": "test-2026-10-17-latenight",
       "slug": "stickman-latenight",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latenight.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-latenight-cover.jpg",
@@ -6918,7 +6918,10 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Thema Uhrzeit (spaete Trades). Traegt das Thema mit Tageszeit?"
       },
-      "posting_started_at": "2026-10-17T07:30:29.049Z"
+      "container_id": "18113066477136556",
+      "media_id": "18108582736936146",
+      "permalink": "https://www.instagram.com/reel/Delk3odiiRn/",
+      "published_at": "2026-10-17T07:31:07.939Z"
     }
   ]
 }
