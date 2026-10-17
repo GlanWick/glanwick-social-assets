@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-17T20:12:24.037Z",
+ "updated": "2026-10-17T21:02:11.774Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-17T20:12:25.055Z",
+  "checked": "2026-10-17T21:02:12.821Z",
   "reach_days": [
    {
     "day": "2026-10-10",
@@ -34,12 +34,12 @@
     "reach": 24371
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 523,
+  "followers": 524,
   "media_count": 205
  },
  "history": [
@@ -5297,6 +5297,11 @@
    "ts": "2026-10-17T20:12:24.037Z",
    "followers": 523,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-17T21:02:11.774Z",
+   "followers": 524,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5307,8 +5312,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 1501,
-   "likes": 13,
+   "views": 1981,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -5318,7 +5323,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 22,
+   "views": 23,
    "likes": 1,
    "comments": 1
   },
@@ -5329,8 +5334,8 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1520,
-   "likes": 14,
+   "views": 1532,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -5340,7 +5345,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1540,
+   "views": 1549,
    "likes": 8,
    "comments": 1
   },
@@ -5351,7 +5356,7 @@
    "timestamp": "2026-10-17T11:30:45+0000",
    "type": "VIDEO",
    "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.",
-   "views": 1471,
+   "views": 1473,
    "likes": 23,
    "comments": 1
   },
@@ -5362,7 +5367,7 @@
    "timestamp": "2026-10-17T09:30:36+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
-   "views": 1765,
+   "views": 1769,
    "likes": 19,
    "comments": 1
   },
@@ -5373,8 +5378,8 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 859,
-   "likes": 6,
+   "views": 907,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5384,7 +5389,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2141,
+   "views": 2145,
    "likes": 8,
    "comments": 1
   },
@@ -5395,7 +5400,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2104,
+   "views": 2114,
    "likes": 11,
    "comments": 1
   },
@@ -5406,7 +5411,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 1971,
+   "views": 1986,
    "likes": 26,
    "comments": 2
   },
@@ -5417,7 +5422,7 @@
    "timestamp": "2026-10-17T01:30:42+0000",
    "type": "VIDEO",
    "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 1514,
+   "views": 1517,
    "likes": 16,
    "comments": 2
   },
@@ -5428,7 +5433,7 @@
    "timestamp": "2026-10-16T23:30:38+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 1552,
+   "views": 1556,
    "likes": 2,
    "comments": 1
   },
@@ -5439,7 +5444,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1074,
+   "views": 1111,
    "likes": 9,
    "comments": 1
   },
@@ -5505,7 +5510,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3272,
+   "views": 3273,
    "likes": 32,
    "comments": 1
   },
@@ -5527,7 +5532,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2590,
+   "views": 2591,
    "likes": 58,
    "comments": 11
   },
@@ -5538,8 +5543,8 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1498,
-   "likes": 40,
+   "views": 1499,
+   "likes": 41,
    "comments": 1
   },
   {
@@ -5582,7 +5587,7 @@
    "timestamp": "2026-10-16T05:30:48+0000",
    "type": "VIDEO",
    "caption": "6 evaluations at $150 cost you $900. Your first payout was $400.",
-   "views": 1538,
+   "views": 1539,
    "likes": 12,
    "comments": 1
   },
@@ -5615,7 +5620,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3802,
+   "views": 3803,
    "likes": 33,
    "comments": 2
   },
@@ -5692,8 +5697,8 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6634,
-   "likes": 164,
+   "views": 6641,
+   "likes": 165,
    "comments": 41
   },
   {
