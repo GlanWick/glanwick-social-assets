@@ -6794,7 +6794,16 @@
       "container_id": "18113020550136556",
       "media_id": "18154463974567163",
       "permalink": "https://www.instagram.com/reel/Dek7oYFjkgl/",
-      "published_at": "2026-10-17T01:30:48.402Z"
+      "published_at": "2026-10-17T01:30:48.402Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 201,
+        "beitraege_nachher": 201,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-17T01:31:50.066Z"
+      }
     },
     {
       "id": "test-2026-10-17-fiftyone",
