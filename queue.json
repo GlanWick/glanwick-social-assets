@@ -6485,6 +6485,10 @@
       "views_12h": {
         "views": 2908,
         "stunden": 12.29
+      },
+      "views_24h": {
+        "views": 2977,
+        "stunden": 24.99
       }
     },
     {
@@ -6679,7 +6683,11 @@
         "verdacht": false,
         "at": "2026-10-16T15:32:00.422Z"
       },
-      "kommentar_id": "17883545436524940"
+      "kommentar_id": "17883545436524940",
+      "views_12h": {
+        "views": 3169,
+        "stunden": 13
+      }
     },
     {
       "id": "test-2026-10-16-minusthirty",
