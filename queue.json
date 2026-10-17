@@ -5780,7 +5780,7 @@
     {
       "id": "test-2026-10-14-zehn-verluste-in-folge",
       "slug": "stickman-tenrow",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenrow-cover.jpg",
@@ -5791,7 +5791,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie riskten/riskstreak, zehn Verluste bei 1 % und 10 %"
       },
-      "posting_started_at": "2026-10-17T17:30:29.025Z"
+      "container_id": "18113147411136556",
+      "media_id": "18175805689457280",
+      "permalink": "https://www.instagram.com/reel/DempoWGlA5F/",
+      "published_at": "2026-10-17T17:31:59.276Z"
     },
     {
       "id": "2026-10-14-gleicher-trade-anderes-konto",
