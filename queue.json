@@ -6646,7 +6646,11 @@
         "verdacht": false,
         "at": "2026-10-16T13:44:14.749Z"
       },
-      "kommentar_id": "17979181619915768"
+      "kommentar_id": "17979181619915768",
+      "views_12h": {
+        "views": 531,
+        "stunden": 12.96
+      }
     },
     {
       "id": "test-2026-10-16-doublewin",
