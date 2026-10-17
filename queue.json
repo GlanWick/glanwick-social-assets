@@ -5696,7 +5696,11 @@
         "verdacht": false,
         "at": "2026-10-17T09:31:44.291Z"
       },
-      "kommentar_id": "17912668842539295"
+      "kommentar_id": "17912668842539295",
+      "views_12h": {
+        "views": 1770,
+        "stunden": 12.53
+      }
     },
     {
       "id": "test-2026-10-14-fuenfzig-gute-wochen",
@@ -6922,6 +6926,10 @@
       "views_12h": {
         "views": 1490,
         "stunden": 12.84
+      },
+      "views_24h": {
+        "views": 1511,
+        "stunden": 24.52
       }
     },
     {
