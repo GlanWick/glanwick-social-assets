@@ -5722,7 +5722,7 @@
     {
       "id": "test-2026-10-14-muenze-vierzig-trades",
       "slug": "stickman-coin40",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-17T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coin40-cover.jpg",
@@ -5733,7 +5733,10 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie coinflip/luck, 22 von 40 gegen die Münze"
       },
-      "posting_started_at": "2026-10-17T13:30:09.550Z"
+      "container_id": "18113109578136556",
+      "media_id": "18031226444684713",
+      "permalink": "https://www.instagram.com/reel/DemOHbLkmym/",
+      "published_at": "2026-10-17T13:31:30.816Z"
     },
     {
       "id": "test-2026-10-14-freitag-nachmittag",
