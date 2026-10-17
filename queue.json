@@ -6080,7 +6080,11 @@
       "media_id": "18102955214146127",
       "permalink": "https://www.instagram.com/reel/DekqeFvjqlR/",
       "published_at": "2026-10-16T23:00:54.243Z",
-      "kommentar_id": "18122911582882118"
+      "kommentar_id": "18122911582882118",
+      "views_12h": {
+        "views": 627,
+        "stunden": 12.34
+      }
     },
     {
       "id": "2026-10-17-fuenf-gewinne-ein-verlust",
