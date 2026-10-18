@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T18:34:56.289Z",
+ "updated": "2026-10-18T19:35:12.302Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T18:34:57.608Z",
+  "checked": "2026-10-18T19:35:13.361Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 531,
+  "followers": 532,
   "media_count": 205
  },
  "history": [
@@ -5412,6 +5412,11 @@
    "ts": "2026-10-18T18:34:56.289Z",
    "followers": 531,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T19:35:12.302Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5422,8 +5427,8 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2177,
-   "likes": 26,
+   "views": 2206,
+   "likes": 27,
    "comments": 5
   },
   {
@@ -5433,8 +5438,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4258,
-   "likes": 33,
+   "views": 4284,
+   "likes": 34,
    "comments": 2
   },
   {
@@ -5466,7 +5471,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1587,
+   "views": 1588,
    "likes": 8,
    "comments": 1
   },
@@ -5499,7 +5504,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1344,
+   "views": 1345,
    "likes": 15,
    "comments": 1
   },
@@ -5521,7 +5526,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2215,
+   "views": 2217,
    "likes": 11,
    "comments": 1
   },
@@ -5653,7 +5658,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2601,
+   "views": 2603,
    "likes": 58,
    "comments": 11
   },
@@ -5664,7 +5669,7 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1506,
+   "views": 1507,
    "likes": 41,
    "comments": 1
   },
@@ -5818,7 +5823,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6944,
+   "views": 6946,
    "likes": 171,
    "comments": 43
   },
