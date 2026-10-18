@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T13:43:26.167Z",
+ "updated": "2026-10-18T14:33:44.016Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T13:43:27.057Z",
+  "checked": "2026-10-18T14:33:46.594Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -34,12 +34,12 @@
     "reach": 10962
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 528,
+  "followers": 529,
   "media_count": 205
  },
  "history": [
@@ -5387,6 +5387,11 @@
    "ts": "2026-10-18T13:43:26.167Z",
    "followers": 528,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T14:33:44.016Z",
+   "followers": 529,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5397,9 +5402,9 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 110,
-   "likes": 3,
-   "comments": 0
+   "views": 799,
+   "likes": 9,
+   "comments": 6
   },
   {
    "id": "18175805689457280",
@@ -5408,8 +5413,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3637,
-   "likes": 26,
+   "views": 3667,
+   "likes": 27,
    "comments": 2
   },
   {
@@ -5419,7 +5424,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 51,
+   "views": 52,
    "likes": 4,
    "comments": 1
   },
@@ -5430,7 +5435,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1566,
+   "views": 1567,
    "likes": 16,
    "comments": 1
   },
@@ -5441,7 +5446,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1584,
+   "views": 1587,
    "likes": 8,
    "comments": 1
   },
@@ -5474,7 +5479,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1340,
+   "views": 1342,
    "likes": 15,
    "comments": 1
   },
@@ -5496,7 +5501,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2177,
+   "views": 2179,
    "likes": 11,
    "comments": 1
   },
@@ -5507,7 +5512,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2071,
+   "views": 2074,
    "likes": 26,
    "comments": 3
   },
@@ -5606,7 +5611,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3278,
+   "views": 3279,
    "likes": 32,
    "comments": 1
   },
@@ -5628,7 +5633,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2596,
+   "views": 2597,
    "likes": 58,
    "comments": 11
   },
@@ -5672,7 +5677,7 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2210,
+   "views": 2211,
    "likes": 33,
    "comments": 1
   },
@@ -5771,7 +5776,7 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2660,
+   "views": 2661,
    "likes": 24,
    "comments": 1
   },
@@ -5793,7 +5798,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6928,
+   "views": 6930,
    "likes": 170,
    "comments": 43
   },
