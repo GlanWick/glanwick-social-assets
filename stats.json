@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T14:33:44.016Z",
+ "updated": "2026-10-18T15:34:01.957Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T14:33:46.594Z",
+  "checked": "2026-10-18T15:34:03.577Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 529,
+  "followers": 530,
   "media_count": 205
  },
  "history": [
@@ -5392,6 +5392,11 @@
    "ts": "2026-10-18T14:33:44.016Z",
    "followers": 529,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T15:34:01.957Z",
+   "followers": 530,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5402,8 +5407,8 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 799,
-   "likes": 9,
+   "views": 1615,
+   "likes": 21,
    "comments": 6
   },
   {
@@ -5413,8 +5418,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3667,
-   "likes": 27,
+   "views": 3731,
+   "likes": 28,
    "comments": 2
   },
   {
@@ -5424,7 +5429,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 52,
+   "views": 55,
    "likes": 4,
    "comments": 1
   },
@@ -5435,7 +5440,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1567,
+   "views": 1572,
    "likes": 16,
    "comments": 1
   },
@@ -5457,7 +5462,7 @@
    "timestamp": "2026-10-17T11:30:45+0000",
    "type": "VIDEO",
    "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.",
-   "views": 1492,
+   "views": 1494,
    "likes": 23,
    "comments": 1
   },
@@ -5479,7 +5484,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1342,
+   "views": 1343,
    "likes": 15,
    "comments": 1
   },
@@ -5512,7 +5517,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2074,
+   "views": 2087,
    "likes": 26,
    "comments": 3
   },
@@ -5545,7 +5550,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1397,
+   "views": 1398,
    "likes": 11,
    "comments": 1
   },
@@ -5721,7 +5726,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3811,
+   "views": 3812,
    "likes": 33,
    "comments": 2
   },
@@ -5743,7 +5748,7 @@
    "timestamp": "2026-10-15T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10 and lose $500. He wins 4 in 10 and makes $1,000.",
-   "views": 2454,
+   "views": 2455,
    "likes": 28,
    "comments": 1
   },
@@ -5765,7 +5770,7 @@
    "timestamp": "2026-10-15T19:30:37+0000",
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
-   "views": 2340,
+   "views": 2341,
    "likes": 24,
    "comments": 1
   },
@@ -5798,8 +5803,8 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6930,
-   "likes": 170,
+   "views": 6933,
+   "likes": 171,
    "comments": 43
   },
   {
