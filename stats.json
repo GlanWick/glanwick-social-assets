@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T22:24:58.016Z",
+ "updated": "2026-10-18T23:25:16.326Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T22:24:58.841Z",
+  "checked": "2026-10-18T23:25:17.360Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -5432,6 +5432,11 @@
    "ts": "2026-10-18T22:24:58.016Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T23:25:16.326Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5442,7 +5447,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2234,
+   "views": 2236,
    "likes": 27,
    "comments": 5
   },
@@ -5453,7 +5458,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4314,
+   "views": 4320,
    "likes": 34,
    "comments": 2
   },
@@ -5530,7 +5535,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2216,
+   "views": 2217,
    "likes": 8,
    "comments": 1
   },
@@ -5552,7 +5557,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2099,
+   "views": 2100,
    "likes": 26,
    "comments": 3
   },
