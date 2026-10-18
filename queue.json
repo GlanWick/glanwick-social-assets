@@ -5762,7 +5762,11 @@
         "verdacht": false,
         "at": "2026-10-17T13:32:32.930Z"
       },
-      "kommentar_id": "17999959731044107"
+      "kommentar_id": "17999959731044107",
+      "views_12h": {
+        "views": 1568,
+        "stunden": 12.53
+      }
     },
     {
       "id": "test-2026-10-14-freitag-nachmittag",
@@ -7004,6 +7008,10 @@
       "views_12h": {
         "views": 1505,
         "stunden": 12.86
+      },
+      "views_24h": {
+        "views": 1524,
+        "stunden": 24.54
       }
     },
     {
