@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T12:43:24.605Z",
+ "updated": "2026-10-18T13:43:26.167Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T12:43:25.781Z",
+  "checked": "2026-10-18T13:43:27.057Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -34,7 +34,7 @@
     "reach": 10962
    }
   ],
-  "avg_watch_last_reels": 9.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5382,9 +5382,25 @@
    "ts": "2026-10-18T12:43:24.605Z",
    "followers": 528,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T13:43:26.167Z",
+   "followers": 528,
+   "media_count": 205
   }
  ],
  "posts": [
+  {
+   "id": "18077557337478097",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DeovFaZuIeK/",
+   "timestamp": "2026-10-18T12:59:23+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
+   "views": 110,
+   "likes": 3,
+   "comments": 0
+  },
   {
    "id": "18175805689457280",
    "slug": "stickman-tenrow",
@@ -5392,8 +5408,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3601,
-   "likes": 25,
+   "views": 3637,
+   "likes": 26,
    "comments": 2
   },
   {
@@ -5403,7 +5419,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 50,
+   "views": 51,
    "likes": 4,
    "comments": 1
   },
@@ -5414,7 +5430,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1565,
+   "views": 1566,
    "likes": 16,
    "comments": 1
   },
@@ -5425,7 +5441,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1582,
+   "views": 1584,
    "likes": 8,
    "comments": 1
   },
@@ -5458,7 +5474,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1339,
+   "views": 1340,
    "likes": 15,
    "comments": 1
   },
@@ -5469,7 +5485,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2195,
+   "views": 2198,
    "likes": 8,
    "comments": 1
   },
@@ -5480,7 +5496,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2176,
+   "views": 2177,
    "likes": 11,
    "comments": 1
   },
@@ -5491,7 +5507,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2070,
+   "views": 2071,
    "likes": 26,
    "comments": 3
   },
@@ -5524,7 +5540,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1396,
+   "views": 1397,
    "likes": 11,
    "comments": 1
   },
@@ -5568,7 +5584,7 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1595,
+   "views": 1596,
    "likes": 34,
    "comments": 2
   },
@@ -5579,7 +5595,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1942,
+   "views": 1943,
    "likes": 33,
    "comments": 6
   },
@@ -5623,7 +5639,7 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1505,
+   "views": 1506,
    "likes": 41,
    "comments": 1
   },
@@ -5656,7 +5672,7 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2209,
+   "views": 2210,
    "likes": 33,
    "comments": 1
   },
@@ -5788,7 +5804,7 @@
    "timestamp": "2026-10-15T16:45:34+0000",
    "type": "VIDEO",
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
-   "views": 2704,
+   "views": 2705,
    "likes": 17,
    "comments": 1
   },
@@ -5812,17 +5828,6 @@
    "caption": "You make $30 an hour at work. One −$900 trade cost you 30 hours.",
    "views": 158,
    "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "18127386148876623",
-   "slug": "stickman-ninetyten",
-   "permalink": "https://www.instagram.com/reel/DehFuDElH0U/",
-   "timestamp": "2026-10-15T13:41:48+0000",
-   "type": "VIDEO",
-   "caption": "You win 9 trades out of 10. You're still down $500.",
-   "views": 3179,
-   "likes": 46,
    "comments": 1
   }
  ]
