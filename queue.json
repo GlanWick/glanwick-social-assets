@@ -5729,7 +5729,11 @@
         "verdacht": false,
         "at": "2026-10-17T11:31:58.938Z"
       },
-      "kommentar_id": "18016691234957982"
+      "kommentar_id": "18016691234957982",
+      "views_12h": {
+        "views": 1479,
+        "stunden": 12.53
+      }
     },
     {
       "id": "test-2026-10-14-muenze-vierzig-trades",
@@ -6963,6 +6967,10 @@
       "views_12h": {
         "views": 1520,
         "stunden": 12.85
+      },
+      "views_24h": {
+        "views": 1560,
+        "stunden": 24.54
       }
     },
     {
