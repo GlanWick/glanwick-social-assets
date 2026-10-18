@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T00:02:53.274Z",
+ "updated": "2026-10-18T01:03:08.100Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T00:02:54.456Z",
+  "checked": "2026-10-18T01:03:09.059Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-17",
-    "reach": 10537
+    "reach": 10641
    }
   ],
   "avg_watch_last_reels": 9.1
@@ -5317,6 +5317,11 @@
    "ts": "2026-10-18T00:02:53.274Z",
    "followers": 525,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T01:03:08.100Z",
+   "followers": 525,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5327,7 +5332,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3154,
+   "views": 3191,
    "likes": 19,
    "comments": 1
   },
@@ -5338,7 +5343,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 39,
+   "views": 41,
    "likes": 4,
    "comments": 1
   },
@@ -5349,7 +5354,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1553,
+   "views": 1554,
    "likes": 15,
    "comments": 1
   },
@@ -5360,7 +5365,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1562,
+   "views": 1566,
    "likes": 8,
    "comments": 1
   },
@@ -5371,7 +5376,7 @@
    "timestamp": "2026-10-17T11:30:45+0000",
    "type": "VIDEO",
    "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.",
-   "views": 1479,
+   "views": 1480,
    "likes": 23,
    "comments": 1
   },
@@ -5382,7 +5387,7 @@
    "timestamp": "2026-10-17T09:30:36+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
-   "views": 1774,
+   "views": 1776,
    "likes": 19,
    "comments": 1
   },
@@ -5393,7 +5398,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1050,
+   "views": 1069,
    "likes": 8,
    "comments": 1
   },
@@ -5426,7 +5431,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2038,
+   "views": 2043,
    "likes": 26,
    "comments": 2
   },
@@ -5459,7 +5464,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1334,
+   "views": 1345,
    "likes": 10,
    "comments": 1
   },
@@ -5492,7 +5497,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2298,
+   "views": 2299,
    "likes": 21,
    "comments": 1
   },
@@ -5547,7 +5552,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2592,
+   "views": 2593,
    "likes": 58,
    "comments": 11
   },
@@ -5569,7 +5574,7 @@
    "timestamp": "2026-10-16T11:31:03+0000",
    "type": "VIDEO",
    "caption": "You risked 1 % on 5 trades. All 5 were tech. One bad day took $500.",
-   "views": 2210,
+   "views": 2211,
    "likes": 17,
    "comments": 1
   },
@@ -5624,7 +5629,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3058,
+   "views": 3059,
    "likes": 40,
    "comments": 1
   },
@@ -5712,7 +5717,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6714,
+   "views": 6736,
    "likes": 166,
    "comments": 43
   },
