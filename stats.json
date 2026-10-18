@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T10:43:19.952Z",
+ "updated": "2026-10-18T11:43:20.556Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T10:43:21.207Z",
+  "checked": "2026-10-18T11:43:21.385Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -5372,6 +5372,11 @@
    "ts": "2026-10-18T10:43:19.952Z",
    "followers": 528,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T11:43:20.556Z",
+   "followers": 528,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5382,7 +5387,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3521,
+   "views": 3548,
    "likes": 24,
    "comments": 1
   },
@@ -5404,7 +5409,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1563,
+   "views": 1564,
    "likes": 16,
    "comments": 1
   },
@@ -5415,7 +5420,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1580,
+   "views": 1581,
    "likes": 8,
    "comments": 1
   },
@@ -5459,7 +5464,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2192,
+   "views": 2194,
    "likes": 8,
    "comments": 1
   },
@@ -5503,7 +5508,7 @@
    "timestamp": "2026-10-16T23:30:38+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 1563,
+   "views": 1564,
    "likes": 2,
    "comments": 1
   },
@@ -5569,7 +5574,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1939,
+   "views": 1942,
    "likes": 33,
    "comments": 6
   },
@@ -5668,7 +5673,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2992,
+   "views": 2993,
    "likes": 15,
    "comments": 1
   },
@@ -5690,7 +5695,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3809,
+   "views": 3811,
    "likes": 33,
    "comments": 2
   },
@@ -5767,7 +5772,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6903,
+   "views": 6924,
    "likes": 170,
    "comments": 43
   },
