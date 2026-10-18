@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T11:43:20.556Z",
+ "updated": "2026-10-18T12:43:24.605Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T11:43:21.385Z",
+  "checked": "2026-10-18T12:43:25.781Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -5377,6 +5377,11 @@
    "ts": "2026-10-18T11:43:20.556Z",
    "followers": 528,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T12:43:24.605Z",
+   "followers": 528,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5387,9 +5392,9 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3548,
-   "likes": 24,
-   "comments": 1
+   "views": 3601,
+   "likes": 25,
+   "comments": 2
   },
   {
    "id": "18007845557785553",
@@ -5409,7 +5414,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1564,
+   "views": 1565,
    "likes": 16,
    "comments": 1
   },
@@ -5420,7 +5425,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1581,
+   "views": 1582,
    "likes": 8,
    "comments": 1
   },
@@ -5453,7 +5458,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1338,
+   "views": 1339,
    "likes": 15,
    "comments": 1
   },
@@ -5464,7 +5469,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2194,
+   "views": 2195,
    "likes": 8,
    "comments": 1
   },
@@ -5475,7 +5480,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2175,
+   "views": 2176,
    "likes": 11,
    "comments": 1
   },
@@ -5508,7 +5513,7 @@
    "timestamp": "2026-10-16T23:30:38+0000",
    "type": "VIDEO",
    "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 1564,
+   "views": 1566,
    "likes": 2,
    "comments": 1
   },
@@ -5585,7 +5590,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3277,
+   "views": 3278,
    "likes": 32,
    "comments": 1
   },
@@ -5607,7 +5612,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2595,
+   "views": 2596,
    "likes": 58,
    "comments": 11
   },
@@ -5772,7 +5777,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6924,
+   "views": 6928,
    "likes": 170,
    "comments": 43
   },
