@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T08:43:16.188Z",
+ "updated": "2026-10-18T09:43:16.643Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T08:43:17.234Z",
+  "checked": "2026-10-18T09:43:17.613Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -5362,6 +5362,11 @@
    "ts": "2026-10-18T08:43:16.188Z",
    "followers": 528,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T09:43:16.643Z",
+   "followers": 528,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5372,7 +5377,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 3444,
+   "views": 3464,
    "likes": 24,
    "comments": 1
   },
@@ -5405,7 +5410,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1574,
+   "views": 1577,
    "likes": 8,
    "comments": 1
   },
@@ -5427,8 +5432,8 @@
    "timestamp": "2026-10-17T09:30:36+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
-   "views": 1792,
-   "likes": 20,
+   "views": 1797,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -5438,7 +5443,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1308,
+   "views": 1331,
    "likes": 15,
    "comments": 1
   },
@@ -5449,7 +5454,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2189,
+   "views": 2192,
    "likes": 8,
    "comments": 1
   },
@@ -5460,7 +5465,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2170,
+   "views": 2172,
    "likes": 11,
    "comments": 1
   },
@@ -5471,7 +5476,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2068,
+   "views": 2069,
    "likes": 26,
    "comments": 3
   },
@@ -5504,8 +5509,8 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1385,
-   "likes": 10,
+   "views": 1396,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -5537,7 +5542,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2311,
+   "views": 2312,
    "likes": 21,
    "comments": 1
   },
@@ -5548,7 +5553,7 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1594,
+   "views": 1595,
    "likes": 34,
    "comments": 2
   },
@@ -5592,7 +5597,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2594,
+   "views": 2595,
    "likes": 58,
    "comments": 11
   },
@@ -5669,7 +5674,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3060,
+   "views": 3061,
    "likes": 40,
    "comments": 1
   },
@@ -5680,7 +5685,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3806,
+   "views": 3808,
    "likes": 33,
    "comments": 2
   },
@@ -5757,7 +5762,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6863,
+   "views": 6883,
    "likes": 170,
    "comments": 43
   },
