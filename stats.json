@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-18T21:24:37.064Z",
+ "updated": "2026-10-18T22:24:58.016Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-18T21:24:38.020Z",
+  "checked": "2026-10-18T22:24:58.841Z",
   "reach_days": [
    {
     "day": "2026-10-11",
@@ -5427,6 +5427,11 @@
    "ts": "2026-10-18T21:24:37.064Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-18T22:24:58.016Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5437,7 +5442,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2230,
+   "views": 2234,
    "likes": 27,
    "comments": 5
   },
@@ -5448,7 +5453,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4308,
+   "views": 4314,
    "likes": 34,
    "comments": 2
   },
@@ -5459,7 +5464,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 66,
+   "views": 67,
    "likes": 4,
    "comments": 1
   },
@@ -5503,7 +5508,7 @@
    "timestamp": "2026-10-17T09:30:36+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
-   "views": 1803,
+   "views": 1804,
    "likes": 21,
    "comments": 1
   },
@@ -5525,7 +5530,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2214,
+   "views": 2216,
    "likes": 8,
    "comments": 1
   },
@@ -5536,7 +5541,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2224,
+   "views": 2225,
    "likes": 11,
    "comments": 1
   },
@@ -5580,7 +5585,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1398,
+   "views": 1399,
    "likes": 11,
    "comments": 1
   },
@@ -5602,7 +5607,7 @@
    "timestamp": "2026-10-16T19:31:14+0000",
    "type": "VIDEO",
    "caption": "After 3 losses, you closed the next winner at +$100. It ran to +$900.",
-   "views": 1400,
+   "views": 1401,
    "likes": 11,
    "comments": 1
   },
@@ -5800,7 +5805,7 @@
    "timestamp": "2026-10-15T19:30:37+0000",
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
-   "views": 2345,
+   "views": 2346,
    "likes": 24,
    "comments": 1
   },
@@ -5833,7 +5838,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6952,
+   "views": 6953,
    "likes": 171,
    "comments": 43
   },
