@@ -5795,7 +5795,11 @@
         "verdacht": false,
         "at": "2026-10-17T15:32:15.061Z"
       },
-      "kommentar_id": "17994750980840628"
+      "kommentar_id": "17994750980840628",
+      "views_12h": {
+        "views": 1559,
+        "stunden": 12.37
+      }
     },
     {
       "id": "test-2026-10-14-zehn-verluste-in-folge",
@@ -7045,6 +7049,10 @@
       "views_12h": {
         "views": 2073,
         "stunden": 12.68
+      },
+      "views_24h": {
+        "views": 2160,
+        "stunden": 24.37
       }
     },
     {
