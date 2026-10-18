@@ -5828,7 +5828,11 @@
         "verdacht": false,
         "at": "2026-10-17T17:33:00.821Z"
       },
-      "kommentar_id": "18103696931197355"
+      "kommentar_id": "18103696931197355",
+      "views_12h": {
+        "views": 3339,
+        "stunden": 12.37
+      }
     },
     {
       "id": "2026-10-14-gleicher-trade-anderes-konto",
@@ -6239,7 +6243,11 @@
       "media_id": "18007845557785553",
       "permalink": "https://www.instagram.com/reel/DemmDmBEypT/",
       "published_at": "2026-10-17T17:00:42.481Z",
-      "kommentar_id": "18097570322556827"
+      "kommentar_id": "18097570322556827",
+      "views_12h": {
+        "views": 46,
+        "stunden": 12.89
+      }
     },
     {
       "id": "test-2026-10-15-ninetyten",
@@ -7086,6 +7094,10 @@
       "views_12h": {
         "views": 2129,
         "stunden": 12.68
+      },
+      "views_24h": {
+        "views": 2181,
+        "stunden": 24.39
       }
     },
     {
