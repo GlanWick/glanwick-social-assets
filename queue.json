@@ -7222,7 +7222,16 @@
       "container_id": "18113469788136556",
       "media_id": "18134048926737354",
       "permalink": "https://www.instagram.com/reel/DerlVlRDxmJ/",
-      "published_at": "2026-10-19T15:30:43.735Z"
+      "published_at": "2026-10-19T15:30:43.735Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 207,
+        "beitraege_nachher": 207,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-19T15:31:45.885Z"
+      }
     },
     {
       "id": "test-2026-10-19-copypeak",
