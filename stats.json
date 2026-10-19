@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T13:56:02.418Z",
+ "updated": "2026-10-19T14:55:59.156Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738",
-   "Sehdauer letzte 3 Reels: 6.9 s"
+   "Sehdauer letzte 3 Reels: 6.7 s"
   ],
-  "checked": "2026-10-19T13:56:04.343Z",
+  "checked": "2026-10-19T14:56:00.734Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -37,7 +37,7 @@
     "reach": 3117
    }
   ],
-  "avg_watch_last_reels": 6.9
+  "avg_watch_last_reels": 6.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5515,6 +5515,11 @@
    "ts": "2026-10-19T13:56:02.418Z",
    "followers": 533,
    "media_count": 207
+  },
+  {
+   "ts": "2026-10-19T14:55:59.156Z",
+   "followers": 533,
+   "media_count": 207
   }
  ],
  "posts": [
@@ -5536,8 +5541,8 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 246,
-   "likes": 2,
+   "views": 313,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5558,7 +5563,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4535,
+   "views": 4549,
    "likes": 36,
    "comments": 2
   },
@@ -5690,7 +5695,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1401,
+   "views": 1402,
    "likes": 11,
    "comments": 1
   },
@@ -5855,7 +5860,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3073,
+   "views": 3077,
    "likes": 40,
    "comments": 1
   },
@@ -5943,7 +5948,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6980,
+   "views": 6983,
    "likes": 171,
    "comments": 43
   },
