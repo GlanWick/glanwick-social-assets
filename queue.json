@@ -7237,7 +7237,7 @@
     {
       "id": "test-2026-10-19-copypeak",
       "slug": "stickman-copypeak",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copypeak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copypeak-cover.jpg",
@@ -7248,7 +7248,10 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Einstieg beim Kopieren nach dem besten Lauf. Traegt der Unterschied zwischen seinem Jahr und Deinem Einstieg?"
       },
-      "posting_started_at": "2026-10-19T17:30:02.487Z"
+      "container_id": "18113486417136556",
+      "media_id": "17917108041260055",
+      "permalink": "https://www.instagram.com/reel/DerzLKAE0Z9/",
+      "published_at": "2026-10-19T17:31:32.007Z"
     },
     {
       "id": "2026-10-19-vierundsechzig-runden",
