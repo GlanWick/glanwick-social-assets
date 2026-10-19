@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:40:51.700Z",
+  "generated_at": "2026-10-19T08:26:59.022Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -838,14 +838,13 @@
         "nr": 29,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-spread.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-spread-cover.jpg",
-        "gestartet_at": "2026-10-15T17:40:48.458Z",
-        "stand": "2026-10-15T17:41:46.499Z",
-        "versuch": 1,
-        "slot": "2026-10-15T17:00:00.000Z",
         "post_id": "6ad110287eb71e7559e077b6",
-        "published_at": "2026-10-15T17:41:28.051Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696951101769207072",
-        "plattform_id": "7696951101769207072"
+        "plattform_id": "7696951101769207072",
+        "published_at": "2026-10-15T17:41:28.051Z",
+        "gestartet_at": "2026-10-15T17:40:48.458Z",
+        "slot": "2026-10-15T17:00:00.000Z",
+        "stand": "2026-10-15T17:41:46.499Z"
       }
     },
     {
@@ -1237,14 +1236,13 @@
         "nr": 30,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scratch.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scratch-cover.jpg",
-        "gestartet_at": "2026-10-16T17:41:53.093Z",
-        "stand": "2026-10-16T17:42:50.296Z",
-        "versuch": 1,
-        "slot": "2026-10-16T17:00:00.000Z",
         "post_id": "6ad261e85a93e2483cf1863d",
-        "published_at": "2026-10-16T17:42:35.709Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697322478397295905",
-        "plattform_id": "7697322478397295905"
+        "plattform_id": "7697322478397295905",
+        "published_at": "2026-10-16T17:42:35.709Z",
+        "gestartet_at": "2026-10-16T17:41:53.093Z",
+        "slot": "2026-10-16T17:00:00.000Z",
+        "stand": "2026-10-16T17:42:50.296Z"
       }
     },
     {
@@ -1526,14 +1524,13 @@
         "nr": 31,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfsize.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfsize-cover.jpg",
-        "gestartet_at": "2026-10-17T17:41:07.290Z",
-        "stand": "2026-10-17T17:42:01.183Z",
-        "versuch": 1,
-        "slot": "2026-10-17T17:00:00.000Z",
         "post_id": "6ad3b338ee963e706ea37ed3",
-        "published_at": "2026-10-17T17:41:45.705Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697693359149796641",
-        "plattform_id": "7697693359149796641"
+        "plattform_id": "7697693359149796641",
+        "published_at": "2026-10-17T17:41:45.705Z",
+        "gestartet_at": "2026-10-17T17:41:07.290Z",
+        "slot": "2026-10-17T17:00:00.000Z",
+        "stand": "2026-10-17T17:42:01.183Z"
       },
       "media_id": "18137006041715709",
       "permalink": "https://www.instagram.com/reel/DdulyWQAWPF/",
@@ -1553,14 +1550,13 @@
         "nr": 32,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-luck.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-luck-cover.jpg",
-        "gestartet_at": "2026-10-18T17:00:05.360Z",
-        "stand": "2026-10-18T17:01:09.340Z",
-        "versuch": 1,
-        "slot": "2026-10-18T17:00:00.000Z",
         "post_id": "6ad4fb20a123f4db2bbe4ee0",
-        "published_at": "2026-10-18T17:00:51.766Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698053887894359328",
-        "plattform_id": "7698053887894359328"
+        "plattform_id": "7698053887894359328",
+        "published_at": "2026-10-18T17:00:51.766Z",
+        "gestartet_at": "2026-10-18T17:00:05.360Z",
+        "slot": "2026-10-18T17:00:00.000Z",
+        "stand": "2026-10-18T17:01:09.340Z"
       },
       "media_id": "17870293218649215",
       "permalink": "https://www.instagram.com/reel/Ddu900ckoII/",
@@ -5691,10 +5687,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie disposition/soldwinner mit Gegenrechnung"
       },
-      "container_id": "18113079101136556",
       "media_id": "17885861439620785",
       "permalink": "https://www.instagram.com/reel/Delykc4lTrL/",
       "published_at": "2026-10-17T09:30:42.876Z",
+      "container_id": "18113079101136556",
+      "kommentar_id": "17912668842539295",
       "trial_pruefung": {
         "beitraege_vorher": 202,
         "beitraege_nachher": 202,
@@ -5704,7 +5701,6 @@
         "verdacht": false,
         "at": "2026-10-17T09:31:44.291Z"
       },
-      "kommentar_id": "17912668842539295",
       "views_12h": {
         "views": 1770,
         "stunden": 12.53
@@ -5728,10 +5724,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie elevenplus, 50 gute Wochen gegen zwei schlechte"
       },
-      "container_id": "18113091839136556",
       "media_id": "18286423081295230",
       "permalink": "https://www.instagram.com/reel/DemATJ1DbEX/",
       "published_at": "2026-10-17T11:30:57.260Z",
+      "container_id": "18113091839136556",
+      "kommentar_id": "18016691234957982",
       "trial_pruefung": {
         "beitraege_vorher": 202,
         "beitraege_nachher": 202,
@@ -5741,7 +5738,6 @@
         "verdacht": false,
         "at": "2026-10-17T11:31:58.938Z"
       },
-      "kommentar_id": "18016691234957982",
       "views_12h": {
         "views": 1479,
         "stunden": 12.53
@@ -5765,10 +5761,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie coinflip/luck, 22 von 40 gegen die Münze"
       },
-      "container_id": "18113109578136556",
       "media_id": "18031226444684713",
       "permalink": "https://www.instagram.com/reel/DemOHbLkmym/",
       "published_at": "2026-10-17T13:31:30.816Z",
+      "container_id": "18113109578136556",
+      "kommentar_id": "17999959731044107",
       "trial_pruefung": {
         "beitraege_vorher": 204,
         "beitraege_nachher": 204,
@@ -5778,7 +5775,6 @@
         "verdacht": false,
         "at": "2026-10-17T13:32:32.930Z"
       },
-      "kommentar_id": "17999959731044107",
       "views_12h": {
         "views": 1568,
         "stunden": 12.53
@@ -5802,10 +5798,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Neuauflage fridayleak mit Wochenrechnung"
       },
-      "container_id": "18113127233136556",
       "media_id": "18104893682358414",
       "permalink": "https://www.instagram.com/reel/Demb0BhAS7O/",
       "published_at": "2026-10-17T15:31:13.455Z",
+      "container_id": "18113127233136556",
+      "kommentar_id": "17994750980840628",
       "trial_pruefung": {
         "beitraege_vorher": 204,
         "beitraege_nachher": 204,
@@ -5815,7 +5812,6 @@
         "verdacht": false,
         "at": "2026-10-17T15:32:15.061Z"
       },
-      "kommentar_id": "17994750980840628",
       "views_12h": {
         "views": 1559,
         "stunden": 12.37
@@ -5839,10 +5835,11 @@
         "bild": "bibliothek",
         "frage": "Bibliothek: Familie riskten/riskstreak, zehn Verluste bei 1 % und 10 %"
       },
-      "container_id": "18113147411136556",
       "media_id": "18175805689457280",
       "permalink": "https://www.instagram.com/reel/DempoWGlA5F/",
       "published_at": "2026-10-17T17:31:59.276Z",
+      "container_id": "18113147411136556",
+      "kommentar_id": "18103696931197355",
       "trial_pruefung": {
         "beitraege_vorher": 205,
         "beitraege_nachher": 205,
@@ -5852,7 +5849,6 @@
         "verdacht": false,
         "at": "2026-10-17T17:33:00.821Z"
       },
-      "kommentar_id": "18103696931197355",
       "views_12h": {
         "views": 3339,
         "stunden": 12.37
@@ -6025,18 +6021,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sameaverage-cover.jpg",
-        "gestartet_at": "2026-10-15T17:00:34.912Z",
-        "stand": "2026-10-15T17:02:06.320Z",
-        "versuch": 1,
         "post_id": "6ad106baaaa22340305a575a",
-        "published_at": "2026-10-15T17:01:15.988Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7696940739271478560",
-        "plattform_id": "7696940739271478560"
+        "plattform_id": "7696940739271478560",
+        "published_at": "2026-10-15T17:01:15.988Z",
+        "gestartet_at": "2026-10-15T17:00:34.912Z",
+        "stand": "2026-10-15T17:02:06.320Z"
       },
-      "container_id": "18112788326136556",
       "media_id": "18410394628089054",
       "permalink": "https://www.instagram.com/reel/Dehcc10j78Z/",
       "published_at": "2026-10-15T17:00:30.273Z",
+      "container_id": "18112788326136556",
       "kommentar_id": "18636058990044761",
       "views_12h": {
         "views": 2351,
@@ -6056,18 +6051,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fourseven.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fourseven-cover.jpg",
-        "gestartet_at": "2026-10-15T23:00:57.247Z",
-        "stand": "2026-10-15T23:02:22.369Z",
-        "versuch": 1,
         "post_id": "6ad15b2dd93ff0d4232bb33e",
-        "published_at": "2026-10-15T23:01:26.769Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697033561345494305",
-        "plattform_id": "7697033561345494305"
+        "plattform_id": "7697033561345494305",
+        "published_at": "2026-10-15T23:01:26.769Z",
+        "gestartet_at": "2026-10-15T23:00:57.247Z",
+        "stand": "2026-10-15T23:02:22.369Z"
       },
-      "container_id": "18112835150136556",
       "media_id": "18084803354715345",
       "permalink": "https://www.instagram.com/reel/DeiFrMOgZMc/",
       "published_at": "2026-10-15T23:00:53.399Z",
+      "container_id": "18112835150136556",
       "kommentar_id": "18030888785904770",
       "views_12h": {
         "views": 1119,
@@ -6087,18 +6081,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-percentdollar.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-percentdollar-cover.jpg",
-        "gestartet_at": "2026-10-16T02:31:59.372Z",
-        "stand": "2026-10-16T02:33:22.186Z",
-        "versuch": 1,
         "post_id": "6ad18ca4a7bea02a5cd226fc",
-        "published_at": "2026-10-16T02:32:26.456Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697087835702054177",
-        "plattform_id": "7697087835702054177"
+        "plattform_id": "7697087835702054177",
+        "published_at": "2026-10-16T02:32:26.456Z",
+        "gestartet_at": "2026-10-16T02:31:59.372Z",
+        "stand": "2026-10-16T02:33:22.186Z"
       },
-      "container_id": "18112856762136556",
       "media_id": "17987505215877451",
       "permalink": "https://www.instagram.com/reel/Deid1mcDON3/",
       "published_at": "2026-10-16T02:31:55.859Z",
+      "container_id": "18112856762136556",
       "kommentar_id": "18227691949327453",
       "views_12h": {
         "views": 2931,
@@ -6118,18 +6111,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfway.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfway-cover.jpg",
-        "gestartet_at": "2026-10-16T12:01:07.444Z",
-        "stand": "2026-10-16T12:02:36.404Z",
-        "versuch": 1,
         "post_id": "6ad21209bd0e000a36aa71fe",
-        "published_at": "2026-10-16T12:02:34.737Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697234620315618593",
-        "plattform_id": "7697234620315618593"
+        "plattform_id": "7697234620315618593",
+        "published_at": "2026-10-16T12:02:34.737Z",
+        "gestartet_at": "2026-10-16T12:01:07.444Z",
+        "stand": "2026-10-16T12:02:36.404Z"
       },
-      "container_id": "18112921796136556",
       "media_id": "18109223348249636",
       "permalink": "https://www.instagram.com/reel/Deje9T8lc8I/",
       "published_at": "2026-10-16T12:01:03.588Z",
+      "container_id": "18112921796136556",
       "kommentar_id": "18117589723813872",
       "views_12h": {
         "views": 1467,
@@ -6149,18 +6141,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyfive-cover.jpg",
-        "gestartet_at": "2026-10-16T17:01:41.071Z",
-        "stand": "2026-10-16T17:03:07.045Z",
-        "versuch": 1,
         "post_id": "6ad25879955c62041e36d0e3",
-        "published_at": "2026-10-16T17:02:11.471Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697312071079251233",
-        "plattform_id": "7697312071079251233"
+        "plattform_id": "7697312071079251233",
+        "published_at": "2026-10-16T17:02:11.471Z",
+        "gestartet_at": "2026-10-16T17:01:41.071Z",
+        "stand": "2026-10-16T17:03:07.045Z"
       },
-      "container_id": "18112966508136556",
       "media_id": "18118461436969341",
       "permalink": "https://www.instagram.com/reel/DekBWtsAGbr/",
       "published_at": "2026-10-16T17:01:37.563Z",
+      "container_id": "18112966508136556",
       "kommentar_id": "18128835730893205",
       "views_12h": {
         "views": 1476,
@@ -6180,18 +6171,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubleshares.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubleshares-cover.jpg",
-        "gestartet_at": "2026-10-16T23:00:57.580Z",
-        "stand": "2026-10-16T23:02:19.378Z",
-        "versuch": 1,
         "post_id": "6ad2acaecf7adab1a75813a5",
-        "published_at": "2026-10-16T23:01:24.940Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697404632980573473",
-        "plattform_id": "7697404632980573473"
+        "plattform_id": "7697404632980573473",
+        "published_at": "2026-10-16T23:01:24.940Z",
+        "gestartet_at": "2026-10-16T23:00:57.580Z",
+        "stand": "2026-10-16T23:02:19.378Z"
       },
-      "container_id": "18113007212136556",
       "media_id": "18102955214146127",
       "permalink": "https://www.instagram.com/reel/DekqeFvjqlR/",
       "published_at": "2026-10-16T23:00:54.243Z",
+      "container_id": "18113007212136556",
       "kommentar_id": "18122911582882118",
       "views_12h": {
         "views": 627,
@@ -6211,18 +6201,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivethenone.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivethenone-cover.jpg",
-        "gestartet_at": "2026-10-17T02:30:45.242Z",
-        "stand": "2026-10-17T02:32:07.946Z",
-        "versuch": 1,
         "post_id": "6ad2ddda439a187cfccf4f1e",
-        "published_at": "2026-10-17T02:31:13.797Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697458584367418656",
-        "plattform_id": "7697458584367418656"
+        "plattform_id": "7697458584367418656",
+        "published_at": "2026-10-17T02:31:13.797Z",
+        "gestartet_at": "2026-10-17T02:30:45.242Z",
+        "stand": "2026-10-17T02:32:07.946Z"
       },
-      "container_id": "18113029883136556",
       "media_id": "17975988264145395",
       "permalink": "https://www.instagram.com/reel/DelCfIyDwC_/",
       "published_at": "2026-10-17T02:30:41.959Z",
+      "container_id": "18113029883136556",
       "kommentar_id": "18158676601502497",
       "views_12h": {
         "views": 1861,
@@ -6238,11 +6227,7 @@
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letfive-cover.jpg",
       "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.\n\nWhat happened in those 10 days? The index went up 5 %, then down 5 %, in turns. $10,000 ended at $9,876.\nAnd the 3x fund? It moves 3 times the index, reset every day. +15 %, then −15 %, 5 times. $10,000 ended at $8,924.\nWhy so much worse? Every up and down pair costs the index 0.25 %. It costs the 3x fund 2.25 %.\nSo what does 3 times the move cost in a market that goes nowhere? About 8.6 times the loss of the index.\n\nBefore you hold a 3x fund for more than a day, look up how it did in the last sideways month.\n\nFree journal, link in bio.\n\nSome traders hold a 3x fund for weeks because the index will come back.\n\nHave you ever held a 3x fund longer than a day?\n\nPart 110 of the series. Part 111: the group's 10 signals made $1,000. You took 6 of them and lost $450.\n\n#etf #volatility #compounding #riskmanagement #tradingjournal",
       "bild": "bibliothek",
-      "tiktok": {
-        "status": "ready",
-        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive-cover.jpg"
-      },
+      "tiktok": false,
       "container_id": "18113096690136556",
       "error": "An unexpected error has occurred. Please retry your request later. (2026-10-17T12:01:21.236Z)"
     },
@@ -6259,18 +6244,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-groupsignals.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-groupsignals-cover.jpg",
-        "gestartet_at": "2026-10-17T17:00:45.672Z",
-        "stand": "2026-10-17T17:02:08.616Z",
-        "versuch": 1,
         "post_id": "6ad3a9c19c5fa1842a9f0f85",
-        "published_at": "2026-10-17T17:01:16.225Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7697682921771126048",
-        "plattform_id": "7697682921771126048"
+        "plattform_id": "7697682921771126048",
+        "published_at": "2026-10-17T17:01:16.225Z",
+        "gestartet_at": "2026-10-17T17:00:45.672Z",
+        "stand": "2026-10-17T17:02:08.616Z"
       },
-      "container_id": "18113142785136556",
       "media_id": "18007845557785553",
       "permalink": "https://www.instagram.com/reel/DemmDmBEypT/",
       "published_at": "2026-10-17T17:00:42.481Z",
+      "container_id": "18113142785136556",
       "kommentar_id": "18097570322556827",
       "views_12h": {
         "views": 46,
@@ -6291,10 +6275,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 9 von 10 gewonnen, ein Verlust ohne Stop. Traegt die hohe Trefferquote als Aufhaenger?"
       },
-      "container_id": "18112757021136556",
       "media_id": "18127386148876623",
       "permalink": "https://www.instagram.com/reel/DehFuDElH0U/",
       "published_at": "2026-10-15T13:41:54.837Z",
+      "container_id": "18112757021136556",
+      "kommentar_id": "18081367541362168",
       "trial_pruefung": {
         "beitraege_vorher": 193,
         "beitraege_nachher": 193,
@@ -6304,7 +6289,6 @@
         "verdacht": false,
         "at": "2026-10-15T13:42:56.391Z"
       },
-      "kommentar_id": "18081367541362168",
       "views_12h": {
         "views": 3026,
         "stunden": 12.6
@@ -6328,10 +6312,11 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit: Verlust in Arbeitsstunden umgerechnet. Traegt der Bezug zum eigenen Job?"
       },
-      "container_id": "18112766144136556",
       "media_id": "18221289127340957",
       "permalink": "https://www.instagram.com/reel/DehMtfgiEtg/",
       "published_at": "2026-10-15T14:43:25.290Z",
+      "container_id": "18112766144136556",
+      "kommentar_id": "18112116788272996",
       "trial_pruefung": {
         "beitraege_vorher": 193,
         "beitraege_nachher": 193,
@@ -6341,7 +6326,6 @@
         "verdacht": false,
         "at": "2026-10-15T14:44:27.209Z"
       },
-      "kommentar_id": "18112116788272996",
       "views_12h": {
         "views": 158,
         "stunden": 12.57
@@ -6365,10 +6349,11 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse: Kursluecke ueber den Stop (gapopen, earningsgap). Traegt die Rechnung mit Dollarbetraegen?"
       },
-      "container_id": "18112775564136556",
       "media_id": "18117618335051800",
       "permalink": "https://www.instagram.com/reel/DehTvqQku8g/",
       "published_at": "2026-10-15T15:44:54.547Z",
+      "container_id": "18112775564136556",
+      "kommentar_id": "18014681528986749",
       "trial_pruefung": {
         "beitraege_vorher": 193,
         "beitraege_nachher": 193,
@@ -6378,7 +6363,6 @@
         "verdacht": false,
         "at": "2026-10-15T15:45:56.289Z"
       },
-      "kommentar_id": "18014681528986749",
       "views_12h": {
         "views": 1233,
         "stunden": 12.38
@@ -6402,10 +6386,11 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Neuauflage besttrade2 (3.122): ein Trade traegt das Jahr. Traegt die Wiederholung mit neuen Zahlen?"
       },
-      "container_id": "18112786076136556",
       "media_id": "17965834170206700",
       "permalink": "https://www.instagram.com/reel/DehavLDj60W/",
       "published_at": "2026-10-15T16:45:42.772Z",
+      "container_id": "18112786076136556",
+      "kommentar_id": "17989767156058505",
       "trial_pruefung": {
         "beitraege_vorher": 194,
         "beitraege_nachher": 194,
@@ -6415,7 +6400,6 @@
         "verdacht": false,
         "at": "2026-10-15T16:46:44.616Z"
       },
-      "kommentar_id": "17989767156058505",
       "views_12h": {
         "views": 2666,
         "stunden": 12.36
@@ -6439,10 +6423,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 60 % Trefferquote, Ergebnis null. Traegt das Ergebnis $0 als Aufhaenger?"
       },
-      "container_id": "18112793999136556",
       "media_id": "18638920153007374",
       "permalink": "https://www.instagram.com/reel/Dehhx-Xk755/",
       "published_at": "2026-10-15T17:47:10.514Z",
+      "container_id": "18112793999136556",
+      "kommentar_id": "18063572678716834",
       "trial_pruefung": {
         "beitraege_vorher": 195,
         "beitraege_nachher": 195,
@@ -6452,7 +6437,6 @@
         "verdacht": false,
         "at": "2026-10-15T17:48:12.213Z"
       },
-      "kommentar_id": "18063572678716834",
       "views_12h": {
         "views": 2593,
         "stunden": 12.34
@@ -6476,10 +6460,11 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Neuauflage screenshot/bestday: bester Tag gegen den Monat. Traegt der Vergleich mit fremden Screenshots?"
       },
-      "container_id": "18112819010136556",
       "media_id": "18180743542428808",
       "permalink": "https://www.instagram.com/reel/DehtpLCDUFw/",
       "published_at": "2026-10-15T19:30:45.547Z",
+      "container_id": "18112819010136556",
+      "kommentar_id": "18431148451199354",
       "trial_pruefung": {
         "beitraege_vorher": 195,
         "beitraege_nachher": 195,
@@ -6489,7 +6474,6 @@
         "verdacht": false,
         "at": "2026-10-15T19:31:47.349Z"
       },
-      "kommentar_id": "18431148451199354",
       "views_12h": {
         "views": 2297,
         "stunden": 12.63
@@ -6513,10 +6497,11 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar (voldrag, sameaverage): positiver Schnitt, Konto im Minus. Traegt der Winkel nach No. 103?"
       },
-      "container_id": "18112828493136556",
       "media_id": "18118306831777198",
       "permalink": "https://www.instagram.com/reel/Deh7ZsAD8_n/",
       "published_at": "2026-10-15T21:31:07.653Z",
+      "container_id": "18112828493136556",
+      "kommentar_id": "18152439469526739",
       "trial_pruefung": {
         "beitraege_vorher": 194,
         "beitraege_nachher": 194,
@@ -6526,7 +6511,6 @@
         "verdacht": false,
         "at": "2026-10-15T21:32:09.322Z"
       },
-      "kommentar_id": "18152439469526739",
       "views_12h": {
         "views": 2249,
         "stunden": 12.45
@@ -6550,10 +6534,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: Gewinne zu frueh mitgenommen, Trefferquote steigt, Ergebnis faellt. Traegt der Widerspruch im Aufhaenger?"
       },
-      "container_id": "18112838654136556",
       "media_id": "17951864124297336",
       "permalink": "https://www.instagram.com/reel/DeiJJ6Zjgtd/",
       "published_at": "2026-10-15T23:31:11.098Z",
+      "container_id": "18112838654136556",
+      "kommentar_id": "18192367804397580",
       "trial_pruefung": {
         "beitraege_vorher": 197,
         "beitraege_nachher": 197,
@@ -6563,7 +6548,6 @@
         "verdacht": false,
         "at": "2026-10-15T23:32:12.857Z"
       },
-      "kommentar_id": "18192367804397580",
       "views_12h": {
         "views": 2355,
         "stunden": 12.45
@@ -6587,10 +6571,11 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (edge20 3.707): ein Verlust ohne Stop gegen 40 Gewinne. Traegt die Umrechnung in Gewinne?"
       },
-      "container_id": "18112850063136556",
       "media_id": "18044876774831280",
       "permalink": "https://www.instagram.com/reel/DeiW1JxDxtu/",
       "published_at": "2026-10-16T01:30:37.788Z",
+      "container_id": "18112850063136556",
+      "kommentar_id": "17985777117065004",
       "trial_pruefung": {
         "beitraege_vorher": 197,
         "beitraege_nachher": 197,
@@ -6600,7 +6585,6 @@
         "verdacht": false,
         "at": "2026-10-16T01:31:39.478Z"
       },
-      "kommentar_id": "17985777117065004",
       "views_12h": {
         "views": 3685,
         "stunden": 12.47
@@ -6624,10 +6608,11 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren (latecopy 3.989): spaeter Einstieg, gleicher Stop, schlechteres Verhaeltnis. Traegt die Rechnung mit Einstieg, Stop und Ziel?"
       },
-      "container_id": "18112866869136556",
       "media_id": "18640322440007900",
       "permalink": "https://www.instagram.com/reel/DeikoavDzof/",
       "published_at": "2026-10-16T03:31:23.162Z",
+      "container_id": "18112866869136556",
+      "kommentar_id": "17950925241310298",
       "trial_pruefung": {
         "beitraege_vorher": 198,
         "beitraege_nachher": 198,
@@ -6637,7 +6622,6 @@
         "verdacht": false,
         "at": "2026-10-16T03:32:24.614Z"
       },
-      "kommentar_id": "17950925241310298",
       "views_12h": {
         "views": 2908,
         "stunden": 12.29
@@ -6661,10 +6645,11 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Prop-Firma: Gebuehren gegen Auszahlung (Muster No. 51). Traegt die Rechnung mit Gebuehren?"
       },
-      "container_id": "18112879040136556",
       "media_id": "18011429648978104",
       "permalink": "https://www.instagram.com/reel/DeiyTvyFXHE/",
       "published_at": "2026-10-16T05:30:55.599Z",
+      "container_id": "18112879040136556",
+      "kommentar_id": "18447493891125426",
       "trial_pruefung": {
         "beitraege_vorher": 198,
         "beitraege_nachher": 198,
@@ -6674,7 +6659,6 @@
         "verdacht": false,
         "at": "2026-10-16T05:31:57.774Z"
       },
-      "kommentar_id": "18447493891125426",
       "views_12h": {
         "views": 1162,
         "stunden": 12.31
@@ -6698,10 +6682,11 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Thema Langeweile-Trades (Overtrading). Traegt das Thema ohne Rechenkniff?"
       },
-      "container_id": "18112891220136556",
       "media_id": "18097223900425140",
       "permalink": "https://www.instagram.com/reel/DejAIMlgqOj/",
       "published_at": "2026-10-16T07:31:47.016Z",
+      "container_id": "18112891220136556",
+      "kommentar_id": "18023420156714603",
       "trial_pruefung": {
         "beitraege_vorher": 198,
         "beitraege_nachher": 198,
@@ -6711,7 +6696,6 @@
         "verdacht": false,
         "at": "2026-10-16T07:32:49.295Z"
       },
-      "kommentar_id": "18023420156714603",
       "views_12h": {
         "views": 2187,
         "stunden": 12.31
@@ -6735,10 +6719,11 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (hole300 3.273): ein Monat Verlust gegen ein Jahr Aufholen. Traegt die Umrechnung in Monate?"
       },
-      "container_id": "18112902248136556",
       "media_id": "18104620403005250",
       "permalink": "https://www.instagram.com/reel/DejNyHfAasI/",
       "published_at": "2026-10-16T09:30:59.452Z",
+      "container_id": "18112902248136556",
+      "kommentar_id": "18108378968263315",
       "trial_pruefung": {
         "beitraege_vorher": 198,
         "beitraege_nachher": 198,
@@ -6748,7 +6733,6 @@
         "verdacht": false,
         "at": "2026-10-16T09:32:01.426Z"
       },
-      "kommentar_id": "18108378968263315",
       "views_12h": {
         "views": 2489,
         "stunden": 12.15
@@ -6772,10 +6756,11 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse: fuenf Trades, eine Wette (Korrelation). Traegt das Thema Klumpenrisiko?"
       },
-      "container_id": "18112918022136556",
       "media_id": "18083989610650858",
       "permalink": "https://www.instagram.com/reel/DejbiauAfEq/",
       "published_at": "2026-10-16T11:31:12.551Z",
+      "container_id": "18112918022136556",
+      "kommentar_id": "17908776063569650",
       "trial_pruefung": {
         "beitraege_vorher": 198,
         "beitraege_nachher": 198,
@@ -6785,7 +6770,6 @@
         "verdacht": false,
         "at": "2026-10-16T11:32:15.098Z"
       },
-      "kommentar_id": "17908776063569650",
       "views_12h": {
         "views": 2144,
         "stunden": 12.15
@@ -6809,10 +6793,11 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar (elevenplus, fiftyweeks): elf gute Monate, ein Absturz. Traegt die Jahresrechnung?"
       },
-      "container_id": "18112937597136556",
       "media_id": "18114645548040615",
       "permalink": "https://www.instagram.com/reel/Dejqp7Mjs-0/",
       "published_at": "2026-10-16T13:43:12.799Z",
+      "container_id": "18112937597136556",
+      "kommentar_id": "17979181619915768",
       "trial_pruefung": {
         "beitraege_vorher": 199,
         "beitraege_nachher": 199,
@@ -6822,7 +6807,6 @@
         "verdacht": false,
         "at": "2026-10-16T13:44:14.749Z"
       },
-      "kommentar_id": "17979181619915768",
       "views_12h": {
         "views": 531,
         "stunden": 12.96
@@ -6846,10 +6830,11 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln (martin 4.016), neuer Winkel: nach jedem Gewinn verdoppelt. Traegt die Umkehrung des Martingale?"
       },
-      "container_id": "18112953512136556",
       "media_id": "18022096040721977",
       "permalink": "https://www.instagram.com/reel/Dej2-xnijPb/",
       "published_at": "2026-10-16T15:30:58.568Z",
+      "container_id": "18112953512136556",
+      "kommentar_id": "17883545436524940",
       "trial_pruefung": {
         "beitraege_vorher": 199,
         "beitraege_nachher": 199,
@@ -6859,7 +6844,6 @@
         "verdacht": false,
         "at": "2026-10-16T15:32:00.422Z"
       },
-      "kommentar_id": "17883545436524940",
       "views_12h": {
         "views": 3169,
         "stunden": 13
@@ -6883,10 +6867,11 @@
         "bild": "bibliothek",
         "frage": "F2 Neuauflage voldrag (3.445) mit 30 %. Traegt die Rechnung Verlust gegen Gewinn?"
       },
-      "container_id": "18112970561136556",
       "media_id": "18019888196928311",
       "permalink": "https://www.instagram.com/reel/DekEu1vFWVG/",
       "published_at": "2026-10-16T17:31:11.169Z",
+      "container_id": "18112970561136556",
+      "kommentar_id": "17995066326107522",
       "trial_pruefung": {
         "beitraege_vorher": 200,
         "beitraege_nachher": 200,
@@ -6896,7 +6881,6 @@
         "verdacht": false,
         "at": "2026-10-16T17:32:12.935Z"
       },
-      "kommentar_id": "17995066326107522",
       "views_12h": {
         "views": 2247,
         "stunden": 12.02
@@ -6920,10 +6904,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus (satout 3.301): nach Verlusten den Gewinner zu frueh geschlossen. Traegt der Winkel nach No. 90?"
       },
-      "container_id": "18112988678136556",
       "media_id": "18438358339177237",
       "permalink": "https://www.instagram.com/reel/DekShG4Fa-7/",
       "published_at": "2026-10-16T19:31:22.951Z",
+      "container_id": "18112988678136556",
+      "kommentar_id": "18143291824607114",
       "trial_pruefung": {
         "beitraege_vorher": 200,
         "beitraege_nachher": 200,
@@ -6933,7 +6918,6 @@
         "verdacht": false,
         "at": "2026-10-16T19:32:25.116Z"
       },
-      "kommentar_id": "18143291824607114",
       "views_12h": {
         "views": 1352,
         "stunden": 12.02
@@ -6957,10 +6941,11 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit (badweek, sevenstops): drei Wochen gegen vier Minuten mit verschobenem Stop. Traegt der Zeitvergleich?"
       },
-      "container_id": "18112999697136556",
       "media_id": "18453940339124669",
       "permalink": "https://www.instagram.com/reel/DekgM5MCV_e/",
       "published_at": "2026-10-16T21:31:01.313Z",
+      "container_id": "18112999697136556",
+      "kommentar_id": "17910081126558478",
       "trial_pruefung": {
         "beitraege_vorher": 200,
         "beitraege_nachher": 200,
@@ -6970,7 +6955,6 @@
         "verdacht": false,
         "at": "2026-10-16T21:32:02.848Z"
       },
-      "kommentar_id": "17910081126558478",
       "views_12h": {
         "views": 1490,
         "stunden": 12.84
@@ -6994,10 +6978,11 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse (margin25): vierfach auf Kredit, 5 % Bewegung kosten 20 %. Traegt die Rechnung auf die volle Position?"
       },
-      "container_id": "18113010401136556",
       "media_id": "18634308109004987",
       "permalink": "https://www.instagram.com/reel/Dekt5FvE20m/",
       "published_at": "2026-10-16T23:30:45.276Z",
+      "container_id": "18113010401136556",
+      "kommentar_id": "18103478396314744",
       "trial_pruefung": {
         "beitraege_vorher": 201,
         "beitraege_nachher": 201,
@@ -7007,7 +6992,6 @@
         "verdacht": false,
         "at": "2026-10-16T23:31:46.843Z"
       },
-      "kommentar_id": "18103478396314744",
       "views_12h": {
         "views": 1520,
         "stunden": 12.85
@@ -7031,10 +7015,11 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse (fivesize, surebet): nach einer guten Woche verdoppelt. Traegt die Wochenrechnung?"
       },
-      "container_id": "18113020550136556",
       "media_id": "18154463974567163",
       "permalink": "https://www.instagram.com/reel/Dek7oYFjkgl/",
       "published_at": "2026-10-17T01:30:48.402Z",
+      "container_id": "18113020550136556",
+      "kommentar_id": "17985918543090011",
       "trial_pruefung": {
         "beitraege_vorher": 201,
         "beitraege_nachher": 201,
@@ -7044,7 +7029,6 @@
         "verdacht": false,
         "at": "2026-10-17T01:31:50.066Z"
       },
-      "kommentar_id": "17985918543090011",
       "views_12h": {
         "views": 1505,
         "stunden": 12.86
@@ -7068,10 +7052,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus (sixwins50 7.971, twicerisk): 51 von 100 bei 10 % Risiko. Traegt die knappe Mehrheit?"
       },
-      "container_id": "18113036240136556",
       "media_id": "18098172032385368",
       "permalink": "https://www.instagram.com/reel/DelJZWAGno0/",
       "published_at": "2026-10-17T03:31:09.403Z",
+      "container_id": "18113036240136556",
+      "kommentar_id": "18374746135301042",
       "trial_pruefung": {
         "beitraege_vorher": 202,
         "beitraege_nachher": 202,
@@ -7081,7 +7066,6 @@
         "verdacht": false,
         "at": "2026-10-17T03:32:11.329Z"
       },
-      "kommentar_id": "18374746135301042",
       "views_12h": {
         "views": 2073,
         "stunden": 12.68
@@ -7105,10 +7089,11 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln (martin, double10): was 8 Verluste kosten und wie wahrscheinlich sie im Jahr sind. Traegt die Jahreswahrscheinlichkeit?"
       },
-      "container_id": "18113052887136556",
       "media_id": "18633354613043768",
       "permalink": "https://www.instagram.com/reel/DelXGKim9x9/",
       "published_at": "2026-10-17T05:30:52.398Z",
+      "container_id": "18113052887136556",
+      "kommentar_id": "18133881196646676",
       "trial_pruefung": {
         "beitraege_vorher": 202,
         "beitraege_nachher": 202,
@@ -7118,7 +7103,6 @@
         "verdacht": false,
         "at": "2026-10-17T05:31:53.926Z"
       },
-      "kommentar_id": "18133881196646676",
       "views_12h": {
         "views": 2129,
         "stunden": 12.68
@@ -7142,10 +7126,11 @@
         "bild": "bibliothek",
         "frage": "F7-Ersatz, Thema Uhrzeit (spaete Trades). Traegt das Thema mit Tageszeit?"
       },
-      "container_id": "18113066477136556",
       "media_id": "18108582736936146",
       "permalink": "https://www.instagram.com/reel/Delk3odiiRn/",
       "published_at": "2026-10-17T07:31:07.939Z",
+      "container_id": "18113066477136556",
+      "kommentar_id": "18346667098278209",
       "trial_pruefung": {
         "beitraege_vorher": 202,
         "beitraege_nachher": 202,
@@ -7155,7 +7140,6 @@
         "verdacht": false,
         "at": "2026-10-17T07:32:09.396Z"
       },
-      "kommentar_id": "18346667098278209",
       "views_12h": {
         "views": 859,
         "stunden": 12.69
@@ -7164,6 +7148,21 @@
         "views": 1300,
         "stunden": 24.39
       }
+    },
+    {
+      "slug": "stickman-letfive",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letfive.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-letfive-cover.jpg",
+      "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.\n\nWhat happened in those 10 days? The index went up 5 %, then down 5 %, in turns. $10,000 ended at $9,876.\nAnd the 3x fund? It moves 3 times the index, reset every day. +15 %, then −15 %, 5 times. $10,000 ended at $8,924.\nWhy so much worse? Every up and down pair costs the index 0.25 %. It costs the 3x fund 2.25 %.\nSo what does 3 times the move cost in a market that goes nowhere? About 8.6 times the loss of the index.\n\nBefore you hold a 3x fund for more than a day, look up how it did in the last sideways month.\n\nFree journal, link in bio.\n\nSome traders hold a 3x fund for weeks because the index will come back.\n\nHave you ever held a 3x fund longer than a day?\n\nPart 110 of the series.\n\n#etf #volatility #compounding #riskmanagement #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive-cover.jpg"
+      },
+      "id": "2026-10-19-dreifach-fonds",
+      "status": "ready",
+      "scheduled_at": "2026-10-19T12:00:00Z"
     }
   ]
 }
