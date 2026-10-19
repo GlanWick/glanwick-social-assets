@@ -7330,7 +7330,7 @@
     {
       "id": "test-2026-10-19-twentyone",
       "slug": "stickman-twentyone",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentyone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentyone-cover.jpg",
@@ -7341,7 +7341,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 20 Gewinne in Folge, ein Verlust ohne Stop. Traegt die lange Gewinnserie als Aufhaenger?"
       },
-      "posting_started_at": "2026-10-19T21:30:17.863Z"
+      "container_id": "18113512328136556",
+      "media_id": "18127086250884770",
+      "permalink": "https://www.instagram.com/reel/DesOm_EjfRA/",
+      "published_at": "2026-10-19T21:31:22.121Z"
     },
     {
       "id": "2026-10-20-siebzig-gewinne-minus",
