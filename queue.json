@@ -7208,7 +7208,7 @@
     {
       "id": "test-2026-10-19-twohundred",
       "slug": "stickman-twohundred",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twohundred.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twohundred-cover.jpg",
@@ -7219,7 +7219,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: bester Trade in Prozent, Konto in Dollar im Minus. Traegt der Kontrast +200 % gegen Kontominus?"
       },
-      "posting_started_at": "2026-10-19T15:30:01.740Z"
+      "container_id": "18113469788136556",
+      "media_id": "18134048926737354",
+      "permalink": "https://www.instagram.com/reel/DerlVlRDxmJ/",
+      "published_at": "2026-10-19T15:30:43.735Z"
     },
     {
       "id": "test-2026-10-19-copypeak",
