@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T18:57:00.222Z",
+ "updated": "2026-10-19T19:46:35.655Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738",
-   "Sehdauer letzte 3 Reels: 7.1 s"
+   "Sehdauer letzte 3 Reels: 7.2 s"
   ],
-  "checked": "2026-10-19T18:57:01.343Z",
+  "checked": "2026-10-19T19:46:36.867Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -37,7 +37,7 @@
     "reach": 3117
    }
   ],
-  "avg_watch_last_reels": 7.1
+  "avg_watch_last_reels": 7.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5540,9 +5540,25 @@
    "ts": "2026-10-19T18:57:00.222Z",
    "followers": 533,
    "media_count": 208
+  },
+  {
+   "ts": "2026-10-19T19:46:35.655Z",
+   "followers": 533,
+   "media_count": 208
   }
  ],
  "posts": [
+  {
+   "id": "18357853633172917",
+   "slug": "stickman-notfit",
+   "permalink": "https://www.instagram.com/reel/DesA3VOghQq/",
+   "timestamp": "2026-10-19T19:31:14+0000",
+   "type": "VIDEO",
+   "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17917108041260055",
    "slug": "stickman-copypeak",
@@ -5550,8 +5566,8 @@
    "timestamp": "2026-10-19T17:31:27+0000",
    "type": "VIDEO",
    "caption": "He's up 26 % this year. You copied him and you're down 30 %.",
-   "views": 216,
-   "likes": 0,
+   "views": 347,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5561,7 +5577,7 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 202,
+   "views": 217,
    "likes": 3,
    "comments": 1
   },
@@ -5572,8 +5588,8 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 344,
-   "likes": 2,
+   "views": 448,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -5594,7 +5610,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 468,
+   "views": 484,
    "likes": 7,
    "comments": 1
   },
@@ -5616,7 +5632,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4582,
+   "views": 4589,
    "likes": 36,
    "comments": 2
   },
@@ -5649,7 +5665,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1597,
+   "views": 1601,
    "likes": 8,
    "comments": 1
   },
@@ -5682,7 +5698,7 @@
    "timestamp": "2026-10-17T07:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1345,
+   "views": 1346,
    "likes": 15,
    "comments": 1
   },
@@ -5913,7 +5929,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3081,
+   "views": 3082,
    "likes": 40,
    "comments": 1
   },
@@ -5969,17 +5985,6 @@
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
    "views": 2347,
-   "likes": 24,
-   "comments": 1
-  },
-  {
-   "id": "18638920153007374",
-   "slug": "stickman-sixtyzero",
-   "permalink": "https://www.instagram.com/reel/Dehhx-Xk755/",
-   "timestamp": "2026-10-15T17:47:03+0000",
-   "type": "VIDEO",
-   "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2670,
    "likes": 24,
    "comments": 1
   }
