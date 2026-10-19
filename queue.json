@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:13:40.107Z",
+  "generated_at": "2026-10-19T09:42:29.851Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -7163,6 +7163,51 @@
       "id": "2026-10-19-dreifach-fonds",
       "status": "ready",
       "scheduled_at": "2026-10-19T12:00:00Z"
+    },
+    {
+      "id": "test-2026-10-19-threeone",
+      "slug": "stickman-threeone",
+      "status": "ready",
+      "scheduled_at": "2026-10-19T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeone.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeone-cover.jpg",
+      "caption": "You win 3 trades a week and lose $1,000 in 10 weeks.\n\nHow do 3 wins out of 4 lose money? Each win pays $100. The 1 loss costs $400.\nWhat does a week leave? $300 in, $400 out. You're $100 down.\nAnd after 10 weeks? $1,000 down.\nWhat if the loss stopped at $200? Every week ends $100 up, and 10 weeks make $1,000.\n\nCount your average loss in wins. If it's more than 2, work on the loss before the wins.\n\nFree journal, link in bio.\n\nSome traders win 3 trades out of 4 and wonder where the money went.\n\nHow many of your wins does one loss eat?\n\nPart 104 of the series is on the profile: he wins 4 trades in 10 and makes $1,000. You win 7 in 10 and lose $500.\n\n#winrate #riskreward #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus: 3 Gewinne je Woche gegen 1 grossen Verlust, gerechnet ueber 10 Wochen. Traegt die Wochenrechnung?"
+      }
+    },
+    {
+      "id": "test-2026-10-19-twohundred",
+      "slug": "stickman-twohundred",
+      "status": "ready",
+      "scheduled_at": "2026-10-19T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twohundred.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twohundred-cover.jpg",
+      "caption": "Your best trade made +200 %. Your account is down $1,900.\n\nWhat was the best trade? A $50 option. +200 % on $50 is $100.\nAnd the worst? −20 % on $10,000 in stock. That's $2,000.\nHow do the two add up? +$100 and −$2,000 leave you $1,900 down.\nHow many best trades does that one loss take? 20.\n\nNext to the percent of each trade, write the dollars. Then sort your trades by dollars and look again.\n\nFree journal, link in bio.\n\nSome traders remember their best trade in percent and their worst one in dollars.\n\nIs your best trade in percent also your best in dollars?\n\nPart 105 of the series is on the profile: he made +50 % this year. You made +5 %, and you made twice his money.\n\n#options #positionsizing #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F2 Prozent gegen Dollar: bester Trade in Prozent, Konto in Dollar im Minus. Traegt der Kontrast +200 % gegen Kontominus?"
+      }
+    },
+    {
+      "id": "test-2026-10-19-copypeak",
+      "slug": "stickman-copypeak",
+      "status": "ready",
+      "scheduled_at": "2026-10-19T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copypeak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copypeak-cover.jpg",
+      "caption": "He's up 26 % this year. You copied him and you're down 30 %.\n\nHow can the same trades give two results? You started at a different time.\nWhen did you find him? When he was up 80 %. His $10,000 had grown to $18,000.\nWhat happened next? He dropped 30 %. His $18,000 fell to $12,600, still +26 % for his year.\nAnd you? Your $10,000 started at the top and fell to $7,000.\n\nBefore you copy a trader, find his worst drop and ask whether your account could sit through it.\n\nFree journal, link in bio.\n\nSome traders find a strategy through its best month and join right at the top.\n\nHave you ever copied someone right after his best run?\n\nPart 98 of the series is on the profile: same trade, same $1,000 loss. He lost 1 % of his account, you lost 20 %.\n\n#copytrading #drawdown #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F5 Kopieren: Einstieg beim Kopieren nach dem besten Lauf. Traegt der Unterschied zwischen seinem Jahr und Deinem Einstieg?"
+      }
     }
   ]
 }
