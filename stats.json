@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T01:25:51.780Z",
+ "updated": "2026-10-19T02:14:49.181Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 2925 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 2937 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T01:25:52.622Z",
+  "checked": "2026-10-19T02:14:50.154Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 2925
+    "reach": 2937
    }
   ],
   "avg_watch_last_reels": 8.3
@@ -5449,6 +5449,11 @@
    "ts": "2026-10-19T01:25:51.780Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T02:14:49.181Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5459,9 +5464,9 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2243,
+   "views": 2244,
    "likes": 27,
-   "comments": 5
+   "comments": 4
   },
   {
    "id": "18175805689457280",
@@ -5470,7 +5475,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4327,
+   "views": 4328,
    "likes": 34,
    "comments": 2
   },
@@ -5481,7 +5486,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 67,
+   "views": 71,
    "likes": 4,
    "comments": 1
   },
@@ -5503,7 +5508,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1588,
+   "views": 1595,
    "likes": 8,
    "comments": 1
   },
@@ -5558,7 +5563,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2225,
+   "views": 2227,
    "likes": 11,
    "comments": 1
   },
@@ -5580,7 +5585,7 @@
    "timestamp": "2026-10-17T01:30:42+0000",
    "type": "VIDEO",
    "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 1526,
+   "views": 1528,
    "likes": 17,
    "comments": 2
   },
@@ -5646,7 +5651,7 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1601,
+   "views": 1602,
    "likes": 34,
    "comments": 2
   },
@@ -5690,7 +5695,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2605,
+   "views": 2606,
    "likes": 58,
    "comments": 11
   },
@@ -5756,7 +5761,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2993,
+   "views": 2995,
    "likes": 15,
    "comments": 1
   },
@@ -5833,7 +5838,7 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2664,
+   "views": 2666,
    "likes": 24,
    "comments": 1
   },
