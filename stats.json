@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T02:14:49.181Z",
+ "updated": "2026-10-19T03:14:50.834Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 2937 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 2950 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T02:14:50.154Z",
+  "checked": "2026-10-19T03:14:51.808Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 2937
+    "reach": 2950
    }
   ],
   "avg_watch_last_reels": 8.3
@@ -5454,6 +5454,11 @@
    "ts": "2026-10-19T02:14:49.181Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T03:14:50.834Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5475,7 +5480,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4328,
+   "views": 4334,
    "likes": 34,
    "comments": 2
   },
@@ -5640,7 +5645,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2314,
+   "views": 2316,
    "likes": 21,
    "comments": 1
   },
@@ -5651,7 +5656,7 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1602,
+   "views": 1604,
    "likes": 34,
    "comments": 2
   },
@@ -5695,7 +5700,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2606,
+   "views": 2607,
    "likes": 58,
    "comments": 11
   },
@@ -5838,7 +5843,7 @@
    "timestamp": "2026-10-15T17:47:03+0000",
    "type": "VIDEO",
    "caption": "60 wins in 100 trades, and you made exactly $0.",
-   "views": 2666,
+   "views": 2667,
    "likes": 24,
    "comments": 1
   },
@@ -5860,7 +5865,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6955,
+   "views": 6959,
    "likes": 171,
    "comments": 43
   },
