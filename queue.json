@@ -7252,7 +7252,7 @@
     {
       "id": "2026-10-19-vierundsechzig-runden",
       "slug": "stickman-sixtyfour",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-19T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixtyfour.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixtyfour-cover.jpg",
@@ -7262,7 +7262,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-19T17:00:27.430Z"
     },
     {
       "id": "test-2026-10-19-notfit",
