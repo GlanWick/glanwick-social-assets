@@ -7400,7 +7400,16 @@
       "container_id": "18113519777136556",
       "media_id": "18227849617335688",
       "permalink": "https://www.instagram.com/reel/DescXL-iUcv/",
-      "published_at": "2026-10-19T23:31:23.070Z"
+      "published_at": "2026-10-19T23:31:23.070Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 209,
+        "beitraege_nachher": 209,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-19T23:32:25.157Z"
+      }
     },
     {
       "id": "test-2026-10-20-propdouble",
