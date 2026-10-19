@@ -7179,7 +7179,7 @@
     {
       "id": "test-2026-10-19-threeone",
       "slug": "stickman-threeone",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeone-cover.jpg",
@@ -7190,7 +7190,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 3 Gewinne je Woche gegen 1 grossen Verlust, gerechnet ueber 10 Wochen. Traegt die Wochenrechnung?"
       },
-      "posting_started_at": "2026-10-19T13:30:29.319Z"
+      "container_id": "18113456072136556",
+      "media_id": "18104389739371795",
+      "permalink": "https://www.instagram.com/reel/DerXrgeCodf/",
+      "published_at": "2026-10-19T13:31:19.684Z"
     },
     {
       "id": "test-2026-10-19-twohundred",
