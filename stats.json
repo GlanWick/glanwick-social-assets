@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T07:15:21.660Z",
+ "updated": "2026-10-19T08:05:09.848Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T07:15:22.580Z",
+  "checked": "2026-10-19T08:05:10.971Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -5479,6 +5479,11 @@
    "ts": "2026-10-19T07:15:21.660Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T08:05:09.848Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5489,7 +5494,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2248,
+   "views": 2250,
    "likes": 27,
    "comments": 4
   },
@@ -5500,7 +5505,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4475,
+   "views": 4479,
    "likes": 34,
    "comments": 2
   },
@@ -5687,7 +5692,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1948,
+   "views": 1949,
    "likes": 33,
    "comments": 6
   },
@@ -5720,7 +5725,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2614,
+   "views": 2617,
    "likes": 58,
    "comments": 11
   },
@@ -5885,7 +5890,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6964,
+   "views": 6965,
    "likes": 171,
    "comments": 43
   },
