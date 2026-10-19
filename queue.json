@@ -7161,9 +7161,12 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive-cover.jpg"
       },
       "id": "2026-10-19-dreifach-fonds",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T12:00:00Z",
-      "posting_started_at": "2026-10-19T12:00:03.164Z"
+      "container_id": "18113441723136556",
+      "media_id": "18025472054869645",
+      "permalink": "https://www.instagram.com/reel/DerNT0Gk7s_/",
+      "published_at": "2026-10-19T12:00:44.384Z"
     },
     {
       "id": "test-2026-10-19-threeone",
