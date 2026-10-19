@@ -1486,15 +1486,18 @@
       "published_at": "2026-09-25T12:02:12.702Z",
       "container_id": "18109664192136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 33,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martingale.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martingale-cover.jpg",
         "gestartet_at": "2026-10-19T17:41:15.613Z",
-        "stand": "2026-10-19T17:41:39.566Z",
+        "stand": "2026-10-19T17:42:11.593Z",
         "versuch": 1,
         "slot": "2026-10-19T17:00:00.000Z",
-        "post_id": "6ad6564234cae0528883b303"
+        "post_id": "6ad6564234cae0528883b303",
+        "published_at": "2026-10-19T17:41:53.107Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7698435186228463649"
       }
     },
     {
