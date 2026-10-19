@@ -7315,7 +7315,16 @@
       "container_id": "18113500682136556",
       "media_id": "18357853633172917",
       "permalink": "https://www.instagram.com/reel/DesA3VOghQq/",
-      "published_at": "2026-10-19T19:31:21.415Z"
+      "published_at": "2026-10-19T19:31:21.415Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 208,
+        "beitraege_nachher": 208,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-19T19:32:23.473Z"
+      }
     },
     {
       "id": "test-2026-10-19-twentyone",
