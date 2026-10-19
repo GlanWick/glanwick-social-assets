@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-19T11:05:59.170Z",
+ "updated": "2026-10-19T12:06:25.876Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 3117 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 3117 gegen Mittel 16738",
+   "Sehdauer letzte 3 Reels: 4.5 s"
   ],
-  "checked": "2026-10-19T11:06:00.180Z",
+  "checked": "2026-10-19T12:06:27.122Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -36,13 +37,13 @@
     "reach": 3117
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 4.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 532,
-  "media_count": 205
+  "media_count": 207
  },
  "history": [
   {
@@ -5499,9 +5500,25 @@
    "ts": "2026-10-19T11:05:59.170Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T12:06:25.876Z",
+   "followers": 532,
+   "media_count": 207
   }
  ],
  "posts": [
+  {
+   "id": "18025472054869645",
+   "slug": "stickman-letfive",
+   "permalink": "https://www.instagram.com/reel/DerNT0Gk7s_/",
+   "timestamp": "2026-10-19T12:00:37+0000",
+   "type": "VIDEO",
+   "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
+   "views": 3,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18077557337478097",
    "slug": null,
@@ -5520,8 +5537,8 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4487,
-   "likes": 34,
+   "views": 4503,
+   "likes": 36,
    "comments": 2
   },
   {
@@ -5531,7 +5548,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 74,
+   "views": 76,
    "likes": 4,
    "comments": 1
   },
@@ -5685,7 +5702,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2320,
+   "views": 2322,
    "likes": 21,
    "comments": 1
   },
@@ -5696,8 +5713,8 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1606,
-   "likes": 34,
+   "views": 1607,
+   "likes": 35,
    "comments": 2
   },
   {
@@ -5740,7 +5757,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2617,
+   "views": 2620,
    "likes": 58,
    "comments": 11
   },
@@ -5762,7 +5779,7 @@
    "timestamp": "2026-10-16T11:31:03+0000",
    "type": "VIDEO",
    "caption": "You risked 1 % on 5 trades. All 5 were tech. One bad day took $500.",
-   "views": 2215,
+   "views": 2217,
    "likes": 17,
    "comments": 1
   },
@@ -5828,7 +5845,7 @@
    "timestamp": "2026-10-16T01:30:29+0000",
    "type": "VIDEO",
    "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3813,
+   "views": 3814,
    "likes": 33,
    "comments": 2
   },
@@ -5905,7 +5922,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6973,
+   "views": 6975,
    "likes": 171,
    "comments": 43
   },
@@ -5929,17 +5946,6 @@
    "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
    "views": 1647,
    "likes": 16,
-   "comments": 1
-  },
-  {
-   "id": "18221289127340957",
-   "slug": "stickman-workhours",
-   "permalink": "https://www.instagram.com/reel/DehMtfgiEtg/",
-   "timestamp": "2026-10-15T14:43:23+0000",
-   "type": "VIDEO",
-   "caption": "You make $30 an hour at work. One −$900 trade cost you 30 hours.",
-   "views": 158,
-   "likes": 1,
    "comments": 1
   }
  ]
