@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T06:15:21.658Z",
+ "updated": "2026-10-19T07:15:21.660Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 3085 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 3117 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T06:15:22.547Z",
+  "checked": "2026-10-19T07:15:22.580Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 3085
+    "reach": 3117
    }
   ],
   "avg_watch_last_reels": 8.2
@@ -5474,6 +5474,11 @@
    "ts": "2026-10-19T06:15:21.658Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T07:15:21.660Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5484,7 +5489,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2247,
+   "views": 2248,
    "likes": 27,
    "comments": 4
   },
@@ -5495,7 +5500,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4464,
+   "views": 4475,
    "likes": 34,
    "comments": 2
   },
@@ -5506,7 +5511,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 72,
+   "views": 73,
    "likes": 4,
    "comments": 1
   },
@@ -5572,7 +5577,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2217,
+   "views": 2218,
    "likes": 8,
    "comments": 1
   },
@@ -5726,7 +5731,7 @@
    "timestamp": "2026-10-16T12:00:57+0000",
    "type": "VIDEO",
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1507,
+   "views": 1511,
    "likes": 41,
    "comments": 1
   },
@@ -5781,7 +5786,7 @@
    "timestamp": "2026-10-16T03:31:15+0000",
    "type": "VIDEO",
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
-   "views": 2995,
+   "views": 2996,
    "likes": 15,
    "comments": 1
   },
@@ -5880,7 +5885,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6960,
+   "views": 6964,
    "likes": 171,
    "comments": 43
   },
