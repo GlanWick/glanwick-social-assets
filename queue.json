@@ -7344,7 +7344,16 @@
       "container_id": "18113512328136556",
       "media_id": "18127086250884770",
       "permalink": "https://www.instagram.com/reel/DesOm_EjfRA/",
-      "published_at": "2026-10-19T21:31:22.121Z"
+      "published_at": "2026-10-19T21:31:22.121Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 208,
+        "beitraege_nachher": 208,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-19T21:32:24.268Z"
+      }
     },
     {
       "id": "2026-10-20-siebzig-gewinne-minus",
