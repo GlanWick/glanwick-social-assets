@@ -7259,12 +7259,13 @@
       "caption": "63 rounds made you $630. 1 round took all of it.\n\nHow does a round work? You start at $10 and double the stake after every loss, for up to 6 trades.\nWhat does a round pay? The first win brings back every loss of that round plus $10.\nAnd if all 6 trades lose? $10, $20, $40, $80, $160 and $320. Together $630.\nHow often does that happen? At a 50 % win rate, once in 64 rounds.\nSo what do 64 rounds leave on average? 63 wins of $10 and 1 loss of $630. That's $0.\n\nWrite the stake of every trade in your journal and check whether it grows after a loss.\n\nFree journal, link in bio.\n\nSome traders call doubling a system because it wins almost every round.\n\nHave you ever doubled your size after a loss?\n\nPart 112 of the series. Part 113: you win 70 trades out of 100 and lose $2,000.\n\n#martingale #positionsizing #riskmanagement #daytrading #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "posting",
+        "status": "submitted",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour-cover.jpg",
         "gestartet_at": "2026-10-19T17:01:09.646Z",
-        "stand": "2026-10-19T17:01:09.646Z",
-        "versuch": 1
+        "stand": "2026-10-19T17:01:32.292Z",
+        "versuch": 1,
+        "post_id": "6ad64cda6a39597772af3be6"
       },
       "container_id": "18113481806136556",
       "media_id": "18129067597795142",
