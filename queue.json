@@ -7359,7 +7359,7 @@
     {
       "id": "2026-10-20-siebzig-gewinne-minus",
       "slug": "stickman-seventyloss",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-19T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-seventyloss.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-seventyloss-cover.jpg",
@@ -7369,7 +7369,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-seventyloss.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-seventyloss-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-19T23:00:04.501Z"
     },
     {
       "id": "test-2026-10-19-fivehundred",
