@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T10:05:45.790Z",
+ "updated": "2026-10-19T11:05:59.170Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T10:05:47.591Z",
+  "checked": "2026-10-19T11:06:00.180Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -5494,6 +5494,11 @@
    "ts": "2026-10-19T10:05:45.790Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T11:05:59.170Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5504,7 +5509,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2254,
+   "views": 2260,
    "likes": 27,
    "comments": 4
   },
@@ -5515,7 +5520,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4485,
+   "views": 4487,
    "likes": 34,
    "comments": 2
   },
@@ -5625,7 +5630,7 @@
    "timestamp": "2026-10-17T01:30:42+0000",
    "type": "VIDEO",
    "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 1528,
+   "views": 1529,
    "likes": 17,
    "comments": 2
   },
@@ -5779,7 +5784,7 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2215,
+   "views": 2217,
    "likes": 33,
    "comments": 1
   },
@@ -5900,7 +5905,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6972,
+   "views": 6973,
    "likes": 171,
    "comments": 43
   },
