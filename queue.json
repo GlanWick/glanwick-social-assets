@@ -7386,7 +7386,7 @@
     {
       "id": "test-2026-10-19-fivehundred",
       "slug": "stickman-fivehundred",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-19T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivehundred.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivehundred-cover.jpg",
@@ -7397,7 +7397,10 @@
         "bild": "bibliothek",
         "frage": "F3 Positionsgroesse: gleicher Stop, andere Stueckzahl, ohne Margin. Traegt der Vergleich zweier Konten nach 10 Verlusten?"
       },
-      "posting_started_at": "2026-10-19T23:30:10.273Z"
+      "container_id": "18113519777136556",
+      "media_id": "18227849617335688",
+      "permalink": "https://www.instagram.com/reel/DescXL-iUcv/",
+      "published_at": "2026-10-19T23:31:23.070Z"
     },
     {
       "id": "test-2026-10-20-propdouble",
