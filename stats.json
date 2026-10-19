@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T09:05:22.410Z",
+ "updated": "2026-10-19T10:05:45.790Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T09:05:23.339Z",
+  "checked": "2026-10-19T10:05:47.591Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -5489,6 +5489,11 @@
    "ts": "2026-10-19T09:05:22.410Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T10:05:45.790Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5499,7 +5504,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2253,
+   "views": 2254,
    "likes": 27,
    "comments": 4
   },
@@ -5510,7 +5515,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4482,
+   "views": 4485,
    "likes": 34,
    "comments": 2
   },
@@ -5521,7 +5526,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 73,
+   "views": 74,
    "likes": 4,
    "comments": 1
   },
@@ -5609,7 +5614,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2100,
+   "views": 2101,
    "likes": 26,
    "comments": 3
   },
@@ -5697,7 +5702,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1950,
+   "views": 1952,
    "likes": 33,
    "comments": 6
   },
@@ -5807,7 +5812,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3069,
+   "views": 3071,
    "likes": 40,
    "comments": 1
   },
