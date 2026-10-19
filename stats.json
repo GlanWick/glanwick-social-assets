@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T04:14:50.225Z",
+ "updated": "2026-10-19T05:15:20.729Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 2971 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 2984 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T04:14:51.170Z",
+  "checked": "2026-10-19T05:15:21.799Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 2971
+    "reach": 2984
    }
   ],
   "avg_watch_last_reels": 8.2
@@ -5464,6 +5464,11 @@
    "ts": "2026-10-19T04:14:50.225Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T05:15:20.729Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5474,7 +5479,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2246,
+   "views": 2247,
    "likes": 27,
    "comments": 4
   },
@@ -5485,7 +5490,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4339,
+   "views": 4343,
    "likes": 34,
    "comments": 2
   },
@@ -5650,7 +5655,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2318,
+   "views": 2319,
    "likes": 21,
    "comments": 1
   },
@@ -5705,7 +5710,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2611,
+   "views": 2612,
    "likes": 58,
    "comments": 11
   },
@@ -5782,7 +5787,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3066,
+   "views": 3067,
    "likes": 40,
    "comments": 1
   },
