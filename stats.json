@@ -1,14 +1,12 @@
 {
- "updated": "2026-10-18T23:25:16.326Z",
+ "updated": "2026-10-19T00:25:34.292Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-18T23:25:17.360Z",
+  "status": "warn",
+  "reasons": [
+   "Reichweite 2026-10-18: 2917 gegen Mittel 16738"
+  ],
+  "checked": "2026-10-19T00:25:35.337Z",
   "reach_days": [
-   {
-    "day": "2026-10-11",
-    "reach": 322
-   },
    {
     "day": "2026-10-12",
     "reach": 13530
@@ -32,6 +30,10 @@
    {
     "day": "2026-10-17",
     "reach": 10962
+   },
+   {
+    "day": "2026-10-18",
+    "reach": 2917
    }
   ],
   "avg_watch_last_reels": 8.3
@@ -5437,6 +5439,11 @@
    "ts": "2026-10-18T23:25:16.326Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T00:25:34.292Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5447,7 +5454,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2236,
+   "views": 2241,
    "likes": 27,
    "comments": 5
   },
@@ -5458,7 +5465,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4320,
+   "views": 4326,
    "likes": 34,
    "comments": 2
   },
@@ -5513,7 +5520,7 @@
    "timestamp": "2026-10-17T09:30:36+0000",
    "type": "VIDEO",
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
-   "views": 1804,
+   "views": 1805,
    "likes": 21,
    "comments": 1
   },
@@ -5634,7 +5641,7 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1600,
+   "views": 1601,
    "likes": 34,
    "comments": 2
   },
@@ -5678,7 +5685,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2604,
+   "views": 2605,
    "likes": 58,
    "comments": 11
   },
