@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T00:25:34.292Z",
+ "updated": "2026-10-19T01:25:51.780Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 2917 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 2925 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T00:25:35.337Z",
+  "checked": "2026-10-19T01:25:52.622Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 2917
+    "reach": 2925
    }
   ],
   "avg_watch_last_reels": 8.3
@@ -5444,6 +5444,11 @@
    "ts": "2026-10-19T00:25:34.292Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T01:25:51.780Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5454,7 +5459,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2241,
+   "views": 2243,
    "likes": 27,
    "comments": 5
   },
@@ -5465,7 +5470,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4326,
+   "views": 4327,
    "likes": 34,
    "comments": 2
   },
@@ -5652,7 +5657,7 @@
    "timestamp": "2026-10-16T15:59:39+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1947,
+   "views": 1948,
    "likes": 33,
    "comments": 6
   },
@@ -5762,7 +5767,7 @@
    "timestamp": "2026-10-16T02:31:48+0000",
    "type": "VIDEO",
    "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3065,
+   "views": 3066,
    "likes": 40,
    "comments": 1
   },
@@ -5850,7 +5855,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6953,
+   "views": 6955,
    "likes": 171,
    "comments": 43
   },
