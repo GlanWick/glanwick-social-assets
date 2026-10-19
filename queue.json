@@ -7251,7 +7251,16 @@
       "container_id": "18113486417136556",
       "media_id": "17917108041260055",
       "permalink": "https://www.instagram.com/reel/DerzLKAE0Z9/",
-      "published_at": "2026-10-19T17:31:32.007Z"
+      "published_at": "2026-10-19T17:31:32.007Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 208,
+        "beitraege_nachher": 208,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-19T17:32:34.217Z"
+      }
     },
     {
       "id": "2026-10-19-vierundsechzig-runden",
