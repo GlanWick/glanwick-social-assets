@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T13:06:40.841Z",
+ "updated": "2026-10-19T13:56:02.418Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738",
-   "Sehdauer letzte 3 Reels: 6.4 s"
+   "Sehdauer letzte 3 Reels: 6.9 s"
   ],
-  "checked": "2026-10-19T13:06:43.136Z",
+  "checked": "2026-10-19T13:56:04.343Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -37,12 +37,12 @@
     "reach": 3117
    }
   ],
-  "avg_watch_last_reels": 6.4
+  "avg_watch_last_reels": 6.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 532,
+  "followers": 533,
   "media_count": 207
  },
  "history": [
@@ -5510,9 +5510,25 @@
    "ts": "2026-10-19T13:06:40.841Z",
    "followers": 532,
    "media_count": 207
+  },
+  {
+   "ts": "2026-10-19T13:56:02.418Z",
+   "followers": 533,
+   "media_count": 207
   }
  ],
  "posts": [
+  {
+   "id": "18104389739371795",
+   "slug": "stickman-threeone",
+   "permalink": "https://www.instagram.com/reel/DerXrgeCodf/",
+   "timestamp": "2026-10-19T13:31:13+0000",
+   "type": "VIDEO",
+   "caption": "You win 3 trades a week and lose $1,000 in 10 weeks.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18025472054869645",
    "slug": "stickman-letfive",
@@ -5520,7 +5536,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 197,
+   "views": 246,
    "likes": 2,
    "comments": 1
   },
@@ -5531,8 +5547,8 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2262,
-   "likes": 27,
+   "views": 2270,
+   "likes": 28,
    "comments": 4
   },
   {
@@ -5542,7 +5558,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4521,
+   "views": 4535,
    "likes": 36,
    "comments": 2
   },
@@ -5553,7 +5569,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 79,
+   "views": 80,
    "likes": 4,
    "comments": 1
   },
@@ -5927,7 +5943,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6977,
+   "views": 6980,
    "likes": 171,
    "comments": 43
   },
@@ -5940,17 +5956,6 @@
    "caption": "Your year made $2,000. Your best trade alone made $2,500.",
    "views": 2705,
    "likes": 17,
-   "comments": 1
-  },
-  {
-   "id": "18117618335051800",
-   "slug": "stickman-gapstop",
-   "permalink": "https://www.instagram.com/reel/DehTvqQku8g/",
-   "timestamp": "2026-10-15T15:44:47+0000",
-   "type": "VIDEO",
-   "caption": "Your stop was $5 away: a $500 risk. The stock opened $12 lower: −$1,200.",
-   "views": 1647,
-   "likes": 16,
    "comments": 1
   }
  ]
