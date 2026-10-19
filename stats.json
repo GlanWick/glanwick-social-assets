@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19T03:14:50.834Z",
+ "updated": "2026-10-19T04:14:50.225Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-18: 2950 gegen Mittel 16738"
+   "Reichweite 2026-10-18: 2971 gegen Mittel 16738"
   ],
-  "checked": "2026-10-19T03:14:51.808Z",
+  "checked": "2026-10-19T04:14:51.170Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-18",
-    "reach": 2950
+    "reach": 2971
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5459,6 +5459,11 @@
    "ts": "2026-10-19T03:14:50.834Z",
    "followers": 532,
    "media_count": 205
+  },
+  {
+   "ts": "2026-10-19T04:14:50.225Z",
+   "followers": 532,
+   "media_count": 205
   }
  ],
  "posts": [
@@ -5469,7 +5474,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2244,
+   "views": 2246,
    "likes": 27,
    "comments": 4
   },
@@ -5480,7 +5485,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4334,
+   "views": 4339,
    "likes": 34,
    "comments": 2
   },
@@ -5491,7 +5496,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 71,
+   "views": 72,
    "likes": 4,
    "comments": 1
   },
@@ -5513,7 +5518,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1595,
+   "views": 1596,
    "likes": 8,
    "comments": 1
   },
@@ -5645,7 +5650,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2316,
+   "views": 2318,
    "likes": 21,
    "comments": 1
   },
@@ -5700,7 +5705,7 @@
    "timestamp": "2026-10-16T12:33:09+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2607,
+   "views": 2611,
    "likes": 58,
    "comments": 11
   },
@@ -5744,7 +5749,7 @@
    "timestamp": "2026-10-16T07:31:37+0000",
    "type": "VIDEO",
    "caption": "5 planned trades made $600. 15 trades out of boredom lost $900.",
-   "views": 2214,
+   "views": 2215,
    "likes": 33,
    "comments": 1
   },
@@ -5832,7 +5837,7 @@
    "timestamp": "2026-10-15T19:30:37+0000",
    "type": "VIDEO",
    "caption": "His screenshot: +$3,000 in a day. His month: −$1,200.",
-   "views": 2346,
+   "views": 2347,
    "likes": 24,
    "comments": 1
   },
@@ -5865,7 +5870,7 @@
    "timestamp": "2026-10-15T16:48:35+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 6959,
+   "views": 6960,
    "likes": 171,
    "comments": 43
   },
