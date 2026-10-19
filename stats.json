@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T15:56:17.828Z",
+ "updated": "2026-10-19T16:56:21.246Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-18: 3117 gegen Mittel 16738",
-   "Sehdauer letzte 3 Reels: 7.0 s"
+   "Sehdauer letzte 3 Reels: 6.9 s"
   ],
-  "checked": "2026-10-19T15:56:19.491Z",
+  "checked": "2026-10-19T16:56:22.313Z",
   "reach_days": [
    {
     "day": "2026-10-12",
@@ -37,7 +37,7 @@
     "reach": 3117
    }
   ],
-  "avg_watch_last_reels": 7
+  "avg_watch_last_reels": 6.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5525,6 +5525,11 @@
    "ts": "2026-10-19T15:56:17.828Z",
    "followers": 533,
    "media_count": 207
+  },
+  {
+   "ts": "2026-10-19T16:56:21.246Z",
+   "followers": 533,
+   "media_count": 207
   }
  ],
  "posts": [
@@ -5535,8 +5540,8 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 5,
-   "likes": 0,
+   "views": 185,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5557,7 +5562,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 377,
+   "views": 404,
    "likes": 5,
    "comments": 1
   },
@@ -5579,7 +5584,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4562,
+   "views": 4574,
    "likes": 36,
    "comments": 2
   },
@@ -5667,7 +5672,7 @@
    "timestamp": "2026-10-17T03:31:02+0000",
    "type": "VIDEO",
    "caption": "51 wins in 100 trades at 10 % risk: $10,000 becomes $7,395.",
-   "views": 2227,
+   "views": 2228,
    "likes": 11,
    "comments": 1
   },
