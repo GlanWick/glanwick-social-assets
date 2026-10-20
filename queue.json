@@ -7341,7 +7341,11 @@
         "verdacht": false,
         "at": "2026-10-19T19:32:23.473Z"
       },
-      "kommentar_id": "17929425936181526"
+      "kommentar_id": "17929425936181526",
+      "views_12h": {
+        "views": 1790,
+        "stunden": 12.94
+      }
     },
     {
       "id": "test-2026-10-19-twentyone",
