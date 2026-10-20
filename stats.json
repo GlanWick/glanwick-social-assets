@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T03:37:58.677Z",
+ "updated": "2026-10-20T04:38:26.671Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T03:37:59.754Z",
+  "checked": "2026-10-20T04:38:27.868Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-19",
-    "reach": 7580
+    "reach": 8347
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 9.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5582,6 +5582,11 @@
    "ts": "2026-10-20T03:37:58.677Z",
    "followers": 536,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T04:38:26.671Z",
+   "followers": 536,
+   "media_count": 210
   }
  ],
  "posts": [
@@ -5592,7 +5597,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 0,
+   "views": 165,
    "likes": 0,
    "comments": 1
   },
@@ -5603,8 +5608,8 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 392,
-   "likes": 3,
+   "views": 714,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5614,8 +5619,8 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 157,
-   "likes": 1,
+   "views": 178,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5625,8 +5630,8 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 1335,
-   "likes": 13,
+   "views": 1537,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -5636,8 +5641,8 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1658,
-   "likes": 8,
+   "views": 1674,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5647,7 +5652,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1477,
+   "views": 1478,
    "likes": 13,
    "comments": 1
   },
@@ -5658,7 +5663,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1774,
+   "views": 1775,
    "likes": 3,
    "comments": 1
   },
@@ -5669,7 +5674,7 @@
    "timestamp": "2026-10-19T17:31:27+0000",
    "type": "VIDEO",
    "caption": "He's up 26 % this year. You copied him and you're down 30 %.",
-   "views": 1546,
+   "views": 1548,
    "likes": 15,
    "comments": 1
   },
@@ -5680,8 +5685,8 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 739,
-   "likes": 12,
+   "views": 920,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -5691,7 +5696,7 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1253,
+   "views": 1261,
    "likes": 11,
    "comments": 1
   },
@@ -5713,7 +5718,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 589,
+   "views": 597,
    "likes": 8,
    "comments": 1
   },
@@ -5735,7 +5740,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4647,
+   "views": 4656,
    "likes": 37,
    "comments": 2
   },
@@ -5746,7 +5751,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 83,
+   "views": 87,
    "likes": 4,
    "comments": 1
   },
@@ -5900,7 +5905,7 @@
    "timestamp": "2026-10-16T17:31:01+0000",
    "type": "VIDEO",
    "caption": "You lost 30 %, then made 30 %. Your $10,000 is $9,100.",
-   "views": 2322,
+   "views": 2324,
    "likes": 21,
    "comments": 1
   },
