@@ -7858,7 +7858,7 @@
     {
       "id": "test-2026-10-20-eightyone",
       "slug": "stickman-eightyone",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-20T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyone-cover.jpg",
@@ -7869,7 +7869,10 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 81 Gewinne gegen 5 Verluste, das Bild zeigt genau 81 Haken und 5 Kreuze. Traegt die exakte Zaehlung als Aufhaenger?"
       },
-      "posting_started_at": "2026-10-20T21:30:07.177Z"
+      "container_id": "18113678813136556",
+      "media_id": "18138836041713599",
+      "permalink": "https://www.instagram.com/reel/DeuzZh4FPye/",
+      "published_at": "2026-10-20T21:31:22.073Z"
     },
     {
       "id": "test-2026-10-20-logthirty",
