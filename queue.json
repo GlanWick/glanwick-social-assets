@@ -7674,7 +7674,16 @@
       "container_id": "18113622863136556",
       "media_id": "18639773155049304",
       "permalink": "https://www.instagram.com/reel/Det8cMiACsE/",
-      "published_at": "2026-10-20T13:31:06.963Z"
+      "published_at": "2026-10-20T13:31:06.963Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 210,
+        "beitraege_nachher": 210,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T13:32:08.740Z"
+      }
     },
     {
       "id": "test-2026-10-20-copyfee",
