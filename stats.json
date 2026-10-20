@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T14:19:12.862Z",
+ "updated": "2026-10-20T15:19:28.378Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T14:19:14.364Z",
+  "checked": "2026-10-20T15:19:29.501Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -5637,6 +5637,11 @@
    "ts": "2026-10-20T14:19:12.862Z",
    "followers": 541,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T15:19:28.378Z",
+   "followers": 541,
+   "media_count": 210
   }
  ],
  "posts": [
@@ -5647,8 +5652,8 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 145,
-   "likes": 0,
+   "views": 271,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5658,8 +5663,8 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1295,
-   "likes": 11,
+   "views": 1415,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -5669,7 +5674,7 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1481,
+   "views": 1499,
    "likes": 15,
    "comments": 1
   },
@@ -5680,7 +5685,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1784,
+   "views": 1798,
    "likes": 20,
    "comments": 1
   },
@@ -5691,7 +5696,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1851,
+   "views": 1868,
    "likes": 10,
    "comments": 1
   },
@@ -5702,7 +5707,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2099,
+   "views": 2101,
    "likes": 11,
    "comments": 1
   },
@@ -5713,7 +5718,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2014,
+   "views": 2022,
    "likes": 17,
    "comments": 1
   },
@@ -5724,7 +5729,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1453,
+   "views": 1454,
    "likes": 9,
    "comments": 1
   },
@@ -5735,7 +5740,7 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 1573,
+   "views": 1576,
    "likes": 14,
    "comments": 2
   },
@@ -5746,7 +5751,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1722,
+   "views": 1723,
    "likes": 11,
    "comments": 1
   },
@@ -5757,7 +5762,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1497,
+   "views": 1498,
    "likes": 13,
    "comments": 1
   },
@@ -5779,7 +5784,7 @@
    "timestamp": "2026-10-19T17:31:27+0000",
    "type": "VIDEO",
    "caption": "He's up 26 % this year. You copied him and you're down 30 %.",
-   "views": 1569,
+   "views": 1570,
    "likes": 15,
    "comments": 1
   },
@@ -5790,7 +5795,7 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 1509,
+   "views": 1511,
    "likes": 22,
    "comments": 1
   },
@@ -5834,7 +5839,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2295,
+   "views": 2297,
    "likes": 28,
    "comments": 4
   },
@@ -5845,7 +5850,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4819,
+   "views": 4820,
    "likes": 39,
    "comments": 2
   },
@@ -5867,7 +5872,7 @@
    "timestamp": "2026-10-17T15:31:06+0000",
    "type": "VIDEO",
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1576,
+   "views": 1577,
    "likes": 16,
    "comments": 1
   },
