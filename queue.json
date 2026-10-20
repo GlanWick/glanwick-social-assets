@@ -7806,7 +7806,7 @@
     {
       "id": "test-2026-10-20-eighteenfour",
       "slug": "stickman-eighteenfour",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eighteenfour.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eighteenfour-cover.jpg",
@@ -7816,7 +7816,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 18 gruene gegen 4 rote Tage. Traegt die Monatsrechnung?"
-      }
+      },
+      "posting_started_at": "2026-10-20T19:30:26.573Z"
     },
     {
       "id": "2026-10-21-fuenf-verluste-folge",
