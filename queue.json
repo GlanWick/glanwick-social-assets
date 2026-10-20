@@ -7244,7 +7244,11 @@
         "verdacht": false,
         "at": "2026-10-19T15:31:45.885Z"
       },
-      "kommentar_id": "18179120839386879"
+      "kommentar_id": "18179120839386879",
+      "views_12h": {
+        "views": 1253,
+        "stunden": 12.12
+      }
     },
     {
       "id": "test-2026-10-19-copypeak",
