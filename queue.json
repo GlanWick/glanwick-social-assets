@@ -7475,7 +7475,7 @@
     {
       "id": "test-2026-10-20-copyfive",
       "slug": "stickman-copyfive",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copyfive-cover.jpg",
@@ -7485,7 +7485,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Dollarbetrag eines grossen Kontos auf ein kleines Konto kopiert. Traegt der Kontrast -5 % gegen -50 %?"
-      }
+      },
+      "posting_started_at": "2026-10-20T03:30:22.229Z"
     },
     {
       "id": "test-2026-10-20-avgtwentyfive",
