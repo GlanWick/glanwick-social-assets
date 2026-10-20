@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:13:04.819Z",
+  "generated_at": "2026-10-20T13:07:46.785Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -7805,6 +7805,426 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-21-tenstreak",
+      "slug": "stickman-tenstreak",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T03:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenstreak.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenstreak-cover.jpg",
+      "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.\n\nHow rare are 10 wins in a row? If 1,000 people flip a coin 10 times, about 1 of them gets 10 heads.\nWhat did his next 10 trades look like? 4 wins and 6 losses, at $100 each.\nSo what did you copy? A streak. His 10 in a row told you little about trade 11.\nHow many trades show a real edge? Far more than 10. Look for 100.\n\nBefore you follow anyone, ask for his last 100 trades, and put them in a journal next to yours.\n\nFree journal, link in bio.\n\nSome traders follow the person with the longest streak this month.\n\nHow many trades do you need to see before you trust a record?\n\nPart 116 of the series is on the profile: he made $500 on the trade. You copied it and lost $600.\n\n#tradingpsychology #riskmanagement #daytrading #trading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F5 Kopieren: Serie von 10 Gewinnen gegen Muenzwurf unter 1.000 Leuten. Traegt der Zufall als Wendung?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-thirtyweeks",
+      "slug": "stickman-thirtyweeks",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyweeks.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyweeks-cover.jpg",
+      "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.\n\nHow did the 30 weeks go? The stock stayed in your range, and you kept the $100 every week. That's $3,000.\nWhat happened in week 31? The stock broke out of the range, and the week closed at −$4,000.\nWhat does that leave? 30 wins, 1 loss, and you're $1,000 down.\nAnd with a loss capped at 5 weeks of premium, $500? You keep $2,500.\n\nIn your journal, write every loss as weeks of premium. If one is above 5, the size was too big.\n\nFree journal, link in bio.\n\nSome traders sell options because they win almost every week.\n\nHow many weeks of premium was your worst week?\n\nPart 107 of the series is on the profile: 80 days at +$25 made you $2,000, and 5 days took it all back.\n\n#options #optionstrading #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus, als Optionsverkauf: 30 Wochen Praemie gegen eine Woche. Traegt das Optionsthema?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-tentrades",
+      "slug": "stickman-tentrades",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T07:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tentrades.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tentrades-cover.jpg",
+      "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.\n\nHow does 1 % turn into $956? You took 10 trades that day, and all 10 lost.\nWhat was your real risk that day? Each loss took 1 % of what was left. 10 losses took 9.6 %.\nWhat if you stop after 3 trades a day? The worst day costs $297.\nSo where does your risk sit? In the size of each trade, times the trades you take in a day.\n\nCount your trades per day in your journal, next to the 1 %.\n\nFree journal, link in bio.\n\nSome traders keep risk at 1 % a trade and take 10 trades on a bad day.\n\nHow many trades did you take on your worst day?\n\nPart 106 of the series is on the profile: at 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.\n\n#riskmanagement #positionsizing #daytrading #overtrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F3 Risikogroesse ohne Margin: 1 % je Trade mal 10 Trades am Tag. Traegt die Tagesrechnung?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-fartarget",
+      "slug": "stickman-fartarget",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fartarget.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fartarget-cover.jpg",
+      "caption": "Your target paid 5 times your stop, and 10 trades lost $400.\n\nHow? 1 trade reached the target: +$500. The other 9 hit the stop at −$100.\nDid those 9 ever go your way? 6 of them were up $250 before they turned.\nWhat if the target sat at $250? 7 trades reach it, 3 hit the stop, and the same 10 trades make $1,450.\nSo where does a target belong? Where your trades actually get, most of the time.\n\nIn your journal, write how far each trade went your way before it closed. The middle of those numbers is a target you can reach.\n\nFree journal, link in bio.\n\nSome traders pick the target by the reward they want and never check how far their trades go.\n\nHow far do your trades go your way before they turn?\n\nPart 113 of the series is on the profile: you win 70 trades out of 100 and lose $2,000.\n\n#takeprofit #riskreward #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "F7 Kursziel zu weit weg (neues Thema, neue Bilder): 5-faches Ziel, 1 von 10 erreicht es. Traegt das Ziel als Thema?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-windue",
+      "slug": "stickman-windue",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-windue.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-windue-cover.jpg",
+      "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $600 down.\n\nWhat did the first 3 cost? $100 each, $300 together.\nWhy triple the 4th? It felt like a win had to come after 3 losses.\nDid it? Your win rate is 50 %, and after 3 losses, the next trade still wins half the time. It lost $300.\nAnd at your normal size? The 4th loss costs $100, and the streak costs $400.\n\nWrite your size before each trade in your journal and compare it with the trades before it.\n\nFree journal, link in bio.\n\nSome traders size up after a losing streak because the next one has to win.\n\nWhat do you do after 3 losses in a row?\n\nPart 91 of the series is on the profile: start at $25, double after every loss, and bet number 8 is $3,200.\n\n#tradingpsychology #positionsizing #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F6 Groesse hoch nach Verlusten: dreifache Groesse, weil ein Gewinn faellig scheint. Traegt der Denkfehler als Aufhaenger?"
+      }
+    },
+    {
+      "id": "2026-10-21-plus-fuenfzig-einzahlung",
+      "slug": "stickman-appfifty",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-appfifty.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-appfifty-cover.jpg",
+      "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.\n\nWhere does +50 % come from? You started with $2,000 and doubled it to $4,000. That's +100 %.\nWhat happened next? You added $8,000. The account was at $12,000.\nAnd then? It lost 25 %, which is $3,000. You're at $9,000.\nHow is that still +50 %? The return counts each stretch in percent: +100 %, then −25 %. 2 times 0.75 is 1.5.\nAnd in dollars? $10,000 in, $9,000 now. You're $1,000 down.\n\nWrite every deposit in your journal with its date, and check your result in dollars: money in against money now.\n\nFree journal, link in bio.\n\nSome traders add the most money right after their best months.\n\nDo you know your result in dollars, deposits included?\n\nPart 119 of the series. Part 120: averaging down saved 9 losing trades, and the 10th cost $3,000.\n\n#stockmarket #investing #riskmanagement #trading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-appfifty.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-appfifty-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-21-righteight",
+      "slug": "stickman-righteight",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-righteight.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-righteight-cover.jpg",
+      "caption": "You were right about 8 stocks out of 10, and you lost $200.\n\nHow do 8 right calls lose money? Your stop was so close that 6 of the 8 hit it before they moved your way.\nWhat did the 10 trades leave? 2 wins at +$300 and 8 stops at −$100. That's −$200.\nWhat if the stop had twice the room, at half the size? Each stop still costs $100.\nAnd the same 10 calls? 8 wins at +$150 and 2 stops at −$100. That's +$1,000.\n\nIn your journal, mark every stopped trade that later went your way. If it's more than 3 in 10, the stop sits too close.\n\nFree journal, link in bio.\n\nSome traders tighten the stop to risk less and get stopped out of the right trades.\n\nHow many of your stopped trades went your way later?\n\nPart 104 of the series is on the profile: he wins 4 trades in 10 and makes $1,000. You win 7 in 10 and lose $500.\n\n#stoploss #riskmanagement #daytrading #swingtrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Recht, trotzdem minus: 8 von 10 richtig, zu enger Stop. Traegt \"richtig gelegen und verloren\"?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-threecopies",
+      "slug": "stickman-threecopies",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threecopies.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threecopies-cover.jpg",
+      "caption": "You copied 3 traders to spread your risk, and one drop took $900.\n\nHow was it spread? $1,000 with each of the 3.\nWhat did they hold? All 3 were long the same coin.\nWhat happened? The coin fell 30 %. Each of the 3 lost $300, together $900.\nSo how many positions did you have? 1, at $3,000.\n\nWrite down every position you hold through the traders you copy, and add up what sits in the same coin.\n\nFree journal, link in bio.\n\nSome traders follow 3 people to spread risk and end up with one trade 3 times.\n\nHave you ever checked what the traders you follow have in common?\n\nPart 98 of the series is on the profile: same trade, same $1,000 loss. He lost 1 % of his account, you lost 20 %.\n\n#crypto #diversification #riskmanagement #trading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F5 Kopieren: drei kopierte Trader im selben Coin. Traegt die Streuung, die nur eine Position ist?"
+      }
+    },
+    {
+      "id": "2026-10-21-neun-rettungen",
+      "slug": "stickman-ninesaves",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninesaves.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninesaves-cover.jpg",
+      "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.\n\nHow did the saves work? Each time a trade went against you, you bought more, and it came back. 9 times, +$100 each.\nWhat happened with number 10? It kept falling, and you kept buying.\nWhat does that leave? +$900 and −$3,000. You're $2,100 down.\nAnd with 1 add at most and a stop at −$300? The 10th costs $300, and you're $600 up.\n\nBefore each trade, write the most you'll add and the stop for the whole position in your journal.\n\nFree journal, link in bio.\n\nSome traders average down because it has worked every time so far.\n\nHow many times do you add to a losing trade?\n\nPart 120 of the series. Part 121: he made +80 % this year. You copied him, and you're 10 % down.\n\n#averagingdown #stoploss #riskmanagement #daytrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninesaves.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninesaves-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-21-earningsnight",
+      "slug": "stickman-earningsnight",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningsnight.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningsnight-cover.jpg",
+      "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.\n\nHow did $10,000 get to $12,000? The stock ran 20 % into the report.\nWhat happened after the report? It opened 25 % lower.\nWhy does −25 % wipe out +20 %? 25 % of $12,000 is $3,000. That leaves $9,000.\nAnd if you sell half before the report? $6,000 in cash, $6,000 in the stock. The same gap leaves you $10,500.\n\nMark earnings dates in your journal next to every open position, and decide the size the day before.\n\nFree journal, link in bio.\n\nSome traders hold a full position through earnings because the run up felt like proof.\n\nDo you hold through earnings?\n\nPart 109 of the series is on the profile: 5 wins of +10 %, then one loss of −50 %, and $10,000 becomes $8,053.\n\n#earnings #stockmarket #riskmanagement #swingtrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F2 Prozent gegen Dollar: +20 % vor den Zahlen, -25 % danach. Traegt das Earnings-Thema?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-sixmonths",
+      "slug": "stickman-sixmonths",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixmonths.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixmonths-cover.jpg",
+      "caption": "You save $400 a month, and one trade cost $2,400.\n\nHow much is $2,400? 6 months of saving.\nWas there a stop? Yes, at −$400. You moved it twice.\nWhat would the first stop have cost? $400, 1 month.\nSo what did the 2 moves cost? 5 more months.\n\nWrite your monthly saving at the top of your journal page, and size every trade so its stop costs less than that.\n\nFree journal, link in bio.\n\nSome traders move the stop because closing the trade makes the loss real.\n\nHow many months of saving was your worst trade?\n\nPart 115 of the series is on the profile: a normal day makes you $40. One bad day cost $1,200, and that's 6 weeks of trading.\n\n#stoploss #riskmanagement #personalfinance #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F4 Verlust in Zeit mit Geldbetrag: ein Trade gleich 6 Monate Sparen (kein Stundenlohn). Traegt der Vergleich mit dem Sparen?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-holdtime",
+      "slug": "stickman-holdtime",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtime.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtime-cover.jpg",
+      "caption": "You win 7 trades in 10, and your month is $600 down.\n\nHow long do your trades last? Winners 8 minutes, losers 2 hours.\nWhat do the 30 trades of the month add up to? 21 wins at +$40 are $840. 9 losses at −$160 are $1,440.\nWhy are the losers so big? You close a winner as soon as it's green and give a loser time to come back.\nAnd with a stop at −$80, the size of 2 wins? The 9 losses cost $720, and the month ends $120 up.\n\nWrite the holding time of every trade in your journal, and compare winners with losers at the end of the month.\n\nFree journal, link in bio.\n\nSome traders take a profit in minutes and sit through a loss for hours.\n\nHow long do you hold a loser compared with a winner?\n\nPart 118 of the series is on the profile: your closed trades are 12 for 12, and your account is $1,800 down.\n\n#tradingpsychology #stoploss #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus: Haltedauer 8 Minuten gegen 2 Stunden. Traegt die Zeit als Aufhaenger?"
+      }
+    },
+    {
+      "id": "2026-10-22-ein-trade-sein-jahr",
+      "slug": "stickman-onetradeyear",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T23:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onetradeyear.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onetradeyear-cover.jpg",
+      "caption": "He made +80 % this year. You copied him, and you're 10 % down.\n\nWhere did his +80 % come from? 1 trade in January made $9,000 on his $10,000.\nAnd the rest of his year? His other 99 trades lost $1,000.\nWhen did you start? In March, after the big trade. You copied the 99.\nSo what was his record without that 1 trade? −10 %, same as yours.\n\nBefore you follow a trader, take his best trade out of the record and look at what's left.\n\nFree journal, link in bio.\n\nSome traders follow a year that was made by a single trade.\n\nWhat is your record without your best trade?\n\nPart 121 of the series. Part 122: the same 6 losses in a row cost one account 11 % and the other 62 %.\n\n#tradingpsychology #riskmanagement #stockmarket #trading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onetradeyear.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onetradeyear-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-21-plushundred",
+      "slug": "stickman-plushundred",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plushundred.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plushundred-cover.jpg",
+      "caption": "You raised your size by $100 after every loss, and 8 losses in a row cost $3,600.\n\nHow does +$100 add up? $100, $200, $300, up to $800 on loss number 8. Together $3,600.\nIs that safer than doubling? Doubling from $100 would cost $25,500 over the same 8 losses.\nAnd at a flat $100? The 8 losses cost $800.\nSo what does adding after a loss do? It turns a losing streak into a bigger bill.\n\nWrite your size before every trade in your journal and circle it whenever it grows after a loss.\n\nFree journal, link in bio.\n\nSome traders call adding $100 after a loss careful because it's less than doubling.\n\nDoes your size change after a loss?\n\nPart 112 of the series is on the profile: 63 rounds made you $630. 1 round took all of it.\n\n#positionsizing #martingale #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F6 Verdoppeln, sanfte Variante (+$100 je Verlust): 8 Verluste, Vergleich mit Verdoppeln und flach. Traegt die scheinbar sichere Variante?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-leaderboard",
+      "slug": "stickman-leaderboard",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T01:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leaderboard.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leaderboard-cover.jpg",
+      "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.\n\nHow do you get +400 % in 3 months? With big risk on every trade. He risks 30 %.\nWhat happened when you joined? His next 3 trades lost. At 30 % each, $10,000 became $3,430.\nDid he get worse? Same trader, same risk. The 30 % that put him on top works the other way, too.\nWho else risks 30 % a trade? Many of the names further down the same list.\n\nBefore you copy anyone, find his risk per trade. Above 5 %, keep your money.\n\nFree journal, link in bio.\n\nSome traders pick whoever leads the list this month and take over his risk.\n\nDo you know the risk per trade of the traders you follow?\n\nPart 121 of the series is on the profile: he made +80 % this year. You copied him, and you're 10 % down.\n\n#tradingpsychology #riskmanagement #positionsizing #trading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F5 Kopieren: Platz 1 der Rangliste mit 30 % Risiko je Trade. Traegt die Rangliste als Aufhaenger?"
+      }
+    },
+    {
+      "id": "2026-10-22-sechs-verluste-zwei-konten",
+      "slug": "stickman-sixlosses",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixlosses.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixlosses-cover.jpg",
+      "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.\n\nWhat was different? One risked 2 % a trade, the other 15 %.\nWhat did $10,000 become? $8,858 at 2 %, $3,771 at 15 %.\nHow far is the way back? +13 % for the first, +165 % for the second.\nHow likely are 6 losses in a row? At a 50 % win rate, the chance to see at least one such run in 200 trades is 80 %.\n\nWrite your risk per trade in your journal, and next to it what 6 losses in a row would leave.\n\nFree journal, link in bio.\n\nSome traders pick their risk per trade in their best week.\n\nWhat would 6 losses in a row leave in your account?\n\nPart 122 of the series. Part 123: you won 14 trades out of 20, you're $1,000 up, and you failed the challenge.\n\n#riskmanagement #positionsizing #drawdown #daytrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixlosses.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixlosses-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-22-pointone",
+      "slug": "stickman-pointone",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T03:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-pointone.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-pointone-cover.jpg",
+      "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.\n\nHow does 0.1 % add up to $15,000? You move your $10,000 in and out 3 times a day. That's 6 orders at $10.\nAnd over a year? $60 a day, 250 trading days: $15,000.\nHow big is that next to your account? 1.5 times the $10,000.\nWhat does each round trip need? +0.2 % before it makes a cent.\n\nAdd up the fees of every trade in your journal and look at the monthly total next to your result.\n\nFree journal, link in bio.\n\nSome traders check the fee per trade and never the fee per year.\n\nWhat did fees cost you last month?\n\nPart 119 of the series is on the profile: your broker shows +50 % this year. You put in $10,000, and you have $9,000.\n\n#crypto #tradingfees #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F2 Prozent gegen Dollar: 0,1 % Gebuehr als Jahressumme. Traegt die Gebuehrenrechnung?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-thirtyforty",
+      "slug": "stickman-thirtyforty",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T05:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyforty.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyforty-cover.jpg",
+      "caption": "You won 30 trades out of 40, and you're $300 down.\n\nHow do 30 wins lose money? You closed every winner at +$40. Together $1,200.\nAnd the 10 losers? They ran to −$150 each. Together $1,500.\nWhat if the winners had run to +$75, half a loss? 30 times $75 is $2,250, and you're $750 up.\nSo which number moved the result? The size of the win, with the same 30 wins.\n\nIn your journal, put your average win next to your average loss every week. Below half, look at your exits.\n\nFree journal, link in bio.\n\nSome traders take every small profit because a green trade feels safer closed.\n\nIs your average win bigger than half your average loss?\n\nPart 113 of the series is on the profile: you win 70 trades out of 100 and lose $2,000.\n\n#takeprofit #winrate #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus: Gewinner zu frueh abgesaegt, 30 von 40. Traegt der Aufhaenger mit 40 Trades?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-bytuesday",
+      "slug": "stickman-bytuesday",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T07:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bytuesday.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bytuesday-cover.jpg",
+      "caption": "You made $500 by Tuesday, and the week ended $300 down.\n\nWhat was the plan? +$500 for the whole week. You had it on Tuesday.\nWhat happened next? You kept trading. Wednesday to Friday lost $800.\nWhat did the 3 extra days cost? The $500 you had, and $300 more.\nWhat if you had stopped on Tuesday? A +$500 week, with 3 days off.\n\nWrite your weekly target at the top of your journal page, and close the platform the day you reach it.\n\nFree journal, link in bio.\n\nSome traders hit the week's target early and keep going because the week is still young.\n\nWhat do you do when you hit your target early in the week?\n\nPart 96 of the series is on the profile: your edge is $25 a trade, and one −$1,500 day costs 60 trades.\n\n#tradingpsychology #discipline #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F4 Verlust in Zeit: Wochenziel am Dienstag erreicht, drei Tage geben alles zurueck. Traegt die Woche als Zeiteinheit?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-noceiling",
+      "slug": "stickman-noceiling",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T09:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noceiling.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noceiling-cover.jpg",
+      "caption": "You shorted $1,000 of a stock and lost $2,000.\n\nHow can a short lose more than you put in? You sold 100 shares at $10. The price went to $30.\nWhat does that cost? You buy the 100 shares back at $30, which is $3,000 for shares you sold for $1,000.\nWhat's the most a buy can lose? The $1,000 you put in. A short has no top.\nAnd with a stop at $12? You buy back at $12 and lose $200.\n\nWrite the stop of every short in your journal before you enter, and check it at the open.\n\nFree journal, link in bio.\n\nSome traders short a stock that has already run because it looks too high to go on.\n\nDo you put a stop on every short?\n\nPart 117 of the series is on the profile: at 10 % risk, 5 losses in a row turn $10,000 into $5,905.\n\n#shortselling #stoploss #riskmanagement #stockmarket #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "neu",
+        "frage": "F7 Leerverkauf ohne Obergrenze (neues Thema, neue Bilder). Traegt der Short als Thema?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-greenweeks",
+      "slug": "stickman-greenweeks",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greenweeks.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greenweeks-cover.jpg",
+      "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.\n\nHow did 4 weeks make $3,750? You doubled your size after every green week: $250, $500, $1,000, $2,000.\nWhat happened in week 5? A normal red week, at 16 times your first size.\nWhat does that leave? $250 down after 5 weeks.\nAnd with +10 % size after a green week? The same 5 weeks end $794 up.\n\nWrite your size for the week in your journal every Monday, next to last week's size.\n\nFree journal, link in bio.\n\nSome traders double up after a good week because the method seems proven.\n\nHow much do you raise your size after a green week?\n\nPart 120 of the series is on the profile: averaging down saved 9 losing trades, and the 10th cost $3,000.\n\n#positionsizing #riskmanagement #tradingpsychology #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F6 Verdoppeln nach Gewinn (doublewin-Muster) je Woche. Traegt die Wiederholung des doublewin-Musters?"
+      }
+    },
+    {
+      "id": "2026-10-22-plus-und-durchgefallen",
+      "slug": "stickman-upandfailed",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-upandfailed.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-upandfailed-cover.jpg",
+      "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.\n\nHow do 14 wins fail? Your 14 wins made $2,100. All 6 losses came on one Tuesday, and that day lost $1,100.\nWhat was the rule? A daily loss limit of $1,000. The challenge looks at each day on its own.\nWhat does that leave? +$1,000 in total, and a failed challenge.\nAnd with your own stop for the day at −$500, half the limit? Tuesday ends near −$500, and you're about $1,600 up, still in the challenge.\n\nWrite the daily limit of your challenge at the top of each journal day, and half of it next to it as your own stop.\n\nFree journal, link in bio.\n\nSome traders watch the total of a challenge and lose it on a single day.\n\nWhere is your own daily stop compared with the limit?\n\nPart 123 of the series. Part 124: one loss cost you $300. The next 15 minutes cost you $1,200.\n\n#propfirm #fundedtrader #riskmanagement #daytrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-22-fifteenshots",
+      "slug": "stickman-fifteenshots",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T13:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenshots.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenshots-cover.jpg",
+      "caption": "You took a screenshot of 15 winning trades this month, and the month is $400 down.\n\nWhat did the 15 make? $1,500.\nWhat's missing from your gallery? 5 losing trades. Together $1,900.\nWhat does the month say? $1,500 in, $1,900 out, $400 down.\nWhy does that matter? The gallery is what you remember, and it says 15 wins and 0 losses.\n\nPut every trade in your journal the same day, the losers first.\n\nFree journal, link in bio.\n\nSome traders save every green trade and close the red ones before anyone sees them.\n\nWould your screenshots show the losers too?\n\nPart 123 of the series is on the profile: you won 14 trades out of 20, you're $1,000 up, and you failed the challenge.\n\n#tradingpsychology #riskmanagement #daytrading #trading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus, mit der Screenshot-Galerie. Traegt die Galerie als Bild?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-holdtwoyears",
+      "slug": "stickman-holdtwoyears",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T15:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtwoyears.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtwoyears-cover.jpg",
+      "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.\n\nHow can the same buy give 2 results? He planned to hold it for 2 years. You had a stop at −15 %.\nWhat happened? In month 2, the stock fell 15 %. Your stop took you out. He held.\nAnd after 2 years? He's up 60 %. You're down 15 %.\nSo what did you copy? His entry. His plan stayed with him.\n\nWhen you copy a trade, write his holding time and his worst drop into your journal before you buy.\n\nFree journal, link in bio.\n\nSome traders copy an investor's buy and trade it like a day trade.\n\nDo you know how long the traders you follow plan to hold?\n\nPart 116 of the series is on the profile: he made $500 on the trade. You copied it and lost $600.\n\n#investing #stockmarket #tradingpsychology #riskmanagement #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F5 Kopieren: einen Anleger kopiert, mit eigenem Stop. Traegt der Unterschied im Zeitplan?"
+      }
+    },
+    {
+      "id": "2026-10-22-fuenfzehn-minuten",
+      "slug": "stickman-fifteenminutes",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T17:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenminutes.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenminutes-cover.jpg",
+      "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.\n\nWhat happened in those 15 minutes? 4 trades to win the $300 back, each one bigger than the one before.\nWhat did they cost? $150, $250, $350 and $450. Together $1,200.\nHow much is $1,500 for you? A normal month of trading.\nSo what took the month? 15 minutes after one loss.\n\nWrite the time of every trade in your journal. If 2 trades sit less than 15 minutes apart after a loss, mark them.\n\nFree journal, link in bio.\n\nSome traders answer a loss with the next trade before the first one has cooled.\n\nWhat do you do in the first 15 minutes after a loss?\n\nPart 124 of the series.\n\n#tradingpsychology #revengetrading #riskmanagement #daytrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-22-loaninterest",
+      "slug": "stickman-loaninterest",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T17:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-loaninterest.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-loaninterest-cover.jpg",
+      "caption": "Your trades made $1,000, and the loan behind them cost $1,200.\n\nWhat loan? $20,000 borrowed from your broker to trade with, for 6 months.\nWhat does it cost? 12 % a year, which is 1 % a month. On $20,000, that's $200 a month.\nAnd over 6 months? $1,200. Your trades made $1,000, so you're $200 down.\nWhat does borrowed money have to make? 1 % a month before any of it is yours.\n\nWrite the interest of every month in your journal as a trade of its own.\n\nFree journal, link in bio.\n\nSome traders look at the trades and never at the interest line on the statement.\n\nDo you know what your broker charges you to borrow?\n\nPart 114 of the series is on the profile: you lose 3 % a day for 20 days, and $10,000 becomes $5,438.\n\n#stockmarket #tradingcosts #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F2 Prozent gegen Dollar: 12 % Zinsen im Jahr auf geliehenes Geld gegen den Handelsgewinn (Zins, keine Hebelmechanik). Traegt die Zinsrechnung?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-fivepercentstop",
+      "slug": "stickman-fivepercentstop",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T19:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivepercentstop.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivepercentstop-cover.jpg",
+      "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.\n\nHow does a 5 % stop take 40 %? Every trade used your whole account, so each stop took 5 % of it.\nWhat did 10 stops in a row leave? $5,987.\nWhat if you put 20 % of the account in each trade? The same 5 % stop risks 1 % of the account.\nAnd the same 10 stops? They cost $956.\n\nNext to every stop in your journal, write what it costs in percent of the whole account.\n\nFree journal, link in bio.\n\nSome traders call a 5 % stop tight and put the whole account behind it.\n\nWhat does your stop cost in percent of your account?\n\nPart 122 of the series is on the profile: the same 6 losses in a row cost one account 11 % and the other 62 %.\n\n#stoploss #positionsizing #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F3 Risikogroesse ohne Margin: Stopabstand gegen Risiko je Trade. Traegt \"5 % Stop, 40 % weg\"?"
+      }
+    },
+    {
+      "id": "test-2026-10-22-losesevenup",
+      "slug": "stickman-losesevenup",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losesevenup.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losesevenup-cover.jpg",
+      "caption": "You lost 7 trades out of 10 and made $800.\n\nHow do 7 losses make money? Each loss cost $100. Each win paid $500.\nWhat do the 10 trades add up to? 3 wins bring $1,500. 7 losses cost $700.\nHow many wins would you need to break even? 1 in 6.\nSo what decides the result? What a win pays against what a loss costs.\n\nIn your journal, divide your average win by your average loss every month. At 3 or more, a low win rate still pays.\n\nFree journal, link in bio.\n\nSome traders judge a strategy by its win rate and quit the one that pays.\n\nWhat does your average win pay in losses?\n\nPart 104 of the series is on the profile: he wins 4 trades in 10 and makes $1,000. You win 7 in 10 and lose $500.\n\n#winrate #riskreward #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Kehrseite: weniger Gewinner, trotzdem plus. Traegt die positive Umkehrung?"
       }
     }
   ]
