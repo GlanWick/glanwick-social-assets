@@ -7395,6 +7395,10 @@
       "views_12h": {
         "views": 1489,
         "stunden": 12.94
+      },
+      "views_24h": {
+        "views": 1508,
+        "stunden": 24.64
       }
     },
     {
@@ -7649,6 +7653,10 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T09:32:02.389Z"
+      },
+      "views_12h": {
+        "views": 1528,
+        "stunden": 12.65
       }
     },
     {
