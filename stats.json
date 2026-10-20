@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T15:19:28.378Z",
+ "updated": "2026-10-20T16:19:36.118Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T15:19:29.501Z",
+  "checked": "2026-10-20T16:19:37.312Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -5642,9 +5642,25 @@
    "ts": "2026-10-20T15:19:28.378Z",
    "followers": 541,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T16:19:36.118Z",
+   "followers": 541,
+   "media_count": 210
   }
  ],
  "posts": [
+  {
+   "id": "18137407861647642",
+   "slug": "stickman-copyfee",
+   "permalink": "https://www.instagram.com/reel/DeuKOV_AHxS/",
+   "timestamp": "2026-10-20T15:31:17+0000",
+   "type": "VIDEO",
+   "caption": "His trades made you $600 in 6 months. You kept $6.",
+   "views": 162,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18639773155049304",
    "slug": "stickman-winstreakdouble",
@@ -5652,8 +5668,8 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 271,
-   "likes": 1,
+   "views": 552,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5663,7 +5679,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1415,
+   "views": 1437,
    "likes": 12,
    "comments": 1
   },
@@ -5674,7 +5690,7 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1499,
+   "views": 1511,
    "likes": 15,
    "comments": 1
   },
@@ -5685,7 +5701,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1798,
+   "views": 1810,
    "likes": 20,
    "comments": 1
   },
@@ -5696,7 +5712,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1868,
+   "views": 1882,
    "likes": 10,
    "comments": 1
   },
@@ -5707,7 +5723,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2101,
+   "views": 2103,
    "likes": 11,
    "comments": 1
   },
@@ -5718,7 +5734,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2022,
+   "views": 2030,
    "likes": 17,
    "comments": 1
   },
@@ -5729,7 +5745,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1454,
+   "views": 1457,
    "likes": 9,
    "comments": 1
   },
@@ -5751,7 +5767,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1723,
+   "views": 1725,
    "likes": 11,
    "comments": 1
   },
@@ -5828,7 +5844,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 641,
+   "views": 642,
    "likes": 8,
    "comments": 1
   },
@@ -5839,7 +5855,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2297,
+   "views": 2298,
    "likes": 28,
    "comments": 4
   },
@@ -5927,7 +5943,7 @@
    "timestamp": "2026-10-17T05:30:50+0000",
    "type": "VIDEO",
    "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2219,
+   "views": 2220,
    "likes": 8,
    "comments": 1
   },
@@ -5982,7 +5998,7 @@
    "timestamp": "2026-10-16T23:00:46+0000",
    "type": "VIDEO",
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
-   "views": 1405,
+   "views": 1406,
    "likes": 11,
    "comments": 1
   },
@@ -6073,17 +6089,6 @@
    "views": 2621,
    "likes": 58,
    "comments": 11
-  },
-  {
-   "id": "18109223348249636",
-   "slug": "stickman-halfway",
-   "permalink": "https://www.instagram.com/reel/Deje9T8lc8I/",
-   "timestamp": "2026-10-16T12:00:57+0000",
-   "type": "VIDEO",
-   "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
-   "views": 1518,
-   "likes": 41,
-   "comments": 1
   }
  ]
 }
