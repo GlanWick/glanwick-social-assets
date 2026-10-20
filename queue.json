@@ -7711,7 +7711,16 @@
       "container_id": "18113639948136556",
       "media_id": "18137407861647642",
       "permalink": "https://www.instagram.com/reel/DeuKOV_AHxS/",
-      "published_at": "2026-10-20T15:31:26.334Z"
+      "published_at": "2026-10-20T15:31:26.334Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 210,
+        "beitraege_nachher": 210,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T15:32:28.199Z"
+      }
     },
     {
       "id": "2026-10-20-verkauf-nie-gepostet",
