@@ -7419,7 +7419,7 @@
     {
       "id": "test-2026-10-20-propdouble",
       "slug": "stickman-propdouble",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-20T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propdouble.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-propdouble-cover.jpg",
@@ -7430,7 +7430,10 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Verlust in der Prop-Pruefung: Grenze nach 3 Verlusten erreicht. Traegt die Pruefungsgrenze als Aufhaenger?"
       },
-      "posting_started_at": "2026-10-20T01:30:30.428Z"
+      "container_id": "18113530268136556",
+      "media_id": "18344678740282006",
+      "permalink": "https://www.instagram.com/reel/DesqIc1D34F/",
+      "published_at": "2026-10-20T01:31:52.503Z"
     },
     {
       "id": "2026-10-20-drei-prozent-zwanzig-tage",
