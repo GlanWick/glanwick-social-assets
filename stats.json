@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-20T02:37:36.156Z",
+ "updated": "2026-10-20T03:37:58.677Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 6.2 s"
-  ],
-  "checked": "2026-10-20T02:37:37.412Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-20T03:37:59.754Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -33,10 +31,10 @@
    },
    {
     "day": "2026-10-19",
-    "reach": 6894
+    "reach": 7580
    }
   ],
-  "avg_watch_last_reels": 6.2
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5579,9 +5577,25 @@
    "ts": "2026-10-20T02:37:36.156Z",
    "followers": 536,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T03:37:58.677Z",
+   "followers": 536,
+   "media_count": 210
   }
  ],
  "posts": [
+  {
+   "id": "18026898653923713",
+   "slug": "stickman-copyfive",
+   "permalink": "https://www.instagram.com/reel/Des3y6LFCdv/",
+   "timestamp": "2026-10-20T03:31:06+0000",
+   "type": "VIDEO",
+   "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17906131902347787",
    "slug": "stickman-threeday",
@@ -5589,8 +5603,8 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 3,
-   "likes": 0,
+   "views": 392,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -5600,7 +5614,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 144,
+   "views": 157,
    "likes": 1,
    "comments": 1
   },
@@ -5611,8 +5625,8 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 724,
-   "likes": 8,
+   "views": 1335,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5622,7 +5636,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1635,
+   "views": 1658,
    "likes": 8,
    "comments": 1
   },
@@ -5633,7 +5647,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1476,
+   "views": 1477,
    "likes": 13,
    "comments": 1
   },
@@ -5644,7 +5658,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1765,
+   "views": 1774,
    "likes": 3,
    "comments": 1
   },
@@ -5666,8 +5680,8 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 636,
-   "likes": 10,
+   "views": 739,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -5677,8 +5691,8 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1250,
-   "likes": 10,
+   "views": 1253,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -5699,7 +5713,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 584,
+   "views": 589,
    "likes": 8,
    "comments": 1
   },
@@ -5721,7 +5735,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4628,
+   "views": 4647,
    "likes": 37,
    "comments": 2
   },
@@ -5732,7 +5746,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 82,
+   "views": 83,
    "likes": 4,
    "comments": 1
   },
@@ -5820,7 +5834,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2105,
+   "views": 2106,
    "likes": 26,
    "comments": 3
   },
@@ -6009,17 +6023,6 @@
    "caption": "Same trade, same stop. You came in $1 later. He risks $200 to make $600. You ris",
    "views": 2997,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "17987505215877451",
-   "slug": "stickman-percentdollar",
-   "permalink": "https://www.instagram.com/reel/Deid1mcDON3/",
-   "timestamp": "2026-10-16T02:31:48+0000",
-   "type": "VIDEO",
-   "caption": "He made +50 % this year. You made +5 %. You made twice his money.",
-   "views": 3082,
-   "likes": 40,
    "comments": 1
   }
  ]
