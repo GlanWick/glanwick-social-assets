@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-20T01:37:11.398Z",
+ "updated": "2026-10-20T02:37:36.156Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-19: 5902 gegen Mittel 15002"
+   "Sehdauer letzte 3 Reels: 6.2 s"
   ],
-  "checked": "2026-10-20T01:37:12.513Z",
+  "checked": "2026-10-20T02:37:37.412Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -33,16 +33,16 @@
    },
    {
     "day": "2026-10-19",
-    "reach": 5902
+    "reach": 6894
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 6.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 536,
-  "media_count": 209
+  "media_count": 210
  },
  "history": [
   {
@@ -5574,9 +5574,25 @@
    "ts": "2026-10-20T01:37:11.398Z",
    "followers": 536,
    "media_count": 209
+  },
+  {
+   "ts": "2026-10-20T02:37:36.156Z",
+   "followers": 536,
+   "media_count": 210
   }
  ],
  "posts": [
+  {
+   "id": "17906131902347787",
+   "slug": "stickman-threeday",
+   "permalink": "https://www.instagram.com/reel/Desw6QkjKTf/",
+   "timestamp": "2026-10-20T02:30:49+0000",
+   "type": "VIDEO",
+   "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
+   "views": 3,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18344678740282006",
    "slug": "stickman-propdouble",
@@ -5584,8 +5600,8 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 0,
-   "likes": 0,
+   "views": 144,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5595,8 +5611,8 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 463,
-   "likes": 6,
+   "views": 724,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5606,8 +5622,8 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 671,
-   "likes": 2,
+   "views": 1635,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5617,7 +5633,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1470,
+   "views": 1476,
    "likes": 13,
    "comments": 1
   },
@@ -5628,7 +5644,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1705,
+   "views": 1765,
    "likes": 3,
    "comments": 1
   },
@@ -5639,7 +5655,7 @@
    "timestamp": "2026-10-19T17:31:27+0000",
    "type": "VIDEO",
    "caption": "He's up 26 % this year. You copied him and you're down 30 %.",
-   "views": 1544,
+   "views": 1546,
    "likes": 15,
    "comments": 1
   },
@@ -5650,8 +5666,8 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 577,
-   "likes": 8,
+   "views": 636,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5661,7 +5677,7 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1238,
+   "views": 1250,
    "likes": 10,
    "comments": 1
   },
@@ -5683,7 +5699,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 580,
+   "views": 584,
    "likes": 8,
    "comments": 1
   },
@@ -5694,7 +5710,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2289,
+   "views": 2295,
    "likes": 28,
    "comments": 4
   },
@@ -5705,7 +5721,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4616,
+   "views": 4628,
    "likes": 37,
    "comments": 2
   },
@@ -5738,7 +5754,7 @@
    "timestamp": "2026-10-17T13:31:24+0000",
    "type": "VIDEO",
    "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1607,
+   "views": 1611,
    "likes": 8,
    "comments": 1
   },
@@ -5804,7 +5820,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2104,
+   "views": 2105,
    "likes": 26,
    "comments": 3
   },
@@ -6005,17 +6021,6 @@
    "views": 3082,
    "likes": 40,
    "comments": 1
-  },
-  {
-   "id": "18044876774831280",
-   "slug": "stickman-fortywins",
-   "permalink": "https://www.instagram.com/reel/DeiW1JxDxtu/",
-   "timestamp": "2026-10-16T01:30:29+0000",
-   "type": "VIDEO",
-   "caption": "Your average win is $50. One trade without a stop lost $2,000. That's 40 wins.",
-   "views": 3817,
-   "likes": 33,
-   "comments": 2
   }
  ]
 }
