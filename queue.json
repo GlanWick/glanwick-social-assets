@@ -7592,7 +7592,16 @@
       "container_id": "18113585804136556",
       "media_id": "18451326154127755",
       "permalink": "https://www.instagram.com/reel/Detg91nDam6/",
-      "published_at": "2026-10-20T09:31:00.519Z"
+      "published_at": "2026-10-20T09:31:00.519Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 210,
+        "beitraege_nachher": 210,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T09:32:02.389Z"
+      }
     },
     {
       "id": "test-2026-10-20-twentywins",
