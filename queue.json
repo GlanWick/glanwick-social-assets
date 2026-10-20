@@ -7522,7 +7522,16 @@
       "container_id": "18113560913136556",
       "media_id": "17906966721585749",
       "permalink": "https://www.instagram.com/reel/DetFevMESJE/",
-      "published_at": "2026-10-20T05:30:50.797Z"
+      "published_at": "2026-10-20T05:30:50.797Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 210,
+        "beitraege_nachher": 210,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T05:31:52.907Z"
+      }
     },
     {
       "id": "test-2026-10-20-coinbeats",
