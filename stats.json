@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T21:09:25.578Z",
+ "updated": "2026-10-20T22:09:51.888Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T21:09:26.414Z",
+  "checked": "2026-10-20T22:09:52.607Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -34,7 +34,7 @@
     "reach": 10893
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5672,9 +5672,25 @@
    "ts": "2026-10-20T21:09:25.578Z",
    "followers": 542,
    "media_count": 211
+  },
+  {
+   "ts": "2026-10-20T22:09:51.888Z",
+   "followers": 542,
+   "media_count": 211
   }
  ],
  "posts": [
+  {
+   "id": "18138836041713599",
+   "slug": "stickman-eightyone",
+   "permalink": "https://www.instagram.com/reel/DeuzZh4FPye/",
+   "timestamp": "2026-10-20T21:31:11+0000",
+   "type": "VIDEO",
+   "caption": "You won 81 trades, lost 5, and you're $950 down.",
+   "views": 147,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18131946599507420",
    "slug": "stickman-eighteenfour",
@@ -5682,8 +5698,8 @@
    "timestamp": "2026-10-20T19:31:02+0000",
    "type": "VIDEO",
    "caption": "Your month had 18 green days and 4 red ones, and it's $200 down.",
-   "views": 926,
-   "likes": 8,
+   "views": 1266,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5693,7 +5709,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1540,
+   "views": 1544,
    "likes": 5,
    "comments": 1
   },
@@ -5704,7 +5720,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1678,
+   "views": 1681,
    "likes": 18,
    "comments": 1
   },
@@ -5715,8 +5731,8 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 864,
-   "likes": 12,
+   "views": 941,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5726,8 +5742,8 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 1519,
-   "likes": 7,
+   "views": 1559,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5737,7 +5753,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1454,
+   "views": 1455,
    "likes": 12,
    "comments": 1
   },
@@ -5748,7 +5764,7 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1526,
+   "views": 1528,
    "likes": 15,
    "comments": 1
   },
@@ -5759,7 +5775,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1835,
+   "views": 1840,
    "likes": 21,
    "comments": 1
   },
@@ -5770,7 +5786,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1922,
+   "views": 1926,
    "likes": 10,
    "comments": 1
   },
@@ -5781,7 +5797,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2119,
+   "views": 2121,
    "likes": 11,
    "comments": 1
   },
@@ -5792,7 +5808,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2066,
+   "views": 2076,
    "likes": 17,
    "comments": 1
   },
@@ -5803,7 +5819,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1478,
+   "views": 1479,
    "likes": 9,
    "comments": 1
   },
@@ -5825,7 +5841,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1737,
+   "views": 1738,
    "likes": 11,
    "comments": 1
   },
@@ -5836,7 +5852,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1506,
+   "views": 1508,
    "likes": 14,
    "comments": 1
   },
@@ -5847,7 +5863,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1813,
+   "views": 1815,
    "likes": 4,
    "comments": 1
   },
@@ -5869,7 +5885,7 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 1513,
+   "views": 1514,
    "likes": 22,
    "comments": 1
   },
@@ -5935,7 +5951,7 @@
    "timestamp": "2026-10-17T17:00:36+0000",
    "type": "VIDEO",
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 89,
+   "views": 90,
    "likes": 4,
    "comments": 1
   },
@@ -6023,7 +6039,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2113,
+   "views": 2114,
    "likes": 26,
    "comments": 3
   },
@@ -6100,20 +6116,9 @@
    "timestamp": "2026-10-16T17:01:30+0000",
    "type": "VIDEO",
    "caption": "80 days at +$25 made you $2,000. 5 days at −$400 took it all back.",
-   "views": 1614,
+   "views": 1615,
    "likes": 35,
    "comments": 2
-  },
-  {
-   "id": "18123919739481377",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/Dej6LEvuPsn/",
-   "timestamp": "2026-10-16T15:59:39+0000",
-   "type": "VIDEO",
-   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 1952,
-   "likes": 33,
-   "comments": 6
   }
  ]
 }
