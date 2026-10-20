@@ -7644,7 +7644,7 @@
     {
       "id": "2026-10-20-sechs-wochen-ein-tag",
       "slug": "stickman-sixweeks",
-      "status": "posting",
+      "status": "error",
       "scheduled_at": "2026-10-20T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixweeks-cover.jpg",
@@ -7655,7 +7655,8 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixweeks.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixweeks-cover.jpg"
       },
-      "posting_started_at": "2026-10-20T12:00:15.545Z"
+      "container_id": "18113604995136556",
+      "error": "Container-Status ERROR (2026-10-20T12:04:00.049Z)"
     },
     {
       "id": "test-2026-10-20-winstreakdouble",
