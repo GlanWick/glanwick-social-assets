@@ -7851,7 +7851,7 @@
     {
       "id": "2026-10-21-fuenf-verluste-folge",
       "slug": "stickman-fivestreak",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivestreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivestreak-cover.jpg",
@@ -7861,7 +7861,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivestreak.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivestreak-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-20T23:00:17.324Z"
     },
     {
       "id": "test-2026-10-20-eightyone",
