@@ -7775,7 +7775,16 @@
       "container_id": "18113655062136556",
       "media_id": "18131069251775259",
       "permalink": "https://www.instagram.com/reel/DeuX4Slk4bB/",
-      "published_at": "2026-10-20T17:30:50.612Z"
+      "published_at": "2026-10-20T17:30:50.612Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 211,
+        "beitraege_nachher": 211,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T17:31:52.149Z"
+      }
     },
     {
       "id": "test-2026-10-20-eighteenfour",
