@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-20T16:19:36.118Z",
+ "updated": "2026-10-20T17:20:01.662Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-20T16:19:37.312Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.6 s"
+  ],
+  "checked": "2026-10-20T17:20:02.933Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -34,13 +36,13 @@
     "reach": 10893
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 6.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 541,
-  "media_count": 210
+  "media_count": 211
  },
  "history": [
   {
@@ -5647,9 +5649,25 @@
    "ts": "2026-10-20T16:19:36.118Z",
    "followers": 541,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T17:20:01.662Z",
+   "followers": 541,
+   "media_count": 211
   }
  ],
  "posts": [
+  {
+   "id": "18140584192623324",
+   "slug": "stickman-noexit",
+   "permalink": "https://www.instagram.com/reel/DeuUbcbDS2f/",
+   "timestamp": "2026-10-20T17:00:34+0000",
+   "type": "VIDEO",
+   "caption": "He made $500 on the trade. You copied it and lost $600.",
+   "views": 15,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18137407861647642",
    "slug": "stickman-copyfee",
@@ -5657,8 +5675,8 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 162,
-   "likes": 1,
+   "views": 642,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5668,7 +5686,7 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 552,
+   "views": 732,
    "likes": 2,
    "comments": 1
   },
@@ -5679,7 +5697,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1437,
+   "views": 1439,
    "likes": 12,
    "comments": 1
   },
@@ -5690,7 +5708,7 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1511,
+   "views": 1515,
    "likes": 15,
    "comments": 1
   },
@@ -5701,8 +5719,8 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1810,
-   "likes": 20,
+   "views": 1821,
+   "likes": 21,
    "comments": 1
   },
   {
@@ -5712,7 +5730,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1882,
+   "views": 1895,
    "likes": 10,
    "comments": 1
   },
@@ -5723,7 +5741,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2103,
+   "views": 2110,
    "likes": 11,
    "comments": 1
   },
@@ -5734,7 +5752,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2030,
+   "views": 2035,
    "likes": 17,
    "comments": 1
   },
@@ -5745,7 +5763,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1457,
+   "views": 1459,
    "likes": 9,
    "comments": 1
   },
@@ -5767,7 +5785,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1725,
+   "views": 1728,
    "likes": 11,
    "comments": 1
   },
@@ -5778,7 +5796,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1498,
+   "views": 1499,
    "likes": 13,
    "comments": 1
   },
@@ -5811,7 +5829,7 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 1511,
+   "views": 1512,
    "likes": 22,
    "comments": 1
   },
@@ -5844,7 +5862,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 642,
+   "views": 643,
    "likes": 8,
    "comments": 1
   },
@@ -6064,7 +6082,7 @@
    "timestamp": "2026-10-16T15:30:50+0000",
    "type": "VIDEO",
    "caption": "You doubled after every win. 4 wins made $1,500. Trade 5 lost $1,600.",
-   "views": 3283,
+   "views": 3284,
    "likes": 32,
    "comments": 1
   },
@@ -6078,17 +6096,6 @@
    "views": 761,
    "likes": 7,
    "comments": 1
-  },
-  {
-   "id": "18015921407959963",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DejigPOOLau/",
-   "timestamp": "2026-10-16T12:33:09+0000",
-   "type": "VIDEO",
-   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2621,
-   "likes": 58,
-   "comments": 11
   }
  ]
 }
