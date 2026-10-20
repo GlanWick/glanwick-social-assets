@@ -7433,7 +7433,16 @@
       "container_id": "18113530268136556",
       "media_id": "18344678740282006",
       "permalink": "https://www.instagram.com/reel/DesqIc1D34F/",
-      "published_at": "2026-10-20T01:31:52.503Z"
+      "published_at": "2026-10-20T01:31:52.503Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 209,
+        "beitraege_nachher": 209,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T01:32:54.317Z"
+      }
     },
     {
       "id": "2026-10-20-drei-prozent-zwanzig-tage",
