@@ -7374,7 +7374,11 @@
         "verdacht": false,
         "at": "2026-10-19T21:32:24.268Z"
       },
-      "kommentar_id": "18094356149445545"
+      "kommentar_id": "18094356149445545",
+      "views_12h": {
+        "views": 1489,
+        "stunden": 12.94
+      }
     },
     {
       "id": "2026-10-20-siebzig-gewinne-minus",
