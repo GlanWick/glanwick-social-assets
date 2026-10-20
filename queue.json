@@ -7497,7 +7497,11 @@
       "permalink": "https://www.instagram.com/reel/Desw6QkjKTf/",
       "published_at": "2026-10-20T02:30:55.783Z",
       "container_id": "18113537216136556",
-      "kommentar_id": "18646358335047933"
+      "kommentar_id": "18646358335047933",
+      "views_12h": {
+        "views": 2022,
+        "stunden": 12.81
+      }
     },
     {
       "id": "test-2026-10-20-copyfive",
