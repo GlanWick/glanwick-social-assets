@@ -7697,7 +7697,7 @@
     {
       "id": "test-2026-10-20-copyfee",
       "slug": "stickman-copyfee",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copyfee.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-copyfee-cover.jpg",
@@ -7707,7 +7707,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F5 Kopieren: die Abo-Gebuehr frisst den Ertrag kopierter Trades, ohne Signal-Wortlaut. Traegt die Gebuehrenrechnung?"
-      }
+      },
+      "posting_started_at": "2026-10-20T15:30:12.449Z"
     },
     {
       "id": "2026-10-20-verkauf-nie-gepostet",
