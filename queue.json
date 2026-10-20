@@ -7615,7 +7615,7 @@
     {
       "id": "test-2026-10-20-twentywins",
       "slug": "stickman-twentywins",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentywins.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentywins-cover.jpg",
@@ -7625,7 +7625,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit, mit Geldbetrag: ein gehaltener Verlust in Gewinnen und Wochen. Traegt die Umrechnung in einen Monat?"
-      }
+      },
+      "posting_started_at": "2026-10-20T11:30:03.040Z"
     },
     {
       "id": "2026-10-20-sechs-wochen-ein-tag",
