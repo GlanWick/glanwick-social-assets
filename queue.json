@@ -7761,7 +7761,7 @@
     {
       "id": "test-2026-10-20-tenten",
       "slug": "stickman-tenten",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-20T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenten.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenten-cover.jpg",
@@ -7772,7 +7772,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: gleich grosse Auf- und Abschwuenge kosten Geld, halbe Groesse ein Viertel davon. Traegt die Rechnung mit halber Groesse?"
       },
-      "posting_started_at": "2026-10-20T17:30:09.602Z"
+      "container_id": "18113655062136556",
+      "media_id": "18131069251775259",
+      "permalink": "https://www.instagram.com/reel/DeuX4Slk4bB/",
+      "published_at": "2026-10-20T17:30:50.612Z"
     },
     {
       "id": "test-2026-10-20-eighteenfour",
