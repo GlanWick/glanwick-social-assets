@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:12:31.913Z",
+  "generated_at": "2026-10-20T12:13:04.819Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1490,14 +1490,13 @@
         "nr": 33,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martingale.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-martingale-cover.jpg",
-        "gestartet_at": "2026-10-19T17:41:15.613Z",
-        "stand": "2026-10-19T17:42:11.593Z",
-        "versuch": 1,
-        "slot": "2026-10-19T17:00:00.000Z",
         "post_id": "6ad6564234cae0528883b303",
-        "published_at": "2026-10-19T17:41:53.107Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698435566412500257",
-        "plattform_id": "7698435566412500257"
+        "plattform_id": "7698435566412500257",
+        "published_at": "2026-10-19T17:41:53.107Z",
+        "gestartet_at": "2026-10-19T17:41:15.613Z",
+        "slot": "2026-10-19T17:00:00.000Z",
+        "stand": "2026-10-19T17:42:11.593Z"
       }
     },
     {
@@ -7167,21 +7166,20 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letfive-cover.jpg",
-        "gestartet_at": "2026-10-19T12:00:48.723Z",
-        "stand": "2026-10-19T12:02:15.844Z",
-        "versuch": 1,
         "post_id": "6ad60676b7e1d41a048d8213",
-        "published_at": "2026-10-19T12:01:34.544Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698347791801781536",
-        "plattform_id": "7698347791801781536"
+        "plattform_id": "7698347791801781536",
+        "published_at": "2026-10-19T12:01:34.544Z",
+        "gestartet_at": "2026-10-19T12:00:48.723Z",
+        "stand": "2026-10-19T12:02:15.844Z"
       },
       "id": "2026-10-19-dreifach-fonds",
       "status": "published",
       "scheduled_at": "2026-10-19T12:00:00Z",
-      "container_id": "18113441723136556",
       "media_id": "18025472054869645",
       "permalink": "https://www.instagram.com/reel/DerNT0Gk7s_/",
       "published_at": "2026-10-19T12:00:44.384Z",
+      "container_id": "18113441723136556",
       "kommentar_id": "18149017033565945",
       "views_12h": {
         "views": 575,
@@ -7202,10 +7200,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 3 Gewinne je Woche gegen 1 grossen Verlust, gerechnet ueber 10 Wochen. Traegt die Wochenrechnung?"
       },
-      "container_id": "18113456072136556",
       "media_id": "18104389739371795",
       "permalink": "https://www.instagram.com/reel/DerXrgeCodf/",
       "published_at": "2026-10-19T13:31:19.684Z",
+      "container_id": "18113456072136556",
+      "kommentar_id": "18104936018200923",
       "trial_pruefung": {
         "beitraege_vorher": 207,
         "beitraege_nachher": 207,
@@ -7214,8 +7213,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-19T13:32:22.237Z"
-      },
-      "kommentar_id": "18104936018200923"
+      }
     },
     {
       "id": "test-2026-10-19-twohundred",
@@ -7231,10 +7229,11 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: bester Trade in Prozent, Konto in Dollar im Minus. Traegt der Kontrast +200 % gegen Kontominus?"
       },
-      "container_id": "18113469788136556",
       "media_id": "18134048926737354",
       "permalink": "https://www.instagram.com/reel/DerlVlRDxmJ/",
       "published_at": "2026-10-19T15:30:43.735Z",
+      "container_id": "18113469788136556",
+      "kommentar_id": "18179120839386879",
       "trial_pruefung": {
         "beitraege_vorher": 207,
         "beitraege_nachher": 207,
@@ -7244,7 +7243,6 @@
         "verdacht": false,
         "at": "2026-10-19T15:31:45.885Z"
       },
-      "kommentar_id": "18179120839386879",
       "views_12h": {
         "views": 1253,
         "stunden": 12.12
@@ -7264,10 +7262,11 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Einstieg beim Kopieren nach dem besten Lauf. Traegt der Unterschied zwischen seinem Jahr und Deinem Einstieg?"
       },
-      "container_id": "18113486417136556",
       "media_id": "17917108041260055",
       "permalink": "https://www.instagram.com/reel/DerzLKAE0Z9/",
       "published_at": "2026-10-19T17:31:32.007Z",
+      "container_id": "18113486417136556",
+      "kommentar_id": "18114436550036785",
       "trial_pruefung": {
         "beitraege_vorher": 208,
         "beitraege_nachher": 208,
@@ -7277,7 +7276,6 @@
         "verdacht": false,
         "at": "2026-10-19T17:32:34.217Z"
       },
-      "kommentar_id": "18114436550036785",
       "views_12h": {
         "views": 1557,
         "stunden": 12.12
@@ -7296,18 +7294,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixtyfour-cover.jpg",
-        "gestartet_at": "2026-10-19T17:01:09.646Z",
-        "stand": "2026-10-19T17:02:35.789Z",
-        "versuch": 1,
         "post_id": "6ad64cda6a39597772af3be6",
-        "published_at": "2026-10-19T17:01:42.482Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698425209707089184",
-        "plattform_id": "7698425209707089184"
+        "plattform_id": "7698425209707089184",
+        "published_at": "2026-10-19T17:01:42.482Z",
+        "gestartet_at": "2026-10-19T17:01:09.646Z",
+        "stand": "2026-10-19T17:02:35.789Z"
       },
-      "container_id": "18113481806136556",
       "media_id": "18129067597795142",
       "permalink": "https://www.instagram.com/reel/DervsIPiIoL/",
       "published_at": "2026-10-19T17:01:06.114Z",
+      "container_id": "18113481806136556",
       "kommentar_id": "18249265567312915",
       "views_12h": {
         "views": 1184,
@@ -7328,10 +7325,11 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Verlust: das Konto reicht fuer Trade 7 nicht. Traegt die Rechnung mit dem Restgeld?"
       },
-      "container_id": "18113500682136556",
       "media_id": "18357853633172917",
       "permalink": "https://www.instagram.com/reel/DesA3VOghQq/",
       "published_at": "2026-10-19T19:31:21.415Z",
+      "container_id": "18113500682136556",
+      "kommentar_id": "17929425936181526",
       "trial_pruefung": {
         "beitraege_vorher": 208,
         "beitraege_nachher": 208,
@@ -7341,7 +7339,6 @@
         "verdacht": false,
         "at": "2026-10-19T19:32:23.473Z"
       },
-      "kommentar_id": "17929425936181526",
       "views_12h": {
         "views": 1790,
         "stunden": 12.94
@@ -7361,10 +7358,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 20 Gewinne in Folge, ein Verlust ohne Stop. Traegt die lange Gewinnserie als Aufhaenger?"
       },
-      "container_id": "18113512328136556",
       "media_id": "18127086250884770",
       "permalink": "https://www.instagram.com/reel/DesOm_EjfRA/",
       "published_at": "2026-10-19T21:31:22.121Z",
+      "container_id": "18113512328136556",
+      "kommentar_id": "18094356149445545",
       "trial_pruefung": {
         "beitraege_vorher": 208,
         "beitraege_nachher": 208,
@@ -7374,7 +7372,6 @@
         "verdacht": false,
         "at": "2026-10-19T21:32:24.268Z"
       },
-      "kommentar_id": "18094356149445545",
       "views_12h": {
         "views": 1489,
         "stunden": 12.94
@@ -7393,18 +7390,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-seventyloss.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-seventyloss-cover.jpg",
-        "gestartet_at": "2026-10-19T23:00:49.857Z",
-        "stand": "2026-10-19T23:02:14.908Z",
-        "versuch": 1,
         "post_id": "6ad6a128183a4d0a43f454ac",
-        "published_at": "2026-10-19T23:01:22.329Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698517875140611361",
-        "plattform_id": "7698517875140611361"
+        "plattform_id": "7698517875140611361",
+        "published_at": "2026-10-19T23:01:22.329Z",
+        "gestartet_at": "2026-10-19T23:00:49.857Z",
+        "stand": "2026-10-19T23:02:14.908Z"
       },
-      "container_id": "18113517812136556",
       "media_id": "18126189778904037",
       "permalink": "https://www.instagram.com/reel/DesY2FcAv39/",
       "published_at": "2026-10-19T23:00:46.085Z",
+      "container_id": "18113517812136556",
       "kommentar_id": "18126108805818837",
       "views_12h": {
         "views": 1719,
@@ -7425,10 +7421,11 @@
         "bild": "bibliothek",
         "frage": "F3 Positionsgroesse: gleicher Stop, andere Stueckzahl, ohne Margin. Traegt der Vergleich zweier Konten nach 10 Verlusten?"
       },
-      "container_id": "18113519777136556",
       "media_id": "18227849617335688",
       "permalink": "https://www.instagram.com/reel/DescXL-iUcv/",
       "published_at": "2026-10-19T23:31:23.070Z",
+      "container_id": "18113519777136556",
+      "kommentar_id": "18113846515841907",
       "trial_pruefung": {
         "beitraege_vorher": 209,
         "beitraege_nachher": 209,
@@ -7437,8 +7434,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-19T23:32:25.157Z"
-      },
-      "kommentar_id": "18113846515841907"
+      }
     },
     {
       "id": "test-2026-10-20-propdouble",
@@ -7454,10 +7450,11 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Verlust in der Prop-Pruefung: Grenze nach 3 Verlusten erreicht. Traegt die Pruefungsgrenze als Aufhaenger?"
       },
-      "container_id": "18113530268136556",
       "media_id": "18344678740282006",
       "permalink": "https://www.instagram.com/reel/DesqIc1D34F/",
       "published_at": "2026-10-20T01:31:52.503Z",
+      "container_id": "18113530268136556",
+      "kommentar_id": "18211080868368183",
       "trial_pruefung": {
         "beitraege_vorher": 209,
         "beitraege_nachher": 209,
@@ -7466,8 +7463,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T01:32:54.317Z"
-      },
-      "kommentar_id": "18211080868368183"
+      }
     },
     {
       "id": "2026-10-20-drei-prozent-zwanzig-tage",
@@ -7482,18 +7478,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeday.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeday-cover.jpg",
-        "gestartet_at": "2026-10-20T02:30:59.624Z",
-        "stand": "2026-10-20T02:32:23.903Z",
-        "versuch": 1,
         "post_id": "6ad6d268dd3e683b3cac1f3a",
-        "published_at": "2026-10-20T02:31:34.484Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7698571902683581728",
-        "plattform_id": "7698571902683581728"
+        "plattform_id": "7698571902683581728",
+        "published_at": "2026-10-20T02:31:34.484Z",
+        "gestartet_at": "2026-10-20T02:30:59.624Z",
+        "stand": "2026-10-20T02:32:23.903Z"
       },
-      "container_id": "18113537216136556",
       "media_id": "17906131902347787",
       "permalink": "https://www.instagram.com/reel/Desw6QkjKTf/",
       "published_at": "2026-10-20T02:30:55.783Z",
+      "container_id": "18113537216136556",
       "kommentar_id": "18646358335047933"
     },
     {
@@ -7510,10 +7505,11 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Dollarbetrag eines grossen Kontos auf ein kleines Konto kopiert. Traegt der Kontrast -5 % gegen -50 %?"
       },
-      "container_id": "18113546246136556",
       "media_id": "18026898653923713",
       "permalink": "https://www.instagram.com/reel/Des3y6LFCdv/",
       "published_at": "2026-10-20T03:31:12.486Z",
+      "container_id": "18113546246136556",
+      "kommentar_id": "18046343276683548",
       "trial_pruefung": {
         "beitraege_vorher": 210,
         "beitraege_nachher": 210,
@@ -7522,8 +7518,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T03:32:14.273Z"
-      },
-      "kommentar_id": "18046343276683548"
+      }
     },
     {
       "id": "test-2026-10-20-avgtwentyfive",
@@ -7539,10 +7534,11 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: Durchschnittsrendite gegen Kontostand. Traegt der Widerspruch +25 % im Schnitt bei $0 Gewinn?"
       },
-      "container_id": "18113560913136556",
       "media_id": "17906966721585749",
       "permalink": "https://www.instagram.com/reel/DetFevMESJE/",
       "published_at": "2026-10-20T05:30:50.797Z",
+      "container_id": "18113560913136556",
+      "kommentar_id": "18132705655684939",
       "trial_pruefung": {
         "beitraege_vorher": 210,
         "beitraege_nachher": 210,
@@ -7551,8 +7547,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T05:31:52.907Z"
-      },
-      "kommentar_id": "18132705655684939"
+      }
     },
     {
       "id": "test-2026-10-20-coinbeats",
@@ -7568,10 +7563,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 60 % Treffer gegen einen Muenzwurf. Traegt der Muenzwurf als Wendung?"
       },
-      "container_id": "18113574932136556",
       "media_id": "18415613287083224",
       "permalink": "https://www.instagram.com/reel/DetTVuKlUIG/",
       "published_at": "2026-10-20T07:31:53.867Z",
+      "container_id": "18113574932136556",
+      "kommentar_id": "17965406430226321",
       "trial_pruefung": {
         "beitraege_vorher": 210,
         "beitraege_nachher": 210,
@@ -7580,8 +7576,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T07:32:55.846Z"
-      },
-      "kommentar_id": "17965406430226321"
+      }
     },
     {
       "id": "test-2026-10-20-chase",
@@ -7597,10 +7592,11 @@
         "bild": "neu",
         "frage": "F7 Hinterherlaufen (neue Familie, neue Bilder): Kauf nach der Schlagzeile, die Aktie schliesst im Plus, Du im Minus. Traegt der Widerspruch Tagesplus gegen eigenes Minus?"
       },
-      "container_id": "18113585804136556",
       "media_id": "18451326154127755",
       "permalink": "https://www.instagram.com/reel/Detg91nDam6/",
       "published_at": "2026-10-20T09:31:00.519Z",
+      "container_id": "18113585804136556",
+      "kommentar_id": "17963576784210590",
       "trial_pruefung": {
         "beitraege_vorher": 210,
         "beitraege_nachher": 210,
@@ -7609,8 +7605,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T09:32:02.389Z"
-      },
-      "kommentar_id": "17963576784210590"
+      }
     },
     {
       "id": "test-2026-10-20-twentywins",
@@ -7626,10 +7621,11 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit, mit Geldbetrag: ein gehaltener Verlust in Gewinnen und Wochen. Traegt die Umrechnung in einen Monat?"
       },
-      "container_id": "18113600867136556",
       "media_id": "18439666726195323",
       "permalink": "https://www.instagram.com/reel/DetuuNJjQ-I/",
       "published_at": "2026-10-20T11:31:15.226Z",
+      "container_id": "18113600867136556",
+      "kommentar_id": "18115382693584344",
       "trial_pruefung": {
         "beitraege_vorher": 210,
         "beitraege_nachher": 210,
@@ -7638,8 +7634,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-20T11:32:17.022Z"
-      },
-      "kommentar_id": "18115382693584344"
+      }
     },
     {
       "id": "2026-10-20-sechs-wochen-ein-tag",
@@ -7740,12 +7735,72 @@
       "scheduled_at": "2026-10-20T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivestreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivestreak-cover.jpg",
-      "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.\n\nHow does 10 % become 41 %? Each loss takes 10 % of what's left. After 5 losses, $4,095 is gone.\nAnd at 1 % risk? The same 5 losses leave $9,510.\nHow rare are 5 losses in a row? If you win half your trades, the chance to see at least one such run in 100 trades is 81 %.\nSo what decides what 5 in a row costs you? The size of each trade.\n\nBefore your next trade, write down what 5 losses in a row at that size would leave in your account.\n\nFree journal, link in bio.\n\nSome traders size for the next win and never for the next 5 losses.\n\nWhat is the longest losing run in your journal?\n\nPart 117 of the series.\n\n#losingstreak #positionsizing #riskmanagement #daytrading #tradingjournal",
+      "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.\n\nHow does 10 % become 41 %? Each loss takes 10 % of what's left. After 5 losses, $4,095 is gone.\nAnd at 1 % risk? The same 5 losses leave $9,510.\nHow rare are 5 losses in a row? If you win half your trades, the chance to see at least one such run in 100 trades is 81 %.\nSo what decides what 5 in a row costs you? The size of each trade.\n\nBefore your next trade, write down what 5 losses in a row at that size would leave in your account.\n\nFree journal, link in bio.\n\nSome traders size for the next win and never for the next 5 losses.\n\nWhat is the longest losing run in your journal?\n\nPart 117 of the series. Part 118: your closed trades are 12 for 12, and your account is $1,800 down.\n\n#losingstreak #positionsizing #riskmanagement #daytrading #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivestreak.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivestreak-cover.jpg"
+      }
+    },
+    {
+      "id": "test-2026-10-20-eightyone",
+      "slug": "stickman-eightyone",
+      "status": "ready",
+      "scheduled_at": "2026-10-20T21:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyone.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-eightyone-cover.jpg",
+      "caption": "You won 81 trades, lost 5, and you're $950 down.\n\nHow do 81 wins lose money? Each win made $50. Each loss cost $1,000.\nWhat did the 81 wins make? $4,050.\nAnd the 5 losses? $5,000. Each one cost 20 wins, so the 5 cost 100 wins, and you had 81.\nWhat if each loss stopped at 4 wins, $200? The 5 losses cost $1,000, and you're $3,050 up.\n\nNext to every loss in your journal, write how many average wins it cost.\n\nFree journal, link in bio.\n\nSome traders count their wins and never count what one loss costs in wins.\n\nHow many wins did your biggest loss cost?\n\nPart 113 of the series is on the profile: you win 70 trades out of 100 and lose $2,000.\n\n#winrate #stoploss #riskmanagement #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F1 Mehr Gewinner, trotzdem minus: 81 Gewinne gegen 5 Verluste, das Bild zeigt genau 81 Haken und 5 Kreuze. Traegt die exakte Zaehlung als Aufhaenger?"
+      }
+    },
+    {
+      "id": "test-2026-10-20-logthirty",
+      "slug": "stickman-logthirty",
+      "status": "ready",
+      "scheduled_at": "2026-10-20T23:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-logthirty.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-logthirty-cover.jpg",
+      "caption": "Your trades add up to +30 %, and your account is $300 down.\n\nHow? 9 winners made +5 % each, on $1,000. That's +45 % and $450.\nAnd the loser? −15 %, on $5,000. That's $750.\nWhat do the percents say? +45 % and −15 % add up to +30 %.\nWhat do the dollars say? $450 in, $750 out. You're $300 down.\nWhen do percents add up? Only when every trade has the same size. At $1,000 each, +30 % would be +$300.\n\nWrite the dollar size next to every trade in your journal, and add up dollars at the end of the week.\n\nFree journal, link in bio.\n\nSome traders add up percents and wonder why the account says something else.\n\nDo you put the same size on every trade?\n\nPart 105 of the series is on the profile: he made +50 % this year. You made +5 %, and you made twice his money.\n\n#positionsizing #riskmanagement #daytrading #stockmarket #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F2 Prozent gegen Dollar: Summe der Prozente im Protokoll gegen Kontostand in Dollar. Traegt +30 % gegen -$300?"
+      }
+    },
+    {
+      "id": "test-2026-10-21-reddouble",
+      "slug": "stickman-reddouble",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T01:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-reddouble.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-reddouble-cover.jpg",
+      "caption": "You doubled your size after every red day, and 4 red days cost $1,500.\n\nHow did it start? Day 1 lost $100. Day 2, at double size, lost $200.\nAnd then? $400 on day 3 and $800 on day 4. Together $1,500.\nWhat was day 5 going to risk? $1,600, to win back the week.\nAnd at half size after every red day? $100, $50, $25 and $12.50. Together $188.\n\nWrite your size for tomorrow in your journal tonight, and cut it in half after a red day.\n\nFree journal, link in bio.\n\nSome traders size up after a red day because they want the money back by Friday.\n\nWhat do you do with your size after a red day?\n\nPart 100 of the series is on the profile: doubling after every loss won $50 a day for 100 days. Then 7 losses in a row took $6,350.\n\n#positionsizing #riskmanagement #tradingpsychology #daytrading #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "tiktok": false,
+      "test": {
+        "bild": "bibliothek",
+        "frage": "F6 Verdoppeln nach Verlust, je Tag statt je Trade: vier rote Tage, Gegenprobe halbe Groesse. Traegt der Tagesrhythmus?"
+      }
+    },
+    {
+      "id": "2026-10-21-zwoelf-geschlossen",
+      "slug": "stickman-closedtwelve",
+      "status": "ready",
+      "scheduled_at": "2026-10-21T02:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-closedtwelve.mp4",
+      "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-closedtwelve-cover.jpg",
+      "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.\n\nHow can 12 wins out of 12 lose money? You sold every winner at +$150. That's $1,800.\nAnd the losers? 9 of them are still open, each one $400 down. That's $3,600.\nWhat does your win rate say? 100 %, because it only counts closed trades.\nWhat would a stop at −$150, the size of your average win, have done? The 9 losers cost $1,350, and you're $450 up.\n\nEvery Friday, put your open losers into your journal with today's price.\n\nFree journal, link in bio.\n\nSome traders sell a winner within days and give a loser months to come back.\n\nHow many losers are open in your account right now?\n\nPart 118 of the series. Part 119: your broker shows +50 % this year. You put in $10,000, and you have $9,000.\n\n#tradingpsychology #stoploss #riskmanagement #swingtrading #tradingjournal",
+      "bild": "bibliothek",
+      "tiktok": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve.mp4",
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve-cover.jpg"
       }
     }
   ]
