@@ -7545,7 +7545,7 @@
     {
       "id": "test-2026-10-20-coinbeats",
       "slug": "stickman-coinbeats",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coinbeats.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-coinbeats-cover.jpg",
@@ -7555,7 +7555,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: 60 % Treffer gegen einen Muenzwurf. Traegt der Muenzwurf als Wendung?"
-      }
+      },
+      "posting_started_at": "2026-10-20T07:30:21.342Z"
     },
     {
       "id": "test-2026-10-20-chase",
