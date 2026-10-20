@@ -7277,7 +7277,11 @@
         "verdacht": false,
         "at": "2026-10-19T17:32:34.217Z"
       },
-      "kommentar_id": "18114436550036785"
+      "kommentar_id": "18114436550036785",
+      "views_12h": {
+        "views": 1557,
+        "stunden": 12.12
+      }
     },
     {
       "id": "2026-10-19-vierundsechzig-runden",
@@ -7304,7 +7308,11 @@
       "media_id": "18129067597795142",
       "permalink": "https://www.instagram.com/reel/DervsIPiIoL/",
       "published_at": "2026-10-19T17:01:06.114Z",
-      "kommentar_id": "18249265567312915"
+      "kommentar_id": "18249265567312915",
+      "views_12h": {
+        "views": 1184,
+        "stunden": 12.63
+      }
     },
     {
       "id": "test-2026-10-19-notfit",
