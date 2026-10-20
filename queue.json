@@ -7907,7 +7907,7 @@
     {
       "id": "test-2026-10-20-logthirty",
       "slug": "stickman-logthirty",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-logthirty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-logthirty-cover.jpg",
@@ -7917,7 +7917,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: Summe der Prozente im Protokoll gegen Kontostand in Dollar. Traegt +30 % gegen -$300?"
-      }
+      },
+      "posting_started_at": "2026-10-20T23:30:27.187Z"
     },
     {
       "id": "test-2026-10-21-reddouble",
