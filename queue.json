@@ -7448,7 +7448,7 @@
     {
       "id": "2026-10-20-drei-prozent-zwanzig-tage",
       "slug": "stickman-threeday",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threeday-cover.jpg",
@@ -7458,7 +7458,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeday.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-threeday-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-20T02:30:25.638Z"
     },
     {
       "id": "test-2026-10-20-copyfive",
