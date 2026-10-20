@@ -7921,7 +7921,16 @@
       "container_id": "18113688878136556",
       "media_id": "17951466282324557",
       "permalink": "https://www.instagram.com/reel/DevBHVGgprb/",
-      "published_at": "2026-10-20T23:31:07.699Z"
+      "published_at": "2026-10-20T23:31:07.699Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 212,
+        "beitraege_nachher": 212,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T23:32:09.319Z"
+      }
     },
     {
       "id": "test-2026-10-21-reddouble",
