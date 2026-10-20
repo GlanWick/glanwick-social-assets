@@ -7872,7 +7872,16 @@
       "container_id": "18113678813136556",
       "media_id": "18138836041713599",
       "permalink": "https://www.instagram.com/reel/DeuzZh4FPye/",
-      "published_at": "2026-10-20T21:31:22.073Z"
+      "published_at": "2026-10-20T21:31:22.073Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 211,
+        "beitraege_nachher": 211,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T21:32:23.841Z"
+      }
     },
     {
       "id": "test-2026-10-20-logthirty",
