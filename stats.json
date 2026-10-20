@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T13:18:45.824Z",
+ "updated": "2026-10-20T14:19:12.862Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T13:18:47.283Z",
+  "checked": "2026-10-20T14:19:14.364Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -5632,9 +5632,25 @@
    "ts": "2026-10-20T13:18:45.824Z",
    "followers": 541,
    "media_count": 210
+  },
+  {
+   "ts": "2026-10-20T14:19:12.862Z",
+   "followers": 541,
+   "media_count": 210
   }
  ],
  "posts": [
+  {
+   "id": "18639773155049304",
+   "slug": "stickman-winstreakdouble",
+   "permalink": "https://www.instagram.com/reel/Det8cMiACsE/",
+   "timestamp": "2026-10-20T13:30:58+0000",
+   "type": "VIDEO",
+   "caption": "You won 3 in a row, lost 1, and you're down $100.",
+   "views": 145,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18439666726195323",
    "slug": "stickman-twentywins",
@@ -5642,8 +5658,8 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 953,
-   "likes": 9,
+   "views": 1295,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -5653,8 +5669,8 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1349,
-   "likes": 14,
+   "views": 1481,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -5664,7 +5680,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1778,
+   "views": 1784,
    "likes": 20,
    "comments": 1
   },
@@ -5675,7 +5691,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1846,
+   "views": 1851,
    "likes": 10,
    "comments": 1
   },
@@ -5686,7 +5702,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2097,
+   "views": 2099,
    "likes": 11,
    "comments": 1
   },
@@ -5697,7 +5713,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2010,
+   "views": 2014,
    "likes": 17,
    "comments": 1
   },
@@ -5708,7 +5724,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1451,
+   "views": 1453,
    "likes": 9,
    "comments": 1
   },
@@ -5719,9 +5735,9 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 1565,
+   "views": 1573,
    "likes": 14,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18126189778904037",
@@ -5730,7 +5746,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1721,
+   "views": 1722,
    "likes": 11,
    "comments": 1
   },
@@ -5785,7 +5801,7 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1299,
+   "views": 1300,
    "likes": 12,
    "comments": 1
   },
@@ -5829,7 +5845,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4818,
+   "views": 4819,
    "likes": 39,
    "comments": 2
   },
@@ -6062,17 +6078,6 @@
    "caption": "At 5 % risk, 14 losses in a row cut your account in half. At 1 %, it takes 69.",
    "views": 1518,
    "likes": 41,
-   "comments": 1
-  },
-  {
-   "id": "18083989610650858",
-   "slug": "stickman-fivetech",
-   "permalink": "https://www.instagram.com/reel/DejbiauAfEq/",
-   "timestamp": "2026-10-16T11:31:03+0000",
-   "type": "VIDEO",
-   "caption": "You risked 1 % on 5 trades. All 5 were tech. One bad day took $500.",
-   "views": 2217,
-   "likes": 17,
    "comments": 1
   }
  ]
