@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-20T18:20:24.299Z",
+ "updated": "2026-10-20T19:09:11.240Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-20T18:20:25.492Z",
+  "checked": "2026-10-20T19:09:12.008Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -34,12 +34,12 @@
     "reach": 10893
    }
   ],
-  "avg_watch_last_reels": 10.5
+  "avg_watch_last_reels": 10.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 541,
+  "followers": 542,
   "media_count": 211
  },
  "history": [
@@ -5657,6 +5657,11 @@
    "ts": "2026-10-20T18:20:24.299Z",
    "followers": 541,
    "media_count": 211
+  },
+  {
+   "ts": "2026-10-20T19:09:11.240Z",
+   "followers": 542,
+   "media_count": 211
   }
  ],
  "posts": [
@@ -5667,7 +5672,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 172,
+   "views": 982,
    "likes": 1,
    "comments": 1
   },
@@ -5678,8 +5683,8 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1542,
-   "likes": 14,
+   "views": 1657,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -5689,8 +5694,8 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 711,
-   "likes": 9,
+   "views": 752,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5700,8 +5705,8 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 935,
-   "likes": 3,
+   "views": 1107,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5711,7 +5716,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1448,
+   "views": 1449,
    "likes": 12,
    "comments": 1
   },
@@ -5722,7 +5727,7 @@
    "timestamp": "2026-10-20T09:30:53+0000",
    "type": "VIDEO",
    "caption": "Your stock closed up 6 % on the day, and you lost $400 on it.",
-   "views": 1518,
+   "views": 1520,
    "likes": 15,
    "comments": 1
   },
@@ -5733,7 +5738,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1827,
+   "views": 1831,
    "likes": 21,
    "comments": 1
   },
@@ -5744,7 +5749,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1897,
+   "views": 1904,
    "likes": 10,
    "comments": 1
   },
@@ -5755,7 +5760,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2113,
+   "views": 2114,
    "likes": 11,
    "comments": 1
   },
@@ -5766,7 +5771,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2045,
+   "views": 2051,
    "likes": 17,
    "comments": 1
   },
@@ -5777,7 +5782,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1467,
+   "views": 1474,
    "likes": 9,
    "comments": 1
   },
@@ -5799,7 +5804,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1731,
+   "views": 1736,
    "likes": 11,
    "comments": 1
   },
@@ -5821,7 +5826,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1801,
+   "views": 1802,
    "likes": 4,
    "comments": 1
   },
@@ -5876,7 +5881,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 648,
+   "views": 650,
    "likes": 8,
    "comments": 1
   },
@@ -5898,7 +5903,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4825,
+   "views": 4830,
    "likes": 39,
    "comments": 2
   },
@@ -5997,7 +6002,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2111,
+   "views": 2112,
    "likes": 26,
    "comments": 3
   },
