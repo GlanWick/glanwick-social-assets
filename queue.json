@@ -7578,7 +7578,7 @@
     {
       "id": "test-2026-10-20-chase",
       "slug": "stickman-chase",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-20T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-chase.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-chase-cover.jpg",
@@ -7588,7 +7588,8 @@
       "test": {
         "bild": "neu",
         "frage": "F7 Hinterherlaufen (neue Familie, neue Bilder): Kauf nach der Schlagzeile, die Aktie schliesst im Plus, Du im Minus. Traegt der Widerspruch Tagesplus gegen eigenes Minus?"
-      }
+      },
+      "posting_started_at": "2026-10-20T09:30:19.559Z"
     },
     {
       "id": "test-2026-10-20-twentywins",
