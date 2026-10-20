@@ -7629,7 +7629,16 @@
       "container_id": "18113600867136556",
       "media_id": "18439666726195323",
       "permalink": "https://www.instagram.com/reel/DetuuNJjQ-I/",
-      "published_at": "2026-10-20T11:31:15.226Z"
+      "published_at": "2026-10-20T11:31:15.226Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 210,
+        "beitraege_nachher": 210,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T11:32:17.022Z"
+      }
     },
     {
       "id": "2026-10-20-sechs-wochen-ein-tag",
