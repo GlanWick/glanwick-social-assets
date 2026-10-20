@@ -7734,7 +7734,7 @@
     {
       "id": "2026-10-20-verkauf-nie-gepostet",
       "slug": "stickman-noexit",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-20T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noexit.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noexit-cover.jpg",
@@ -7745,7 +7745,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-noexit.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-noexit-cover.jpg"
       },
-      "posting_started_at": "2026-10-20T17:00:01.166Z"
+      "container_id": "18113652206136556",
+      "media_id": "18140584192623324",
+      "permalink": "https://www.instagram.com/reel/DeuUbcbDS2f/",
+      "published_at": "2026-10-20T17:00:41.220Z"
     },
     {
       "id": "test-2026-10-20-tenten",
