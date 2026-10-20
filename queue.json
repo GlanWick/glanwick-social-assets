@@ -7508,7 +7508,7 @@
     {
       "id": "test-2026-10-20-avgtwentyfive",
       "slug": "stickman-avgtwentyfive",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-20T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgtwentyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-avgtwentyfive-cover.jpg",
@@ -7519,7 +7519,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: Durchschnittsrendite gegen Kontostand. Traegt der Widerspruch +25 % im Schnitt bei $0 Gewinn?"
       },
-      "posting_started_at": "2026-10-20T05:30:09.731Z"
+      "container_id": "18113560913136556",
+      "media_id": "17906966721585749",
+      "permalink": "https://www.instagram.com/reel/DetFevMESJE/",
+      "published_at": "2026-10-20T05:30:50.797Z"
     },
     {
       "id": "test-2026-10-20-coinbeats",
