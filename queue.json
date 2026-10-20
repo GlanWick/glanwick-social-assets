@@ -7820,7 +7820,16 @@
       "container_id": "18113667521136556",
       "media_id": "18131946599507420",
       "permalink": "https://www.instagram.com/reel/Deulpesj_Oq/",
-      "published_at": "2026-10-20T19:31:12.477Z"
+      "published_at": "2026-10-20T19:31:12.477Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 211,
+        "beitraege_nachher": 211,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-20T19:32:14.277Z"
+      }
     },
     {
       "id": "2026-10-21-fuenf-verluste-folge",
