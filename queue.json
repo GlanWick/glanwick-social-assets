@@ -1512,15 +1512,18 @@
       "published_at": "2026-09-25T17:00:56.375Z",
       "container_id": "18109704167136556",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 34,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-recovery.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-recovery-cover.jpg",
         "gestartet_at": "2026-10-20T17:41:01.621Z",
-        "stand": "2026-10-20T17:41:22.721Z",
+        "stand": "2026-10-20T17:41:54.387Z",
         "versuch": 1,
         "slot": "2026-10-20T17:00:00.000Z",
-        "post_id": "6ad7a7b26c297a6482a1d265"
+        "post_id": "6ad7a7b26c297a6482a1d265",
+        "published_at": "2026-10-20T17:41:35.208Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7698806333785311264"
       }
     },
     {
