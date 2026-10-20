@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-20T00:47:21.225Z",
+ "updated": "2026-10-20T01:37:11.398Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-19: 5490 gegen Mittel 15002"
+   "Reichweite 2026-10-19: 5902 gegen Mittel 15002"
   ],
-  "checked": "2026-10-20T00:47:21.990Z",
+  "checked": "2026-10-20T01:37:12.513Z",
   "reach_days": [
    {
     "day": "2026-10-13",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-19",
-    "reach": 5490
+    "reach": 5902
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5569,9 +5569,25 @@
    "ts": "2026-10-20T00:47:21.225Z",
    "followers": 536,
    "media_count": 209
+  },
+  {
+   "ts": "2026-10-20T01:37:11.398Z",
+   "followers": 536,
+   "media_count": 209
   }
  ],
  "posts": [
+  {
+   "id": "18344678740282006",
+   "slug": "stickman-propdouble",
+   "permalink": "https://www.instagram.com/reel/DesqIc1D34F/",
+   "timestamp": "2026-10-20T01:31:44+0000",
+   "type": "VIDEO",
+   "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18227849617335688",
    "slug": "stickman-fivehundred",
@@ -5579,8 +5595,8 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 370,
-   "likes": 3,
+   "views": 463,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5590,8 +5606,8 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 410,
-   "likes": 0,
+   "views": 671,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5601,7 +5617,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1465,
+   "views": 1470,
    "likes": 13,
    "comments": 1
   },
@@ -5612,7 +5628,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1620,
+   "views": 1705,
    "likes": 3,
    "comments": 1
   },
@@ -5634,8 +5650,8 @@
    "timestamp": "2026-10-19T17:01:00+0000",
    "type": "VIDEO",
    "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 505,
-   "likes": 6,
+   "views": 577,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5645,7 +5661,7 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1163,
+   "views": 1238,
    "likes": 10,
    "comments": 1
   },
@@ -5667,7 +5683,7 @@
    "timestamp": "2026-10-19T12:00:37+0000",
    "type": "VIDEO",
    "caption": "Same 10 days: the index lost $124. The 3x fund lost $1,076.",
-   "views": 575,
+   "views": 580,
    "likes": 8,
    "comments": 1
   },
@@ -5678,7 +5694,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2286,
+   "views": 2289,
    "likes": 28,
    "comments": 4
   },
@@ -5689,7 +5705,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4615,
+   "views": 4616,
    "likes": 37,
    "comments": 2
   },
@@ -6000,17 +6016,6 @@
    "views": 3817,
    "likes": 33,
    "comments": 2
-  },
-  {
-   "id": "17951864124297336",
-   "slug": "stickman-earlyprofit",
-   "permalink": "https://www.instagram.com/reel/DeiJJ6Zjgtd/",
-   "timestamp": "2026-10-15T23:31:03+0000",
-   "type": "VIDEO",
-   "caption": "Your win rate went from 40 % to 70 %. Your result went from +$4,000 to −$200.",
-   "views": 2384,
-   "likes": 22,
-   "comments": 1
   }
  ]
 }
