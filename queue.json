@@ -7714,6 +7714,10 @@
       "views_12h": {
         "views": 1456,
         "stunden": 12.66
+      },
+      "views_24h": {
+        "views": 1466,
+        "stunden": 24.35
       }
     },
     {
@@ -7921,7 +7925,11 @@
       "media_id": "18130632965501337",
       "permalink": "https://www.instagram.com/reel/Deu9rQTlJVo/",
       "published_at": "2026-10-20T23:01:10.800Z",
-      "kommentar_id": "18146739685529272"
+      "kommentar_id": "18146739685529272",
+      "views_12h": {
+        "views": 1663,
+        "stunden": 12.85
+      }
     },
     {
       "id": "test-2026-10-20-eightyone",
@@ -7983,7 +7991,11 @@
         "verdacht": false,
         "at": "2026-10-20T23:32:09.319Z"
       },
-      "kommentar_id": "18155535571474886"
+      "kommentar_id": "18155535571474886",
+      "views_12h": {
+        "views": 1339,
+        "stunden": 12.35
+      }
     },
     {
       "id": "test-2026-10-21-reddouble",
