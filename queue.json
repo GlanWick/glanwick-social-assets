@@ -8059,7 +8059,16 @@
       "container_id": "18113719658136556",
       "media_id": "17993342988020577",
       "permalink": "https://www.instagram.com/reel/DevqSl6CJq6/",
-      "published_at": "2026-10-21T05:30:56.123Z"
+      "published_at": "2026-10-21T05:30:56.123Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 213,
+        "beitraege_nachher": 213,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T05:31:57.939Z"
+      }
     },
     {
       "id": "test-2026-10-21-tentrades",
