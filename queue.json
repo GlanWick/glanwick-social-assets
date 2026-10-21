@@ -8201,7 +8201,7 @@
     {
       "id": "2026-10-21-plus-fuenfzig-einzahlung",
       "slug": "stickman-appfifty",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-21T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-appfifty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-appfifty-cover.jpg",
@@ -8212,7 +8212,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-appfifty.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-appfifty-cover.jpg"
       },
-      "posting_started_at": "2026-10-21T12:00:12.591Z"
+      "container_id": "18113762375136556",
+      "media_id": "18060591578539055",
+      "permalink": "https://www.instagram.com/reel/DewW6jPFeu8/",
+      "published_at": "2026-10-21T12:00:51.986Z"
     },
     {
       "id": "test-2026-10-21-righteight",
