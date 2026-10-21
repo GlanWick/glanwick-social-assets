@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T12:41:09.469Z",
+ "updated": "2026-10-21T13:41:10.097Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T12:41:10.402Z",
+  "checked": "2026-10-21T13:41:11.089Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,7 +34,7 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5752,9 +5752,25 @@
    "ts": "2026-10-21T12:41:09.469Z",
    "followers": 544,
    "media_count": 214
+  },
+  {
+   "ts": "2026-10-21T13:41:10.097Z",
+   "followers": 544,
+   "media_count": 214
   }
  ],
  "posts": [
+  {
+   "id": "18017054762748102",
+   "slug": "stickman-righteight",
+   "permalink": "https://www.instagram.com/reel/DewhTnEAntp/",
+   "timestamp": "2026-10-21T13:31:39+0000",
+   "type": "VIDEO",
+   "caption": "You were right about 8 stocks out of 10, and you lost $200.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18060591578539055",
    "slug": "stickman-appfifty",
@@ -5762,8 +5778,8 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 145,
-   "likes": 4,
+   "views": 804,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5773,7 +5789,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 178,
+   "views": 284,
    "likes": 0,
    "comments": 1
   },
@@ -5784,7 +5800,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 204,
+   "views": 230,
    "likes": 0,
    "comments": 1
   },
@@ -5795,8 +5811,8 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 900,
-   "likes": 8,
+   "views": 1243,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -5806,7 +5822,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1401,
+   "views": 1407,
    "likes": 9,
    "comments": 2
   },
@@ -5817,7 +5833,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1439,
+   "views": 1447,
    "likes": 13,
    "comments": 1
   },
@@ -5828,7 +5844,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1463,
+   "views": 1474,
    "likes": 18,
    "comments": 1
   },
@@ -5839,7 +5855,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1462,
+   "views": 1466,
    "likes": 9,
    "comments": 1
   },
@@ -5850,7 +5866,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1345,
+   "views": 1348,
    "likes": 11,
    "comments": 1
   },
@@ -5861,7 +5877,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1675,
+   "views": 1685,
    "likes": 19,
    "comments": 1
   },
@@ -5872,7 +5888,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1704,
+   "views": 1706,
    "likes": 10,
    "comments": 1
   },
@@ -5883,7 +5899,7 @@
    "timestamp": "2026-10-20T19:31:02+0000",
    "type": "VIDEO",
    "caption": "Your month had 18 green days and 4 red ones, and it's $200 down.",
-   "views": 1523,
+   "views": 1530,
    "likes": 13,
    "comments": 1
   },
@@ -5905,7 +5921,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1697,
+   "views": 1698,
    "likes": 18,
    "comments": 1
   },
@@ -5916,7 +5932,7 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1389,
+   "views": 1390,
    "likes": 25,
    "comments": 1
   },
@@ -5927,7 +5943,7 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 1587,
+   "views": 1588,
    "likes": 8,
    "comments": 1
   },
@@ -5938,7 +5954,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1466,
+   "views": 1467,
    "likes": 12,
    "comments": 1
   },
@@ -6004,7 +6020,7 @@
    "timestamp": "2026-10-20T01:31:44+0000",
    "type": "VIDEO",
    "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
-   "views": 1483,
+   "views": 1484,
    "likes": 9,
    "comments": 1
   },
@@ -6182,17 +6198,6 @@
    "caption": "You sold the winner at +$200. You held the loser to −$900.",
    "views": 1807,
    "likes": 21,
-   "comments": 1
-  },
-  {
-   "id": "18108582736936146",
-   "slug": "stickman-latenight",
-   "permalink": "https://www.instagram.com/reel/Delk3odiiRn/",
-   "timestamp": "2026-10-17T07:31:01+0000",
-   "type": "VIDEO",
-   "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
-   "views": 1346,
-   "likes": 15,
    "comments": 1
   }
  ]
