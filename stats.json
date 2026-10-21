@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T05:00:20.355Z",
+ "updated": "2026-10-21T06:00:29.481Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T05:00:21.332Z",
+  "checked": "2026-10-21T06:00:30.416Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-20",
-    "reach": 14200
+    "reach": 15073
    }
   ],
-  "avg_watch_last_reels": 10.1
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5712,9 +5712,25 @@
    "ts": "2026-10-21T05:00:20.355Z",
    "followers": 544,
    "media_count": 213
+  },
+  {
+   "ts": "2026-10-21T06:00:29.481Z",
+   "followers": 544,
+   "media_count": 213
   }
  ],
  "posts": [
+  {
+   "id": "17993342988020577",
+   "slug": "stickman-thirtyweeks",
+   "permalink": "https://www.instagram.com/reel/DevqSl6CJq6/",
+   "timestamp": "2026-10-21T05:30:49+0000",
+   "type": "VIDEO",
+   "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
+   "views": 60,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18001148007002110",
    "slug": "stickman-tenstreak",
@@ -5722,8 +5738,8 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 312,
-   "likes": 5,
+   "views": 623,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5733,8 +5749,8 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 395,
-   "likes": 5,
+   "views": 751,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5744,7 +5760,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1307,
+   "views": 1435,
    "likes": 9,
    "comments": 1
   },
@@ -5755,8 +5771,8 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 651,
-   "likes": 5,
+   "views": 1071,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5766,7 +5782,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1551,
+   "views": 1564,
    "likes": 16,
    "comments": 1
   },
@@ -5777,7 +5793,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1687,
+   "views": 1688,
    "likes": 10,
    "comments": 1
   },
@@ -5799,8 +5815,8 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1552,
-   "likes": 5,
+   "views": 1559,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5810,7 +5826,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1692,
+   "views": 1694,
    "likes": 18,
    "comments": 1
   },
@@ -5821,7 +5837,7 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1375,
+   "views": 1379,
    "likes": 25,
    "comments": 1
   },
@@ -5876,7 +5892,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1938,
+   "views": 1954,
    "likes": 10,
    "comments": 1
   },
@@ -5898,7 +5914,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2093,
+   "views": 2096,
    "likes": 17,
    "comments": 1
   },
@@ -5986,7 +6002,7 @@
    "timestamp": "2026-10-19T15:30:36+0000",
    "type": "VIDEO",
    "caption": "Your best trade made +200 %. Your account is down $1,900.",
-   "views": 1301,
+   "views": 1302,
    "likes": 12,
    "comments": 1
   },
@@ -6143,17 +6159,6 @@
    "views": 1529,
    "likes": 17,
    "comments": 2
-  },
-  {
-   "id": "18634308109004987",
-   "slug": "stickman-marginx",
-   "permalink": "https://www.instagram.com/reel/Dekt5FvE20m/",
-   "timestamp": "2026-10-16T23:30:38+0000",
-   "type": "VIDEO",
-   "caption": "Your $10,000 bought $40,000 of stock. A 5 % drop cost you $2,000.",
-   "views": 1568,
-   "likes": 2,
-   "comments": 1
   }
  ]
 }
