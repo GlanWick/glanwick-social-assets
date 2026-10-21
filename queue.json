@@ -8452,7 +8452,7 @@
     {
       "id": "2026-10-22-ein-trade-sein-jahr",
       "slug": "stickman-onetradeyear",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-21T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onetradeyear.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onetradeyear-cover.jpg",
@@ -8463,7 +8463,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onetradeyear.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onetradeyear-cover.jpg"
       },
-      "posting_started_at": "2026-10-21T23:00:24.126Z"
+      "container_id": "18113845004136556",
+      "media_id": "18114683957521694",
+      "permalink": "https://www.instagram.com/reel/Dexid3-D8OO/",
+      "published_at": "2026-10-21T23:00:55.336Z"
     },
     {
       "id": "test-2026-10-21-plushundred",
