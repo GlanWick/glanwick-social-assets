@@ -8333,7 +8333,7 @@
     {
       "id": "test-2026-10-21-earningsnight",
       "slug": "stickman-earningsnight",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningsnight.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningsnight-cover.jpg",
@@ -8343,7 +8343,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: +20 % vor den Zahlen, -25 % danach. Traegt das Earnings-Thema?"
-      }
+      },
+      "posting_started_at": "2026-10-21T17:30:12.293Z"
     },
     {
       "id": "test-2026-10-21-sixmonths",
