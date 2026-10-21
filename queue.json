@@ -8347,7 +8347,16 @@
       "container_id": "18113810846136556",
       "media_id": "18116852315012659",
       "permalink": "https://www.instagram.com/reel/Dew8rmUCddn/",
-      "published_at": "2026-10-21T17:30:53.068Z"
+      "published_at": "2026-10-21T17:30:53.068Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 215,
+        "beitraege_nachher": 215,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T17:31:55.415Z"
+      }
     },
     {
       "id": "test-2026-10-21-sixmonths",
