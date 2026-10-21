@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T06:50:15.767Z",
+ "updated": "2026-10-21T07:50:27.262Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T06:50:16.723Z",
+  "checked": "2026-10-21T07:50:28.839Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-20",
-    "reach": 15669
+    "reach": 15962
    }
   ],
   "avg_watch_last_reels": 11
@@ -5722,9 +5722,25 @@
    "ts": "2026-10-21T06:50:15.767Z",
    "followers": 544,
    "media_count": 213
+  },
+  {
+   "ts": "2026-10-21T07:50:27.262Z",
+   "followers": 544,
+   "media_count": 213
   }
  ],
  "posts": [
+  {
+   "id": "17986572755892283",
+   "slug": "stickman-tentrades",
+   "permalink": "https://www.instagram.com/reel/Dev4CA_kuxT/",
+   "timestamp": "2026-10-21T07:30:54+0000",
+   "type": "VIDEO",
+   "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17993342988020577",
    "slug": "stickman-thirtyweeks",
@@ -5732,7 +5748,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 176,
+   "views": 499,
    "likes": 2,
    "comments": 1
   },
@@ -5743,8 +5759,8 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 976,
-   "likes": 10,
+   "views": 1387,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5754,8 +5770,8 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 991,
-   "likes": 10,
+   "views": 1157,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -5765,7 +5781,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1447,
+   "views": 1450,
    "likes": 9,
    "comments": 1
   },
@@ -5776,7 +5792,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1283,
+   "views": 1312,
    "likes": 11,
    "comments": 1
   },
@@ -5787,7 +5803,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1573,
+   "views": 1589,
    "likes": 17,
    "comments": 1
   },
@@ -5798,7 +5814,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1689,
+   "views": 1692,
    "likes": 10,
    "comments": 1
   },
@@ -5853,7 +5869,7 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 1580,
+   "views": 1585,
    "likes": 8,
    "comments": 1
   },
@@ -5886,7 +5902,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1856,
+   "views": 1857,
    "likes": 22,
    "comments": 1
   },
@@ -6153,17 +6169,6 @@
    "views": 2115,
    "likes": 26,
    "comments": 3
-  },
-  {
-   "id": "18154463974567163",
-   "slug": "stickman-sizeup",
-   "permalink": "https://www.instagram.com/reel/Dek7oYFjkgl/",
-   "timestamp": "2026-10-17T01:30:42+0000",
-   "type": "VIDEO",
-   "caption": "A +$1,000 week, so you doubled your size. Your normal −$500 week became −$1,000.",
-   "views": 1529,
-   "likes": 17,
-   "comments": 2
   }
  ]
 }
