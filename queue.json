@@ -8378,7 +8378,7 @@
     {
       "id": "test-2026-10-21-sixmonths",
       "slug": "stickman-sixmonths",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixmonths.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixmonths-cover.jpg",
@@ -8388,7 +8388,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit mit Geldbetrag: ein Trade gleich 6 Monate Sparen (kein Stundenlohn). Traegt der Vergleich mit dem Sparen?"
-      }
+      },
+      "posting_started_at": "2026-10-21T19:30:17.575Z"
     },
     {
       "id": "test-2026-10-21-holdtime",
