@@ -8283,7 +8283,16 @@
       "container_id": "18113793233136556",
       "media_id": "18631009726002025",
       "permalink": "https://www.instagram.com/reel/Dewu7afEtvx/",
-      "published_at": "2026-10-21T15:30:40.009Z"
+      "published_at": "2026-10-21T15:30:40.009Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 214,
+        "beitraege_nachher": 214,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T15:31:42.573Z"
+      }
     },
     {
       "id": "2026-10-21-neun-rettungen",
