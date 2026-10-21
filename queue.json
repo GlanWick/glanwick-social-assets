@@ -8493,7 +8493,16 @@
       "container_id": "18113847140136556",
       "media_id": "18115907354236180",
       "permalink": "https://www.instagram.com/reel/Dexl5m3Cf4o/",
-      "published_at": "2026-10-21T23:31:01.182Z"
+      "published_at": "2026-10-21T23:31:01.182Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 217,
+        "beitraege_nachher": 217,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T23:32:03.368Z"
+      }
     },
     {
       "id": "test-2026-10-22-leaderboard",
