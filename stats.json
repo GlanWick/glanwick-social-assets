@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T18:31:51.869Z",
+ "updated": "2026-10-21T19:33:04.307Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T18:31:54.212Z",
+  "checked": "2026-10-21T19:33:05.237Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,12 +34,12 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 544,
+  "followers": 545,
   "media_count": 215
  },
  "history": [
@@ -5782,9 +5782,25 @@
    "ts": "2026-10-21T18:31:51.869Z",
    "followers": 544,
    "media_count": 215
+  },
+  {
+   "ts": "2026-10-21T19:33:04.307Z",
+   "followers": 545,
+   "media_count": 215
   }
  ],
  "posts": [
+  {
+   "id": "18121794274741144",
+   "slug": "stickman-sixmonths",
+   "permalink": "https://www.instagram.com/reel/DexKho0kjH8/",
+   "timestamp": "2026-10-21T19:31:42+0000",
+   "type": "VIDEO",
+   "caption": "You save $400 a month, and one trade cost $2,400.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18116852315012659",
    "slug": "stickman-earningsnight",
@@ -5792,8 +5808,8 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 173,
-   "likes": 3,
+   "views": 351,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5803,8 +5819,8 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 187,
-   "likes": 3,
+   "views": 236,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5814,8 +5830,8 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 803,
-   "likes": 11,
+   "views": 1380,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -5825,8 +5841,8 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 302,
-   "likes": 3,
+   "views": 313,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5836,7 +5852,7 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1726,
+   "views": 1728,
    "likes": 9,
    "comments": 1
   },
@@ -5847,7 +5863,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1585,
+   "views": 1625,
    "likes": 10,
    "comments": 1
   },
@@ -5858,7 +5874,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 296,
+   "views": 299,
    "likes": 1,
    "comments": 1
   },
@@ -5869,7 +5885,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1493,
+   "views": 1496,
    "likes": 21,
    "comments": 1
   },
@@ -5891,7 +5907,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1481,
+   "views": 1484,
    "likes": 13,
    "comments": 1
   },
@@ -5902,7 +5918,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1497,
+   "views": 1502,
    "likes": 18,
    "comments": 1
   },
@@ -5913,7 +5929,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1486,
+   "views": 1489,
    "likes": 9,
    "comments": 1
   },
@@ -5924,7 +5940,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1361,
+   "views": 1366,
    "likes": 11,
    "comments": 1
   },
@@ -5935,7 +5951,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1748,
+   "views": 1755,
    "likes": 23,
    "comments": 1
   },
@@ -5957,7 +5973,7 @@
    "timestamp": "2026-10-20T19:31:02+0000",
    "type": "VIDEO",
    "caption": "Your month had 18 green days and 4 red ones, and it's $200 down.",
-   "views": 1537,
+   "views": 1538,
    "likes": 13,
    "comments": 1
   },
@@ -5968,7 +5984,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1585,
+   "views": 1586,
    "likes": 6,
    "comments": 1
   },
@@ -5979,7 +5995,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1701,
+   "views": 1702,
    "likes": 18,
    "comments": 1
   },
@@ -6067,7 +6083,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2107,
+   "views": 2108,
    "likes": 17,
    "comments": 1
   },
@@ -6122,7 +6138,7 @@
    "timestamp": "2026-10-19T19:31:14+0000",
    "type": "VIDEO",
    "caption": "You double after every loss, and 6 losses take $6,300 of your $10,000.",
-   "views": 1822,
+   "views": 1824,
    "likes": 4,
    "comments": 1
   },
@@ -6212,17 +6228,6 @@
    "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
    "views": 90,
    "likes": 4,
-   "comments": 1
-  },
-  {
-   "id": "18104893682358414",
-   "slug": "stickman-friday",
-   "permalink": "https://www.instagram.com/reel/Demb0BhAS7O/",
-   "timestamp": "2026-10-17T15:31:06+0000",
-   "type": "VIDEO",
-   "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
-   "views": 1577,
-   "likes": 16,
    "comments": 1
   }
  ]
