@@ -7640,6 +7640,10 @@
       "views_12h": {
         "views": 1832,
         "stunden": 12.62
+      },
+      "views_24h": {
+        "views": 1857,
+        "stunden": 24.31
       }
     },
     {
@@ -7882,7 +7886,11 @@
         "verdacht": false,
         "at": "2026-10-20T19:32:14.277Z"
       },
-      "kommentar_id": "18098234138416336"
+      "kommentar_id": "18098234138416336",
+      "views_12h": {
+        "views": 1501,
+        "stunden": 12.32
+      }
     },
     {
       "id": "2026-10-21-fuenf-verluste-folge",
