@@ -7499,6 +7499,10 @@
       "views_12h": {
         "views": 1453,
         "stunden": 12.79
+      },
+      "views_24h": {
+        "views": 1480,
+        "stunden": 24.47
       }
     },
     {
@@ -7740,7 +7744,11 @@
         "verdacht": false,
         "at": "2026-10-20T13:32:08.740Z"
       },
-      "kommentar_id": "17983582323094091"
+      "kommentar_id": "17983582323094091",
+      "views_12h": {
+        "views": 1575,
+        "stunden": 12.48
+      }
     },
     {
       "id": "test-2026-10-20-copyfee",
