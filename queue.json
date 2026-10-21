@@ -7805,6 +7805,10 @@
       "views_12h": {
         "views": 1290,
         "stunden": 12.48
+      },
+      "views_24h": {
+        "views": 1393,
+        "stunden": 24.17
       }
     },
     {
@@ -8092,7 +8096,11 @@
         "verdacht": false,
         "at": "2026-10-21T03:32:27.571Z"
       },
-      "kommentar_id": "18357308992171300"
+      "kommentar_id": "18357308992171300",
+      "views_12h": {
+        "views": 1467,
+        "stunden": 12.17
+      }
     },
     {
       "id": "test-2026-10-21-thirtyweeks",
