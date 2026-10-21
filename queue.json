@@ -8045,7 +8045,7 @@
     {
       "id": "test-2026-10-21-thirtyweeks",
       "slug": "stickman-thirtyweeks",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyweeks-cover.jpg",
@@ -8055,7 +8055,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus, als Optionsverkauf: 30 Wochen Praemie gegen eine Woche. Traegt das Optionsthema?"
-      }
+      },
+      "posting_started_at": "2026-10-21T05:30:15.342Z"
     },
     {
       "id": "test-2026-10-21-tentrades",
