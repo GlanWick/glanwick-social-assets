@@ -8086,7 +8086,7 @@
     {
       "id": "test-2026-10-21-tentrades",
       "slug": "stickman-tentrades",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tentrades.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tentrades-cover.jpg",
@@ -8096,7 +8096,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse ohne Margin: 1 % je Trade mal 10 Trades am Tag. Traegt die Tagesrechnung?"
-      }
+      },
+      "posting_started_at": "2026-10-21T07:30:20.494Z"
     },
     {
       "id": "test-2026-10-21-fartarget",
