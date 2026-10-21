@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-21T21:33:31.164Z",
+ "updated": "2026-10-21T22:33:30.213Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-21T21:33:32.263Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.8 s"
+  ],
+  "checked": "2026-10-21T22:33:31.432Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,13 +36,13 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 7.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 545,
-  "media_count": 215
+  "media_count": 216
  },
  "history": [
   {
@@ -5797,9 +5799,36 @@
    "ts": "2026-10-21T21:33:31.164Z",
    "followers": 545,
    "media_count": 215
+  },
+  {
+   "ts": "2026-10-21T22:33:30.213Z",
+   "followers": 545,
+   "media_count": 216
   }
  ],
  "posts": [
+  {
+   "id": "18152558761531538",
+   "slug": null,
+   "permalink": "https://www.instagram.com/p/DexdgB2u_5f/",
+   "timestamp": "2026-10-21T22:28:47+0000",
+   "type": "IMAGE",
+   "caption": "Your trading day starts long before the 9:30 open ☕",
+   "views": 18,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "18115473902106635",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DexZvB3uzgS/",
+   "timestamp": "2026-10-21T21:45:16+0000",
+   "type": "VIDEO",
+   "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
+   "views": 113,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18096440057647137",
    "slug": "stickman-holdtime",
@@ -5807,8 +5836,8 @@
    "timestamp": "2026-10-21T21:30:35+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 0,
-   "likes": 0,
+   "views": 432,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5818,8 +5847,8 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 429,
-   "likes": 4,
+   "views": 544,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -5829,8 +5858,8 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 749,
-   "likes": 6,
+   "views": 880,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5840,7 +5869,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 364,
+   "views": 388,
    "likes": 7,
    "comments": 1
   },
@@ -5851,7 +5880,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1395,
+   "views": 1398,
    "likes": 15,
    "comments": 1
   },
@@ -5862,7 +5891,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 342,
+   "views": 353,
    "likes": 4,
    "comments": 1
   },
@@ -5873,7 +5902,7 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1752,
+   "views": 1753,
    "likes": 11,
    "comments": 1
   },
@@ -5884,7 +5913,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1682,
+   "views": 1688,
    "likes": 10,
    "comments": 1
   },
@@ -5895,7 +5924,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 306,
+   "views": 308,
    "likes": 1,
    "comments": 1
   },
@@ -5917,7 +5946,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1422,
+   "views": 1425,
    "likes": 10,
    "comments": 2
   },
@@ -5928,7 +5957,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1498,
+   "views": 1499,
    "likes": 14,
    "comments": 1
   },
@@ -5939,7 +5968,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1519,
+   "views": 1524,
    "likes": 18,
    "comments": 1
   },
@@ -5972,7 +6001,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1761,
+   "views": 1762,
    "likes": 23,
    "comments": 1
   },
@@ -6027,7 +6056,7 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1395,
+   "views": 1396,
    "likes": 26,
    "comments": 1
   },
@@ -6104,7 +6133,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2109,
+   "views": 2112,
    "likes": 17,
    "comments": 1
   },
@@ -6217,28 +6246,6 @@
    "views": 655,
    "likes": 8,
    "comments": 1
-  },
-  {
-   "id": "18077557337478097",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DeovFaZuIeK/",
-   "timestamp": "2026-10-18T12:59:23+0000",
-   "type": "VIDEO",
-   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2299,
-   "likes": 28,
-   "comments": 4
-  },
-  {
-   "id": "18175805689457280",
-   "slug": "stickman-tenrow",
-   "permalink": "https://www.instagram.com/reel/DempoWGlA5F/",
-   "timestamp": "2026-10-17T17:31:52+0000",
-   "type": "VIDEO",
-   "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4841,
-   "likes": 39,
-   "comments": 2
   }
  ]
 }
