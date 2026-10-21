@@ -7981,7 +7981,7 @@
     {
       "id": "2026-10-21-zwoelf-geschlossen",
       "slug": "stickman-closedtwelve",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-closedtwelve.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-closedtwelve-cover.jpg",
@@ -7991,7 +7991,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-closedtwelve-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-21T02:30:15.074Z"
     },
     {
       "id": "test-2026-10-21-tenstreak",
