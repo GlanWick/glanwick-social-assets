@@ -8137,7 +8137,16 @@
       "container_id": "18113742323136556",
       "media_id": "18132553267689661",
       "permalink": "https://www.instagram.com/reel/DewFum2Dc6k/",
-      "published_at": "2026-10-21T09:30:43.176Z"
+      "published_at": "2026-10-21T09:30:43.176Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 213,
+        "beitraege_nachher": 213,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T09:31:44.984Z"
+      }
     },
     {
       "id": "test-2026-10-21-windue",
