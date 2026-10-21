@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T19:33:04.307Z",
+ "updated": "2026-10-21T20:33:11.648Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T19:33:05.237Z",
+  "checked": "2026-10-21T20:33:12.954Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,7 +34,7 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 8.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5787,6 +5787,11 @@
    "ts": "2026-10-21T19:33:04.307Z",
    "followers": 545,
    "media_count": 215
+  },
+  {
+   "ts": "2026-10-21T20:33:11.648Z",
+   "followers": 545,
+   "media_count": 215
   }
  ],
  "posts": [
@@ -5797,8 +5802,8 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 0,
-   "likes": 0,
+   "views": 261,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5808,7 +5813,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 351,
+   "views": 550,
    "likes": 6,
    "comments": 1
   },
@@ -5819,8 +5824,8 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 236,
-   "likes": 4,
+   "views": 305,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -5830,7 +5835,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1380,
+   "views": 1394,
    "likes": 15,
    "comments": 1
   },
@@ -5841,7 +5846,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 313,
+   "views": 327,
    "likes": 4,
    "comments": 1
   },
@@ -5852,8 +5857,8 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1728,
-   "likes": 9,
+   "views": 1746,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -5863,7 +5868,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1625,
+   "views": 1651,
    "likes": 10,
    "comments": 1
   },
@@ -5874,7 +5879,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 299,
+   "views": 303,
    "likes": 1,
    "comments": 1
   },
@@ -5885,7 +5890,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1496,
+   "views": 1506,
    "likes": 21,
    "comments": 1
   },
@@ -5907,7 +5912,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1484,
+   "views": 1486,
    "likes": 13,
    "comments": 1
   },
@@ -5918,7 +5923,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1502,
+   "views": 1513,
    "likes": 18,
    "comments": 1
   },
@@ -5929,7 +5934,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1489,
+   "views": 1490,
    "likes": 9,
    "comments": 1
   },
@@ -5940,7 +5945,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1366,
+   "views": 1368,
    "likes": 11,
    "comments": 1
   },
@@ -5951,7 +5956,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1755,
+   "views": 1760,
    "likes": 23,
    "comments": 1
   },
@@ -5984,7 +5989,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1586,
+   "views": 1587,
    "likes": 6,
    "comments": 1
   },
@@ -6006,7 +6011,7 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1394,
+   "views": 1395,
    "likes": 26,
    "comments": 1
   },
@@ -6050,7 +6055,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1864,
+   "views": 1865,
    "likes": 22,
    "comments": 1
   },
@@ -6061,7 +6066,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1972,
+   "views": 1995,
    "likes": 10,
    "comments": 1
   },
@@ -6083,7 +6088,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2108,
+   "views": 2109,
    "likes": 17,
    "comments": 1
   },
