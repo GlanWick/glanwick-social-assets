@@ -7986,6 +7986,10 @@
       "views_12h": {
         "views": 1695,
         "stunden": 12.33
+      },
+      "views_24h": {
+        "views": 1712,
+        "stunden": 24.04
       }
     },
     {
@@ -8211,7 +8215,11 @@
         "verdacht": false,
         "at": "2026-10-21T09:31:44.984Z"
       },
-      "kommentar_id": "17888898927478917"
+      "kommentar_id": "17888898927478917",
+      "views_12h": {
+        "views": 306,
+        "stunden": 12.05
+      }
     },
     {
       "id": "test-2026-10-21-windue",
