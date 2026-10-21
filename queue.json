@@ -8479,7 +8479,7 @@
     {
       "id": "test-2026-10-21-plushundred",
       "slug": "stickman-plushundred",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plushundred.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plushundred-cover.jpg",
@@ -8489,7 +8489,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln, sanfte Variante (+$100 je Verlust): 8 Verluste, Vergleich mit Verdoppeln und flach. Traegt die scheinbar sichere Variante?"
-      }
+      },
+      "posting_started_at": "2026-10-21T23:30:19.369Z"
     },
     {
       "id": "test-2026-10-22-leaderboard",
