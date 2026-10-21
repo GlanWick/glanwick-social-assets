@@ -8415,7 +8415,7 @@
     {
       "id": "test-2026-10-21-holdtime",
       "slug": "stickman-holdtime",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtime.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtime-cover.jpg",
@@ -8425,7 +8425,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: Haltedauer 8 Minuten gegen 2 Stunden. Traegt die Zeit als Aufhaenger?"
-      }
+      },
+      "posting_started_at": "2026-10-21T21:30:01.634Z"
     },
     {
       "id": "2026-10-22-ein-trade-sein-jahr",
