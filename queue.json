@@ -704,15 +704,18 @@
       "permalink": "https://www.instagram.com/reel/DdRe6YXDTIv/",
       "published_at": "2026-09-14T15:42:52.444Z",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "nr": 35,
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-stop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-stop-cover.jpg",
         "gestartet_at": "2026-10-21T17:41:08.120Z",
-        "stand": "2026-10-21T17:41:35.330Z",
+        "stand": "2026-10-21T17:42:19.928Z",
         "versuch": 1,
         "slot": "2026-10-21T17:00:00.000Z",
-        "post_id": "6ad8f93e224e0a6e13d82351"
+        "post_id": "6ad8f93e224e0a6e13d82351",
+        "published_at": "2026-10-21T17:41:49.842Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7699177530158319648"
       }
     },
     {
