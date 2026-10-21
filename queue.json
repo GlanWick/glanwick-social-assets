@@ -8174,7 +8174,16 @@
       "container_id": "18113757989136556",
       "media_id": "18090262793658324",
       "permalink": "https://www.instagram.com/reel/DewTmOpEpXA/",
-      "published_at": "2026-10-21T11:32:31.049Z"
+      "published_at": "2026-10-21T11:32:31.049Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 213,
+        "beitraege_nachher": 213,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T11:33:33.341Z"
+      }
     },
     {
       "id": "2026-10-21-plus-fuenfzig-einzahlung",
