@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T01:59:47.962Z",
+ "updated": "2026-10-21T02:59:48.992Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T01:59:49.202Z",
+  "checked": "2026-10-21T02:59:50.033Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-10-20",
-    "reach": 11937
+    "reach": 12581
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 13.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 543,
-  "media_count": 212
+  "media_count": 213
  },
  "history": [
   {
@@ -5697,9 +5697,25 @@
    "ts": "2026-10-21T01:59:47.962Z",
    "followers": 543,
    "media_count": 212
+  },
+  {
+   "ts": "2026-10-21T02:59:48.992Z",
+   "followers": 543,
+   "media_count": 213
   }
  ],
  "posts": [
+  {
+   "id": "17901099531672662",
+   "slug": "stickman-closedtwelve",
+   "permalink": "https://www.instagram.com/reel/DevVr_ulECI/",
+   "timestamp": "2026-10-21T02:30:48+0000",
+   "type": "VIDEO",
+   "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
+   "views": 80,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18116233850608354",
    "slug": "stickman-reddouble",
@@ -5707,8 +5723,8 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 51,
-   "likes": 0,
+   "views": 262,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5718,7 +5734,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 162,
+   "views": 199,
    "likes": 0,
    "comments": 1
   },
@@ -5729,8 +5745,8 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 555,
-   "likes": 4,
+   "views": 1073,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5740,7 +5756,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1686,
+   "views": 1687,
    "likes": 10,
    "comments": 1
   },
@@ -5762,7 +5778,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1549,
+   "views": 1550,
    "likes": 5,
    "comments": 1
   },
@@ -5773,7 +5789,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1689,
+   "views": 1690,
    "likes": 18,
    "comments": 1
   },
@@ -5784,8 +5800,8 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1159,
-   "likes": 20,
+   "views": 1236,
+   "likes": 22,
    "comments": 1
   },
   {
@@ -5795,7 +5811,7 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 1575,
+   "views": 1578,
    "likes": 8,
    "comments": 1
   },
@@ -5806,7 +5822,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1456,
+   "views": 1459,
    "likes": 12,
    "comments": 1
   },
@@ -5828,7 +5844,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1846,
+   "views": 1849,
    "likes": 21,
    "comments": 1
   },
@@ -5839,7 +5855,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1931,
+   "views": 1935,
    "likes": 10,
    "comments": 1
   },
@@ -5861,7 +5877,7 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2081,
+   "views": 2086,
    "likes": 17,
    "comments": 1
   },
@@ -5894,7 +5910,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1740,
+   "views": 1741,
    "likes": 11,
    "comments": 1
   },
@@ -5905,7 +5921,7 @@
    "timestamp": "2026-10-19T21:31:13+0000",
    "type": "VIDEO",
    "caption": "You won 20 trades in a row, lost 1, and you're down $100.",
-   "views": 1510,
+   "views": 1511,
    "likes": 14,
    "comments": 1
   },
@@ -5993,7 +6009,7 @@
    "timestamp": "2026-10-17T17:31:52+0000",
    "type": "VIDEO",
    "caption": "10 losses in a row leave $9,044 at 1 % risk, and $3,487 at 10 %.",
-   "views": 4835,
+   "views": 4836,
    "likes": 39,
    "comments": 2
   },
@@ -6092,7 +6108,7 @@
    "timestamp": "2026-10-17T02:30:36+0000",
    "type": "VIDEO",
    "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2114,
+   "views": 2115,
    "likes": 26,
    "comments": 3
   },
@@ -6127,17 +6143,6 @@
    "caption": "You doubled your shares at every $5 drop. At $35, you're down $5,500 on a trade ",
    "views": 1406,
    "likes": 11,
-   "comments": 1
-  },
-  {
-   "id": "18453940339124669",
-   "slug": "stickman-threeweeks",
-   "permalink": "https://www.instagram.com/reel/DekgM5MCV_e/",
-   "timestamp": "2026-10-16T21:30:53+0000",
-   "type": "VIDEO",
-   "caption": "3 weeks of trading made you $600. One trade with a moved stop lost it in 4 minut",
-   "views": 1511,
-   "likes": 15,
    "comments": 1
   }
  ]
