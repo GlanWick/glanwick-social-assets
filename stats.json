@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T20:33:11.648Z",
+ "updated": "2026-10-21T21:33:31.164Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T20:33:12.954Z",
+  "checked": "2026-10-21T21:33:32.263Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,7 +34,7 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5792,9 +5792,25 @@
    "ts": "2026-10-21T20:33:11.648Z",
    "followers": 545,
    "media_count": 215
+  },
+  {
+   "ts": "2026-10-21T21:33:31.164Z",
+   "followers": 545,
+   "media_count": 215
   }
  ],
  "posts": [
+  {
+   "id": "18096440057647137",
+   "slug": "stickman-holdtime",
+   "permalink": "https://www.instagram.com/reel/DexYIgagi0e/",
+   "timestamp": "2026-10-21T21:30:35+0000",
+   "type": "VIDEO",
+   "caption": "You win 7 trades in 10, and your month is $600 down.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18121794274741144",
    "slug": "stickman-sixmonths",
@@ -5802,8 +5818,8 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 261,
-   "likes": 2,
+   "views": 429,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5813,7 +5829,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 550,
+   "views": 749,
    "likes": 6,
    "comments": 1
   },
@@ -5824,8 +5840,8 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 305,
-   "likes": 6,
+   "views": 364,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5835,7 +5851,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1394,
+   "views": 1395,
    "likes": 15,
    "comments": 1
   },
@@ -5846,7 +5862,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 327,
+   "views": 342,
    "likes": 4,
    "comments": 1
   },
@@ -5857,7 +5873,7 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1746,
+   "views": 1752,
    "likes": 11,
    "comments": 1
   },
@@ -5868,7 +5884,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1651,
+   "views": 1682,
    "likes": 10,
    "comments": 1
   },
@@ -5879,7 +5895,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 303,
+   "views": 306,
    "likes": 1,
    "comments": 1
   },
@@ -5890,7 +5906,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1506,
+   "views": 1507,
    "likes": 21,
    "comments": 1
   },
@@ -5901,7 +5917,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1421,
+   "views": 1422,
    "likes": 10,
    "comments": 2
   },
@@ -5912,8 +5928,8 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1486,
-   "likes": 13,
+   "views": 1498,
+   "likes": 14,
    "comments": 1
   },
   {
@@ -5923,7 +5939,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1513,
+   "views": 1519,
    "likes": 18,
    "comments": 1
   },
@@ -5934,7 +5950,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1490,
+   "views": 1492,
    "likes": 9,
    "comments": 1
   },
@@ -5945,7 +5961,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1368,
+   "views": 1369,
    "likes": 11,
    "comments": 1
   },
@@ -5956,7 +5972,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1760,
+   "views": 1761,
    "likes": 23,
    "comments": 1
   },
@@ -6000,7 +6016,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1702,
+   "views": 1703,
    "likes": 18,
    "comments": 1
   },
@@ -6055,7 +6071,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1865,
+   "views": 1866,
    "likes": 22,
    "comments": 1
   },
@@ -6223,17 +6239,6 @@
    "views": 4841,
    "likes": 39,
    "comments": 2
-  },
-  {
-   "id": "18007845557785553",
-   "slug": "stickman-groupsignals",
-   "permalink": "https://www.instagram.com/reel/DemmDmBEypT/",
-   "timestamp": "2026-10-17T17:00:36+0000",
-   "type": "VIDEO",
-   "caption": "The group's 10 signals made $1,000. You took 6 of them and lost $450.",
-   "views": 90,
-   "likes": 4,
-   "comments": 1
   }
  ]
 }
