@@ -7677,6 +7677,10 @@
       "views_12h": {
         "views": 1528,
         "stunden": 12.65
+      },
+      "views_24h": {
+        "views": 1539,
+        "stunden": 24.34
       }
     },
     {
@@ -7946,7 +7950,11 @@
         "verdacht": false,
         "at": "2026-10-20T21:32:23.841Z"
       },
-      "kommentar_id": "18639926707050444"
+      "kommentar_id": "18639926707050444",
+      "views_12h": {
+        "views": 1695,
+        "stunden": 12.33
+      }
     },
     {
       "id": "test-2026-10-20-logthirty",
