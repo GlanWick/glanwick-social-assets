@@ -7878,6 +7878,10 @@
       "views_12h": {
         "views": 1559,
         "stunden": 12.49
+      },
+      "views_24h": {
+        "views": 1582,
+        "stunden": 24.19
       }
     },
     {
@@ -8134,7 +8138,11 @@
         "verdacht": false,
         "at": "2026-10-21T05:31:57.939Z"
       },
-      "kommentar_id": "18108517892617704"
+      "kommentar_id": "18108517892617704",
+      "views_12h": {
+        "views": 1420,
+        "stunden": 12.19
+      }
     },
     {
       "id": "test-2026-10-21-tentrades",
