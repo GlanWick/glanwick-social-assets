@@ -7944,7 +7944,7 @@
     {
       "id": "test-2026-10-21-reddouble",
       "slug": "stickman-reddouble",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-reddouble.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-reddouble-cover.jpg",
@@ -7954,7 +7954,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Verlust, je Tag statt je Trade: vier rote Tage, Gegenprobe halbe Groesse. Traegt der Tagesrhythmus?"
-      }
+      },
+      "posting_started_at": "2026-10-21T01:30:02.035Z"
     },
     {
       "id": "2026-10-21-zwoelf-geschlossen",
