@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T08:50:56.459Z",
+ "updated": "2026-10-21T09:51:10.879Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T08:50:57.566Z",
+  "checked": "2026-10-21T09:51:11.819Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -5732,9 +5732,25 @@
    "ts": "2026-10-21T08:50:56.459Z",
    "followers": 544,
    "media_count": 213
+  },
+  {
+   "ts": "2026-10-21T09:51:10.879Z",
+   "followers": 544,
+   "media_count": 213
   }
  ],
  "posts": [
+  {
+   "id": "18132553267689661",
+   "slug": "stickman-fartarget",
+   "permalink": "https://www.instagram.com/reel/DewFum2Dc6k/",
+   "timestamp": "2026-10-21T09:30:35+0000",
+   "type": "VIDEO",
+   "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17986572755892283",
    "slug": "stickman-tentrades",
@@ -5742,7 +5758,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 147,
+   "views": 179,
    "likes": 0,
    "comments": 1
   },
@@ -5753,8 +5769,8 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 801,
-   "likes": 5,
+   "views": 1226,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5764,7 +5780,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1392,
+   "views": 1410,
    "likes": 13,
    "comments": 1
   },
@@ -5775,7 +5791,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1403,
+   "views": 1421,
    "likes": 16,
    "comments": 1
   },
@@ -5786,7 +5802,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1452,
+   "views": 1457,
    "likes": 9,
    "comments": 1
   },
@@ -5797,7 +5813,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1317,
+   "views": 1324,
    "likes": 11,
    "comments": 1
   },
@@ -5808,7 +5824,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1616,
+   "views": 1628,
    "likes": 17,
    "comments": 1
   },
@@ -5819,7 +5835,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1693,
+   "views": 1695,
    "likes": 10,
    "comments": 1
   },
@@ -5830,8 +5846,8 @@
    "timestamp": "2026-10-20T19:31:02+0000",
    "type": "VIDEO",
    "caption": "Your month had 18 green days and 4 red ones, and it's $200 down.",
-   "views": 1505,
-   "likes": 12,
+   "views": 1511,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -5841,7 +5857,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1564,
+   "views": 1565,
    "likes": 6,
    "comments": 1
   },
@@ -5874,7 +5890,7 @@
    "timestamp": "2026-10-20T13:30:58+0000",
    "type": "VIDEO",
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
-   "views": 1585,
+   "views": 1586,
    "likes": 8,
    "comments": 1
   },
@@ -5885,7 +5901,7 @@
    "timestamp": "2026-10-20T11:31:07+0000",
    "type": "VIDEO",
    "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1460,
+   "views": 1462,
    "likes": 12,
    "comments": 1
   },
@@ -5907,7 +5923,7 @@
    "timestamp": "2026-10-20T07:31:45+0000",
    "type": "VIDEO",
    "caption": "You win 60 trades out of 100 and lose $3,000. A coin flip would be at $0.",
-   "views": 1861,
+   "views": 1864,
    "likes": 22,
    "comments": 1
   },
@@ -5918,7 +5934,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1958,
+   "views": 1960,
    "likes": 10,
    "comments": 1
   },
@@ -6163,17 +6179,6 @@
    "views": 2228,
    "likes": 11,
    "comments": 1
-  },
-  {
-   "id": "17975988264145395",
-   "slug": "stickman-fivethenone",
-   "permalink": "https://www.instagram.com/reel/DelCfIyDwC_/",
-   "timestamp": "2026-10-17T02:30:36+0000",
-   "type": "VIDEO",
-   "caption": "5 wins of +10 %, then one loss of −50 %: $10,000 becomes $8,053.",
-   "views": 2115,
-   "likes": 26,
-   "comments": 3
   }
  ]
 }
