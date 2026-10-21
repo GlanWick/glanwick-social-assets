@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T11:51:59.271Z",
+ "updated": "2026-10-21T12:41:09.469Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T11:52:00.544Z",
+  "checked": "2026-10-21T12:41:10.402Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-10-20",
-    "reach": 15962
+    "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 10.7
+  "avg_watch_last_reels": 8.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 544,
-  "media_count": 213
+  "media_count": 214
  },
  "history": [
   {
@@ -5747,9 +5747,25 @@
    "ts": "2026-10-21T11:51:59.271Z",
    "followers": 544,
    "media_count": 213
+  },
+  {
+   "ts": "2026-10-21T12:41:09.469Z",
+   "followers": 544,
+   "media_count": 214
   }
  ],
  "posts": [
+  {
+   "id": "18060591578539055",
+   "slug": "stickman-appfifty",
+   "permalink": "https://www.instagram.com/reel/DewW6jPFeu8/",
+   "timestamp": "2026-10-21T12:00:45+0000",
+   "type": "VIDEO",
+   "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
+   "views": 145,
+   "likes": 4,
+   "comments": 1
+  },
   {
    "id": "18090262793658324",
    "slug": "stickman-windue",
@@ -5757,7 +5773,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 0,
+   "views": 178,
    "likes": 0,
    "comments": 1
   },
@@ -5768,7 +5784,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 189,
+   "views": 204,
    "likes": 0,
    "comments": 1
   },
@@ -5779,8 +5795,8 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 691,
-   "likes": 5,
+   "views": 900,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5790,7 +5806,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1391,
+   "views": 1401,
    "likes": 9,
    "comments": 2
   },
@@ -5801,7 +5817,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1430,
+   "views": 1439,
    "likes": 13,
    "comments": 1
   },
@@ -5812,7 +5828,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1454,
+   "views": 1463,
    "likes": 18,
    "comments": 1
   },
@@ -5834,7 +5850,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1339,
+   "views": 1345,
    "likes": 11,
    "comments": 1
   },
@@ -5845,7 +5861,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1663,
+   "views": 1675,
    "likes": 19,
    "comments": 1
   },
@@ -5856,7 +5872,7 @@
    "timestamp": "2026-10-20T21:31:11+0000",
    "type": "VIDEO",
    "caption": "You won 81 trades, lost 5, and you're $950 down.",
-   "views": 1698,
+   "views": 1704,
    "likes": 10,
    "comments": 1
   },
@@ -5867,7 +5883,7 @@
    "timestamp": "2026-10-20T19:31:02+0000",
    "type": "VIDEO",
    "caption": "Your month had 18 green days and 4 red ones, and it's $200 down.",
-   "views": 1521,
+   "views": 1523,
    "likes": 13,
    "comments": 1
   },
@@ -5878,7 +5894,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1568,
+   "views": 1569,
    "likes": 6,
    "comments": 1
   },
@@ -5900,7 +5916,7 @@
    "timestamp": "2026-10-20T15:31:17+0000",
    "type": "VIDEO",
    "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1385,
+   "views": 1389,
    "likes": 25,
    "comments": 1
   },
@@ -5955,7 +5971,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1963,
+   "views": 1964,
    "likes": 10,
    "comments": 1
   },
@@ -5999,7 +6015,7 @@
    "timestamp": "2026-10-19T23:31:14+0000",
    "type": "VIDEO",
    "caption": "Same $10,000, same 10 losses. One account is at $0, the other at $9,000.",
-   "views": 1577,
+   "views": 1579,
    "likes": 14,
    "comments": 2
   },
@@ -6098,7 +6114,7 @@
    "timestamp": "2026-10-18T12:59:23+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites you to join our",
-   "views": 2298,
+   "views": 2299,
    "likes": 28,
    "comments": 4
   },
@@ -6177,17 +6193,6 @@
    "caption": "Your trades before 8 pm made $900. Your trades after 8 pm lost $1,100.",
    "views": 1346,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "18633354613043768",
-   "slug": "stickman-martinbank",
-   "permalink": "https://www.instagram.com/reel/DelXGKim9x9/",
-   "timestamp": "2026-10-17T05:30:50+0000",
-   "type": "VIDEO",
-   "caption": "Start at $50 and double after every loss. 8 losses in a row cost $12,750.",
-   "views": 2220,
-   "likes": 8,
    "comments": 1
   }
  ]
