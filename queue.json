@@ -8008,7 +8008,7 @@
     {
       "id": "test-2026-10-21-tenstreak",
       "slug": "stickman-tenstreak",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenstreak.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-tenstreak-cover.jpg",
@@ -8018,7 +8018,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Serie von 10 Gewinnen gegen Muenzwurf unter 1.000 Leuten. Traegt der Zufall als Wendung?"
-      }
+      },
+      "posting_started_at": "2026-10-21T03:30:14.361Z"
     },
     {
       "id": "test-2026-10-21-thirtyweeks",
