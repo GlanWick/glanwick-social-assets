@@ -8160,7 +8160,7 @@
     {
       "id": "test-2026-10-21-windue",
       "slug": "stickman-windue",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-windue.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-windue-cover.jpg",
@@ -8170,7 +8170,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F6 Groesse hoch nach Verlusten: dreifache Groesse, weil ein Gewinn faellig scheint. Traegt der Denkfehler als Aufhaenger?"
-      }
+      },
+      "posting_started_at": "2026-10-21T11:30:18.253Z"
     },
     {
       "id": "2026-10-21-plus-fuenfzig-einzahlung",
