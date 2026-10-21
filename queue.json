@@ -8242,7 +8242,16 @@
       "container_id": "18113774951136556",
       "media_id": "18017054762748102",
       "permalink": "https://www.instagram.com/reel/DewhTnEAntp/",
-      "published_at": "2026-10-21T13:31:47.767Z"
+      "published_at": "2026-10-21T13:31:47.767Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 214,
+        "beitraege_nachher": 214,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T13:32:49.919Z"
+      }
     },
     {
       "id": "test-2026-10-21-threecopies",
