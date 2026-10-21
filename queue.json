@@ -7566,6 +7566,10 @@
       "views_12h": {
         "views": 2103,
         "stunden": 12.81
+      },
+      "views_24h": {
+        "views": 2127,
+        "stunden": 24.48
       }
     },
     {
@@ -7777,7 +7781,11 @@
         "verdacht": false,
         "at": "2026-10-20T15:32:28.199Z"
       },
-      "kommentar_id": "17947509498074976"
+      "kommentar_id": "17947509498074976",
+      "views_12h": {
+        "views": 1290,
+        "stunden": 12.48
+      }
     },
     {
       "id": "2026-10-20-verkauf-nie-gepostet",
