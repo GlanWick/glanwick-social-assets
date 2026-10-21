@@ -8306,7 +8306,7 @@
     {
       "id": "2026-10-21-neun-rettungen",
       "slug": "stickman-ninesaves",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-21T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninesaves.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninesaves-cover.jpg",
@@ -8316,7 +8316,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninesaves.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-ninesaves-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-21T17:00:00.433Z"
     },
     {
       "id": "test-2026-10-21-earningsnight",
