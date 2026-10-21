@@ -8100,7 +8100,16 @@
       "container_id": "18113730536136556",
       "media_id": "17986572755892283",
       "permalink": "https://www.instagram.com/reel/Dev4CA_kuxT/",
-      "published_at": "2026-10-21T07:31:00.257Z"
+      "published_at": "2026-10-21T07:31:00.257Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 213,
+        "beitraege_nachher": 213,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-21T07:32:02.288Z"
+      }
     },
     {
       "id": "test-2026-10-21-fartarget",
