@@ -8269,7 +8269,7 @@
     {
       "id": "test-2026-10-21-threecopies",
       "slug": "stickman-threecopies",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-21T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threecopies.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-threecopies-cover.jpg",
@@ -8280,7 +8280,10 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: drei kopierte Trader im selben Coin. Traegt die Streuung, die nur eine Position ist?"
       },
-      "posting_started_at": "2026-10-21T15:30:01.467Z"
+      "container_id": "18113793233136556",
+      "media_id": "18631009726002025",
+      "permalink": "https://www.instagram.com/reel/Dewu7afEtvx/",
+      "published_at": "2026-10-21T15:30:40.009Z"
     },
     {
       "id": "2026-10-21-neun-rettungen",
