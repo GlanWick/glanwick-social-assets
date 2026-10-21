@@ -7603,6 +7603,10 @@
       "views_12h": {
         "views": 1897,
         "stunden": 12.83
+      },
+      "views_24h": {
+        "views": 1954,
+        "stunden": 24.49
       }
     },
     {
@@ -7812,7 +7816,11 @@
       "media_id": "18140584192623324",
       "permalink": "https://www.instagram.com/reel/DeuUbcbDS2f/",
       "published_at": "2026-10-20T17:00:41.220Z",
-      "kommentar_id": "18416428393087309"
+      "kommentar_id": "18416428393087309",
+      "views_12h": {
+        "views": 1694,
+        "stunden": 13
+      }
     },
     {
       "id": "test-2026-10-20-tenten",
@@ -7841,7 +7849,11 @@
         "verdacht": false,
         "at": "2026-10-20T17:31:52.149Z"
       },
-      "kommentar_id": "18098270609538576"
+      "kommentar_id": "18098270609538576",
+      "views_12h": {
+        "views": 1559,
+        "stunden": 12.49
+      }
     },
     {
       "id": "test-2026-10-20-eighteenfour",
