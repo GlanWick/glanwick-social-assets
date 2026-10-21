@@ -7918,6 +7918,10 @@
       "views_12h": {
         "views": 1501,
         "stunden": 12.32
+      },
+      "views_24h": {
+        "views": 1538,
+        "stunden": 24.03
       }
     },
     {
@@ -8174,7 +8178,11 @@
         "verdacht": false,
         "at": "2026-10-21T07:32:02.288Z"
       },
-      "kommentar_id": "18114473990148915"
+      "kommentar_id": "18114473990148915",
+      "views_12h": {
+        "views": 1496,
+        "stunden": 12.04
+      }
     },
     {
       "id": "test-2026-10-21-fartarget",
