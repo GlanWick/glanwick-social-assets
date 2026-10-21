@@ -8123,7 +8123,7 @@
     {
       "id": "test-2026-10-21-fartarget",
       "slug": "stickman-fartarget",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-21T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fartarget.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fartarget-cover.jpg",
@@ -8134,7 +8134,10 @@
         "bild": "neu",
         "frage": "F7 Kursziel zu weit weg (neues Thema, neue Bilder): 5-faches Ziel, 1 von 10 erreicht es. Traegt das Ziel als Thema?"
       },
-      "posting_started_at": "2026-10-21T09:30:01.676Z"
+      "container_id": "18113742323136556",
+      "media_id": "18132553267689661",
+      "permalink": "https://www.instagram.com/reel/DewFum2Dc6k/",
+      "published_at": "2026-10-21T09:30:43.176Z"
     },
     {
       "id": "test-2026-10-21-windue",
