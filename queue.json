@@ -8023,6 +8023,10 @@
       "views_12h": {
         "views": 1339,
         "stunden": 12.35
+      },
+      "views_24h": {
+        "views": 1369,
+        "stunden": 24.05
       }
     },
     {
@@ -8248,7 +8252,11 @@
         "verdacht": false,
         "at": "2026-10-21T11:33:33.341Z"
       },
-      "kommentar_id": "18016503734968878"
+      "kommentar_id": "18016503734968878",
+      "views_12h": {
+        "views": 1700,
+        "stunden": 12.02
+      }
     },
     {
       "id": "2026-10-21-plus-fuenfzig-einzahlung",
