@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T16:41:39.397Z",
+ "updated": "2026-10-21T17:42:15.139Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-21T16:41:40.369Z",
+  "checked": "2026-10-21T17:42:16.334Z",
   "reach_days": [
    {
     "day": "2026-10-14",
@@ -34,13 +34,13 @@
     "reach": 15973
    }
   ],
-  "avg_watch_last_reels": 9.8
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 544,
-  "media_count": 214
+  "media_count": 215
  },
  "history": [
   {
@@ -5772,9 +5772,36 @@
    "ts": "2026-10-21T16:41:39.397Z",
    "followers": 544,
    "media_count": 214
+  },
+  {
+   "ts": "2026-10-21T17:42:15.139Z",
+   "followers": 544,
+   "media_count": 215
   }
  ],
  "posts": [
+  {
+   "id": "18116852315012659",
+   "slug": "stickman-earningsnight",
+   "permalink": "https://www.instagram.com/reel/Dew8rmUCddn/",
+   "timestamp": "2026-10-21T17:30:45+0000",
+   "type": "VIDEO",
+   "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "17890743363619210",
+   "slug": "stickman-ninesaves",
+   "permalink": "https://www.instagram.com/reel/Dew5OPCj59V/",
+   "timestamp": "2026-10-21T17:00:34+0000",
+   "type": "VIDEO",
+   "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
+   "views": 124,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18631009726002025",
    "slug": "stickman-threecopies",
@@ -5782,8 +5809,8 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 330,
-   "likes": 5,
+   "views": 520,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5793,8 +5820,8 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 272,
-   "likes": 1,
+   "views": 283,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5804,7 +5831,7 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1700,
+   "views": 1711,
    "likes": 9,
    "comments": 1
   },
@@ -5815,8 +5842,8 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 892,
-   "likes": 6,
+   "views": 1286,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -5826,8 +5853,8 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 279,
-   "likes": 0,
+   "views": 289,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5837,7 +5864,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1481,
+   "views": 1488,
    "likes": 21,
    "comments": 1
   },
@@ -5848,7 +5875,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1418,
+   "views": 1420,
    "likes": 10,
    "comments": 2
   },
@@ -5859,7 +5886,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1477,
+   "views": 1479,
    "likes": 13,
    "comments": 1
   },
@@ -5870,7 +5897,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1490,
+   "views": 1495,
    "likes": 18,
    "comments": 1
   },
@@ -5881,7 +5908,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1480,
+   "views": 1481,
    "likes": 9,
    "comments": 1
   },
@@ -5892,7 +5919,7 @@
    "timestamp": "2026-10-20T23:31:01+0000",
    "type": "VIDEO",
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
-   "views": 1357,
+   "views": 1360,
    "likes": 11,
    "comments": 1
   },
@@ -5903,7 +5930,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1739,
+   "views": 1742,
    "likes": 23,
    "comments": 1
   },
@@ -5936,7 +5963,7 @@
    "timestamp": "2026-10-20T17:30:42+0000",
    "type": "VIDEO",
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
-   "views": 1574,
+   "views": 1582,
    "likes": 6,
    "comments": 1
   },
@@ -6013,7 +6040,7 @@
    "timestamp": "2026-10-20T05:30:43+0000",
    "type": "VIDEO",
    "caption": "Your account averages +25 % a year, and you still have the $10,000 you started w",
-   "views": 1969,
+   "views": 1972,
    "likes": 10,
    "comments": 1
   },
@@ -6024,7 +6051,7 @@
    "timestamp": "2026-10-20T03:31:06+0000",
    "type": "VIDEO",
    "caption": "He lost 5 % on 5 trades. You copied the same 5 and lost half your account.",
-   "views": 2130,
+   "views": 2131,
    "likes": 11,
    "comments": 1
   },
@@ -6068,7 +6095,7 @@
    "timestamp": "2026-10-19T23:00:38+0000",
    "type": "VIDEO",
    "caption": "You win 70 trades out of 100 and lose $2,000.",
-   "views": 1742,
+   "views": 1743,
    "likes": 11,
    "comments": 1
   },
@@ -6191,28 +6218,6 @@
    "caption": "Monday to Thursday: +$1,200. Friday afternoon: −$1,500.",
    "views": 1577,
    "likes": 16,
-   "comments": 1
-  },
-  {
-   "id": "18031226444684713",
-   "slug": "stickman-coin40",
-   "permalink": "https://www.instagram.com/reel/DemOHbLkmym/",
-   "timestamp": "2026-10-17T13:31:24+0000",
-   "type": "VIDEO",
-   "caption": "22 wins in 40 trades made you +$400. 1 coin in 3 does the same.",
-   "views": 1617,
-   "likes": 8,
-   "comments": 1
-  },
-  {
-   "id": "18286423081295230",
-   "slug": "stickman-fiftyweeks",
-   "permalink": "https://www.instagram.com/reel/DemATJ1DbEX/",
-   "timestamp": "2026-10-17T11:30:45+0000",
-   "type": "VIDEO",
-   "caption": "50 weeks at +1 % and 2 weeks at −25 %: $10,000 becomes $9,251.",
-   "views": 1494,
-   "likes": 23,
    "comments": 1
   }
  ]
