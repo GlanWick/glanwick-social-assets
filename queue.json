@@ -9260,7 +9260,7 @@
     {
       "id": "test-2026-10-22-fellseventy",
       "slug": "stickman-fellseventy",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T23:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fellseventy.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fellseventy-cover.jpg",
@@ -9271,7 +9271,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: -70 %, dann verdoppelt, und das Konto steht bei -40 %. Traegt die Verdopplung, die nicht reicht?"
       },
-      "posting_started_at": "2026-10-22T23:32:05.184Z"
+      "container_id": "18114005861136556",
+      "media_id": "18125713954686810",
+      "permalink": "https://www.instagram.com/reel/De0K4wojSab/",
+      "published_at": "2026-10-22T23:32:45.600Z"
     },
     {
       "id": "test-2026-10-23-threeinfour",
