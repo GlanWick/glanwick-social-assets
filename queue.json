@@ -8534,7 +8534,16 @@
       "container_id": "18113856332136556",
       "media_id": "17913685527508228",
       "permalink": "https://www.instagram.com/reel/DexzuDfnQJm/",
-      "published_at": "2026-10-22T01:31:47.039Z"
+      "published_at": "2026-10-22T01:31:47.039Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 217,
+        "beitraege_nachher": 217,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T01:32:48.762Z"
+      }
     },
     {
       "id": "2026-10-22-sechs-verluste-zwei-konten",
