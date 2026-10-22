@@ -8060,6 +8060,10 @@
       "views_12h": {
         "views": 1466,
         "stunden": 12.18
+      },
+      "views_24h": {
+        "views": 1495,
+        "stunden": 24.88
       }
     },
     {
@@ -8316,7 +8320,11 @@
         "verdacht": false,
         "at": "2026-10-21T13:32:49.919Z"
       },
-      "kommentar_id": "18638164693000794"
+      "kommentar_id": "18638164693000794",
+      "views_12h": {
+        "views": 375,
+        "stunden": 12.86
+      }
     },
     {
       "id": "test-2026-10-21-threecopies",
