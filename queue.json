@@ -9071,7 +9071,16 @@
       "container_id": "18114000098136556",
       "media_id": "18135554680677754",
       "permalink": "https://www.instagram.com/reel/De0D7HHDMmd/",
-      "published_at": "2026-10-22T22:31:51.831Z"
+      "published_at": "2026-10-22T22:31:51.831Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 219,
+        "beitraege_nachher": 219,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T22:32:53.560Z"
+      }
     },
     {
       "id": "laptop-2026-10-22-r1-c-chill",
