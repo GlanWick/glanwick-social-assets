@@ -9240,12 +9240,13 @@
       "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.\n\nHow? You had 8 trades open at the same time, each one risking 2 %.\nWhat happened on Friday? They moved together, and all 8 stops hit on the same day.\nWhat did that cost? 8 times 2 % is 16 %. On $10,000, that's $1,600 in one day.\nSo what was your real risk? One trade at 16 %, split into 8 tickets.\n\nBefore you open a new trade, add up the risk of every open trade in your journal. Above 6 %, wait.\n\nFree journal, link in bio.\n\nSome traders count risk per trade and never add up what is open at once.\n\nHow much of your account is at risk right now?\n\nPart 125 of the series. Part 126: the stock went up 5 % and fell back to your entry, and you're $476 down.\n\n#riskmanagement #positionsizing #swingtrading #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "posting",
+        "status": "submitted",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-openrisk.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-openrisk-cover.jpg",
         "gestartet_at": "2026-10-22T23:00:58.663Z",
-        "stand": "2026-10-22T23:00:58.663Z",
-        "versuch": 1
+        "stand": "2026-10-22T23:01:19.027Z",
+        "versuch": 1,
+        "post_id": "6ada95ae8e49acb4972e16d2"
       },
       "container_id": "18114002912136556",
       "media_id": "18117168842095696",
