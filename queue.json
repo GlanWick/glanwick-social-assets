@@ -9233,7 +9233,7 @@
     {
       "id": "2026-10-22-offenes-risiko",
       "slug": "stickman-openrisk",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-openrisk.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-openrisk-cover.jpg",
@@ -9244,7 +9244,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-openrisk.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-openrisk-cover.jpg"
       },
-      "posting_started_at": "2026-10-22T23:00:16.819Z"
+      "container_id": "18114002912136556",
+      "media_id": "18117168842095696",
+      "permalink": "https://www.instagram.com/reel/De0HP9hjlT-/",
+      "published_at": "2026-10-22T23:00:55.535Z"
     },
     {
       "id": "test-2026-10-22-fellseventy",
