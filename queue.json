@@ -8676,7 +8676,16 @@
       "container_id": "18113890055136556",
       "media_id": "18078849749419150",
       "permalink": "https://www.instagram.com/reel/DeyczmwDBz0/",
-      "published_at": "2026-10-22T07:30:53.223Z"
+      "published_at": "2026-10-22T07:30:53.223Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T07:31:55.075Z"
+      }
     },
     {
       "id": "test-2026-10-22-noceiling",
