@@ -8662,7 +8662,7 @@
     {
       "id": "test-2026-10-22-bytuesday",
       "slug": "stickman-bytuesday",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bytuesday.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-bytuesday-cover.jpg",
@@ -8673,7 +8673,10 @@
         "bild": "bibliothek",
         "frage": "F4 Verlust in Zeit: Wochenziel am Dienstag erreicht, drei Tage geben alles zurueck. Traegt die Woche als Zeiteinheit?"
       },
-      "posting_started_at": "2026-10-22T07:30:10.380Z"
+      "container_id": "18113890055136556",
+      "media_id": "18078849749419150",
+      "permalink": "https://www.instagram.com/reel/DeyczmwDBz0/",
+      "published_at": "2026-10-22T07:30:53.223Z"
     },
     {
       "id": "test-2026-10-22-noceiling",
