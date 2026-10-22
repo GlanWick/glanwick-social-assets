@@ -8795,7 +8795,7 @@
     {
       "id": "test-2026-10-22-fifteenshots",
       "slug": "stickman-fifteenshots",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenshots.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenshots-cover.jpg",
@@ -8805,7 +8805,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus, mit der Screenshot-Galerie. Traegt die Galerie als Bild?"
-      }
+      },
+      "posting_started_at": "2026-10-22T13:30:19.011Z"
     },
     {
       "id": "test-2026-10-22-holdtwoyears",
