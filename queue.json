@@ -8760,7 +8760,7 @@
     {
       "id": "2026-10-22-plus-und-durchgefallen",
       "slug": "stickman-upandfailed",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-upandfailed.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-upandfailed-cover.jpg",
@@ -8771,7 +8771,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed-cover.jpg"
       },
-      "posting_started_at": "2026-10-22T12:00:09.886Z"
+      "container_id": "18113915150136556",
+      "media_id": "17993005629101815",
+      "permalink": "https://www.instagram.com/reel/Dey7yVulJTk/",
+      "published_at": "2026-10-22T12:01:34.271Z"
     },
     {
       "id": "test-2026-10-22-fifteenshots",
