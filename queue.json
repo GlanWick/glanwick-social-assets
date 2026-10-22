@@ -8598,7 +8598,16 @@
       "container_id": "18113867819136556",
       "media_id": "18117867329276810",
       "permalink": "https://www.instagram.com/reel/DeyBWR5k4-f/",
-      "published_at": "2026-10-22T03:30:50.502Z"
+      "published_at": "2026-10-22T03:30:50.502Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T03:31:52.169Z"
+      }
     },
     {
       "id": "test-2026-10-22-thirtyforty",
