@@ -8625,7 +8625,7 @@
     {
       "id": "test-2026-10-22-thirtyforty",
       "slug": "stickman-thirtyforty",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyforty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-thirtyforty-cover.jpg",
@@ -8635,7 +8635,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus: Gewinner zu frueh abgesaegt, 30 von 40. Traegt der Aufhaenger mit 40 Trades?"
-      }
+      },
+      "posting_started_at": "2026-10-22T05:30:12.570Z"
     },
     {
       "id": "test-2026-10-22-bytuesday",
