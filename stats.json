@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-22T02:23:34.954Z",
+ "updated": "2026-10-22T03:23:35.233Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-22T02:23:36.178Z",
+  "checked": "2026-10-22T03:23:36.019Z",
   "reach_days": [
    {
     "day": "2026-10-15",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-10-21",
-    "reach": 10277
+    "reach": 11093
    }
   ],
-  "avg_watch_last_reels": 9.7
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 545,
-  "media_count": 217
+  "media_count": 218
  },
  "history": [
   {
@@ -5822,9 +5822,25 @@
    "ts": "2026-10-22T02:23:34.954Z",
    "followers": 545,
    "media_count": 217
+  },
+  {
+   "ts": "2026-10-22T03:23:35.233Z",
+   "followers": 545,
+   "media_count": 218
   }
  ],
  "posts": [
+  {
+   "id": "18102278375375454",
+   "slug": "stickman-sixlosses",
+   "permalink": "https://www.instagram.com/reel/Dex6eqRDzYM/",
+   "timestamp": "2026-10-22T02:30:47+0000",
+   "type": "VIDEO",
+   "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
+   "views": 151,
+   "likes": 3,
+   "comments": 1
+  },
   {
    "id": "17913685527508228",
    "slug": "stickman-leaderboard",
@@ -5832,8 +5848,8 @@
    "timestamp": "2026-10-22T01:31:40+0000",
    "type": "VIDEO",
    "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 138,
-   "likes": 1,
+   "views": 190,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -5843,8 +5859,8 @@
    "timestamp": "2026-10-21T23:30:53+0000",
    "type": "VIDEO",
    "caption": "You raised your size by $100 after every loss, and 8 losses in a row cost $3,600",
-   "views": 890,
-   "likes": 5,
+   "views": 1294,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5854,8 +5870,8 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 1296,
-   "likes": 17,
+   "views": 1774,
+   "likes": 23,
    "comments": 1
   },
   {
@@ -5865,7 +5881,7 @@
    "timestamp": "2026-10-21T22:28:47+0000",
    "type": "IMAGE",
    "caption": "Your trading day starts long before the 9:30 open ☕",
-   "views": 47,
+   "views": 53,
    "likes": 3,
    "comments": 0
   },
@@ -5876,8 +5892,8 @@
    "timestamp": "2026-10-21T21:45:16+0000",
    "type": "VIDEO",
    "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
-   "views": 494,
-   "likes": 4,
+   "views": 643,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -5887,7 +5903,7 @@
    "timestamp": "2026-10-21T21:30:35+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 950,
+   "views": 963,
    "likes": 8,
    "comments": 1
   },
@@ -5898,7 +5914,7 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 678,
+   "views": 702,
    "likes": 8,
    "comments": 1
   },
@@ -5909,7 +5925,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 1371,
+   "views": 1384,
    "likes": 15,
    "comments": 1
   },
@@ -5920,7 +5936,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 442,
+   "views": 459,
    "likes": 7,
    "comments": 1
   },
@@ -5942,7 +5958,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 375,
+   "views": 385,
    "likes": 4,
    "comments": 2
   },
@@ -5964,7 +5980,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1710,
+   "views": 1714,
    "likes": 10,
    "comments": 1
   },
@@ -5997,7 +6013,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1425,
+   "views": 1426,
    "likes": 10,
    "comments": 2
   },
@@ -6008,7 +6024,7 @@
    "timestamp": "2026-10-21T03:31:18+0000",
    "type": "VIDEO",
    "caption": "He won 10 trades in a row. You copied his next 10 and lost $200.",
-   "views": 1502,
+   "views": 1503,
    "likes": 14,
    "comments": 1
   },
@@ -6019,7 +6035,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1538,
+   "views": 1539,
    "likes": 18,
    "comments": 1
   },
@@ -6096,7 +6112,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1705,
+   "views": 1706,
    "likes": 18,
    "comments": 1
   },
@@ -6252,17 +6268,6 @@
    "caption": "He's up 26 % this year. You copied him and you're down 30 %.",
    "views": 1574,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "18129067597795142",
-   "slug": "stickman-sixtyfour",
-   "permalink": "https://www.instagram.com/reel/DervsIPiIoL/",
-   "timestamp": "2026-10-19T17:01:00+0000",
-   "type": "VIDEO",
-   "caption": "63 rounds made you $630. 1 round took all of it.",
-   "views": 1522,
-   "likes": 22,
    "comments": 1
   }
  ]
