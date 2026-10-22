@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:00:24.817Z",
+  "generated_at": "2026-10-22T17:32:10.772Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -8770,10 +8770,11 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Gewinn (doublewin-Muster) je Woche. Traegt die Wiederholung des doublewin-Musters?"
       },
-      "container_id": "18113912585136556",
       "media_id": "17993639961050936",
       "permalink": "https://www.instagram.com/reel/Dey4TtfDC88/",
       "published_at": "2026-10-22T11:31:10.812Z",
+      "container_id": "18113912585136556",
+      "kommentar_id": "17908806777570114",
       "trial_pruefung": {
         "beitraege_vorher": 218,
         "beitraege_nachher": 218,
@@ -8782,8 +8783,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-22T11:32:12.766Z"
-      },
-      "kommentar_id": "17908806777570114"
+      }
     },
     {
       "id": "2026-10-22-plus-und-durchgefallen",
@@ -8798,18 +8798,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-upandfailed-cover.jpg",
-        "gestartet_at": "2026-10-22T12:01:38.802Z",
-        "stand": "2026-10-22T12:03:07.291Z",
-        "versuch": 1,
         "post_id": "6ad9fb28b51e186b29d289c1",
-        "published_at": "2026-10-22T12:02:11.426Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7699461276182891809",
-        "plattform_id": "7699461276182891809"
+        "plattform_id": "7699461276182891809",
+        "published_at": "2026-10-22T12:02:11.426Z",
+        "gestartet_at": "2026-10-22T12:01:38.802Z",
+        "stand": "2026-10-22T12:03:07.291Z"
       },
-      "container_id": "18113915150136556",
       "media_id": "17993005629101815",
       "permalink": "https://www.instagram.com/reel/Dey7yVulJTk/",
       "published_at": "2026-10-22T12:01:34.271Z",
+      "container_id": "18113915150136556",
       "kommentar_id": "18423236851152900"
     },
     {
@@ -8826,10 +8825,11 @@
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus, mit der Screenshot-Galerie. Traegt die Galerie als Bild?"
       },
-      "container_id": "18113928479136556",
       "media_id": "17905528464350548",
       "permalink": "https://www.instagram.com/reel/DezGBd0Aeh_/",
       "published_at": "2026-10-22T13:31:00.340Z",
+      "container_id": "18113928479136556",
+      "kommentar_id": "18218358544351427",
       "trial_pruefung": {
         "beitraege_vorher": 218,
         "beitraege_nachher": 218,
@@ -8838,8 +8838,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-22T13:32:02.545Z"
-      },
-      "kommentar_id": "18218358544351427"
+      }
     },
     {
       "id": "test-2026-10-22-holdtwoyears",
@@ -8855,10 +8854,11 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: einen Anleger kopiert, mit eigenem Stop. Traegt der Unterschied im Zeitplan?"
       },
-      "container_id": "18113947187136556",
       "media_id": "18134853734496909",
       "permalink": "https://www.instagram.com/reel/DezTxp7DFjG/",
       "published_at": "2026-10-22T15:31:12.068Z",
+      "container_id": "18113947187136556",
+      "kommentar_id": "18470197528189936",
       "trial_pruefung": {
         "beitraege_vorher": 218,
         "beitraege_nachher": 218,
@@ -8867,8 +8867,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-22T15:32:14.420Z"
-      },
-      "kommentar_id": "18470197528189936"
+      }
     },
     {
       "id": "2026-10-22-fuenfzehn-minuten",
@@ -8883,18 +8882,17 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes-cover.jpg",
-        "gestartet_at": "2026-10-22T17:01:31.653Z",
-        "stand": "2026-10-22T17:02:59.718Z",
-        "versuch": 1,
         "post_id": "6ada4171b62996e55ffc092a",
-        "published_at": "2026-10-22T17:02:03.416Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7699538558738058528",
-        "plattform_id": "7699538558738058528"
+        "plattform_id": "7699538558738058528",
+        "published_at": "2026-10-22T17:02:03.416Z",
+        "gestartet_at": "2026-10-22T17:01:31.653Z",
+        "stand": "2026-10-22T17:02:59.718Z"
       },
-      "container_id": "18113957828136556",
       "media_id": "18146623189601317",
       "permalink": "https://www.instagram.com/reel/DezeENACHjk/",
       "published_at": "2026-10-22T17:01:25.316Z",
+      "container_id": "18113957828136556",
       "kommentar_id": "18118275517990008"
     },
     {
@@ -8911,10 +8909,11 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: 12 % Zinsen im Jahr auf geliehenes Geld gegen den Handelsgewinn (Zins, keine Hebelmechanik). Traegt die Zinsrechnung?"
       },
-      "container_id": "18113963630136556",
       "media_id": "17976558510147093",
       "permalink": "https://www.instagram.com/reel/DezhdxCionz/",
       "published_at": "2026-10-22T17:30:46.472Z",
+      "container_id": "18113963630136556",
+      "kommentar_id": "18107208140209044",
       "trial_pruefung": {
         "beitraege_vorher": 219,
         "beitraege_nachher": 219,
@@ -8923,8 +8922,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-22T17:31:48.971Z"
-      },
-      "kommentar_id": "18107208140209044"
+      }
     },
     {
       "id": "test-2026-10-22-fivepercentstop",
@@ -8954,6 +8952,195 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Kehrseite: weniger Gewinner, trotzdem plus. Traegt die positive Umkehrung?"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r1-a-tech",
+      "slug": "glanwick-laptop-r1-A-tech-11s8",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T18:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-A-tech-11s8.mp4",
+      "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play historical candles back, in the same place as your journal.\n\nComment “Journal” and/or tell us the trade you'd take back if you could ⏪\n\n#tradingjournal #barreplay #daytrading #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 1,
+        "hook": "Bro: journaling is dead",
+        "stil": "tech",
+        "track": "Deep Urban (Eugenio Mininni, Mixkit 623)",
+        "label": "Bar Replay",
+        "laenge_s": 11.8,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r1-b-western",
+      "slug": "glanwick-laptop-r1-B-western-10s6",
+      "status": "ready",
+      "scheduled_at": "2026-10-22T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-B-western-10s6.mp4",
+      "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator at @glanwick_com, you practice with fees and slippage, next to your journal.\n\nComment “Journal” and/or tell us which setup you'd test first 🧪\n\n#tradingjournal #papertrading #daytrader #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 1,
+        "hook": "Bro: journaling is dead",
+        "stil": "western",
+        "track": "At the Barn (Michael Ramir C., Mixkit 789)",
+        "label": "Trade Simulator",
+        "laenge_s": 10.6,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r1-c-chill",
+      "slug": "glanwick-laptop-r1-C-chill-9s4",
+      "status": "ready",
+      "scheduled_at": "2026-10-23T11:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-C-chill-9s4.mp4",
+      "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to see when Tokyo, Frankfurt, London and New York open in your time zone.\n\nComment “Journal” and/or tell us which market open you never miss 🔔\n\n#tradingjournal #daytrading #tradingtools #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 1,
+        "hook": "Bro: journaling is dead",
+        "stil": "chill",
+        "track": "Sweet September (Arulo, Mixkit 282)",
+        "label": "Global Trading Hours",
+        "laenge_s": 9.4,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r2-c-chill",
+      "slug": "glanwick-laptop-r2-C-chill-10s6",
+      "status": "ready",
+      "scheduled_at": "2026-10-23T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-C-chill-10s6.mp4",
+      "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you replay historical BTC/USDT candles one at a time and make your call before the next one prints.\n\nComment “Journal” and/or tell us which timeframe you trade on 🕯️\n\n#tradingjournal #barreplay #cryptotrading #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 2,
+        "hook": "Bro: journaling is a waste of time",
+        "stil": "chill",
+        "track": "Sweet September (Arulo, Mixkit 282)",
+        "label": "Bar Replay",
+        "laenge_s": 10.6,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r2-t-tech",
+      "slug": "glanwick-laptop-r2-T-tech-9s4",
+      "status": "ready",
+      "scheduled_at": "2026-10-24T12:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-T-tech-9s4.mp4",
+      "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator at @glanwick_com, every position pays a 0.4% fee, and your entries fill with 0.01% to 0.05% slippage.\n\nComment “Journal” and/or tell us how many paper trades you take before going live 📝\n\n#tradingjournal #tradingsimulator #daytrading #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 2,
+        "hook": "Bro: journaling is a waste of time",
+        "stil": "tech",
+        "track": "Deep Urban (Eugenio Mininni, Mixkit 623)",
+        "label": "Trade Simulator",
+        "laenge_s": 9.4,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r2-w-western",
+      "slug": "glanwick-laptop-r2-W-western-11s8",
+      "status": "ready",
+      "scheduled_at": "2026-10-24T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-W-western-11s8.mp4",
+      "caption": "Twice a year, Europe and the US change their clocks on different weekends, and the open moves with them. With Global Trading Hours at @glanwick_com, you see when Tokyo, Frankfurt, London and New York trade in your own time zone, daylight saving included.\n\nComment “Journal” and/or tell us what time it is for you when New York opens 🕤\n\n#tradingjournal #marketopen #daytrader #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 2,
+        "hook": "Bro: journaling is a waste of time",
+        "stil": "western",
+        "track": "At the Barn (Michael Ramir C., Mixkit 789)",
+        "label": "Global Trading Hours",
+        "laenge_s": 11.8,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r3-w-western",
+      "slug": "glanwick-laptop-r3-W-western-9s4",
+      "status": "ready",
+      "scheduled_at": "2026-10-25T12:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-W-western-9s4.mp4",
+      "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Replay at @glanwick_com, you pick a speed from 0.5x to 10x and trade a $10,000 practice balance while the candles print.\n\nComment “Journal” and/or tell us how fast you'd replay: 1x, 5x or 10x ⏩\n\n#tradingjournal #barreplay #bitcoin #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 3,
+        "hook": "Bro: journaling is for beginners",
+        "stil": "western",
+        "track": "At the Barn (Michael Ramir C., Mixkit 789)",
+        "label": "Bar Replay",
+        "laenge_s": 9.4,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r3-t-tech",
+      "slug": "glanwick-laptop-r3-T-tech-10s6",
+      "status": "ready",
+      "scheduled_at": "2026-10-25T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-T-tech-10s6.mp4",
+      "caption": "Stocks keep office hours, and crypto trades all weekend. With Global Trading Hours at @glanwick_com, you see live which exchanges are open, closed or out for the weekend, and crypto stays green at 24/7.\n\nComment “Journal” and/or tell us if you trade on weekends 🌙\n\n#tradingjournal #cryptotrading #daytrading #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 3,
+        "hook": "Bro: journaling is for beginners",
+        "stil": "tech",
+        "track": "Deep Urban (Eugenio Mininni, Mixkit 623)",
+        "label": "Global Trading Hours",
+        "laenge_s": 10.6,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
+      }
+    },
+    {
+      "id": "laptop-2026-10-22-r3-c-chill",
+      "slug": "glanwick-laptop-r3-C-chill-12s2",
+      "status": "ready",
+      "scheduled_at": "2026-10-26T12:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-C-chill-12s2.mp4",
+      "caption": "Set the stop before you click buy. In the Trade Simulator at @glanwick_com, you enter stop loss and take profit with the order, and both land on your chart as dashed lines: red for the stop, green for the target.\n\nComment “Journal” and/or tell us how you set your stop loss 🛑\n\n#tradingjournal #riskmanagement #daytrader #trading",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": false,
+      "tiktok": false,
+      "test": {
+        "format": "laptop",
+        "runde": 3,
+        "hook": "Bro: journaling is for beginners",
+        "stil": "chill",
+        "track": "Sweet September (Arulo, Mixkit 282)",
+        "label": "Trade Simulator",
+        "laenge_s": 12.2,
+        "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       }
     }
   ]
