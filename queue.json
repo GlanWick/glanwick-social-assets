@@ -9051,7 +9051,7 @@
     {
       "id": "laptop-2026-10-22-r1-b-western",
       "slug": "glanwick-laptop-r1-B-western-10s6",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-B-western-10s6.mp4",
       "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator at @glanwick_com, you practice with fees and slippage, next to your journal.\n\nComment “Journal” and/or tell us which setup you'd test first 🧪\n\n#tradingjournal #papertrading #daytrader #trading",
@@ -9068,7 +9068,10 @@
         "laenge_s": 10.6,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "posting_started_at": "2026-10-22T22:31:13.625Z"
+      "container_id": "18114000098136556",
+      "media_id": "18135554680677754",
+      "permalink": "https://www.instagram.com/reel/De0D7HHDMmd/",
+      "published_at": "2026-10-22T22:31:51.831Z"
     },
     {
       "id": "laptop-2026-10-22-r1-c-chill",
