@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-22T22:56:12.395Z",
+ "updated": "2026-10-22T23:46:11.010Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.8 s"
-  ],
-  "checked": "2026-10-22T22:56:13.602Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-22T23:46:11.985Z",
   "reach_days": [
    {
     "day": "2026-10-15",
@@ -36,13 +34,13 @@
     "reach": 13883
    }
   ],
-  "avg_watch_last_reels": 7.8
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 545,
-  "media_count": 219
+  "followers": 546,
+  "media_count": 220
  },
  "history": [
   {
@@ -5929,9 +5927,36 @@
    "ts": "2026-10-22T22:56:12.395Z",
    "followers": 545,
    "media_count": 219
+  },
+  {
+   "ts": "2026-10-22T23:46:11.010Z",
+   "followers": 546,
+   "media_count": 220
   }
  ],
  "posts": [
+  {
+   "id": "18125713954686810",
+   "slug": "stickman-fellseventy",
+   "permalink": "https://www.instagram.com/reel/De0K4wojSab/",
+   "timestamp": "2026-10-22T23:32:38+0000",
+   "type": "VIDEO",
+   "caption": "Your stock fell 70 %, then doubled, and your $5,000 is now $3,000.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "18117168842095696",
+   "slug": "stickman-openrisk",
+   "permalink": "https://www.instagram.com/reel/De0HP9hjlT-/",
+   "timestamp": "2026-10-22T23:00:49+0000",
+   "type": "VIDEO",
+   "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
+   "views": 125,
+   "likes": 4,
+   "comments": 1
+  },
   {
    "id": "18135554680677754",
    "slug": "glanwick-laptop-r1-B-western-10s6",
@@ -5939,9 +5964,9 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 4,
-   "likes": 0,
-   "comments": 1
+   "views": 193,
+   "likes": 2,
+   "comments": 2
   },
   {
    "id": "18089102651704777",
@@ -5950,7 +5975,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 212,
+   "views": 255,
    "likes": 1,
    "comments": 1
   },
@@ -5961,7 +5986,7 @@
    "timestamp": "2026-10-22T19:32:39+0000",
    "type": "VIDEO",
    "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
-   "views": 187,
+   "views": 197,
    "likes": 2,
    "comments": 1
   },
@@ -5972,8 +5997,8 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 266,
-   "likes": 3,
+   "views": 291,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5983,7 +6008,7 @@
    "timestamp": "2026-10-22T17:30:39+0000",
    "type": "VIDEO",
    "caption": "Your trades made $1,000, and the loan behind them cost $1,200.",
-   "views": 437,
+   "views": 447,
    "likes": 1,
    "comments": 1
   },
@@ -5994,7 +6019,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 216,
+   "views": 221,
    "likes": 3,
    "comments": 1
   },
@@ -6005,8 +6030,8 @@
    "timestamp": "2026-10-22T15:31:04+0000",
    "type": "VIDEO",
    "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.",
-   "views": 786,
-   "likes": 10,
+   "views": 866,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -6016,8 +6041,8 @@
    "timestamp": "2026-10-22T13:30:53+0000",
    "type": "VIDEO",
    "caption": "You took a screenshot of 15 winning trades this month, and the month is $400 dow",
-   "views": 1374,
-   "likes": 14,
+   "views": 1380,
+   "likes": 15,
    "comments": 1
   },
   {
@@ -6027,7 +6052,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 333,
+   "views": 342,
    "likes": 2,
    "comments": 1
   },
@@ -6038,7 +6063,7 @@
    "timestamp": "2026-10-22T11:31:02+0000",
    "type": "VIDEO",
    "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.",
-   "views": 562,
+   "views": 565,
    "likes": 6,
    "comments": 1
   },
@@ -6049,7 +6074,7 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 1378,
+   "views": 1379,
    "likes": 12,
    "comments": 1
   },
@@ -6060,7 +6085,7 @@
    "timestamp": "2026-10-22T07:30:44+0000",
    "type": "VIDEO",
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
-   "views": 1017,
+   "views": 1029,
    "likes": 14,
    "comments": 1
   },
@@ -6071,7 +6096,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1248,
+   "views": 1249,
    "likes": 8,
    "comments": 1
   },
@@ -6093,7 +6118,7 @@
    "timestamp": "2026-10-22T02:30:47+0000",
    "type": "VIDEO",
    "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 1731,
+   "views": 1736,
    "likes": 14,
    "comments": 1
   },
@@ -6104,7 +6129,7 @@
    "timestamp": "2026-10-22T01:31:40+0000",
    "type": "VIDEO",
    "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 1613,
+   "views": 1617,
    "likes": 18,
    "comments": 3
   },
@@ -6126,7 +6151,7 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 2000,
+   "views": 2004,
    "likes": 26,
    "comments": 1
   },
@@ -6181,7 +6206,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 735,
+   "views": 737,
    "likes": 9,
    "comments": 1
   },
@@ -6203,7 +6228,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 828,
+   "views": 831,
    "likes": 9,
    "comments": 2
   },
@@ -6348,28 +6373,6 @@
    "caption": "+10 %, then −10 %, 10 times: $10,000 becomes $9,044.",
    "views": 1588,
    "likes": 6,
-   "comments": 1
-  },
-  {
-   "id": "18140584192623324",
-   "slug": "stickman-noexit",
-   "permalink": "https://www.instagram.com/reel/DeuUbcbDS2f/",
-   "timestamp": "2026-10-20T17:00:34+0000",
-   "type": "VIDEO",
-   "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1710,
-   "likes": 18,
-   "comments": 1
-  },
-  {
-   "id": "18137407861647642",
-   "slug": "stickman-copyfee",
-   "permalink": "https://www.instagram.com/reel/DeuKOV_AHxS/",
-   "timestamp": "2026-10-20T15:31:17+0000",
-   "type": "VIDEO",
-   "caption": "His trades made you $600 in 6 months. You kept $6.",
-   "views": 1398,
-   "likes": 26,
    "comments": 1
   }
  ]
