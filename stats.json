@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-22T04:23:40.192Z",
+ "updated": "2026-10-22T05:24:03.789Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-22T04:23:41.670Z",
+  "checked": "2026-10-22T05:24:04.672Z",
   "reach_days": [
    {
     "day": "2026-10-15",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-21",
-    "reach": 11574
+    "reach": 12392
    }
   ],
-  "avg_watch_last_reels": 11.2
+  "avg_watch_last_reels": 11.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5832,6 +5832,11 @@
    "ts": "2026-10-22T04:23:40.192Z",
    "followers": 545,
    "media_count": 218
+  },
+  {
+   "ts": "2026-10-22T05:24:03.789Z",
+   "followers": 545,
+   "media_count": 218
   }
  ],
  "posts": [
@@ -5842,8 +5847,8 @@
    "timestamp": "2026-10-22T03:30:45+0000",
    "type": "VIDEO",
    "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.",
-   "views": 208,
-   "likes": 2,
+   "views": 599,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5853,7 +5858,7 @@
    "timestamp": "2026-10-22T02:30:47+0000",
    "type": "VIDEO",
    "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 325,
+   "views": 491,
    "likes": 5,
    "comments": 1
   },
@@ -5864,7 +5869,7 @@
    "timestamp": "2026-10-22T01:31:40+0000",
    "type": "VIDEO",
    "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 242,
+   "views": 292,
    "likes": 2,
    "comments": 1
   },
@@ -5875,7 +5880,7 @@
    "timestamp": "2026-10-21T23:30:53+0000",
    "type": "VIDEO",
    "caption": "You raised your size by $100 after every loss, and 8 losses in a row cost $3,600",
-   "views": 1350,
+   "views": 1359,
    "likes": 8,
    "comments": 1
   },
@@ -5886,7 +5891,7 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 1851,
+   "views": 1864,
    "likes": 23,
    "comments": 1
   },
@@ -5897,7 +5902,7 @@
    "timestamp": "2026-10-21T22:28:47+0000",
    "type": "IMAGE",
    "caption": "Your trading day starts long before the 9:30 open ☕",
-   "views": 54,
+   "views": 63,
    "likes": 3,
    "comments": 0
   },
@@ -5908,8 +5913,8 @@
    "timestamp": "2026-10-21T21:45:16+0000",
    "type": "VIDEO",
    "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
-   "views": 897,
-   "likes": 10,
+   "views": 1323,
+   "likes": 13,
    "comments": 0
   },
   {
@@ -5919,7 +5924,7 @@
    "timestamp": "2026-10-21T21:30:35+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 970,
+   "views": 1003,
    "likes": 8,
    "comments": 1
   },
@@ -5930,8 +5935,8 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 743,
-   "likes": 8,
+   "views": 801,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -5941,7 +5946,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 1404,
+   "views": 1422,
    "likes": 15,
    "comments": 1
   },
@@ -5952,7 +5957,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 475,
+   "views": 490,
    "likes": 7,
    "comments": 1
   },
@@ -5974,7 +5979,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 405,
+   "views": 420,
    "likes": 5,
    "comments": 2
   },
@@ -5985,7 +5990,7 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1761,
+   "views": 1768,
    "likes": 11,
    "comments": 1
   },
@@ -5996,7 +6001,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1714,
+   "views": 1715,
    "likes": 10,
    "comments": 1
   },
@@ -6018,7 +6023,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1509,
+   "views": 1511,
    "likes": 21,
    "comments": 1
   },
@@ -6029,7 +6034,7 @@
    "timestamp": "2026-10-21T05:30:49+0000",
    "type": "VIDEO",
    "caption": "You sold options for 30 weeks at $100 a week. Week 31 cost $4,000.",
-   "views": 1428,
+   "views": 1429,
    "likes": 10,
    "comments": 2
   },
@@ -6051,7 +6056,7 @@
    "timestamp": "2026-10-21T02:30:48+0000",
    "type": "VIDEO",
    "caption": "Your closed trades are 12 for 12, and your account is $1,800 down.",
-   "views": 1539,
+   "views": 1540,
    "likes": 18,
    "comments": 1
   },
@@ -6062,7 +6067,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1495,
+   "views": 1497,
    "likes": 9,
    "comments": 1
   },
@@ -6128,7 +6133,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1706,
+   "views": 1707,
    "likes": 18,
    "comments": 1
   },
