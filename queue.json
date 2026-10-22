@@ -8972,7 +8972,7 @@
     {
       "id": "laptop-2026-10-22-r1-a-tech",
       "slug": "glanwick-laptop-r1-A-tech-11s8",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T18:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-A-tech-11s8.mp4",
       "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play historical candles back, in the same place as your journal.\n\nComment “Journal” and/or tell us the trade you'd take back if you could ⏪\n\n#tradingjournal #barreplay #daytrading #trading",
@@ -8988,7 +8988,8 @@
         "label": "Bar Replay",
         "laenge_s": 11.8,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
-      }
+      },
+      "posting_started_at": "2026-10-22T18:31:03.705Z"
     },
     {
       "id": "laptop-2026-10-22-r1-b-western",
