@@ -8520,7 +8520,7 @@
     {
       "id": "test-2026-10-22-leaderboard",
       "slug": "stickman-leaderboard",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T01:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leaderboard.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-leaderboard-cover.jpg",
@@ -8530,7 +8530,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F5 Kopieren: Platz 1 der Rangliste mit 30 % Risiko je Trade. Traegt die Rangliste als Aufhaenger?"
-      }
+      },
+      "posting_started_at": "2026-10-22T01:30:16.944Z"
     },
     {
       "id": "2026-10-22-sechs-verluste-zwei-konten",
