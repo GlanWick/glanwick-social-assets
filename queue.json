@@ -8388,7 +8388,11 @@
       "media_id": "17890743363619210",
       "permalink": "https://www.instagram.com/reel/Dew5OPCj59V/",
       "published_at": "2026-10-21T17:00:40.559Z",
-      "kommentar_id": "18128506649477827"
+      "kommentar_id": "18128506649477827",
+      "views_12h": {
+        "views": 490,
+        "stunden": 12.39
+      }
     },
     {
       "id": "test-2026-10-21-earningsnight",
