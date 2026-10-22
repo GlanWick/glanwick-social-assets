@@ -8713,7 +8713,16 @@
       "container_id": "18113900375136556",
       "media_id": "18129602477307035",
       "permalink": "https://www.instagram.com/reel/DeyqkIQE_oh/",
-      "published_at": "2026-10-22T09:30:54.678Z"
+      "published_at": "2026-10-22T09:30:54.678Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T09:31:56.457Z"
+      }
     },
     {
       "id": "test-2026-10-22-greenweeks",
