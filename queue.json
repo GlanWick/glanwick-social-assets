@@ -8900,7 +8900,7 @@
     {
       "id": "test-2026-10-22-loaninterest",
       "slug": "stickman-loaninterest",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T17:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-loaninterest.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-loaninterest-cover.jpg",
@@ -8911,7 +8911,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: 12 % Zinsen im Jahr auf geliehenes Geld gegen den Handelsgewinn (Zins, keine Hebelmechanik). Traegt die Zinsrechnung?"
       },
-      "posting_started_at": "2026-10-22T17:30:03.629Z"
+      "container_id": "18113963630136556",
+      "media_id": "17976558510147093",
+      "permalink": "https://www.instagram.com/reel/DezhdxCionz/",
+      "published_at": "2026-10-22T17:30:46.472Z"
     },
     {
       "id": "test-2026-10-22-fivepercentstop",
