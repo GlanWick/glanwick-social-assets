@@ -127,7 +127,10 @@ function saveAndPush(queue, message) {
 //   story     image_url oder video_url (9:16; ohne Sticker - die API kann
 //             keine Umfragen, Quiz oder Frage-Sticker setzen)
 // Instagram nimmt fuer Bilder nur JPEG an. PNG vorher umwandeln.
-// Alle Arten tragen die KI-Kennzeichnung, weil alles hier KI-erzeugt ist.
+// Alle Arten tragen die KI-Kennzeichnung, weil fast alles hier KI-erzeugt ist.
+// Einzige Ausnahme (seit 22.10.2026, Jans Freigabe): ein Eintrag mit
+// "ki_kennzeichnung": false, nur fuer echte Aufnahmen (Laptop-Reels: Kamera und
+// Bildschirm, lizenzierte Musik). Fehlt das Feld, bleibt die Kennzeichnung.
 // ---------------------------------------------------------------------------
 // ---------------------------------------------------------------------------
 // Testreels (seit 30.09.2026): "trial": "SS_PERFORMANCE" zeigt das Reel zuerst
@@ -211,7 +214,7 @@ async function testreelPruefen(entry, mediaId, vorher) {
 
 async function createContainer(entry) {
   const kind = entry.kind || 'reel'
-  const ai = { is_ai_generated: 'true' }
+  const ai = entry.ki_kennzeichnung === false ? {} : { is_ai_generated: 'true' }
   const trialFehler = testreelFehler(entry)
   if (trialFehler) throw new Error(trialFehler)
   if (kind === 'reel') {
