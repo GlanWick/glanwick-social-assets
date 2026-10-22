@@ -8202,6 +8202,10 @@
       "views_12h": {
         "views": 1496,
         "stunden": 12.04
+      },
+      "views_24h": {
+        "views": 1513,
+        "stunden": 24.72
       }
     },
     {
@@ -8458,7 +8462,11 @@
         "verdacht": false,
         "at": "2026-10-21T19:32:53.003Z"
       },
-      "kommentar_id": "18005069946007373"
+      "kommentar_id": "18005069946007373",
+      "views_12h": {
+        "views": 957,
+        "stunden": 12.71
+      }
     },
     {
       "id": "test-2026-10-21-holdtime",
