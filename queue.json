@@ -8979,7 +8979,7 @@
     {
       "id": "test-2026-10-22-losesevenup",
       "slug": "stickman-losesevenup",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losesevenup.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-losesevenup-cover.jpg",
@@ -8990,7 +8990,10 @@
         "bild": "bibliothek",
         "frage": "F1 Kehrseite: weniger Gewinner, trotzdem plus. Traegt die positive Umkehrung?"
       },
-      "posting_started_at": "2026-10-22T21:30:10.078Z"
+      "container_id": "18113994140136556",
+      "media_id": "18089102651704777",
+      "permalink": "https://www.instagram.com/reel/Dez89xQiFvZ/",
+      "published_at": "2026-10-22T21:31:01.911Z"
     },
     {
       "id": "laptop-2026-10-22-r1-a-tech",
