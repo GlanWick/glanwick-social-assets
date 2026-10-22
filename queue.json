@@ -8809,7 +8809,16 @@
       "container_id": "18113928479136556",
       "media_id": "17905528464350548",
       "permalink": "https://www.instagram.com/reel/DezGBd0Aeh_/",
-      "published_at": "2026-10-22T13:31:00.340Z"
+      "published_at": "2026-10-22T13:31:00.340Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T13:32:02.545Z"
+      }
     },
     {
       "id": "test-2026-10-22-holdtwoyears",
