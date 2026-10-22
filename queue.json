@@ -8992,7 +8992,16 @@
       "container_id": "18113977229136556",
       "media_id": "18120665254945234",
       "permalink": "https://www.instagram.com/reel/DezocEgl7Aj/",
-      "published_at": "2026-10-22T18:31:44.318Z"
+      "published_at": "2026-10-22T18:31:44.318Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 219,
+        "beitraege_nachher": 219,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T18:32:46.849Z"
+      }
     },
     {
       "id": "laptop-2026-10-22-r1-b-western",
