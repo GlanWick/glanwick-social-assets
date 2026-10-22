@@ -9274,7 +9274,16 @@
       "container_id": "18114005861136556",
       "media_id": "18125713954686810",
       "permalink": "https://www.instagram.com/reel/De0K4wojSab/",
-      "published_at": "2026-10-22T23:32:45.600Z"
+      "published_at": "2026-10-22T23:32:45.600Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 220,
+        "beitraege_nachher": 220,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T23:33:47.169Z"
+      }
     },
     {
       "id": "test-2026-10-23-threeinfour",
