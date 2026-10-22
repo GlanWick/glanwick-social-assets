@@ -8731,7 +8731,7 @@
     {
       "id": "test-2026-10-22-greenweeks",
       "slug": "stickman-greenweeks",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greenweeks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greenweeks-cover.jpg",
@@ -8742,7 +8742,10 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach Gewinn (doublewin-Muster) je Woche. Traegt die Wiederholung des doublewin-Musters?"
       },
-      "posting_started_at": "2026-10-22T11:30:28.501Z"
+      "container_id": "18113912585136556",
+      "media_id": "17993639961050936",
+      "permalink": "https://www.instagram.com/reel/Dey4TtfDC88/",
+      "published_at": "2026-10-22T11:31:10.812Z"
     },
     {
       "id": "2026-10-22-plus-und-durchgefallen",
