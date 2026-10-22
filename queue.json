@@ -8942,7 +8942,7 @@
     {
       "id": "test-2026-10-22-fivepercentstop",
       "slug": "stickman-fivepercentstop",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T19:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivepercentstop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivepercentstop-cover.jpg",
@@ -8953,7 +8953,10 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse ohne Margin: Stopabstand gegen Risiko je Trade. Traegt \"5 % Stop, 40 % weg\"?"
       },
-      "posting_started_at": "2026-10-22T19:32:05.056Z"
+      "container_id": "18113982980136556",
+      "media_id": "17909851221482304",
+      "permalink": "https://www.instagram.com/reel/DezvbHCG_ki/",
+      "published_at": "2026-10-22T19:32:47.312Z"
     },
     {
       "id": "test-2026-10-22-losesevenup",
