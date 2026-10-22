@@ -8584,7 +8584,7 @@
     {
       "id": "test-2026-10-22-pointone",
       "slug": "stickman-pointone",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-pointone.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-pointone-cover.jpg",
@@ -8594,7 +8594,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar: 0,1 % Gebuehr als Jahressumme. Traegt die Gebuehrenrechnung?"
-      }
+      },
+      "posting_started_at": "2026-10-22T03:30:12.465Z"
     },
     {
       "id": "test-2026-10-22-thirtyforty",
