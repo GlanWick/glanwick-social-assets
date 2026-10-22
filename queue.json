@@ -8836,7 +8836,7 @@
     {
       "id": "test-2026-10-22-holdtwoyears",
       "slug": "stickman-holdtwoyears",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T15:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtwoyears.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-holdtwoyears-cover.jpg",
@@ -8847,7 +8847,10 @@
         "bild": "bibliothek",
         "frage": "F5 Kopieren: einen Anleger kopiert, mit eigenem Stop. Traegt der Unterschied im Zeitplan?"
       },
-      "posting_started_at": "2026-10-22T15:30:30.548Z"
+      "container_id": "18113947187136556",
+      "media_id": "18134853734496909",
+      "permalink": "https://www.instagram.com/reel/DezTxp7DFjG/",
+      "published_at": "2026-10-22T15:31:12.068Z"
     },
     {
       "id": "2026-10-22-fuenfzehn-minuten",
