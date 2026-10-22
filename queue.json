@@ -8699,7 +8699,7 @@
     {
       "id": "test-2026-10-22-noceiling",
       "slug": "stickman-noceiling",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-22T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noceiling.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-noceiling-cover.jpg",
@@ -8710,7 +8710,10 @@
         "bild": "neu",
         "frage": "F7 Leerverkauf ohne Obergrenze (neues Thema, neue Bilder). Traegt der Short als Thema?"
       },
-      "posting_started_at": "2026-10-22T09:30:23.287Z"
+      "container_id": "18113900375136556",
+      "media_id": "18129602477307035",
+      "permalink": "https://www.instagram.com/reel/DeyqkIQE_oh/",
+      "published_at": "2026-10-22T09:30:54.678Z"
     },
     {
       "id": "test-2026-10-22-greenweeks",
