@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-22T20:55:49.822Z",
+ "updated": "2026-10-22T21:55:54.571Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
+   "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-10-22T20:55:50.669Z",
+  "checked": "2026-10-22T21:55:55.810Z",
   "reach_days": [
    {
     "day": "2026-10-15",
@@ -36,7 +36,7 @@
     "reach": 13883
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 7.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5919,9 +5919,25 @@
    "ts": "2026-10-22T20:55:49.822Z",
    "followers": 545,
    "media_count": 219
+  },
+  {
+   "ts": "2026-10-22T21:55:54.571Z",
+   "followers": 545,
+   "media_count": 219
   }
  ],
  "posts": [
+  {
+   "id": "18089102651704777",
+   "slug": "stickman-losesevenup",
+   "permalink": "https://www.instagram.com/reel/Dez89xQiFvZ/",
+   "timestamp": "2026-10-22T21:30:54+0000",
+   "type": "VIDEO",
+   "caption": "You lost 7 trades out of 10 and made $800.",
+   "views": 30,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "17909851221482304",
    "slug": "stickman-fivepercentstop",
@@ -5929,7 +5945,7 @@
    "timestamp": "2026-10-22T19:32:39+0000",
    "type": "VIDEO",
    "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
-   "views": 150,
+   "views": 168,
    "likes": 2,
    "comments": 1
   },
@@ -5940,7 +5956,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 163,
+   "views": 204,
    "likes": 2,
    "comments": 1
   },
@@ -5951,8 +5967,8 @@
    "timestamp": "2026-10-22T17:30:39+0000",
    "type": "VIDEO",
    "caption": "Your trades made $1,000, and the loan behind them cost $1,200.",
-   "views": 364,
-   "likes": 0,
+   "views": 420,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5973,8 +5989,8 @@
    "timestamp": "2026-10-22T15:31:04+0000",
    "type": "VIDEO",
    "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.",
-   "views": 589,
-   "likes": 8,
+   "views": 681,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -5984,7 +6000,7 @@
    "timestamp": "2026-10-22T13:30:53+0000",
    "type": "VIDEO",
    "caption": "You took a screenshot of 15 winning trades this month, and the month is $400 dow",
-   "views": 1353,
+   "views": 1365,
    "likes": 14,
    "comments": 1
   },
@@ -5995,7 +6011,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 305,
+   "views": 315,
    "likes": 2,
    "comments": 1
   },
@@ -6006,8 +6022,8 @@
    "timestamp": "2026-10-22T11:31:02+0000",
    "type": "VIDEO",
    "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.",
-   "views": 517,
-   "likes": 5,
+   "views": 545,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -6017,7 +6033,7 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 1374,
+   "views": 1378,
    "likes": 12,
    "comments": 1
   },
@@ -6028,8 +6044,8 @@
    "timestamp": "2026-10-22T07:30:44+0000",
    "type": "VIDEO",
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
-   "views": 954,
-   "likes": 12,
+   "views": 989,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -6039,7 +6055,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1244,
+   "views": 1245,
    "likes": 8,
    "comments": 1
   },
@@ -6072,7 +6088,7 @@
    "timestamp": "2026-10-22T01:31:40+0000",
    "type": "VIDEO",
    "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 1603,
+   "views": 1607,
    "likes": 18,
    "comments": 3
   },
@@ -6094,7 +6110,7 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 1997,
+   "views": 1999,
    "likes": 26,
    "comments": 1
   },
@@ -6116,7 +6132,7 @@
    "timestamp": "2026-10-21T21:30:35+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 1266,
+   "views": 1267,
    "likes": 11,
    "comments": 2
   },
@@ -6138,7 +6154,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 1482,
+   "views": 1483,
    "likes": 15,
    "comments": 1
   },
@@ -6149,7 +6165,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 734,
+   "views": 735,
    "likes": 9,
    "comments": 1
   },
@@ -6160,7 +6176,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1438,
+   "views": 1440,
    "likes": 15,
    "comments": 1
   },
@@ -6171,7 +6187,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 816,
+   "views": 824,
    "likes": 9,
    "comments": 2
   },
@@ -6215,7 +6231,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1528,
+   "views": 1530,
    "likes": 21,
    "comments": 1
   },
@@ -6349,17 +6365,6 @@
    "caption": "You won 3 in a row, lost 1, and you're down $100.",
    "views": 1597,
    "likes": 8,
-   "comments": 1
-  },
-  {
-   "id": "18439666726195323",
-   "slug": "stickman-twentywins",
-   "permalink": "https://www.instagram.com/reel/DetuuNJjQ-I/",
-   "timestamp": "2026-10-20T11:31:07+0000",
-   "type": "VIDEO",
-   "caption": "Your average win is $75. One loser you held cost $1,500.",
-   "views": 1468,
-   "likes": 12,
    "comments": 1
   }
  ]
