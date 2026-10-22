@@ -8850,7 +8850,16 @@
       "container_id": "18113947187136556",
       "media_id": "18134853734496909",
       "permalink": "https://www.instagram.com/reel/DezTxp7DFjG/",
-      "published_at": "2026-10-22T15:31:12.068Z"
+      "published_at": "2026-10-22T15:31:12.068Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T15:32:14.420Z"
+      }
     },
     {
       "id": "2026-10-22-fuenfzehn-minuten",
