@@ -8873,7 +8873,7 @@
     {
       "id": "2026-10-22-fuenfzehn-minuten",
       "slug": "stickman-fifteenminutes",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T17:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenminutes.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fifteenminutes-cover.jpg",
@@ -8883,7 +8883,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fifteenminutes-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-22T17:00:20.893Z"
     },
     {
       "id": "test-2026-10-22-loaninterest",
