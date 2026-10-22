@@ -8914,7 +8914,16 @@
       "container_id": "18113963630136556",
       "media_id": "17976558510147093",
       "permalink": "https://www.instagram.com/reel/DezhdxCionz/",
-      "published_at": "2026-10-22T17:30:46.472Z"
+      "published_at": "2026-10-22T17:30:46.472Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 219,
+        "beitraege_nachher": 219,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T17:31:48.971Z"
+      }
     },
     {
       "id": "test-2026-10-22-fivepercentstop",
