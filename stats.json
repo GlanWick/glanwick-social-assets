@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-22T12:04:10.542Z",
+ "updated": "2026-10-22T13:04:28.560Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-22T12:04:11.725Z",
+  "checked": "2026-10-22T13:04:29.433Z",
   "reach_days": [
    {
     "day": "2026-10-15",
@@ -34,13 +34,13 @@
     "reach": 13883
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 11.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 545,
-  "media_count": 219
+  "media_count": 218
  },
  "history": [
   {
@@ -5872,6 +5872,11 @@
    "ts": "2026-10-22T12:04:10.542Z",
    "followers": 545,
    "media_count": 219
+  },
+  {
+   "ts": "2026-10-22T13:04:28.560Z",
+   "followers": 545,
+   "media_count": 218
   }
  ],
  "posts": [
@@ -5882,7 +5887,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 0,
+   "views": 156,
    "likes": 0,
    "comments": 1
   },
@@ -5893,8 +5898,8 @@
    "timestamp": "2026-10-22T11:31:02+0000",
    "type": "VIDEO",
    "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.",
-   "views": 81,
-   "likes": 0,
+   "views": 230,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5904,8 +5909,8 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 588,
-   "likes": 5,
+   "views": 804,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -5915,8 +5920,8 @@
    "timestamp": "2026-10-22T07:30:44+0000",
    "type": "VIDEO",
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
-   "views": 568,
-   "likes": 8,
+   "views": 658,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -5926,8 +5931,8 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 826,
-   "likes": 3,
+   "views": 893,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -5937,7 +5942,7 @@
    "timestamp": "2026-10-22T03:30:45+0000",
    "type": "VIDEO",
    "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.",
-   "views": 1332,
+   "views": 1334,
    "likes": 10,
    "comments": 1
   },
@@ -5948,7 +5953,7 @@
    "timestamp": "2026-10-22T02:30:47+0000",
    "type": "VIDEO",
    "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 1673,
+   "views": 1685,
    "likes": 14,
    "comments": 1
   },
@@ -5959,8 +5964,8 @@
    "timestamp": "2026-10-22T01:31:40+0000",
    "type": "VIDEO",
    "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 915,
-   "likes": 9,
+   "views": 1213,
+   "likes": 13,
    "comments": 3
   },
   {
@@ -5970,7 +5975,7 @@
    "timestamp": "2026-10-21T23:30:53+0000",
    "type": "VIDEO",
    "caption": "You raised your size by $100 after every loss, and 8 losses in a row cost $3,600",
-   "views": 1382,
+   "views": 1388,
    "likes": 8,
    "comments": 1
   },
@@ -5981,20 +5986,9 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 1972,
-   "likes": 25,
+   "views": 1982,
+   "likes": 26,
    "comments": 1
-  },
-  {
-   "id": "18152558761531538",
-   "slug": null,
-   "permalink": "https://www.instagram.com/p/DexdgB2u_5f/",
-   "timestamp": "2026-10-21T22:28:47+0000",
-   "type": "IMAGE",
-   "caption": "Your trading day starts long before the 9:30 open ☕",
-   "views": 87,
-   "likes": 3,
-   "comments": 0
   },
   {
    "id": "18115473902106635",
@@ -6003,7 +5997,7 @@
    "timestamp": "2026-10-21T21:45:16+0000",
    "type": "VIDEO",
    "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
-   "views": 1540,
+   "views": 1545,
    "likes": 15,
    "comments": 0
   },
@@ -6014,7 +6008,7 @@
    "timestamp": "2026-10-21T21:30:35+0000",
    "type": "VIDEO",
    "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 1142,
+   "views": 1165,
    "likes": 10,
    "comments": 2
   },
@@ -6025,8 +6019,8 @@
    "timestamp": "2026-10-21T19:31:42+0000",
    "type": "VIDEO",
    "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 1161,
-   "likes": 16,
+   "views": 1249,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -6036,7 +6030,7 @@
    "timestamp": "2026-10-21T17:30:45+0000",
    "type": "VIDEO",
    "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 1464,
+   "views": 1469,
    "likes": 15,
    "comments": 1
   },
@@ -6047,8 +6041,8 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 650,
-   "likes": 7,
+   "views": 676,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -6058,7 +6052,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1432,
+   "views": 1434,
    "likes": 15,
    "comments": 1
   },
@@ -6069,7 +6063,7 @@
    "timestamp": "2026-10-21T13:31:39+0000",
    "type": "VIDEO",
    "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 646,
+   "views": 669,
    "likes": 8,
    "comments": 2
   },
@@ -6080,8 +6074,8 @@
    "timestamp": "2026-10-21T12:00:45+0000",
    "type": "VIDEO",
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1785,
-   "likes": 11,
+   "views": 1798,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -6091,7 +6085,7 @@
    "timestamp": "2026-10-21T11:32:24+0000",
    "type": "VIDEO",
    "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1718,
+   "views": 1722,
    "likes": 11,
    "comments": 1
   },
@@ -6102,7 +6096,7 @@
    "timestamp": "2026-10-21T09:30:35+0000",
    "type": "VIDEO",
    "caption": "Your target paid 5 times your stop, and 10 trades lost $400.",
-   "views": 327,
+   "views": 328,
    "likes": 2,
    "comments": 1
   },
@@ -6113,7 +6107,7 @@
    "timestamp": "2026-10-21T07:30:54+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % a trade, and one day took $956 of your $10,000.",
-   "views": 1518,
+   "views": 1519,
    "likes": 21,
    "comments": 1
   },
@@ -6157,7 +6151,7 @@
    "timestamp": "2026-10-21T01:30:36+0000",
    "type": "VIDEO",
    "caption": "You doubled your size after every red day, and 4 red days cost $1,500.",
-   "views": 1500,
+   "views": 1507,
    "likes": 9,
    "comments": 1
   },
@@ -6179,7 +6173,7 @@
    "timestamp": "2026-10-20T23:01:01+0000",
    "type": "VIDEO",
    "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1770,
+   "views": 1771,
    "likes": 23,
    "comments": 1
   },
@@ -6223,7 +6217,7 @@
    "timestamp": "2026-10-20T17:00:34+0000",
    "type": "VIDEO",
    "caption": "He made $500 on the trade. You copied it and lost $600.",
-   "views": 1708,
+   "views": 1709,
    "likes": 18,
    "comments": 1
   },
@@ -6311,8 +6305,19 @@
    "timestamp": "2026-10-20T02:30:49+0000",
    "type": "VIDEO",
    "caption": "You lose 3 % a day for 20 days, and $10,000 becomes $5,438.",
-   "views": 2116,
+   "views": 2117,
    "likes": 17,
+   "comments": 1
+  },
+  {
+   "id": "18344678740282006",
+   "slug": "stickman-propdouble",
+   "permalink": "https://www.instagram.com/reel/DesqIc1D34F/",
+   "timestamp": "2026-10-20T01:31:44+0000",
+   "type": "VIDEO",
+   "caption": "Your prop challenge ends at −$2,000. Doubling from $250 gets you there in 3 loss",
+   "views": 1485,
+   "likes": 9,
    "comments": 1
   }
  ]
