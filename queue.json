@@ -8557,7 +8557,7 @@
     {
       "id": "2026-10-22-sechs-verluste-zwei-konten",
       "slug": "stickman-sixlosses",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-22T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixlosses.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-sixlosses-cover.jpg",
@@ -8567,7 +8567,8 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixlosses.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixlosses-cover.jpg"
-      }
+      },
+      "posting_started_at": "2026-10-22T02:30:14.311Z"
     },
     {
       "id": "test-2026-10-22-pointone",
