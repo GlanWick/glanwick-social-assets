@@ -8128,6 +8128,10 @@
       "views_12h": {
         "views": 1467,
         "stunden": 12.17
+      },
+      "views_24h": {
+        "views": 1504,
+        "stunden": 24.87
       }
     },
     {
@@ -8353,7 +8357,11 @@
         "verdacht": false,
         "at": "2026-10-21T15:31:42.573Z"
       },
-      "kommentar_id": "18130220282501452"
+      "kommentar_id": "18130220282501452",
+      "views_12h": {
+        "views": 1404,
+        "stunden": 12.88
+      }
     },
     {
       "id": "2026-10-21-neun-rettungen",
