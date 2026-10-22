@@ -8165,6 +8165,10 @@
       "views_12h": {
         "views": 1420,
         "stunden": 12.19
+      },
+      "views_24h": {
+        "views": 1429,
+        "stunden": 24.71
       }
     },
     {
@@ -8421,7 +8425,11 @@
         "verdacht": false,
         "at": "2026-10-21T17:31:55.415Z"
       },
-      "kommentar_id": "17963072658229091"
+      "kommentar_id": "17963072658229091",
+      "views_12h": {
+        "views": 1433,
+        "stunden": 12.71
+      }
     },
     {
       "id": "test-2026-10-21-sixmonths",
