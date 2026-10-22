@@ -8745,7 +8745,16 @@
       "container_id": "18113912585136556",
       "media_id": "17993639961050936",
       "permalink": "https://www.instagram.com/reel/Dey4TtfDC88/",
-      "published_at": "2026-10-22T11:31:10.812Z"
+      "published_at": "2026-10-22T11:31:10.812Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 218,
+        "beitraege_nachher": 218,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-22T11:32:12.766Z"
+      }
     },
     {
       "id": "2026-10-22-plus-und-durchgefallen",
