@@ -152,6 +152,18 @@ const TESTREEL_ABSTAND_MS = 60 * 60_000
 const TESTREEL_JE_24H = 14
 const TESTREEL_PRUEF_WARTEN_MS = Number(process.env.TESTREEL_PRUEF_WARTEN_MS || 60_000)
 
+// Fruehwarnung haelt Testreels an (seit 23.10.2026, Jans Vorgabe). Vom 16. bis
+// 23.10. stand die Fruehwarnung (unten, guardrail) auf "warn", die Telegram-
+// Meldung kam mangels Secrets nie an, und 12 Testreels am Tag liefen gegen die
+// Regel "2 Reels/Tag, kein Experiment" weiter. Jetzt warten Testreels, solange
+// stats.json "warn" meldet; normale Beitraege sind davon unberuehrt (die
+// Planung haelt die 2 am Tag ein). Ohne stats.json (erster Lauf) kein Anhalten:
+// der erste Takt schreibt die Stats, bevor er etwas postet.
+let fruehwarnungAktiv = false
+try {
+  fruehwarnungAktiv = JSON.parse(readFileSync(join(ROOT, 'stats.json'), 'utf8'))?.guardrail?.status === 'warn'
+} catch { /* keine Stats */ }
+
 const istTestreel = (entry) => entry.trial !== undefined && entry.trial !== null && entry.trial !== false
 
 function testreelFehler(entry) {
@@ -164,6 +176,7 @@ function testreelFehler(entry) {
 // Grund, warum ein faelliges Testreel jetzt noch nicht rausgeht, sonst null.
 function testreelWartet(entry, queue, now) {
   if (!istTestreel(entry)) return null
+  if (fruehwarnungAktiv) return 'Fruehwarnung aktiv, Testreels warten bis Reichweite und Sehdauer wieder im Rahmen sind'
   const verdacht = queue.entries.find((e) => e.trial_pruefung?.verdacht && e.trial_pruefung_ok !== true)
   if (verdacht) return `angehalten, Verdacht bei ${verdacht.id} ungeprueft`
   const zeiten = queue.entries
@@ -400,7 +413,8 @@ let lastStatsAt = 0
 //   1. Tagesreichweite gestern unter 40 % des Mittels der sechs Tage davor.
 //   2. Die letzten drei Reels halten im Mittel unter 8 Sekunden.
 // Jede Aenderung des Zustands geht per Telegram raus; der Zustand steht in
-// stats.json (nur Aggregate, keine privaten Kennzahlen je Beitrag).
+// stats.json (nur Aggregate, keine privaten Kennzahlen je Beitrag). Bei "warn"
+// warten Testreels (siehe fruehwarnungAktiv oben).
 // ---------------------------------------------------------------------------
 async function guardrail(posts, prevGuard) {
   const day = 86_400_000
@@ -488,6 +502,7 @@ async function writeStats(queue) {
   // wuerden die Sehdauer-Warnung fuer die normalen Reels verfaelschen.
   const testreelIds = new Set(queue.entries.filter((e) => istTestreel(e) && e.media_id).map((e) => e.media_id))
   const guard = await guardrail(posts.filter((p) => !testreelIds.has(p.id)), prev.guardrail)
+  fruehwarnungAktiv = guard.status === 'warn'
   const out = {
     updated: ts,
     guardrail: guard,
