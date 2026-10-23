@@ -9150,7 +9150,7 @@
     {
       "id": "laptop-2026-10-22-r1-c-chill",
       "slug": "glanwick-laptop-r1-C-chill-9s4",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-23T11:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r1-C-chill-9s4.mp4",
       "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to see when Tokyo, Frankfurt, London and New York open in your time zone.\n\nComment “Journal” and/or tell us which market open you never miss 🔔\n\n#tradingjournal #daytrading #tradingtools #trading",
@@ -9166,7 +9166,8 @@
         "label": "Global Trading Hours",
         "laenge_s": 9.4,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
-      }
+      },
+      "posting_started_at": "2026-10-23T11:31:19.489Z"
     },
     {
       "id": "laptop-2026-10-22-r2-c-chill",
