@@ -9484,7 +9484,7 @@
     {
       "id": "test-2026-10-23-ninetyfees",
       "slug": "stickman-ninetyfees",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-23T09:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetyfees.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-ninetyfees-cover.jpg",
@@ -9494,7 +9494,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F1 Mehr Gewinner, trotzdem minus, ueber die Gebuehren: 90 von 100 gewonnen, Trades +$800, Gebuehren -$1.200, Konto -$400. Traegt die Gebuehr als versteckter Verlierer?"
-      }
+      },
+      "posting_started_at": "2026-10-23T09:31:24.241Z"
     },
     {
       "id": "test-2026-10-23-twopaychecks",
