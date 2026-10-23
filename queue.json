@@ -9416,7 +9416,16 @@
       "container_id": "18114039365136556",
       "media_id": "17977822023141739",
       "permalink": "https://www.instagram.com/reel/De00ALLjntn/",
-      "published_at": "2026-10-23T05:32:04.827Z"
+      "published_at": "2026-10-23T05:32:04.827Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 220,
+        "beitraege_nachher": 220,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-23T05:33:06.346Z"
+      }
     },
     {
       "id": "test-2026-10-23-marginsix",
