@@ -9319,7 +9319,11 @@
       "media_id": "18117168842095696",
       "permalink": "https://www.instagram.com/reel/De0HP9hjlT-/",
       "published_at": "2026-10-22T23:00:55.535Z",
-      "kommentar_id": "18116525374825958"
+      "kommentar_id": "18116525374825958",
+      "views_12h": {
+        "views": 400,
+        "stunden": 12.46
+      }
     },
     {
       "id": "test-2026-10-22-fellseventy",
