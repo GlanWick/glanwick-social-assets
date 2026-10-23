@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:16:35.929Z",
+  "generated_at": "2026-10-23T15:25:28.130Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -9598,17 +9598,16 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twentytwenty-cover.jpg",
         "gestartet_at": "2026-10-23T13:14:51.628Z",
         "stand": "2026-10-23T13:16:16.701Z",
-        "versuch": 1,
         "post_id": "6adb5dd0f69c1a362bcd813d",
-        "published_at": "2026-10-23T13:15:22.301Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7699851217945496864",
-        "plattform_id": "7699851217945496864"
+        "plattform_id": "7699851217945496864",
+        "published_at": "2026-10-23T13:15:22.301Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114089360136556",
       "media_id": "17915808012507944",
       "permalink": "https://www.instagram.com/reel/De1o9TmE5Uz/",
       "published_at": "2026-10-23T13:14:47.286Z",
+      "container_id": "18114089360136556",
       "kommentar_id": "18077272586743621"
     },
     {
@@ -9626,10 +9625,11 @@
         "frage": "F6 Verdoppeln aus Ueberzeugung: 5 sichere Trades mit doppelter Groesse, 1 von 5 gewonnen, Woche -$200. Traegt das Gefuehl der Sicherheit?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114092720136556",
       "media_id": "18133090771682504",
       "permalink": "https://www.instagram.com/reel/De1rBRLD99R/",
       "published_at": "2026-10-23T13:32:44.704Z",
+      "container_id": "18114092720136556",
+      "kommentar_id": "17971414485168865",
       "trial_pruefung": {
         "beitraege_vorher": 221,
         "beitraege_nachher": 221,
@@ -9638,8 +9638,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-23T13:33:46.657Z"
-      },
-      "kommentar_id": "17971414485168865"
+      }
     },
     {
       "id": "test-2026-10-23-spreadfive",
