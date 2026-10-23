@@ -8731,6 +8731,10 @@
       "views_12h": {
         "views": 1217,
         "stunden": 12.41
+      },
+      "views_24h": {
+        "views": 1254,
+        "stunden": 24.11
       }
     },
     {
@@ -8952,7 +8956,11 @@
       "permalink": "https://www.instagram.com/reel/DezeENACHjk/",
       "published_at": "2026-10-22T17:01:25.316Z",
       "container_id": "18113957828136556",
-      "kommentar_id": "18118275517990008"
+      "kommentar_id": "18118275517990008",
+      "views_12h": {
+        "views": 234,
+        "stunden": 12.6
+      }
     },
     {
       "id": "test-2026-10-22-loaninterest",
@@ -8981,6 +8989,10 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-22T17:31:48.971Z"
+      },
+      "views_12h": {
+        "views": 527,
+        "stunden": 12.11
       }
     },
     {
