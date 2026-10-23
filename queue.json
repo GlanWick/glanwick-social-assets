@@ -8805,6 +8805,10 @@
       "views_12h": {
         "views": 1378,
         "stunden": 12.42
+      },
+      "views_24h": {
+        "views": 1400,
+        "stunden": 24.13
       }
     },
     {
@@ -9059,7 +9063,11 @@
         "verdacht": false,
         "at": "2026-10-22T21:32:03.504Z"
       },
-      "kommentar_id": "17953391940311807"
+      "kommentar_id": "17953391940311807",
+      "views_12h": {
+        "views": 1414,
+        "stunden": 12.12
+      }
     },
     {
       "id": "laptop-2026-10-22-r1-a-tech",
