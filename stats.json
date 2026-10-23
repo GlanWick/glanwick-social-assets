@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-23T02:46:48.086Z",
+ "updated": "2026-10-23T03:46:57.560Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 5.0 s"
+   "Sehdauer letzte 3 Reels: 7.0 s"
   ],
-  "checked": "2026-10-23T02:46:49.228Z",
+  "checked": "2026-10-23T03:46:58.765Z",
   "reach_days": [
    {
     "day": "2026-10-16",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-22",
-    "reach": 10126
+    "reach": 10677
    }
   ],
-  "avg_watch_last_reels": 5
+  "avg_watch_last_reels": 7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -5949,9 +5949,25 @@
    "ts": "2026-10-23T02:46:48.086Z",
    "followers": 547,
    "media_count": 220
+  },
+  {
+   "ts": "2026-10-23T03:46:57.560Z",
+   "followers": 547,
+   "media_count": 220
   }
  ],
  "posts": [
+  {
+   "id": "18119114044962470",
+   "slug": "stickman-missedwinner",
+   "permalink": "https://www.instagram.com/reel/De0mV87k246/",
+   "timestamp": "2026-10-23T03:32:33+0000",
+   "type": "VIDEO",
+   "caption": "You missed a $500 winner, doubled your next trade, and lost $800.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18049546799813035",
    "slug": "stickman-doubledtop",
@@ -5959,8 +5975,8 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 3,
-   "likes": 0,
+   "views": 155,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -5970,8 +5986,8 @@
    "timestamp": "2026-10-23T01:32:51+0000",
    "type": "VIDEO",
    "caption": "You win 3 trades in 4, and every 4 trades lose $48.",
-   "views": 179,
-   "likes": 1,
+   "views": 252,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -5981,7 +5997,7 @@
    "timestamp": "2026-10-22T23:46:26+0000",
    "type": "VIDEO",
    "caption": "GlanWick is for traders by traders and is already used by traders in the US, Can",
-   "views": 121,
+   "views": 122,
    "likes": 0,
    "comments": 0
   },
@@ -5992,7 +6008,7 @@
    "timestamp": "2026-10-22T23:32:38+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 70 %, then doubled, and your $5,000 is now $3,000.",
-   "views": 292,
+   "views": 328,
    "likes": 2,
    "comments": 1
   },
@@ -6003,7 +6019,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 215,
+   "views": 228,
    "likes": 4,
    "comments": 1
   },
@@ -6014,8 +6030,8 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1059,
-   "likes": 15,
+   "views": 1366,
+   "likes": 19,
    "comments": 7
   },
   {
@@ -6025,8 +6041,8 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 495,
-   "likes": 5,
+   "views": 606,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -6036,7 +6052,7 @@
    "timestamp": "2026-10-22T19:32:39+0000",
    "type": "VIDEO",
    "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
-   "views": 205,
+   "views": 213,
    "likes": 2,
    "comments": 1
   },
@@ -6047,7 +6063,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 452,
+   "views": 530,
    "likes": 4,
    "comments": 1
   },
@@ -6058,7 +6074,7 @@
    "timestamp": "2026-10-22T17:30:39+0000",
    "type": "VIDEO",
    "caption": "Your trades made $1,000, and the loan behind them cost $1,200.",
-   "views": 489,
+   "views": 502,
    "likes": 2,
    "comments": 1
   },
@@ -6069,7 +6085,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 226,
+   "views": 231,
    "likes": 3,
    "comments": 1
   },
@@ -6080,7 +6096,7 @@
    "timestamp": "2026-10-22T15:31:04+0000",
    "type": "VIDEO",
    "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.",
-   "views": 1192,
+   "views": 1208,
    "likes": 18,
    "comments": 1
   },
@@ -6102,7 +6118,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 373,
+   "views": 375,
    "likes": 2,
    "comments": 1
   },
@@ -6113,7 +6129,7 @@
    "timestamp": "2026-10-22T11:31:02+0000",
    "type": "VIDEO",
    "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.",
-   "views": 592,
+   "views": 599,
    "likes": 6,
    "comments": 1
   },
@@ -6124,7 +6140,7 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 1383,
+   "views": 1385,
    "likes": 12,
    "comments": 1
   },
@@ -6135,8 +6151,8 @@
    "timestamp": "2026-10-22T07:30:44+0000",
    "type": "VIDEO",
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
-   "views": 1065,
-   "likes": 16,
+   "views": 1073,
+   "likes": 18,
    "comments": 1
   },
   {
@@ -6146,7 +6162,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1252,
+   "views": 1253,
    "likes": 8,
    "comments": 1
   },
@@ -6157,7 +6173,7 @@
    "timestamp": "2026-10-22T03:30:45+0000",
    "type": "VIDEO",
    "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.",
-   "views": 1351,
+   "views": 1352,
    "likes": 10,
    "comments": 1
   },
@@ -6168,7 +6184,7 @@
    "timestamp": "2026-10-22T02:30:47+0000",
    "type": "VIDEO",
    "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 1743,
+   "views": 1744,
    "likes": 14,
    "comments": 1
   },
@@ -6379,17 +6395,6 @@
    "caption": "Your trades add up to +30 %, and your account is $300 down.",
    "views": 1379,
    "likes": 11,
-   "comments": 1
-  },
-  {
-   "id": "18130632965501337",
-   "slug": "stickman-fivestreak",
-   "permalink": "https://www.instagram.com/reel/Deu9rQTlJVo/",
-   "timestamp": "2026-10-20T23:01:01+0000",
-   "type": "VIDEO",
-   "caption": "At 10 % risk, 5 losses in a row turn $10,000 into $5,905.",
-   "views": 1778,
-   "likes": 23,
    "comments": 1
   }
  ]
