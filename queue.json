@@ -9402,7 +9402,7 @@
     {
       "id": "test-2026-10-23-plannedrisk",
       "slug": "stickman-plannedrisk",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-23T05:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plannedrisk.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-plannedrisk-cover.jpg",
@@ -9412,7 +9412,8 @@
       "test": {
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse: geplanter Verlust $100, tatsaechlich $160 im Schnitt, Woche +$200 statt +$500. Traegt Plan gegen Wirklichkeit?"
-      }
+      },
+      "posting_started_at": "2026-10-23T05:31:21.578Z"
     },
     {
       "id": "test-2026-10-23-marginsix",
