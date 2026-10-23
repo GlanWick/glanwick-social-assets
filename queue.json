@@ -9086,7 +9086,11 @@
         "verdacht": false,
         "at": "2026-10-22T18:32:46.849Z"
       },
-      "kommentar_id": "18013649096761087"
+      "kommentar_id": "18013649096761087",
+      "views_12h": {
+        "views": 1155,
+        "stunden": 12.1
+      }
     },
     {
       "id": "laptop-2026-10-22-r1-b-western",
