@@ -9365,7 +9365,7 @@
     {
       "id": "test-2026-10-23-missedwinner",
       "slug": "stickman-missedwinner",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-23T03:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-missedwinner.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-missedwinner-cover.jpg",
@@ -9376,7 +9376,10 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach verpasstem Gewinner: +$500 verpasst, naechster Trade doppelt, -$800. Traegt Verdoppeln aus Angst, etwas zu verpassen?"
       },
-      "posting_started_at": "2026-10-23T03:31:08.644Z"
+      "container_id": "18114027458136556",
+      "media_id": "18119114044962470",
+      "permalink": "https://www.instagram.com/reel/De0mV87k246/",
+      "published_at": "2026-10-23T03:32:40.000Z"
     },
     {
       "id": "test-2026-10-23-plannedrisk",
