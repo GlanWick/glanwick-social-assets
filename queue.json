@@ -9571,7 +9571,7 @@
     {
       "id": "2026-10-23-zwanzig-zwanzig",
       "slug": "stickman-twentytwenty",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-23T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentytwenty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentytwenty-cover.jpg",
@@ -9582,7 +9582,8 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twentytwenty.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twentytwenty-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "posting_started_at": "2026-10-23T13:14:04.573Z"
     },
     {
       "id": "test-2026-10-23-surefive",
