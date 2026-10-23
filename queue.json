@@ -8768,6 +8768,10 @@
       "views_12h": {
         "views": 930,
         "stunden": 12.41
+      },
+      "views_24h": {
+        "views": 1222,
+        "stunden": 24.12
       }
     },
     {
@@ -9022,7 +9026,11 @@
         "verdacht": false,
         "at": "2026-10-22T19:33:48.990Z"
       },
-      "kommentar_id": "17991633060025691"
+      "kommentar_id": "17991633060025691",
+      "views_12h": {
+        "views": 249,
+        "stunden": 12.09
+      }
     },
     {
       "id": "test-2026-10-22-losesevenup",
