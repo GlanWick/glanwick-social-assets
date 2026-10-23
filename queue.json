@@ -9447,7 +9447,7 @@
     {
       "id": "test-2026-10-23-marginsix",
       "slug": "stickman-marginsix",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-23T07:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-marginsix.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-marginsix-cover.jpg",
@@ -9458,7 +9458,10 @@
         "bild": "bibliothek",
         "frage": "F2 Prozent gegen Dollar ueber Margin-Zinsen: Aktien +6 %, eigenes Geld +0 %, weil die Haelfte zu 12 % geliehen war. Traegt der Zins als Rechnung?"
       },
-      "posting_started_at": "2026-10-23T07:30:59.725Z"
+      "container_id": "18114051044136556",
+      "media_id": "18130014737486573",
+      "permalink": "https://www.instagram.com/reel/De1BxpYk_7B/",
+      "published_at": "2026-10-23T07:32:21.924Z"
     },
     {
       "id": "test-2026-10-23-ninetyfees",
