@@ -9614,7 +9614,16 @@
       "container_id": "18114092720136556",
       "media_id": "18133090771682504",
       "permalink": "https://www.instagram.com/reel/De1rBRLD99R/",
-      "published_at": "2026-10-23T13:32:44.704Z"
+      "published_at": "2026-10-23T13:32:44.704Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 221,
+        "beitraege_nachher": 221,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-23T13:33:46.657Z"
+      }
     },
     {
       "id": "test-2026-10-23-spreadfive",
