@@ -265,9 +265,11 @@ async function createContainer(entry) {
 // Stories koennen keine Kommentare tragen. Ein Fehler hier aendert nie den
 // Status "published": Er wird als kommentar_fehler vermerkt und per Telegram
 // gemeldet. Braucht die Berechtigung instagram_business_manage_comments.
+// 23.10.2026 (Jan): kein "Free journal" mehr. Nie mit dem kostenlosen Journal
+// werben, hoechstens "free to start"; der Vorteil zaehlt, nicht der Preis.
 // ---------------------------------------------------------------------------
 const STANDARD_KOMMENTAR =
-  'Track your real win rate and equity curve from your own trades. Free journal: glanwick.com/ig'
+  'Track your real win rate and equity curve from your own trades: glanwick.com/ig'
 
 function kommentarText(entry) {
   const kind = entry.kind || 'reel'
