@@ -9498,7 +9498,16 @@
       "container_id": "18114060722136556",
       "media_id": "18019056614940092",
       "permalink": "https://www.instagram.com/reel/De1PeWpEf9h/",
-      "published_at": "2026-10-23T09:32:06.375Z"
+      "published_at": "2026-10-23T09:32:06.375Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 220,
+        "beitraege_nachher": 220,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-23T09:33:08.251Z"
+      }
     },
     {
       "id": "test-2026-10-23-twopaychecks",
