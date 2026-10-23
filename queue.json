@@ -8848,7 +8848,11 @@
       "permalink": "https://www.instagram.com/reel/Dey7yVulJTk/",
       "published_at": "2026-10-22T12:01:34.271Z",
       "container_id": "18113915150136556",
-      "kommentar_id": "18423236851152900"
+      "kommentar_id": "18423236851152900",
+      "views_12h": {
+        "views": 359,
+        "stunden": 12.75
+      }
     },
     {
       "id": "test-2026-10-22-fifteenshots",
