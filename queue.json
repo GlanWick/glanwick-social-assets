@@ -9338,7 +9338,7 @@
     {
       "id": "2026-10-23-nachgekauft-oben",
       "slug": "stickman-doubledtop",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-23T02:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubledtop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubledtop-cover.jpg",
@@ -9349,7 +9349,10 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubledtop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-doubledtop-cover.jpg"
       },
-      "posting_started_at": "2026-10-23T02:30:18.261Z"
+      "container_id": "18114021419136556",
+      "media_id": "18049546799813035",
+      "permalink": "https://www.instagram.com/reel/De0fX3SgIiq/",
+      "published_at": "2026-10-23T02:31:39.206Z"
     },
     {
       "id": "test-2026-10-23-missedwinner",
