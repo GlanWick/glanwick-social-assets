@@ -9141,7 +9141,11 @@
         "verdacht": false,
         "at": "2026-10-22T22:32:53.560Z"
       },
-      "kommentar_id": "18136707469736805"
+      "kommentar_id": "18136707469736805",
+      "views_12h": {
+        "views": 1460,
+        "stunden": 12.12
+      }
     },
     {
       "id": "laptop-2026-10-22-r1-c-chill",
