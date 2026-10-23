@@ -9461,7 +9461,16 @@
       "container_id": "18114051044136556",
       "media_id": "18130014737486573",
       "permalink": "https://www.instagram.com/reel/De1BxpYk_7B/",
-      "published_at": "2026-10-23T07:32:21.924Z"
+      "published_at": "2026-10-23T07:32:21.924Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 220,
+        "beitraege_nachher": 220,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-23T07:33:24.127Z"
+      }
     },
     {
       "id": "test-2026-10-23-ninetyfees",
