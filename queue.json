@@ -9170,7 +9170,16 @@
       "container_id": "18114073574136556",
       "media_id": "18108655736192208",
       "permalink": "https://www.instagram.com/reel/De1dMi3kk4s/",
-      "published_at": "2026-10-23T11:31:50.087Z"
+      "published_at": "2026-10-23T11:31:50.087Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 220,
+        "beitraege_nachher": 220,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-23T11:32:51.964Z"
+      }
     },
     {
       "id": "laptop-2026-10-22-r2-c-chill",
