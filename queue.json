@@ -9599,7 +9599,7 @@
     {
       "id": "test-2026-10-23-surefive",
       "slug": "stickman-surefive",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-23T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surefive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-surefive-cover.jpg",
@@ -9611,7 +9611,10 @@
         "frage": "F6 Verdoppeln aus Ueberzeugung: 5 sichere Trades mit doppelter Groesse, 1 von 5 gewonnen, Woche -$200. Traegt das Gefuehl der Sicherheit?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-10-23T13:31:30.211Z"
+      "container_id": "18114092720136556",
+      "media_id": "18133090771682504",
+      "permalink": "https://www.instagram.com/reel/De1rBRLD99R/",
+      "published_at": "2026-10-23T13:32:44.704Z"
     },
     {
       "id": "test-2026-10-23-spreadfive",
