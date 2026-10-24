@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T20:59:20.957Z",
+ "updated": "2026-10-24T21:59:21.824Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-24T20:59:21.874Z",
+  "checked": "2026-10-24T21:59:22.876Z",
   "reach_days": [
    {
     "day": "2026-10-17",
@@ -6027,6 +6027,11 @@
    "ts": "2026-10-24T20:59:20.957Z",
    "followers": 554,
    "media_count": 223
+  },
+  {
+   "ts": "2026-10-24T21:59:21.824Z",
+   "followers": 554,
+   "media_count": 223
   }
  ],
  "posts": [
@@ -6037,7 +6042,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 38,
+   "views": 40,
    "likes": 1,
    "comments": 0
   },
@@ -6048,7 +6053,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1460,
+   "views": 1461,
    "likes": 19,
    "comments": 9
   },
@@ -6103,7 +6108,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1956,
+   "views": 1957,
    "likes": 11,
    "comments": 1
   },
@@ -6191,7 +6196,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1545,
+   "views": 1546,
    "likes": 26,
    "comments": 7
   },
@@ -6444,7 +6449,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1447,
+   "views": 1448,
    "likes": 15,
    "comments": 1
   },
