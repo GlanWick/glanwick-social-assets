@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T22:49:38.332Z",
+ "updated": "2026-10-24T23:49:44.462Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-24T22:49:39.328Z",
+  "checked": "2026-10-24T23:49:46.056Z",
   "reach_days": [
    {
     "day": "2026-10-17",
@@ -34,13 +34,13 @@
     "reach": 7532
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 9.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 554,
-  "media_count": 223
+  "media_count": 224
  },
  "history": [
   {
@@ -6037,9 +6037,25 @@
    "ts": "2026-10-24T22:49:38.332Z",
    "followers": 554,
    "media_count": 223
+  },
+  {
+   "ts": "2026-10-24T23:49:44.462Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
+  {
+   "id": "18214062232366000",
+   "slug": "stickman-eightyrate",
+   "permalink": "https://www.instagram.com/reel/De5Q2TEmAVA/",
+   "timestamp": "2026-10-24T23:00:55+0000",
+   "type": "VIDEO",
+   "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
+   "views": 153,
+   "likes": 3,
+   "comments": 1
+  },
   {
    "id": "17928803550184311",
    "slug": "history-1929",
@@ -6047,8 +6063,8 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 43,
-   "likes": 2,
+   "views": 48,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -6058,7 +6074,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1462,
+   "views": 1463,
    "likes": 19,
    "comments": 9
   },
@@ -6080,7 +6096,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1496,
+   "views": 1497,
    "likes": 19,
    "comments": 2
   },
@@ -6468,17 +6484,6 @@
    "views": 832,
    "likes": 9,
    "comments": 2
-  },
-  {
-   "id": "18060591578539055",
-   "slug": "stickman-appfifty",
-   "permalink": "https://www.instagram.com/reel/DewW6jPFeu8/",
-   "timestamp": "2026-10-21T12:00:45+0000",
-   "type": "VIDEO",
-   "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
-   "views": 1808,
-   "likes": 12,
-   "comments": 1
   }
  ]
 }
