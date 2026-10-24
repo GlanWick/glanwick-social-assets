@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T21:59:21.824Z",
+ "updated": "2026-10-24T22:49:38.332Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-24T21:59:22.876Z",
+  "checked": "2026-10-24T22:49:39.328Z",
   "reach_days": [
    {
     "day": "2026-10-17",
@@ -6032,6 +6032,11 @@
    "ts": "2026-10-24T21:59:21.824Z",
    "followers": 554,
    "media_count": 223
+  },
+  {
+   "ts": "2026-10-24T22:49:38.332Z",
+   "followers": 554,
+   "media_count": 223
   }
  ],
  "posts": [
@@ -6042,8 +6047,8 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 40,
-   "likes": 1,
+   "views": 43,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -6053,7 +6058,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1461,
+   "views": 1462,
    "likes": 19,
    "comments": 9
   },
@@ -6196,7 +6201,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1546,
+   "views": 1548,
    "likes": 26,
    "comments": 7
   },
