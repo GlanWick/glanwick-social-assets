@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T16:58:43.014Z",
+ "updated": "2026-10-24T17:59:09.429Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-24T16:58:44.304Z",
+  "checked": "2026-10-24T17:59:10.435Z",
   "reach_days": [
    {
     "day": "2026-10-17",
@@ -40,7 +40,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 222
+  "media_count": 223
  },
  "history": [
   {
@@ -6007,9 +6007,25 @@
    "ts": "2026-10-24T16:58:43.014Z",
    "followers": 553,
    "media_count": 222
+  },
+  {
+   "ts": "2026-10-24T17:59:09.429Z",
+   "followers": 553,
+   "media_count": 223
   }
  ],
  "posts": [
+  {
+   "id": "17928803550184311",
+   "slug": "history-1929",
+   "permalink": "https://www.instagram.com/p/De4ngVZFRp1/",
+   "timestamp": "2026-10-24T16:59:25+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
+   "views": 23,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "17943526389368582",
    "slug": null,
@@ -6017,7 +6033,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1449,
+   "views": 1452,
    "likes": 19,
    "comments": 10
   },
@@ -6028,7 +6044,7 @@
    "timestamp": "2026-10-23T13:32:35+0000",
    "type": "VIDEO",
    "caption": "10 normal trades made $400, 5 sure ones lost $600, and your week is $200 down.",
-   "views": 1345,
+   "views": 1350,
    "likes": 20,
    "comments": 2
   },
@@ -6083,7 +6099,7 @@
    "timestamp": "2026-10-23T05:31:55+0000",
    "type": "VIDEO",
    "caption": "You planned to lose $100 a trade, your losses averaged $160, and +$500 became +$",
-   "views": 668,
+   "views": 669,
    "likes": 3,
    "comments": 1
   },
@@ -6149,7 +6165,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 440,
+   "views": 441,
    "likes": 7,
    "comments": 1
   },
@@ -6160,7 +6176,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1543,
+   "views": 1544,
    "likes": 26,
    "comments": 7
   },
@@ -6171,7 +6187,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1500,
+   "views": 1501,
    "likes": 10,
    "comments": 1
   },
@@ -6402,7 +6418,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 739,
+   "views": 740,
    "likes": 9,
    "comments": 1
   },
@@ -6437,17 +6453,6 @@
    "caption": "Your broker shows +50 % this year. You put in $10,000, and you have $9,000.",
    "views": 1807,
    "likes": 12,
-   "comments": 1
-  },
-  {
-   "id": "18090262793658324",
-   "slug": "stickman-windue",
-   "permalink": "https://www.instagram.com/reel/DewTmOpEpXA/",
-   "timestamp": "2026-10-21T11:32:24+0000",
-   "type": "VIDEO",
-   "caption": "You lost 3 trades in a row, tripled the 4th because a win was due, and you're $6",
-   "views": 1722,
-   "likes": 11,
    "comments": 1
   }
  ]
