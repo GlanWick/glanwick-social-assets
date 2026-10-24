@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T19:59:19.599Z",
+ "updated": "2026-10-24T20:59:20.957Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-24T19:59:20.707Z",
+  "checked": "2026-10-24T20:59:21.874Z",
   "reach_days": [
    {
     "day": "2026-10-17",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 553,
+  "followers": 554,
   "media_count": 223
  },
  "history": [
@@ -6022,6 +6022,11 @@
    "ts": "2026-10-24T19:59:19.599Z",
    "followers": 553,
    "media_count": 223
+  },
+  {
+   "ts": "2026-10-24T20:59:20.957Z",
+   "followers": 554,
+   "media_count": 223
   }
  ],
  "posts": [
@@ -6032,7 +6037,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 37,
+   "views": 38,
    "likes": 1,
    "comments": 0
   },
@@ -6043,9 +6048,9 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1457,
+   "views": 1460,
    "likes": 19,
-   "comments": 10
+   "comments": 9
   },
   {
    "id": "18133090771682504",
