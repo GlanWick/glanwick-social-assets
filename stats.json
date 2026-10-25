@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-25T22:13:03.879Z",
+ "updated": "2026-10-25T23:13:11.259Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
+   "Reichweite 2026-10-24: 2350 gegen Mittel 10733",
+   "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-10-25T22:13:04.705Z",
+  "checked": "2026-10-25T23:13:12.075Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,13 +37,13 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 10.7
+  "avg_watch_last_reels": 7.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 556,
-  "media_count": 224
+  "media_count": 225
  },
  "history": [
   {
@@ -6159,9 +6160,25 @@
    "ts": "2026-10-25T22:13:03.879Z",
    "followers": 556,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T23:13:11.259Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
+  {
+   "id": "18076390451779533",
+   "slug": "stickman-widestop",
+   "permalink": "https://www.instagram.com/reel/De71tHloG2Q/",
+   "timestamp": "2026-10-25T23:01:30+0000",
+   "type": "VIDEO",
+   "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
+   "views": 9,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "17886657051503593",
    "slug": "stickman-onethirty",
@@ -6169,7 +6186,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1760,
+   "views": 1761,
    "likes": 21,
    "comments": 2
   },
@@ -6590,17 +6607,6 @@
    "views": 1449,
    "likes": 15,
    "comments": 1
-  },
-  {
-   "id": "18017054762748102",
-   "slug": "stickman-righteight",
-   "permalink": "https://www.instagram.com/reel/DewhTnEAntp/",
-   "timestamp": "2026-10-21T13:31:39+0000",
-   "type": "VIDEO",
-   "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 832,
-   "likes": 9,
-   "comments": 2
   }
  ]
 }
