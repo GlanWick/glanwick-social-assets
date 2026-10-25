@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T10:31:14.197Z",
+ "updated": "2026-10-25T11:31:39.521Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T10:31:15.521Z",
+  "checked": "2026-10-25T11:31:40.745Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,12 +36,12 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 10.3
+  "avg_watch_last_reels": 10.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 555,
+  "followers": 556,
   "media_count": 224
  },
  "history": [
@@ -6099,6 +6099,11 @@
    "ts": "2026-10-25T10:31:14.197Z",
    "followers": 555,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T11:31:39.521Z",
+   "followers": 556,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6109,8 +6114,8 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1513,
-   "likes": 19,
+   "views": 1568,
+   "likes": 20,
    "comments": 1
   },
   {
@@ -6241,7 +6246,7 @@
    "timestamp": "2026-10-22T23:46:26+0000",
    "type": "VIDEO",
    "caption": "GlanWick is for traders by traders and is already used by traders in the US, Can",
-   "views": 166,
+   "views": 167,
    "likes": 0,
    "comments": 0
   },
@@ -6274,7 +6279,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1549,
+   "views": 1550,
    "likes": 26,
    "comments": 7
   },
