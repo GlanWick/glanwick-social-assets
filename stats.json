@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T19:23:09.751Z",
+ "updated": "2026-10-25T20:23:40.007Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T19:23:10.872Z",
+  "checked": "2026-10-25T20:23:41.231Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6144,6 +6144,11 @@
    "ts": "2026-10-25T19:23:09.751Z",
    "followers": 556,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T20:23:40.007Z",
+   "followers": 556,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6154,8 +6159,8 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1748,
-   "likes": 19,
+   "views": 1757,
+   "likes": 20,
    "comments": 2
   },
   {
@@ -6176,7 +6181,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1475,
+   "views": 1476,
    "likes": 20,
    "comments": 9
   },
