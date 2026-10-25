@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T01:50:35.138Z",
+ "updated": "2026-10-25T02:51:00.380Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-24: 2030 gegen Mittel 10733"
+   "Reichweite 2026-10-24: 2079 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T01:50:36.291Z",
+  "checked": "2026-10-25T02:51:01.490Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-24",
-    "reach": 2030
+    "reach": 2079
    }
   ],
-  "avg_watch_last_reels": 18.4
+  "avg_watch_last_reels": 15.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6054,6 +6054,11 @@
    "ts": "2026-10-25T01:50:35.138Z",
    "followers": 554,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T02:51:00.380Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6064,7 +6069,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 220,
+   "views": 291,
    "likes": 3,
    "comments": 1
   },
@@ -6174,7 +6179,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 350,
+   "views": 351,
    "likes": 4,
    "comments": 2
   },
@@ -6229,7 +6234,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1548,
+   "views": 1549,
    "likes": 26,
    "comments": 7
   },
