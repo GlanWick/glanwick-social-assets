@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T20:23:40.007Z",
+ "updated": "2026-10-25T21:24:08.296Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T20:23:41.231Z",
+  "checked": "2026-10-25T21:24:10.012Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6149,6 +6149,11 @@
    "ts": "2026-10-25T20:23:40.007Z",
    "followers": 556,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T21:24:08.296Z",
+   "followers": 556,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6159,8 +6164,8 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1757,
-   "likes": 20,
+   "views": 1760,
+   "likes": 21,
    "comments": 2
   },
   {
@@ -6170,7 +6175,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1601,
+   "views": 1602,
    "likes": 20,
    "comments": 1
   },
@@ -6236,7 +6241,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1967,
+   "views": 1968,
    "likes": 12,
    "comments": 2
   },
@@ -6379,7 +6384,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 247,
+   "views": 248,
    "likes": 3,
    "comments": 1
   },
