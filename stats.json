@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T11:31:39.521Z",
+ "updated": "2026-10-25T12:31:49.842Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T11:31:40.745Z",
+  "checked": "2026-10-25T12:31:51.115Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,13 +36,13 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 10.2
+  "avg_watch_last_reels": 11.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 556,
-  "media_count": 224
+  "media_count": 225
  },
  "history": [
   {
@@ -6104,9 +6104,25 @@
    "ts": "2026-10-25T11:31:39.521Z",
    "followers": 556,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T12:31:49.842Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
+  {
+   "id": "17886657051503593",
+   "slug": "stickman-onethirty",
+   "permalink": "https://www.instagram.com/reel/De6qGZFjcXf/",
+   "timestamp": "2026-10-25T12:00:39+0000",
+   "type": "VIDEO",
+   "caption": "99 trades made you $3,000. 1 trade took $3,900.",
+   "views": 85,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18214062232366000",
    "slug": "stickman-eightyrate",
@@ -6114,7 +6130,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1568,
+   "views": 1578,
    "likes": 20,
    "comments": 1
   },
@@ -6125,7 +6141,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 72,
+   "views": 76,
    "likes": 4,
    "comments": 0
   },
@@ -6136,7 +6152,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1466,
+   "views": 1468,
    "likes": 19,
    "comments": 9
   },
@@ -6147,7 +6163,7 @@
    "timestamp": "2026-10-23T13:32:35+0000",
    "type": "VIDEO",
    "caption": "10 normal trades made $400, 5 sure ones lost $600, and your week is $200 down.",
-   "views": 1353,
+   "views": 1355,
    "likes": 21,
    "comments": 2
   },
@@ -6279,7 +6295,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1550,
+   "views": 1551,
    "likes": 26,
    "comments": 7
   },
@@ -6535,17 +6551,6 @@
    "views": 1449,
    "likes": 15,
    "comments": 1
-  },
-  {
-   "id": "18017054762748102",
-   "slug": "stickman-righteight",
-   "permalink": "https://www.instagram.com/reel/DewhTnEAntp/",
-   "timestamp": "2026-10-21T13:31:39+0000",
-   "type": "VIDEO",
-   "caption": "You were right about 8 stocks out of 10, and you lost $200.",
-   "views": 832,
-   "likes": 9,
-   "comments": 2
   }
  ]
 }
