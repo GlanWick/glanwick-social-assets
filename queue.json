@@ -9821,7 +9821,7 @@
     {
       "id": "2026-10-24-weiter-stop",
       "slug": "stickman-widestop",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-25T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-widestop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-widestop-cover.jpg",
@@ -9832,7 +9832,8 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "posting_started_at": "2026-10-25T23:00:26.647Z"
     },
     {
       "id": "test-2026-10-24-bestworst",
