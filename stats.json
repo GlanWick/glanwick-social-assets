@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T17:22:16.528Z",
+ "updated": "2026-10-25T18:22:42.943Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T17:22:18.286Z",
+  "checked": "2026-10-25T18:22:43.962Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6134,6 +6134,11 @@
    "ts": "2026-10-25T17:22:16.528Z",
    "followers": 556,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-25T18:22:42.943Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6144,7 +6149,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1734,
+   "views": 1738,
    "likes": 19,
    "comments": 2
   },
@@ -6155,7 +6160,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1593,
+   "views": 1595,
    "likes": 20,
    "comments": 1
   },
@@ -6166,7 +6171,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 78,
+   "views": 79,
    "likes": 4,
    "comments": 0
   },
@@ -6177,7 +6182,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1470,
+   "views": 1475,
    "likes": 20,
    "comments": 9
   },
@@ -6375,7 +6380,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 246,
+   "views": 247,
    "likes": 3,
    "comments": 1
   },
