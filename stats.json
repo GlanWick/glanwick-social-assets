@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T14:32:42.879Z",
+ "updated": "2026-10-25T15:33:06.949Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T14:32:44.110Z",
+  "checked": "2026-10-25T15:33:08.076Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6119,6 +6119,11 @@
    "ts": "2026-10-25T14:32:42.879Z",
    "followers": 556,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-25T15:33:06.949Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6129,7 +6134,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1557,
+   "views": 1650,
    "likes": 18,
    "comments": 2
   },
@@ -6140,7 +6145,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1583,
+   "views": 1588,
    "likes": 20,
    "comments": 1
   },
@@ -6151,7 +6156,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 76,
+   "views": 78,
    "likes": 4,
    "comments": 0
   },
@@ -6162,8 +6167,8 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1469,
-   "likes": 19,
+   "views": 1470,
+   "likes": 20,
    "comments": 9
   },
   {
@@ -6217,7 +6222,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1961,
+   "views": 1963,
    "likes": 12,
    "comments": 2
   },
@@ -6316,7 +6321,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1501,
+   "views": 1502,
    "likes": 10,
    "comments": 1
   },
