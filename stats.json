@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T00:50:09.822Z",
+ "updated": "2026-10-25T01:50:35.138Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-24: 1995 gegen Mittel 10733"
+   "Reichweite 2026-10-24: 2030 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T00:50:10.699Z",
+  "checked": "2026-10-25T01:50:36.291Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-24",
-    "reach": 1995
+    "reach": 2030
    }
   ],
-  "avg_watch_last_reels": 18.1
+  "avg_watch_last_reels": 18.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6049,6 +6049,11 @@
    "ts": "2026-10-25T00:50:09.822Z",
    "followers": 554,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T01:50:35.138Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6059,7 +6064,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 163,
+   "views": 220,
    "likes": 3,
    "comments": 1
   },
@@ -6070,7 +6075,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 51,
+   "views": 54,
    "likes": 4,
    "comments": 0
   },
@@ -6092,8 +6097,8 @@
    "timestamp": "2026-10-23T13:32:35+0000",
    "type": "VIDEO",
    "caption": "10 normal trades made $400, 5 sure ones lost $600, and your week is $200 down.",
-   "views": 1350,
-   "likes": 20,
+   "views": 1353,
+   "likes": 21,
    "comments": 2
   },
   {
@@ -6114,7 +6119,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1427,
+   "views": 1428,
    "likes": 19,
    "comments": 3
   },
@@ -6136,7 +6141,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1957,
+   "views": 1958,
    "likes": 11,
    "comments": 1
   },
