@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T16:22:05.289Z",
+ "updated": "2026-10-25T17:22:16.528Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T16:22:06.876Z",
+  "checked": "2026-10-25T17:22:18.286Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,7 +36,7 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 10.8
+  "avg_watch_last_reels": 10.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6129,6 +6129,11 @@
    "ts": "2026-10-25T16:22:05.289Z",
    "followers": 556,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-25T17:22:16.528Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6139,8 +6144,8 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1723,
-   "likes": 18,
+   "views": 1734,
+   "likes": 19,
    "comments": 2
   },
   {
@@ -6227,7 +6232,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1963,
+   "views": 1966,
    "likes": 12,
    "comments": 2
   },
@@ -6260,7 +6265,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 351,
+   "views": 352,
    "likes": 4,
    "comments": 2
   },
