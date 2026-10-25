@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T12:31:49.842Z",
+ "updated": "2026-10-25T13:32:17.750Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T12:31:51.115Z",
+  "checked": "2026-10-25T13:32:19.374Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,7 +36,7 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 11.9
+  "avg_watch_last_reels": 10.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6109,6 +6109,11 @@
    "ts": "2026-10-25T12:31:49.842Z",
    "followers": 556,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-25T13:32:17.750Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6119,9 +6124,9 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 85,
-   "likes": 0,
-   "comments": 1
+   "views": 1164,
+   "likes": 14,
+   "comments": 2
   },
   {
    "id": "18214062232366000",
@@ -6130,7 +6135,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1578,
+   "views": 1580,
    "likes": 20,
    "comments": 1
   },
@@ -6185,7 +6190,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1428,
+   "views": 1430,
    "likes": 19,
    "comments": 3
   },
