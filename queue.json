@@ -9751,7 +9751,7 @@
     {
       "id": "2026-10-23-ein-trade-dreissig",
       "slug": "stickman-onethirty",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-25T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethirty.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-onethirty-cover.jpg",
@@ -9763,7 +9763,10 @@
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onethirty-cover.jpg"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-10-25T12:00:05.163Z"
+      "container_id": "18114449975136556",
+      "media_id": "17886657051503593",
+      "permalink": "https://www.instagram.com/reel/De6qGZFjcXf/",
+      "published_at": "2026-10-25T12:00:47.985Z"
     },
     {
       "id": "test-2026-10-23-sixtydouble",
