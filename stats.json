@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T07:41:16.273Z",
+ "updated": "2026-10-25T08:41:28.943Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T07:41:17.557Z",
+  "checked": "2026-10-25T08:41:29.819Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,7 +36,7 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 11.5
+  "avg_watch_last_reels": 11
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6084,6 +6084,11 @@
    "ts": "2026-10-25T07:41:16.273Z",
    "followers": 554,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T08:41:28.943Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6094,8 +6099,8 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 705,
-   "likes": 9,
+   "views": 963,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -6138,7 +6143,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1498,
+   "views": 1499,
    "likes": 19,
    "comments": 2
   },
