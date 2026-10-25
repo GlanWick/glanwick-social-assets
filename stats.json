@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T05:40:40.889Z",
+ "updated": "2026-10-25T06:40:58.452Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-24: 2234 gegen Mittel 10733"
+   "Reichweite 2026-10-24: 2310 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T05:40:41.761Z",
+  "checked": "2026-10-25T06:40:59.843Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-24",
-    "reach": 2234
+    "reach": 2310
    }
   ],
-  "avg_watch_last_reels": 12.7
+  "avg_watch_last_reels": 12.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6074,6 +6074,11 @@
    "ts": "2026-10-25T05:40:40.889Z",
    "followers": 554,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T06:40:58.452Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6084,8 +6089,8 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 479,
-   "likes": 5,
+   "views": 590,
+   "likes": 7,
    "comments": 1
   },
   {
@@ -6106,7 +6111,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1464,
+   "views": 1465,
    "likes": 19,
    "comments": 9
   },
@@ -6161,9 +6166,9 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1958,
-   "likes": 11,
-   "comments": 1
+   "views": 1961,
+   "likes": 12,
+   "comments": 2
   },
   {
    "id": "17977822023141739",
@@ -6205,9 +6210,9 @@
    "timestamp": "2026-10-23T01:32:51+0000",
    "type": "VIDEO",
    "caption": "You win 3 trades in 4, and every 4 trades lose $48.",
-   "views": 1676,
+   "views": 1679,
    "likes": 18,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18501952171098966",
@@ -6282,7 +6287,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 1340,
+   "views": 1342,
    "likes": 19,
    "comments": 1
   },
@@ -6491,7 +6496,7 @@
    "timestamp": "2026-10-21T17:00:34+0000",
    "type": "VIDEO",
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
-   "views": 740,
+   "views": 741,
    "likes": 9,
    "comments": 1
   },
