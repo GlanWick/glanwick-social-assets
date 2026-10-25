@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T21:24:08.296Z",
+ "updated": "2026-10-25T22:13:03.879Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T21:24:10.012Z",
+  "checked": "2026-10-25T22:13:04.705Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6154,6 +6154,11 @@
    "ts": "2026-10-25T21:24:08.296Z",
    "followers": 556,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T22:13:03.879Z",
+   "followers": 556,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6241,7 +6246,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1968,
+   "views": 1969,
    "likes": 12,
    "comments": 2
   },
@@ -6461,7 +6466,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1280,
+   "views": 1281,
    "likes": 8,
    "comments": 1
   },
