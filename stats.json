@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T04:40:25.326Z",
+ "updated": "2026-10-25T05:40:40.889Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-24: 2196 gegen Mittel 10733"
+   "Reichweite 2026-10-24: 2234 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T04:40:27.556Z",
+  "checked": "2026-10-25T05:40:41.761Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-24",
-    "reach": 2196
+    "reach": 2234
    }
   ],
-  "avg_watch_last_reels": 13.3
+  "avg_watch_last_reels": 12.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6069,6 +6069,11 @@
    "ts": "2026-10-25T04:40:25.326Z",
    "followers": 554,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T05:40:40.889Z",
+   "followers": 554,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6079,8 +6084,8 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 408,
-   "likes": 4,
+   "views": 479,
+   "likes": 5,
    "comments": 1
   },
   {
@@ -6090,7 +6095,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 62,
+   "views": 63,
    "likes": 4,
    "comments": 0
   },
@@ -6101,7 +6106,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1463,
+   "views": 1464,
    "likes": 19,
    "comments": 9
   },
@@ -6497,7 +6502,7 @@
    "timestamp": "2026-10-21T15:30:35+0000",
    "type": "VIDEO",
    "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1448,
+   "views": 1449,
    "likes": 15,
    "comments": 1
   },
