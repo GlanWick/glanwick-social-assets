@@ -9691,7 +9691,11 @@
       "media_id": "18214062232366000",
       "permalink": "https://www.instagram.com/reel/De5Q2TEmAVA/",
       "published_at": "2026-10-24T23:01:03.446Z",
-      "kommentar_id": "17964037035215258"
+      "kommentar_id": "17964037035215258",
+      "views_12h": {
+        "views": 1568,
+        "stunden": 12.51
+      }
     },
     {
       "id": "test-2026-10-23-sixtystreak",
