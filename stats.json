@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T09:41:54.458Z",
+ "updated": "2026-10-25T10:31:14.197Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T09:41:55.784Z",
+  "checked": "2026-10-25T10:31:15.521Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -36,7 +36,7 @@
     "reach": 2350
    }
   ],
-  "avg_watch_last_reels": 10.5
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6094,6 +6094,11 @@
    "ts": "2026-10-25T09:41:54.458Z",
    "followers": 555,
    "media_count": 224
+  },
+  {
+   "ts": "2026-10-25T10:31:14.197Z",
+   "followers": 555,
+   "media_count": 224
   }
  ],
  "posts": [
@@ -6104,8 +6109,8 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1399,
-   "likes": 16,
+   "views": 1513,
+   "likes": 19,
    "comments": 1
   },
   {
@@ -6115,7 +6120,7 @@
    "timestamp": "2026-10-24T16:59:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 yea",
-   "views": 69,
+   "views": 72,
    "likes": 4,
    "comments": 0
   },
@@ -6126,7 +6131,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1465,
+   "views": 1466,
    "likes": 19,
    "comments": 9
   },
