@@ -9828,13 +9828,16 @@
       "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.\n\nHow? Your target was $200. With a $100 stop, 5 of 10 trades hit the target: +$1,000 against −$500. That's +$500.\nAnd with a $200 stop? 6 of 10 won, because fewer trades got stopped out. +$1,200 against −$800. That's +$400.\nWhy less money with more wins? Each loss now costs a whole win.\nWhat win rate pays for the wider stop? 62.5 %, just to make the same $500.\n\nBefore you widen a stop, count in your journal how many of your last 20 trades would have won with it. Under 13 of 20, keep your stop.\n\nYour journal, link in bio.\n\nSome traders widen the stop after a few stop outs and feel better about the win rate.\n\nDid your last wider stop make you more money or just more wins?\n\nPart 130 of the series. Part 131: the stock rose 4 % after earnings, and your $1,000 in calls is now $600.\n\n#stoploss #riskreward #daytrading #riskmanagement #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "submitted",
+        "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop-cover.jpg",
         "gestartet_at": "2026-10-25T23:01:38.199Z",
-        "stand": "2026-10-25T23:01:57.349Z",
+        "stand": "2026-10-25T23:02:59.446Z",
         "versuch": 1,
-        "post_id": "6ade8a5547a4a3d257a46fec"
+        "post_id": "6ade8a5547a4a3d257a46fec",
+        "published_at": "2026-10-25T23:02:05.521Z",
+        "url": null,
+        "plattform_id": "v_pub_url~v2.7700744295619495968"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "container_id": "18114549383136556",
