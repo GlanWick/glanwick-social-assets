@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-25T13:32:17.750Z",
+ "updated": "2026-10-25T14:32:42.879Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-24: 2350 gegen Mittel 10733"
   ],
-  "checked": "2026-10-25T13:32:19.374Z",
+  "checked": "2026-10-25T14:32:44.110Z",
   "reach_days": [
    {
     "day": "2026-10-18",
@@ -6114,6 +6114,11 @@
    "ts": "2026-10-25T13:32:17.750Z",
    "followers": 556,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-25T14:32:42.879Z",
+   "followers": 556,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6124,8 +6129,8 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1164,
-   "likes": 14,
+   "views": 1557,
+   "likes": 18,
    "comments": 2
   },
   {
@@ -6135,7 +6140,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1580,
+   "views": 1583,
    "likes": 20,
    "comments": 1
   },
@@ -6157,7 +6162,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1468,
+   "views": 1469,
    "likes": 19,
    "comments": 9
   },
@@ -6190,7 +6195,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1430,
+   "views": 1432,
    "likes": 19,
    "comments": 3
   },
@@ -6410,7 +6415,7 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 1433,
+   "views": 1434,
    "likes": 12,
    "comments": 1
   },
