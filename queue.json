@@ -10380,7 +10380,7 @@
     {
       "id": "2026-10-26-your-rule-doubling",
       "slug": "your-rule-doubling",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-26T22:22:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/your-rule-doubling.mp4",
       "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.\nAt a 50% win rate, a 7-loss streak somewhere in 200 trades is more likely than not (about 54%).\nComment JOURNAL and we'll send you the link.\n\n#tradingpsychology #riskmanagement #daytrading #tradingjournal",
@@ -10390,7 +10390,10 @@
         "status": "draft",
         "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von your-rule-doubling"
       },
-      "posting_started_at": "2026-10-26T22:23:21.461Z"
+      "container_id": "18114751055136556",
+      "media_id": "18113687399138642",
+      "permalink": "https://www.instagram.com/reel/De-WP-xCv66/",
+      "published_at": "2026-10-26T22:24:22.292Z"
     }
   ]
 }
