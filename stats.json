@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26T10:55:07.110Z",
+ "updated": "2026-10-26T11:55:12.385Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606"
   ],
-  "checked": "2026-10-26T10:55:08.793Z",
+  "checked": "2026-10-26T11:55:13.424Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -6224,6 +6224,11 @@
    "ts": "2026-10-26T10:55:07.110Z",
    "followers": 557,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-26T11:55:12.385Z",
+   "followers": 557,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6234,7 +6239,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 169,
+   "views": 171,
    "likes": 2,
    "comments": 1
   },
@@ -6245,7 +6250,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1776,
+   "views": 1778,
    "likes": 21,
    "comments": 2
   },
