@@ -9938,9 +9938,12 @@
       "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.\n\nHow? The day before earnings, you bought 5 calls at $2: strike $105, stock at $100, a week to expiry.\nWhat was in that price? A big move. The options were priced for about 8 % either way.\nWhat did the stock do? +4 %, to $104. Half the move the price expected.\nWhy did the calls fall? The price of the expected move came out overnight. They're worth $1.20 each, $600 for all 5.\n\nBefore you hold options through earnings, write the expected move in your journal next to the trade. After the report, write the real move next to it.\n\nYour journal, link in bio.\n\nSome traders buy calls before earnings, get the direction right, and still lose money.\n\nHave you been right on earnings and still lost on the option?\n\nPart 131 of the series. Part 132: your month with 85 % winners lost $650. Your month with 40 % winners made $1,200.\n\n#optionstrading #earnings #impliedvolatility #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "ready",
+        "status": "posting",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4",
-        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls-cover.jpg"
+        "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls-cover.jpg",
+        "gestartet_at": "2026-10-26T12:00:54.944Z",
+        "stand": "2026-10-26T12:00:54.944Z",
+        "versuch": 1
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
