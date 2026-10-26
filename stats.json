@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-26T11:55:12.385Z",
+ "updated": "2026-10-26T12:55:29.275Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-25: 2202 gegen Mittel 10606"
+   "Reichweite 2026-10-25: 2202 gegen Mittel 10606",
+   "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-10-26T11:55:13.424Z",
+  "checked": "2026-10-26T12:55:30.674Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -36,13 +37,13 @@
     "reach": 2202
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 6.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 557,
-  "media_count": 225
+  "media_count": 226
  },
  "history": [
   {
@@ -6229,9 +6230,25 @@
    "ts": "2026-10-26T11:55:12.385Z",
    "followers": 557,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-26T12:55:29.275Z",
+   "followers": 557,
+   "media_count": 226
   }
  ],
  "posts": [
+  {
+   "id": "18639957823012099",
+   "slug": "stickman-earningscalls",
+   "permalink": "https://www.instagram.com/reel/De9O5c9nVKj/",
+   "timestamp": "2026-10-26T12:00:42+0000",
+   "type": "VIDEO",
+   "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
+   "views": 148,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18076390451779533",
    "slug": "stickman-widestop",
@@ -6239,7 +6256,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 171,
+   "views": 173,
    "likes": 2,
    "comments": 1
   },
@@ -6272,7 +6289,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1487,
+   "views": 1488,
    "likes": 20,
    "comments": 9
   },
@@ -6659,17 +6676,6 @@
    "caption": "Averaging down saved 9 losing trades, and the 10th cost $3,000.",
    "views": 741,
    "likes": 9,
-   "comments": 1
-  },
-  {
-   "id": "18631009726002025",
-   "slug": "stickman-threecopies",
-   "permalink": "https://www.instagram.com/reel/Dewu7afEtvx/",
-   "timestamp": "2026-10-21T15:30:35+0000",
-   "type": "VIDEO",
-   "caption": "You copied 3 traders to spread your risk, and one drop took $900.",
-   "views": 1449,
-   "likes": 15,
    "comments": 1
   }
  ]
