@@ -50,11 +50,16 @@ function starteMock() {
       if (r === '/me/content_publishing_limit') return json(200, { data: [{ quota_usage: 0 }] })
       if (r === '/me/media' && req.method === 'POST') return json(200, { id: `c${++s.zaehler}` })
       if (r === '/me/media_publish') return json(200, { id: `m${s.zaehler}` })
-      if (r === '/me/media') return json(200, { data: [] })
-      if (r === '/me/insights') return json(200, { data: [{ values: [] }] })
+      if (r === '/me/media') return json(200, { data: s.medien || [] })
+      if (r === '/me/insights') return json(200, { data: [{ values: s.reichweite || [] }] })
+      const mi = r.match(/^\/(v\d+)\/insights$/)
+      if (mi) {
+        if (url.search.includes('ig_reels_avg_watch_time')) return json(200, { data: [{ values: [{ value: s.sehdauerMs ?? 10_000 }] }] })
+        return json(200, { data: [{ values: [{ value: 100 }] }] })
+      }
       if (r === '/me') return json(200, { username: 'glanwick_com', followers_count: 226, media_count: 100 })
       if (/^\/c\d+$/.test(r)) return json(200, { status_code: 'FINISHED' })
-      if (/^\/m\d+$/.test(r)) return json(200, { permalink: `https://www.instagram.com/reel/TEST${r.slice(2)}/` })
+      if (/^\/m\d+$/.test(r)) return json(200, { permalink: `https://www.instagram.com/reel/TEST${r.slice(2)}/`, is_shared_to_feed: false, media_product_type: 'REELS' })
       return json(200, { data: [] })
     }
 
@@ -340,6 +345,44 @@ szenarien['fehlende-datei-fester-fehler'] = async ({ s }) => {
   assert.equal(a.tiktok.status, 'error')
   assert.ok(a.tiktok.fehler.includes('404'))
   assert.equal(b.tiktok.status, 'published', 'der naechste nutzt das freie Fenster')
+}
+
+// Fruehwarnung (seit 26.10.2026): Nur der Grund "Sehdauer" haelt Testreels an,
+// eine gefallene Reichweite allein nicht. Normale Beitraege laufen immer.
+const tag = (n) => new Date(Date.now() - n * 86_400_000).toISOString().slice(0, 10) + 'T07:00:00+0000'
+const dreiReels = () => [1, 2, 3].map((i) => ({ id: `v${i}`, media_type: 'VIDEO', caption: `Reel ${i}`, permalink: `https://www.instagram.com/reel/V${i}/`, timestamp: new Date().toISOString() }))
+const testreel = (port, id, slug) => ({
+  id, slug, status: 'ready', scheduled_at: vor(1), trial: 'SS_PERFORMANCE',
+  video_url: `https://glanwick.github.io/glanwick-social-assets/${slug}.mp4`,
+  cover_url: `https://glanwick.github.io/glanwick-social-assets/${slug}-cover.jpg`,
+  caption: `Caption fuer ${slug}.\n\n#tradingjournal`,
+})
+const remoteStats = (r) => JSON.parse(execFileSync('git', ['--git-dir', join(r.dir, 'remote.git'), 'show', 'main:stats.json'], { encoding: 'utf8' }))
+
+szenarien['fruehwarnung-reichweite-testreel-geht'] = async ({ s }) => {
+  s.reichweite = [7, 6, 5, 4, 3, 2, 1].map((n) => ({ end_time: tag(n), value: n === 1 ? 1_000 : 10_000 }))
+  s.medien = dreiReels(); s.sehdauerMs = 9_000
+  const r = repoMit({ entries: [testreel(s.port, 'test-1', 'probe-a')] }, ['probe-a.mp4', 'probe-a-cover.jpg'])
+  const { out } = await laufe(r.w, s.port, { sekunden: 15, key: '', env: { TESTREEL_PRUEF_WARTEN_MS: '0' } })
+  const g = remoteStats(r).guardrail
+  assert.equal(g.status, 'warn', out)
+  assert.ok(g.reasons.some((x) => x.startsWith('Reichweite')), JSON.stringify(g.reasons))
+  assert.equal(r.remoteQueue().entries[0].status, 'published', out)
+}
+
+szenarien['fruehwarnung-sehdauer-testreel-wartet'] = async ({ s }) => {
+  s.reichweite = [7, 6, 5, 4, 3, 2, 1].map((n) => ({ end_time: tag(n), value: 10_000 }))
+  s.medien = dreiReels(); s.sehdauerMs = 6_000
+  const normal = { ...igEintrag(s.port, 'ig-n', 'normal-a'), status: 'ready', published_at: undefined, scheduled_at: vor(2) }
+  const r = repoMit({ entries: [normal, testreel(s.port, 'test-2', 'probe-b')] }, ['normal-a.mp4', 'normal-a-cover.jpg', 'probe-b.mp4', 'probe-b-cover.jpg'])
+  const { out } = await laufe(r.w, s.port, { sekunden: 15, key: '', env: { TESTREEL_PRUEF_WARTEN_MS: '0' } })
+  const g = remoteStats(r).guardrail
+  assert.equal(g.status, 'warn', out)
+  assert.ok(g.reasons.some((x) => x.startsWith('Sehdauer')), JSON.stringify(g.reasons))
+  const [n, t] = r.remoteQueue().entries
+  assert.equal(n.status, 'published', 'normale Beitraege laufen weiter')
+  assert.equal(t.status, 'ready', 'Testreel wartet')
+  assert.ok(out.includes('Fruehwarnung wegen Sehdauer'), out)
 }
 
 // ---------------------------------------------------------------- Ablauf
