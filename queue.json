@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:40:55.750Z",
+  "generated_at": "2026-10-26T22:23:14.775Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1690,14 +1690,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-weekswing.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-weekswing-cover.jpg",
-        "gestartet_at": "2026-10-26T17:00:24.034Z",
-        "stand": "2026-10-26T17:02:23.700Z",
-        "versuch": 1,
-        "slot": "2026-10-26T17:00:00.000Z",
         "post_id": "6adf87338dfd06a5c216072f",
-        "published_at": "2026-10-26T17:02:15.933Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701022839125675297",
-        "plattform_id": "7701022839125675297"
+        "plattform_id": "7701022839125675297",
+        "published_at": "2026-10-26T17:02:15.933Z",
+        "gestartet_at": "2026-10-26T17:00:24.034Z",
+        "slot": "2026-10-26T17:00:00.000Z",
+        "stand": "2026-10-26T17:02:23.700Z"
       },
       "media_id": "18216895165354251",
       "permalink": "https://www.instagram.com/reel/Ddyj1q-jl3j/",
@@ -9949,23 +9948,22 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls-cover.jpg",
-        "gestartet_at": "2026-10-26T12:00:54.944Z",
-        "stand": "2026-10-26T12:04:28.586Z",
-        "versuch": 1,
         "post_id": "6adf40fda85ac96ad92fd094",
-        "published_at": "2026-10-26T12:03:53.345Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700946056598572320",
-        "plattform_id": "7700946056598572320"
+        "plattform_id": "7700946056598572320",
+        "published_at": "2026-10-26T12:03:53.345Z",
+        "gestartet_at": "2026-10-26T12:00:54.944Z",
+        "stand": "2026-10-26T12:04:28.586Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4"
       },
-      "container_id": "18114663389136556",
       "media_id": "18639957823012099",
       "permalink": "https://www.instagram.com/reel/De9O5c9nVKj/",
       "published_at": "2026-10-26T12:00:51.224Z",
+      "container_id": "18114663389136556",
       "kommentar_id": "17988309920880710"
     },
     {
@@ -10378,6 +10376,20 @@
       "permalink": "https://www.instagram.com/p/De4ngVZFRp1/",
       "published_at": "2026-10-24T16:59:29.591Z",
       "container_id": "18114294062136556"
+    },
+    {
+      "id": "2026-10-26-your-rule-doubling",
+      "slug": "your-rule-doubling",
+      "status": "ready",
+      "scheduled_at": "2026-10-26T22:22:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/your-rule-doubling.mp4",
+      "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.\nAt a 50% win rate, a 7-loss streak somewhere in 200 trades is more likely than not (about 54%).\nComment JOURNAL and we'll send you the link.\n\n#tradingpsychology #riskmanagement #daytrading #tradingjournal",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "youtube": {
+        "status": "draft",
+        "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von your-rule-doubling"
+      }
     }
   ]
 }
