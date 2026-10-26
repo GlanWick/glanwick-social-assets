@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T14:55:54.052Z",
+ "updated": "2026-10-26T15:45:52.267Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606",
    "Sehdauer letzte 3 Reels: 7.3 s"
   ],
-  "checked": "2026-10-26T14:55:55.573Z",
+  "checked": "2026-10-26T15:45:53.250Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -42,7 +42,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 557,
+  "followers": 558,
   "media_count": 226
  },
  "history": [
@@ -6245,6 +6245,11 @@
    "ts": "2026-10-26T14:55:54.052Z",
    "followers": 557,
    "media_count": 226
+  },
+  {
+   "ts": "2026-10-26T15:45:52.267Z",
+   "followers": 558,
+   "media_count": 226
   }
  ],
  "posts": [
@@ -6255,8 +6260,8 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 437,
-   "likes": 6,
+   "views": 580,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -6277,7 +6282,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1778,
+   "views": 1779,
    "likes": 21,
    "comments": 2
   },
@@ -6497,7 +6502,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 248,
+   "views": 249,
    "likes": 3,
    "comments": 1
   },
