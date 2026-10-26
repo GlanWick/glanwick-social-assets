@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T12:55:29.275Z",
+ "updated": "2026-10-26T13:55:39.446Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606",
-   "Sehdauer letzte 3 Reels: 6.8 s"
+   "Sehdauer letzte 3 Reels: 7.3 s"
   ],
-  "checked": "2026-10-26T12:55:30.674Z",
+  "checked": "2026-10-26T13:55:41.064Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -37,7 +37,7 @@
     "reach": 2202
    }
   ],
-  "avg_watch_last_reels": 6.8
+  "avg_watch_last_reels": 7.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6235,6 +6235,11 @@
    "ts": "2026-10-26T12:55:29.275Z",
    "followers": 557,
    "media_count": 226
+  },
+  {
+   "ts": "2026-10-26T13:55:39.446Z",
+   "followers": 557,
+   "media_count": 226
   }
  ],
  "posts": [
@@ -6245,8 +6250,8 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 148,
-   "likes": 0,
+   "views": 243,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -6256,7 +6261,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 173,
+   "views": 174,
    "likes": 2,
    "comments": 1
   },
