@@ -9931,7 +9931,7 @@
     {
       "id": "2026-10-24-calls-nach-quartalszahlen",
       "slug": "stickman-earningscalls",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-26T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningscalls.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-earningscalls-cover.jpg",
@@ -9946,7 +9946,8 @@
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4"
-      }
+      },
+      "posting_started_at": "2026-10-26T12:00:19.043Z"
     },
     {
       "id": "test-2026-10-24-greendouble",
