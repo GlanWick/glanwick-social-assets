@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26T03:13:37.611Z",
+ "updated": "2026-10-26T04:03:51.005Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2181 gegen Mittel 10606"
   ],
-  "checked": "2026-10-26T03:13:39.849Z",
+  "checked": "2026-10-26T04:03:52.063Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -6184,6 +6184,11 @@
    "ts": "2026-10-26T03:13:37.611Z",
    "followers": 557,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-26T04:03:51.005Z",
+   "followers": 557,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6194,7 +6199,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 143,
+   "views": 144,
    "likes": 2,
    "comments": 1
   },
