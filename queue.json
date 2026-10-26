@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:57:47.019Z",
+  "generated_at": "2026-10-26T10:56:01.724Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1625,14 +1625,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fixeddollar.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fixeddollar-cover.jpg",
-        "gestartet_at": "2026-10-24T17:00:01.632Z",
-        "stand": "2026-10-24T17:01:08.706Z",
-        "versuch": 1,
-        "slot": "2026-10-24T17:00:00.000Z",
         "post_id": "6adce41fa2ea760dc56ea73a",
-        "published_at": "2026-10-24T17:01:00.293Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700280407438282017",
-        "plattform_id": "7700280407438282017"
+        "plattform_id": "7700280407438282017",
+        "published_at": "2026-10-24T17:01:00.293Z",
+        "gestartet_at": "2026-10-24T17:00:01.632Z",
+        "slot": "2026-10-24T17:00:00.000Z",
+        "stand": "2026-10-24T17:01:08.706Z"
       }
     },
     {
@@ -1670,14 +1669,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-coinflip.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-coinflip-cover.jpg",
-        "gestartet_at": "2026-10-25T17:00:08.660Z",
-        "stand": "2026-10-25T17:01:19.110Z",
-        "versuch": 1,
-        "slot": "2026-10-25T17:00:00.000Z",
         "post_id": "6ade35a0c550653e9e28f471",
-        "published_at": "2026-10-25T17:01:07.832Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700651575638854945",
-        "plattform_id": "7700651575638854945"
+        "plattform_id": "7700651575638854945",
+        "published_at": "2026-10-25T17:01:07.832Z",
+        "gestartet_at": "2026-10-25T17:00:08.660Z",
+        "slot": "2026-10-25T17:00:00.000Z",
+        "stand": "2026-10-25T17:01:19.110Z"
       }
     },
     {
@@ -9209,8 +9207,8 @@
     {
       "id": "laptop-2026-10-22-r2-c-chill",
       "slug": "glanwick-laptop-r2-C-chill-10s6",
-      "status": "draft",
-      "scheduled_at": "2026-10-23T22:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-26T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-C-chill-10s6.mp4",
       "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you replay historical BTC/USDT candles one at a time and make your call before the next one prints.\n\nComment “Journal” and/or tell us which timeframe you trade on 🕯️\n\n#tradingjournal #barreplay #cryptotrading #trading",
       "trial": "SS_PERFORMANCE",
@@ -9226,14 +9224,13 @@
         "laenge_s": 10.6,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "laptop-2026-10-22-r2-t-tech",
       "slug": "glanwick-laptop-r2-T-tech-9s4",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T12:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-27T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-T-tech-9s4.mp4",
       "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator at @glanwick_com, every position pays a 0.4% fee, and your entries fill with 0.01% to 0.05% slippage.\n\nComment “Journal” and/or tell us how many paper trades you take before going live 📝\n\n#tradingjournal #tradingsimulator #daytrading #trading",
       "trial": "SS_PERFORMANCE",
@@ -9249,14 +9246,13 @@
         "laenge_s": 9.4,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "laptop-2026-10-22-r2-w-western",
       "slug": "glanwick-laptop-r2-W-western-11s8",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T22:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-27T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-W-western-11s8.mp4",
       "caption": "Twice a year, Europe and the US change their clocks on different weekends, and the open moves with them. With Global Trading Hours at @glanwick_com, you see when Tokyo, Frankfurt, London and New York trade in your own time zone, daylight saving included.\n\nComment “Journal” and/or tell us what time it is for you when New York opens 🕤\n\n#tradingjournal #marketopen #daytrader #trading",
       "trial": "SS_PERFORMANCE",
@@ -9272,14 +9268,13 @@
         "laenge_s": 11.8,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "laptop-2026-10-22-r3-w-western",
       "slug": "glanwick-laptop-r3-W-western-9s4",
-      "status": "draft",
-      "scheduled_at": "2026-10-25T12:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-28T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-W-western-9s4.mp4",
       "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Replay at @glanwick_com, you pick a speed from 0.5x to 10x and trade a $10,000 practice balance while the candles print.\n\nComment “Journal” and/or tell us how fast you'd replay: 1x, 5x or 10x ⏩\n\n#tradingjournal #barreplay #bitcoin #trading",
       "trial": "SS_PERFORMANCE",
@@ -9295,14 +9290,13 @@
         "laenge_s": 9.4,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "laptop-2026-10-22-r3-t-tech",
       "slug": "glanwick-laptop-r3-T-tech-10s6",
-      "status": "draft",
-      "scheduled_at": "2026-10-25T22:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-28T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-T-tech-10s6.mp4",
       "caption": "Stocks keep office hours, and crypto trades all weekend. With Global Trading Hours at @glanwick_com, you see live which exchanges are open, closed or out for the weekend, and crypto stays green at 24/7.\n\nComment “Journal” and/or tell us if you trade on weekends 🌙\n\n#tradingjournal #cryptotrading #daytrading #trading",
       "trial": "SS_PERFORMANCE",
@@ -9318,14 +9312,13 @@
         "laenge_s": 10.6,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "laptop-2026-10-22-r3-c-chill",
       "slug": "glanwick-laptop-r3-C-chill-12s2",
-      "status": "draft",
-      "scheduled_at": "2026-10-26T12:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-29T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-C-chill-12s2.mp4",
       "caption": "Set the stop before you click buy. In the Trade Simulator at @glanwick_com, you enter stop loss and take profit with the order, and both land on your chart as dashed lines: red for the stop, green for the target.\n\nComment “Journal” and/or tell us how you set your stop loss 🛑\n\n#tradingjournal #riskmanagement #daytrader #trading",
       "trial": "SS_PERFORMANCE",
@@ -9341,8 +9334,7 @@
         "laenge_s": 12.2,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-22-offenes-risiko",
@@ -9686,19 +9678,18 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyrate.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightyrate-cover.jpg",
-        "gestartet_at": "2026-10-24T23:01:07.698Z",
-        "stand": "2026-10-24T23:02:31.211Z",
-        "versuch": 1,
         "post_id": "6add38b815697214f9f35dae",
-        "published_at": "2026-10-24T23:01:35.881Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700373374593289504",
-        "plattform_id": "7700373374593289504"
+        "plattform_id": "7700373374593289504",
+        "published_at": "2026-10-24T23:01:35.881Z",
+        "gestartet_at": "2026-10-24T23:01:07.698Z",
+        "stand": "2026-10-24T23:02:31.211Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114338927136556",
       "media_id": "18214062232366000",
       "permalink": "https://www.instagram.com/reel/De5Q2TEmAVA/",
       "published_at": "2026-10-24T23:01:03.446Z",
+      "container_id": "18114338927136556",
       "kommentar_id": "17964037035215258",
       "views_12h": {
         "views": 1568,
@@ -9769,19 +9760,18 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onethirty.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-onethirty-cover.jpg",
-        "gestartet_at": "2026-10-25T12:00:52.918Z",
-        "stand": "2026-10-25T12:02:20.552Z",
-        "versuch": 1,
         "post_id": "6addef79ab195f6fa2f8a084",
-        "published_at": "2026-10-25T12:01:43.012Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700574329796431136",
-        "plattform_id": "7700574329796431136"
+        "plattform_id": "7700574329796431136",
+        "published_at": "2026-10-25T12:01:43.012Z",
+        "gestartet_at": "2026-10-25T12:00:52.918Z",
+        "stand": "2026-10-25T12:02:20.552Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114449975136556",
       "media_id": "17886657051503593",
       "permalink": "https://www.instagram.com/reel/De6qGZFjcXf/",
       "published_at": "2026-10-25T12:00:47.985Z",
+      "container_id": "18114449975136556",
       "kommentar_id": "18118679998978673",
       "views_12h": {
         "views": 1767,
@@ -9835,19 +9825,18 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-widestop-cover.jpg",
-        "gestartet_at": "2026-10-25T23:01:38.199Z",
-        "stand": "2026-10-25T23:02:59.446Z",
-        "versuch": 1,
         "post_id": "6ade8a5547a4a3d257a46fec",
-        "published_at": "2026-10-25T23:02:05.521Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7700744573177302305",
-        "plattform_id": "7700744573177302305"
+        "plattform_id": "7700744573177302305",
+        "published_at": "2026-10-25T23:02:05.521Z",
+        "gestartet_at": "2026-10-25T23:01:38.199Z",
+        "stand": "2026-10-25T23:02:59.446Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114549383136556",
       "media_id": "18076390451779533",
       "permalink": "https://www.instagram.com/reel/De71tHloG2Q/",
       "published_at": "2026-10-25T23:01:34.846Z",
+      "container_id": "18114549383136556",
       "kommentar_id": "18079366184733676"
     },
     {
@@ -10337,10 +10326,10 @@
       "caption": "97 years ago today, Black Thursday started the 1929 crash. The Dow needed 25 years to get back.\n\nWhat happened? Nearly 12.9 million shares traded, a record.\nAnd then? Monday closed down 12.8%, Tuesday another 11.7%.\nWas that the bottom? The low came in July 1932, 89% below the peak.\nWhen was the old high back? November 1954, price index without dividends.\nAnd your account? At 10x leverage, a 12.8% drop equals 128% of your stake. Set your size and exit before you enter.\n\nSources: Federal Reserve History, Brady Report (1988), Britannica, Library of Congress.\n\nComment “Journal” and the link to our trading journal lands in your DMs.\n\n#tradinghistory #tradingpsychology #riskmanagement #tradingjournal",
       "scheduled_at": "2026-10-24T12:00:00Z",
       "status": "published",
-      "container_id": "18114294062136556",
       "media_id": "17928803550184311",
       "permalink": "https://www.instagram.com/p/De4ngVZFRp1/",
-      "published_at": "2026-10-24T16:59:29.591Z"
+      "published_at": "2026-10-24T16:59:29.591Z",
+      "container_id": "18114294062136556"
     }
   ]
 }
