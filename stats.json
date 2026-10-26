@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26T05:04:05.385Z",
+ "updated": "2026-10-26T06:04:22.746Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-25: 2190 gegen Mittel 10606"
+   "Reichweite 2026-10-25: 2202 gegen Mittel 10606"
   ],
-  "checked": "2026-10-26T05:04:06.371Z",
+  "checked": "2026-10-26T06:04:24.965Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-25",
-    "reach": 2190
+    "reach": 2202
    }
   ],
-  "avg_watch_last_reels": 9.1
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6194,6 +6194,11 @@
    "ts": "2026-10-26T05:04:05.385Z",
    "followers": 557,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-26T06:04:22.746Z",
+   "followers": 557,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6204,7 +6209,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 146,
+   "views": 149,
    "likes": 2,
    "comments": 1
   },
@@ -6281,7 +6286,7 @@
    "timestamp": "2026-10-23T09:31:58+0000",
    "type": "VIDEO",
    "caption": "Your trades made $800, the fees took $1,200, and you're $400 down.",
-   "views": 1514,
+   "views": 1515,
    "likes": 14,
    "comments": 2
   },
