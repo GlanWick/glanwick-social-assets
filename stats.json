@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26T06:04:22.746Z",
+ "updated": "2026-10-26T07:04:38.103Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606"
   ],
-  "checked": "2026-10-26T06:04:24.965Z",
+  "checked": "2026-10-26T07:04:39.466Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -36,7 +36,7 @@
     "reach": 2202
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 9.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6199,6 +6199,11 @@
    "ts": "2026-10-26T06:04:22.746Z",
    "followers": 557,
    "media_count": 225
+  },
+  {
+   "ts": "2026-10-26T07:04:38.103Z",
+   "followers": 557,
+   "media_count": 225
   }
  ],
  "posts": [
@@ -6209,7 +6214,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 149,
+   "views": 152,
    "likes": 2,
    "comments": 1
   },
@@ -6220,7 +6225,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1773,
+   "views": 1775,
    "likes": 21,
    "comments": 2
   },
@@ -6242,7 +6247,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1485,
+   "views": 1486,
    "likes": 20,
    "comments": 9
   },
