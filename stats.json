@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T15:45:52.267Z",
+ "updated": "2026-10-26T16:46:09.999Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606",
    "Sehdauer letzte 3 Reels: 7.3 s"
   ],
-  "checked": "2026-10-26T15:45:53.250Z",
+  "checked": "2026-10-26T16:46:11.706Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -42,7 +42,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 558,
+  "followers": 557,
   "media_count": 226
  },
  "history": [
@@ -6250,6 +6250,11 @@
    "ts": "2026-10-26T15:45:52.267Z",
    "followers": 558,
    "media_count": 226
+  },
+  {
+   "ts": "2026-10-26T16:46:09.999Z",
+   "followers": 557,
+   "media_count": 226
   }
  ],
  "posts": [
@@ -6260,8 +6265,8 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 580,
-   "likes": 8,
+   "views": 971,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -6271,7 +6276,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 176,
+   "views": 177,
    "likes": 3,
    "comments": 1
   },
@@ -6359,7 +6364,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1971,
+   "views": 1972,
    "likes": 12,
    "comments": 2
   },
