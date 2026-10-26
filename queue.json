@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:56:01.724Z",
+  "generated_at": "2026-10-26T11:40:55.750Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -9938,7 +9938,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-earningscalls.mp4"
+      }
     },
     {
       "id": "test-2026-10-24-greendouble",
@@ -9988,7 +9992,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths.mp4"
+      }
     },
     {
       "id": "test-2026-10-24-fixedposition",
@@ -10055,7 +10063,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4"
+      }
     },
     {
       "id": "test-2026-10-24-cadeight",
@@ -10105,7 +10117,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo.mp4"
+      }
     },
     {
       "id": "test-2026-10-25-wrongsix",
@@ -10206,7 +10222,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour.mp4"
+      }
     },
     {
       "id": "test-2026-10-25-twentythree",
@@ -10256,7 +10276,11 @@
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred-cover.jpg"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "youtube": {
+        "status": "ready",
+        "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred.mp4"
+      }
     },
     {
       "id": "test-2026-10-25-fivedollarfee",
