@@ -1,8 +1,9 @@
-// Probelauf des echten Waechters (post-due.mjs + tiktok.mjs) gegen nachgebaute
-// Server fuer Instagram, Zernio, Telegram und Dateien, in einem Wegwerf-Repo.
+// Probelauf des echten Waechters (post-due.mjs + tiktok.mjs + youtube.mjs) gegen
+// nachgebaute Server fuer Instagram, Zernio, YouTube, Telegram und Dateien, in
+// einem Wegwerf-Repo.
 // Aufruf (im Repo-Wurzelverzeichnis): node test/waechter-probelauf.mjs [szenario ...]
-// Vor jeder Aenderung an post-due.mjs oder tiktok.mjs laufen lassen. Dauer rund 3 Minuten.
-// Nichts davon beruehrt Instagram, Zernio oder Telegram: alle drei sind lokal nachgebaut.
+// Vor jeder Aenderung an post-due.mjs, tiktok.mjs oder youtube.mjs laufen lassen. Dauer rund 5 Minuten.
+// Nichts davon beruehrt Instagram, Zernio, YouTube oder Telegram: alle sind lokal nachgebaut.
 import http from 'node:http'
 import { spawn, execFileSync } from 'node:child_process'
 import { mkdtempSync, cpSync, writeFileSync, readFileSync, existsSync } from 'node:fs'
@@ -19,6 +20,7 @@ function starteMock() {
   const s = {
     konten: [], verhalten: 'published', calls: [], telegram: [], posts: new Map(), idem: new Map(),
     uploads: [], zaehler: 0, getAufrufe: new Map(),
+    yt: { videos: [], init: new Map(), verhalten: 'ok', token: 'gut', puts: [] },
   }
   const server = http.createServer(async (req, res) => {
     const chunks = []
@@ -61,6 +63,41 @@ function starteMock() {
       if (/^\/c\d+$/.test(r)) return json(200, { status_code: 'FINISHED' })
       if (/^\/m\d+$/.test(r)) return json(200, { permalink: `https://www.instagram.com/reel/TEST${r.slice(2)}/`, is_shared_to_feed: false, media_product_type: 'REELS' })
       return json(200, { data: [] })
+    }
+
+    // Google-Token und YouTube
+    if (p === '/g/token') {
+      const f = new URLSearchParams(roh.toString())
+      if (s.yt.token !== 'gut' || f.get('refresh_token') !== 'yt-refresh' || f.get('grant_type') !== 'refresh_token') return json(400, { error: 'invalid_grant' })
+      return json(200, { access_token: 'yt-access', expires_in: 3599, token_type: 'Bearer' })
+    }
+    if (p.startsWith('/yt/') || p.startsWith('/ytup/') || p.startsWith('/ytput/')) {
+      if (!p.startsWith('/ytput/') && req.headers.authorization !== 'Bearer yt-access') return json(401, { error: { code: 401, errors: [{ reason: 'authError' }] } })
+      if (p === '/yt/channels') return json(200, { items: [{ id: 'UCtest', contentDetails: { relatedPlaylists: { uploads: 'UUtest' } } }] })
+      if (p === '/yt/playlistItems') return json(200, { items: s.yt.videos.map((v) => ({ contentDetails: { videoId: v.id } })) })
+      if (p === '/yt/videos') {
+        const ids = (url.searchParams.get('id') || '').split(',')
+        return json(200, { items: s.yt.videos.filter((v) => ids.includes(v.id)) })
+      }
+      if (p === '/ytup/videos' && req.method === 'POST') {
+        const v = s.yt.verhalten
+        if (v === 'quota') return json(403, { error: { code: 403, message: 'quota', errors: [{ reason: 'quotaExceeded' }] } })
+        if (v === '400') return json(400, { error: { code: 400, message: 'Invalid title', errors: [{ reason: 'invalidTitle' }] } })
+        const sitzung = `s${++s.zaehler}`
+        s.yt.init.set(sitzung, { body, laenge: Number(req.headers['x-upload-content-length']), typ: req.headers['x-upload-content-type'], q: url.search })
+        res.writeHead(200, { location: `http://127.0.0.1:${s.port}/ytput/${sitzung}?upload_id=GEHEIM` })
+        return res.end()
+      }
+      const mp = p.match(/^\/ytput\/(s\d+)$/)
+      if (mp && req.method === 'PUT') {
+        const init = s.yt.init.get(mp[1])
+        if (!init) return json(404, { error: { code: 404 } })
+        s.yt.puts.push({ sitzung: mp[1], len: roh.length, ct: req.headers['content-type'] })
+        const id = `yt${++s.zaehler}`
+        s.yt.videos.unshift({ id, snippet: { title: init.body.snippet.title, tags: init.body.snippet.tags } })
+        return json(200, { id, snippet: init.body.snippet, status: { uploadStatus: 'uploaded', ...init.body.status } })
+      }
+      return json(404, { error: { code: 404, message: 'unbekannt ' + p } })
     }
 
     // Zernio
@@ -110,7 +147,7 @@ function repoMit(queue, dateien = []) {
   execFileSync('git', ['init', '-q', '--bare', '-b', 'main', join(dir, 'remote.git')])
   execFileSync('git', ['clone', '-q', join(dir, 'remote.git'), join(dir, 'work')], { stdio: 'ignore' })
   const w = join(dir, 'work')
-  for (const f of ['post-due.mjs', 'tiktok.mjs']) cpSync(join(QUELLE, f), join(w, f))
+  for (const f of ['post-due.mjs', 'tiktok.mjs', 'youtube.mjs']) cpSync(join(QUELLE, f), join(w, f))
   writeFileSync(join(w, 'queue.json'), JSON.stringify(queue, null, 2) + '\n')
   for (const f of dateien) writeFileSync(join(w, f), 'x')
   const g = (...a) => execFileSync('git', a, { cwd: w, encoding: 'utf8' })
@@ -128,6 +165,7 @@ function laufe(w, port, { sekunden, key = KEY, env = {} }) {
       env: {
         PATH: process.env.PATH, HOME: process.env.HOME,
         IG_TOKEN: 'igtest', IG_API_BASE: `http://127.0.0.1:${port}/ig`, ZERNIO_API_BASE: `http://127.0.0.1:${port}/z`,
+        GOOGLE_TOKEN_URL: `http://127.0.0.1:${port}/g/token`, YOUTUBE_API_BASE: `http://127.0.0.1:${port}/yt`, YOUTUBE_UPLOAD_BASE: `http://127.0.0.1:${port}/ytup`,
         ZERNIO_API_KEY: key, TELEGRAM_API_BASE: `http://127.0.0.1:${port}/tg`, TELEGRAM_BOT_TOKEN: 'tgtest', TELEGRAM_CHAT_ID: '1',
         WATCH_MINUTES: String(sekunden / 60), TICK_MS: '1000', TIKTOK_ZEITEN_ZWEI: nyJetzt(), TIKTOK_ZEITEN_EINER: nyJetzt(), ...env,
       },
@@ -383,6 +421,130 @@ szenarien['fruehwarnung-sehdauer-testreel-wartet'] = async ({ s }) => {
   assert.equal(n.status, 'published', 'normale Beitraege laufen weiter')
   assert.equal(t.status, 'ready', 'Testreel wartet')
   assert.ok(out.includes('Fruehwarnung wegen Sehdauer'), out)
+}
+
+// YouTube (seit 26.10.2026): Shorts direkt ueber die YouTube Data API, immer
+// nach dem Instagram-Post, mit Marke "gwq-<id>" gegen Doppel-Uploads.
+const YT = { YOUTUBE_CLIENT_ID: 'yt-client', YOUTUBE_CLIENT_SECRET: 'yt-secret', YOUTUBE_REFRESH_TOKEN: 'yt-refresh' }
+const ytCaption = 'Your stop is $300 and 85 wins still lose $250.\n\nHow? Math.\n\nYour journal, link in bio.\n\n#stoploss #tradingjournal'
+const yt = (port, slug, extra = {}) => ({ status: 'ready', video_url: F(port, `${slug}.mp4`), ...extra })
+const ytAufrufe = (s, p) => s.calls.filter((c) => c.p === p)
+
+szenarien['youtube-ohne-zugang-still'] = async ({ s }) => {
+  const r = repoMit({ entries: [igEintrag(s.port, 'ig-1', 'eins', { youtube: yt(s.port, 'eins') })] })
+  const { out } = await laufe(r.w, s.port, { sekunden: 8, key: '' })
+  assert.equal(r.remoteQueue().entries[0].youtube.status, 'ready', out)
+  assert.equal(s.calls.filter((c) => /^\/(g|yt|ytup|ytput)\//.test(c.p)).length, 0)
+  assert.ok(out.includes('YouTube-Teil ruht'))
+}
+
+szenarien['youtube-nach-instagram'] = async ({ s }) => {
+  const r = repoMit({ entries: [
+    { ...igEintrag(s.port, 'ig-neu', 'neu', { caption: ytCaption }), status: 'ready', published_at: undefined, scheduled_at: vor(1), youtube: yt(s.port, 'neu') },
+  ] }, ['neu.mp4', 'neu-cover.jpg'])
+  const { out } = await laufe(r.w, s.port, { sekunden: 20, key: '', env: YT })
+  const e = r.remoteQueue().entries[0]
+  assert.equal(e.status, 'published', out)
+  assert.equal(e.youtube.status, 'published', out)
+  assert.match(e.youtube.video_id, /^yt\d+$/)
+  assert.equal(e.youtube.url, `https://www.youtube.com/shorts/${e.youtube.video_id}`)
+  const igZeit = s.calls.findIndex((c) => c.p === '/ig/me/media_publish')
+  const ytZeit = s.calls.findIndex((c) => c.p === '/ytup/videos')
+  assert.ok(igZeit >= 0 && ytZeit > igZeit, 'YouTube erst nach Instagram')
+  const init = [...s.yt.init.values()]
+  assert.equal(init.length, 1)
+  const { snippet, status } = init[0].body
+  assert.equal(snippet.title, 'Your stop is $300 and 85 wins still lose $250.')
+  assert.ok(snippet.description.includes('Your journal: glanwick.com'), snippet.description)
+  assert.ok(!/link in bio/i.test(snippet.description))
+  assert.ok(snippet.tags.includes('gwq-ig-neu'))
+  assert.equal(snippet.categoryId, '27')
+  assert.equal(status.privacyStatus, 'public')
+  assert.equal(status.selfDeclaredMadeForKids, false)
+  assert.equal(status.containsSyntheticMedia, true)
+  assert.equal(init[0].typ, 'video/mp4')
+  assert.equal(init[0].laenge, 600_000)
+  assert.ok(init[0].q.includes('uploadType=resumable'))
+  assert.deepEqual(s.yt.puts.map((x) => [x.len, x.ct]), [[600_000, 'video/mp4']])
+  assert.ok(s.telegram.some((t) => t.includes('YouTube live') && t.includes('neu')))
+  assert.ok(!out.includes('GEHEIM') && !out.includes('ytput') && !out.includes('yt-access') && !out.includes('yt-refresh') && !out.includes('yt-secret'), 'Log verraet nichts')
+  // Zweiter Lauf: nichts mehr hochladen
+  await laufe(r.w, s.port, { sekunden: 6, key: '', env: { ...YT, YOUTUBE_ABSTAND_MIN: '0' } })
+  assert.equal(ytAufrufe(s, '/ytup/videos').length, 1)
+}
+
+szenarien['youtube-haengengeblieben-kein-doppel'] = async ({ s }) => {
+  // Der erste Upload ging durch, der Waechter starb vor dem Eintragen
+  s.yt.videos = [{ id: 'yt900', snippet: { title: 'x', tags: ['trading', 'gwq-ig-1'] } }, { id: 'yt899', snippet: { title: 'y', tags: ['gwq-anderer'] } }]
+  const r = repoMit({ entries: [igEintrag(s.port, 'ig-1', 'eins', { youtube: yt(s.port, 'eins', { status: 'posting', gestartet_at: vor(90), versuch: 1 }) })] })
+  const { out } = await laufe(r.w, s.port, { sekunden: 10, key: '', env: YT })
+  const y = r.remoteQueue().entries[0].youtube
+  assert.equal(y.status, 'published', out)
+  assert.equal(y.video_id, 'yt900', 'dasselbe Video, kein zweites')
+  assert.equal(ytAufrufe(s, '/ytup/videos').length, 0)
+  assert.ok(out.includes('war schon hochgeladen'))
+}
+
+szenarien['youtube-abstand-und-tagesgrenze'] = async ({ s }) => {
+  const r = repoMit({ entries: [
+    igEintrag(s.port, 'ig-c', 'drei', { published_at: vor(60), youtube: yt(s.port, 'drei') }),
+    igEintrag(s.port, 'ig-a', 'eins', { published_at: vor(300), youtube: yt(s.port, 'eins') }),
+    igEintrag(s.port, 'ig-b', 'zwei', { published_at: vor(200), youtube: yt(s.port, 'zwei') }),
+  ] })
+  // Standardabstand 60 Minuten: genau einer, der aelteste Instagram-Post
+  await laufe(r.w, s.port, { sekunden: 8, key: '', env: YT })
+  let q = r.remoteQueue().entries
+  assert.deepEqual(q.map((e) => e.youtube.status), ['ready', 'published', 'ready'])
+  // Ohne Abstand, Tagesgrenze 2: genau noch einer
+  await laufe(r.w, s.port, { sekunden: 10, key: '', env: { ...YT, YOUTUBE_ABSTAND_MIN: '0', YOUTUBE_PRO_TAG: '2' } })
+  q = r.remoteQueue().entries
+  assert.deepEqual(q.map((e) => e.youtube.status), ['ready', 'published', 'published'])
+  assert.equal(ytAufrufe(s, '/ytup/videos').length, 2)
+}
+
+szenarien['youtube-kontingent-pausiert'] = async ({ s }) => {
+  s.yt.verhalten = 'quota'
+  const r = repoMit({ entries: [igEintrag(s.port, 'ig-1', 'eins', { youtube: yt(s.port, 'eins') })] })
+  const { out } = await laufe(r.w, s.port, { sekunden: 10, key: '', env: { ...YT, YOUTUBE_ABSTAND_MIN: '0' } })
+  const y = r.remoteQueue().entries[0].youtube
+  assert.equal(y.status, 'ready', out)
+  assert.equal(y.fehlversuche, undefined, 'Kontingent zaehlt nicht als Fehlversuch')
+  assert.equal(ytAufrufe(s, '/ytup/videos').length, 1, 'pausiert statt im Sekundentakt')
+  assert.equal(s.telegram.filter((t) => t.includes('YouTube pausiert')).length, 1)
+}
+
+szenarien['youtube-token-abgelaufen'] = async ({ s }) => {
+  s.yt.token = 'abgelaufen'
+  const r = repoMit({ entries: [igEintrag(s.port, 'ig-1', 'eins', { youtube: yt(s.port, 'eins') })] })
+  const { out } = await laufe(r.w, s.port, { sekunden: 8, key: '', env: YT })
+  const y = r.remoteQueue().entries[0].youtube
+  assert.equal(y.status, 'ready', out)
+  assert.equal(y.gestartet_at, undefined, 'Eintrag unberuehrt')
+  assert.equal(s.telegram.filter((t) => t.includes('YouTube pausiert') && t.includes('Refresh-Token')).length, 1, JSON.stringify(s.telegram))
+  assert.equal(ytAufrufe(s, '/g/token').length, 1)
+}
+
+szenarien['youtube-free-journal-gesperrt'] = async ({ s }) => {
+  const r = repoMit({ entries: [
+    igEintrag(s.port, 'ig-1', 'eins', { published_at: vor(300), caption: 'Win rate lies.\n\nGrab the free journal today.\n\n#x', youtube: yt(s.port, 'eins') }),
+    igEintrag(s.port, 'ig-2', 'zwei', { published_at: vor(200), youtube: yt(s.port, 'zwei') }),
+  ] })
+  await laufe(r.w, s.port, { sekunden: 10, key: '', env: { ...YT, YOUTUBE_ABSTAND_MIN: '0' } })
+  const [a, b] = r.remoteQueue().entries
+  assert.equal(a.youtube.status, 'error')
+  assert.ok(a.youtube.fehler.includes('free journal'))
+  assert.equal(b.youtube.status, 'published', 'der naechste laeuft weiter')
+  assert.equal(ytAufrufe(s, '/ytup/videos').length, 1)
+  assert.ok(s.telegram.some((t) => t.includes('YouTube-Fehler') && t.includes('eins')))
+}
+
+szenarien['youtube-fester-fehler-400'] = async ({ s }) => {
+  s.yt.verhalten = '400'
+  const r = repoMit({ entries: [igEintrag(s.port, 'ig-1', 'eins', { youtube: yt(s.port, 'eins') })] })
+  await laufe(r.w, s.port, { sekunden: 8, key: '', env: YT })
+  const y = r.remoteQueue().entries[0].youtube
+  assert.equal(y.status, 'error')
+  assert.ok(y.fehler.includes('HTTP 400') && y.fehler.includes('invalidTitle'), y.fehler)
 }
 
 // ---------------------------------------------------------------- Ablauf

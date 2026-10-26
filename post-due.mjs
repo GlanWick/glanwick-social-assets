@@ -3,6 +3,8 @@
 // Seit 26.09.2026 auch auf TikTok, ueber tiktok.mjs (Eintraege mit Block
 // "tiktok", immer erst nach dem Instagram-Post). Der Instagram-Teil hier ist
 // davon unberuehrt; faellt TikTok aus, laeuft Instagram weiter.
+// Seit 26.10.2026 genauso YouTube Shorts, ueber youtube.mjs (Block "youtube",
+// direkt ueber die YouTube Data API, ohne Fremddienst).
 //
 // WARUM DIESES SKRIPT IN DIESEM REPO LIEGT
 // Der Poster lief bis 04.09.2026 im privaten Repo GlanWick/glanwick, geplant
@@ -28,6 +30,7 @@ import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { execFileSync } from 'node:child_process'
 import { erstelleTikTok } from './tiktok.mjs'
+import { erstelleYouTube } from './youtube.mjs'
 
 // Die *_API_BASE- und TICK_MS-Variablen gibt es nur fuer den Probelauf gegen
 // einen nachgebauten Server; im Workflow sind sie nicht gesetzt.
@@ -566,6 +569,7 @@ async function zwoelfStunden(queue) {
 }
 
 const tiktokTakt = erstelleTikTok({ saveAndPush, notify, log })
+const youtubeTakt = erstelleYouTube({ saveAndPush, notify, log })
 // Wartende Testreels nur einmal je Grund ins (oeffentliche) Log schreiben.
 const wartendGemeldet = new Map()
 
@@ -622,9 +626,10 @@ while (Date.now() - started < RUN_MS) {
 
   const gepostet = naechster ? await postEntry(naechster, queue) : false
 
-  // TikTok nach Instagram, damit ein Instagram-Slot nie auf TikTok wartet.
-  // Ein Fehler dort darf den Instagram-Teil nie anhalten.
+  // TikTok und YouTube nach Instagram, damit ein Instagram-Slot nie auf sie
+  // wartet. Ein Fehler dort darf den Instagram-Teil nie anhalten.
   try { await tiktokTakt(queue) } catch (e) { log(`TikTok-Takt fehlgeschlagen: ${e.message}`) }
+  try { await youtubeTakt(queue) } catch (e) { log(`YouTube-Takt fehlgeschlagen: ${e.message}`) }
 
   // Nur nach einem erfolgreichen Post sofort weiter (der naechste faellige
   // Eintrag wartet sonst unnoetig); sonst ruhen, statt im Kreis zu ziehen.
