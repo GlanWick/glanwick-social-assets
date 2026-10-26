@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T16:46:09.999Z",
+ "updated": "2026-10-26T17:46:30.504Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-25: 2202 gegen Mittel 10606",
    "Sehdauer letzte 3 Reels: 7.3 s"
   ],
-  "checked": "2026-10-26T16:46:11.706Z",
+  "checked": "2026-10-26T17:46:32.162Z",
   "reach_days": [
    {
     "day": "2026-10-19",
@@ -6255,6 +6255,11 @@
    "ts": "2026-10-26T16:46:09.999Z",
    "followers": 557,
    "media_count": 226
+  },
+  {
+   "ts": "2026-10-26T17:46:30.504Z",
+   "followers": 557,
+   "media_count": 226
   }
  ],
  "posts": [
@@ -6265,8 +6270,8 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 971,
-   "likes": 9,
+   "views": 1206,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -6276,7 +6281,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 177,
+   "views": 180,
    "likes": 3,
    "comments": 1
   },
@@ -6628,7 +6633,7 @@
    "timestamp": "2026-10-21T23:30:53+0000",
    "type": "VIDEO",
    "caption": "You raised your size by $100 after every loss, and 8 losses in a row cost $3,600",
-   "views": 1413,
+   "views": 1414,
    "likes": 8,
    "comments": 1
   },
