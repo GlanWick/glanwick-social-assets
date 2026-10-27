@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-27T20:11:58.556Z",
+ "updated": "2026-10-27T21:01:11.005Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
   ],
-  "checked": "2026-10-27T20:11:59.436Z",
+  "checked": "2026-10-27T21:01:12.102Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -36,7 +36,7 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6394,6 +6394,11 @@
    "ts": "2026-10-27T20:11:58.556Z",
    "followers": 557,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T21:01:11.005Z",
+   "followers": 557,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6404,7 +6409,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 152,
+   "views": 158,
    "likes": 2,
    "comments": 1
   },
@@ -6415,7 +6420,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 355,
+   "views": 417,
    "likes": 6,
    "comments": 1
   },
@@ -6426,8 +6431,8 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 117,
-   "likes": 1,
+   "views": 126,
+   "likes": 2,
    "comments": 3
   },
   {
