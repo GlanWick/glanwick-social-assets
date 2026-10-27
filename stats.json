@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T11:18:56.673Z",
+ "updated": "2026-10-27T12:18:59.541Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
-   "Sehdauer letzte 3 Reels: 7.5 s"
+   "Sehdauer letzte 3 Reels: 6.2 s"
   ],
-  "checked": "2026-10-27T11:18:57.492Z",
+  "checked": "2026-10-27T12:19:00.719Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -37,13 +37,13 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 7.5
+  "avg_watch_last_reels": 6.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 556,
-  "media_count": 227
+  "media_count": 228
  },
  "history": [
   {
@@ -6350,9 +6350,25 @@
    "ts": "2026-10-27T11:18:56.673Z",
    "followers": 556,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T12:18:59.541Z",
+   "followers": 556,
+   "media_count": 228
   }
  ],
  "posts": [
+  {
+   "id": "18640655791055864",
+   "slug": "survivorship-bombers",
+   "permalink": "https://www.instagram.com/reel/De_ztHbAe2L/",
+   "timestamp": "2026-10-27T12:01:05+0000",
+   "type": "VIDEO",
+   "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18113687399138642",
    "slug": "your-rule-doubling",
@@ -6371,7 +6387,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1488,
+   "views": 1491,
    "likes": 13,
    "comments": 1
   },
@@ -6780,17 +6796,6 @@
    "caption": "You save $400 a month, and one trade cost $2,400.",
    "views": 1301,
    "likes": 18,
-   "comments": 1
-  },
-  {
-   "id": "18116852315012659",
-   "slug": "stickman-earningsnight",
-   "permalink": "https://www.instagram.com/reel/Dew8rmUCddn/",
-   "timestamp": "2026-10-21T17:30:45+0000",
-   "type": "VIDEO",
-   "caption": "You were up $2,000 before earnings. The next morning, you were down $1,000.",
-   "views": 1502,
-   "likes": 15,
    "comments": 1
   }
  ]
