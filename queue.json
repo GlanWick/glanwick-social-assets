@@ -10479,7 +10479,7 @@
     {
       "id": "2026-10-27-lemon-juice-robber",
       "slug": "lemon-juice-robber",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-27T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/lemon-juice-robber.mp4",
       "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and he wasn't in the picture.\nIn January 1995 he robbed a bank near Pittsburgh without a mask. When he was shown the surveillance photos, he said: \"But I wore the lemon juice.\"\nPsychologist David Dunning read the story. In 1999, he and Justin Kruger published \"Unskilled and Unaware of It\": the bottom quarter averaged the 12th percentile but rated themselves at the 62nd. Those who did worst were the least able to see it.\nComment JOURNAL and we'll send you the link.\n\n#dunningkruger #psychology #truecrime #overconfidence #investing",
@@ -10491,7 +10491,8 @@
         "thema": "Zitronensaft-Bankraeuber 1995, Dunning-Kruger 1999",
         "laenge_s": 38.9,
         "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
-      }
+      },
+      "posting_started_at": "2026-10-27T22:30:19.806Z"
     },
     {
       "id": "2026-10-28-madoff-five-minutes",
