@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-27T14:19:17.816Z",
+ "updated": "2026-10-27T15:10:02.045Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
   ],
-  "checked": "2026-10-27T14:19:18.784Z",
+  "checked": "2026-10-27T15:10:02.885Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -36,13 +36,13 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 10.4
+  "avg_watch_last_reels": 10
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 557,
-  "media_count": 228
+  "followers": 556,
+  "media_count": 227
  },
  "history": [
   {
@@ -6364,9 +6364,25 @@
    "ts": "2026-10-27T14:19:17.816Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-27T15:10:02.045Z",
+   "followers": 556,
+   "media_count": 227
   }
  ],
  "posts": [
+  {
+   "id": "18026200424870999",
+   "slug": "glanwick-laptop-r2-T-tech-9s4",
+   "permalink": "https://www.instagram.com/reel/DfADqgIjdhY/",
+   "timestamp": "2026-10-27T14:20:24+0000",
+   "type": "VIDEO",
+   "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
+   "views": 73,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18136811095660869",
    "slug": "glanwick-laptop-r2-C-chill-10s6",
@@ -6374,7 +6390,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 120,
+   "views": 141,
    "likes": 1,
    "comments": 1
   },
@@ -6385,7 +6401,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 55,
+   "views": 69,
    "likes": 1,
    "comments": 3
   },
@@ -6443,17 +6459,6 @@
    "views": 1607,
    "likes": 20,
    "comments": 1
-  },
-  {
-   "id": "17943526389368582",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/De2qa4MuOgu/",
-   "timestamp": "2026-10-23T22:50:33+0000",
-   "type": "VIDEO",
-   "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1497,
-   "likes": 20,
-   "comments": 9
   },
   {
    "id": "18133090771682504",
