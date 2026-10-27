@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-27T22:01:30.434Z",
+ "updated": "2026-10-27T23:01:40.585Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
+   "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
+   "Sehdauer letzte 3 Reels: 7.2 s"
   ],
-  "checked": "2026-10-27T22:01:32.043Z",
+  "checked": "2026-10-27T23:01:41.857Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -36,13 +37,13 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 7.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 557,
-  "media_count": 227
+  "media_count": 228
  },
  "history": [
   {
@@ -6404,9 +6405,36 @@
    "ts": "2026-10-27T22:01:30.434Z",
    "followers": 557,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T23:01:40.585Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
+  {
+   "id": "18109149776259123",
+   "slug": "stickman-halfaftertwo",
+   "permalink": "https://www.instagram.com/reel/DfA_PbYk4EL/",
+   "timestamp": "2026-10-27T23:00:58+0000",
+   "type": "VIDEO",
+   "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "18119367748978379",
+   "slug": "lemon-juice-robber",
+   "permalink": "https://www.instagram.com/reel/DfA7zQEks6O/",
+   "timestamp": "2026-10-27T22:30:55+0000",
+   "type": "VIDEO",
+   "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18026200424870999",
    "slug": "glanwick-laptop-r2-T-tech-9s4",
@@ -6414,7 +6442,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 172,
+   "views": 176,
    "likes": 2,
    "comments": 1
   },
@@ -6425,7 +6453,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 485,
+   "views": 516,
    "likes": 7,
    "comments": 1
   },
@@ -6436,8 +6464,8 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 127,
-   "likes": 2,
+   "views": 132,
+   "likes": 3,
    "comments": 3
   },
   {
@@ -6447,7 +6475,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 152,
+   "views": 153,
    "likes": 4,
    "comments": 2
   },
@@ -6524,7 +6552,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1436,
+   "views": 1437,
    "likes": 19,
    "comments": 3
   },
@@ -6546,7 +6574,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1976,
+   "views": 1977,
    "likes": 12,
    "comments": 2
   },
@@ -6824,28 +6852,6 @@
    "views": 2020,
    "likes": 26,
    "comments": 1
-  },
-  {
-   "id": "18115473902106635",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DexZvB3uzgS/",
-   "timestamp": "2026-10-21T21:45:16+0000",
-   "type": "VIDEO",
-   "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
-   "views": 1566,
-   "likes": 15,
-   "comments": 0
-  },
-  {
-   "id": "18096440057647137",
-   "slug": "stickman-holdtime",
-   "permalink": "https://www.instagram.com/reel/DexYIgagi0e/",
-   "timestamp": "2026-10-21T21:30:35+0000",
-   "type": "VIDEO",
-   "caption": "You win 7 trades in 10, and your month is $600 down.",
-   "views": 1278,
-   "likes": 11,
-   "comments": 2
   }
  ]
 }
