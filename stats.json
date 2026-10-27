@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T07:27:45.781Z",
+ "updated": "2026-10-27T08:27:48.834Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
    "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-10-27T07:27:46.747Z",
+  "checked": "2026-10-27T08:27:49.641Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -6330,6 +6330,11 @@
    "ts": "2026-10-27T07:27:45.781Z",
    "followers": 556,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T08:27:48.834Z",
+   "followers": 556,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6340,7 +6345,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 142,
+   "views": 145,
    "likes": 4,
    "comments": 2
   },
@@ -6351,7 +6356,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1478,
+   "views": 1479,
    "likes": 13,
    "comments": 1
   },
@@ -6362,7 +6367,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 185,
+   "views": 187,
    "likes": 3,
    "comments": 1
   },
@@ -6395,7 +6400,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1495,
+   "views": 1496,
    "likes": 20,
    "comments": 9
   },
@@ -6560,8 +6565,8 @@
    "timestamp": "2026-10-22T19:32:39+0000",
    "type": "VIDEO",
    "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
-   "views": 547,
-   "likes": 8,
+   "views": 548,
+   "likes": 7,
    "comments": 1
   },
   {
