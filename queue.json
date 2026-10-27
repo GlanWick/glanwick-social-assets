@@ -9214,7 +9214,7 @@
     {
       "id": "laptop-2026-10-22-r2-c-chill",
       "slug": "glanwick-laptop-r2-C-chill-10s6",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-26T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-C-chill-10s6.mp4",
       "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you replay historical BTC/USDT candles one at a time and make your call before the next one prints.\n\nComment “Journal” and/or tell us which timeframe you trade on 🕯️\n\n#tradingjournal #barreplay #cryptotrading #trading",
@@ -9231,7 +9231,8 @@
         "laenge_s": 10.6,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "posting_started_at": "2026-10-27T13:19:08.977Z"
     },
     {
       "id": "laptop-2026-10-22-r2-t-tech",
