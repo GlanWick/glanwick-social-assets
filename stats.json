@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-27T18:11:09.094Z",
+ "updated": "2026-10-27T19:11:37.467Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
   ],
-  "checked": "2026-10-27T18:11:10.277Z",
+  "checked": "2026-10-27T19:11:38.531Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -36,12 +36,12 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 10
+  "avg_watch_last_reels": 9.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 556,
+  "followers": 557,
   "media_count": 227
  },
  "history": [
@@ -6384,6 +6384,11 @@
    "ts": "2026-10-27T18:11:09.094Z",
    "followers": 556,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T19:11:37.467Z",
+   "followers": 557,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6394,7 +6399,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 140,
+   "views": 147,
    "likes": 2,
    "comments": 1
   },
@@ -6405,8 +6410,8 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 290,
-   "likes": 5,
+   "views": 340,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -6416,7 +6421,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 97,
+   "views": 107,
    "likes": 1,
    "comments": 3
   },
@@ -6438,7 +6443,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1493,
+   "views": 1495,
    "likes": 13,
    "comments": 1
   },
@@ -6460,7 +6465,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1794,
+   "views": 1795,
    "likes": 21,
    "comments": 2
   },
@@ -6471,7 +6476,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1607,
+   "views": 1608,
    "likes": 20,
    "comments": 1
   },
@@ -6801,7 +6806,7 @@
    "timestamp": "2026-10-21T23:00:47+0000",
    "type": "VIDEO",
    "caption": "He made +80 % this year. You copied him, and you're 10 % down.",
-   "views": 2019,
+   "views": 2020,
    "likes": 26,
    "comments": 1
   },
