@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-27T13:19:06.591Z",
+ "updated": "2026-10-27T14:19:17.816Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
   ],
-  "checked": "2026-10-27T13:19:07.302Z",
+  "checked": "2026-10-27T14:19:18.784Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -36,12 +36,12 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 10.9
+  "avg_watch_last_reels": 10.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 556,
+  "followers": 557,
   "media_count": 228
  },
  "history": [
@@ -6359,9 +6359,25 @@
    "ts": "2026-10-27T13:19:06.591Z",
    "followers": 556,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-27T14:19:17.816Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
+  {
+   "id": "18136811095660869",
+   "slug": "glanwick-laptop-r2-C-chill-10s6",
+   "permalink": "https://www.instagram.com/reel/De_8t2QCf9D/",
+   "timestamp": "2026-10-27T13:19:31+0000",
+   "type": "VIDEO",
+   "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
+   "views": 120,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "18640655791055864",
    "slug": "survivorship-bombers",
@@ -6369,9 +6385,9 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 33,
+   "views": 55,
    "likes": 1,
-   "comments": 1
+   "comments": 3
   },
   {
    "id": "18113687399138642",
@@ -6490,7 +6506,7 @@
    "timestamp": "2026-10-23T07:32:14+0000",
    "type": "VIDEO",
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1975,
+   "views": 1976,
    "likes": 12,
    "comments": 2
   },
@@ -6790,17 +6806,6 @@
    "views": 1278,
    "likes": 11,
    "comments": 2
-  },
-  {
-   "id": "18121794274741144",
-   "slug": "stickman-sixmonths",
-   "permalink": "https://www.instagram.com/reel/DexKho0kjH8/",
-   "timestamp": "2026-10-21T19:31:42+0000",
-   "type": "VIDEO",
-   "caption": "You save $400 a month, and one trade cost $2,400.",
-   "views": 1301,
-   "likes": 18,
-   "comments": 1
   }
  ]
 }
