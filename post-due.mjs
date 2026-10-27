@@ -153,6 +153,15 @@ function saveAndPush(queue, message) {
 const TESTREEL_ARTEN = ['MANUAL', 'SS_PERFORMANCE']
 const TESTREEL_ABSTAND_MS = 60 * 60_000
 const TESTREEL_JE_24H = 14
+// Formatabstand (seit 27.10.2026, Jan). Am 27.10. hielt die Sehdauer-Sperre zwei
+// Laptop-Fassungen mit demselben Hook zurueck (r2-c-chill, r2-t-tech). Als sie
+// fiel, gingen beide im Mindestabstand von 60 Minuten raus (14:19 und 15:20
+// Berlin). Jan: "dass ein Laptop-Video direkt doppelt hintereinander gepostet
+// wurde. Das war ein bisschen lost." Seitdem liegen zwischen zwei Testreels
+// desselben Formats (Feld test.format) mindestens so viele Stunden. Ein Rueckstau
+// fliesst je Format hoechstens einmal in dieser Zeit ab. Formate, die hier nicht
+// stehen (etwa Strichmann-Testreels ohne test.format), sind nicht betroffen.
+const TESTREEL_FORMAT_ABSTAND_H = { laptop: 20, 'ki-video': 20 }
 const TESTREEL_PRUEF_WARTEN_MS = Number(process.env.TESTREEL_PRUEF_WARTEN_MS || 60_000)
 
 // Fruehwarnung haelt Testreels an (seit 23.10.2026, Jans Vorgabe). Vom 16. bis
@@ -196,6 +205,18 @@ function testreelWartet(entry, queue, now) {
   if (imTag >= TESTREEL_JE_24H) return `${imTag} Testreels in 24 Stunden`
   const letztes = zeiten.length ? Math.max(...zeiten) : 0
   if (now - letztes < TESTREEL_ABSTAND_MS) return `letztes Testreel vor ${Math.round((now - letztes) / 60_000)} Minuten`
+  const format = entry.test?.format
+  const formatStunden = format ? TESTREEL_FORMAT_ABSTAND_H[format] : undefined
+  if (typeof formatStunden === 'number') {
+    const imFormat = queue.entries
+      .filter((e) => istTestreel(e) && e !== entry && e.test?.format === format)
+      .map((e) => Date.parse(e.published_at || e.posting_started_at || ''))
+      .filter((t) => Number.isFinite(t))
+    const zuletzt = imFormat.length ? Math.max(...imFormat) : 0
+    if (now - zuletzt < formatStunden * 3600_000) {
+      return `Formatabstand: letztes Testreel im Format ${format} vor ${Math.round((now - zuletzt) / 60_000)} Minuten, mindestens ${formatStunden} Stunden`
+    }
+  }
   return null
 }
 
