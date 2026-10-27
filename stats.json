@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T06:27:44.110Z",
+ "updated": "2026-10-27T07:27:45.781Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
    "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-10-27T06:27:45.065Z",
+  "checked": "2026-10-27T07:27:46.747Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -42,7 +42,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 557,
+  "followers": 556,
   "media_count": 227
  },
  "history": [
@@ -6325,6 +6325,11 @@
    "ts": "2026-10-27T06:27:44.110Z",
    "followers": 557,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T07:27:45.781Z",
+   "followers": 556,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6335,7 +6340,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 138,
+   "views": 142,
    "likes": 4,
    "comments": 2
   },
@@ -6346,7 +6351,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1476,
+   "views": 1478,
    "likes": 13,
    "comments": 1
   },
@@ -6368,7 +6373,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1791,
+   "views": 1792,
    "likes": 21,
    "comments": 2
   },
