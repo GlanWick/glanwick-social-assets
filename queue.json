@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:44:25.087Z",
+  "generated_at": "2026-10-27T09:14:54.078Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -10085,13 +10085,13 @@
       "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −49 %.\n\nHow can the same trades end so far apart? Each win pays exactly what you risked. Only the size changes.\nAt 5 %? 55 wins of +5 % and 45 losses of −5 % leave you at +46 %.\nAt 25 %? 55 wins of +25 % and 45 losses of −25 % leave you at −49 %.\nWhy? After a −25 % loss, you need +33 % to get back. Each loss digs deeper than the next win fills.\n\nCount the wins in your last 100 trades in your journal. With 55 to 60 of them, size is your biggest lever, so keep each trade at 2 % risk or less.\n\nYour journal, link in bio.\n\nSome traders find a small edge and try to make it pay faster with size.\n\nWhat risk per trade does your win rate allow?\n\nPart 133 of the series. Part 134: 8 losses in a row cost you $1,600 at full size, and $750 when you halve.\n\n#positionsizing #riskmanagement #daytrading #tradingjournal",
       "bild": "bibliothek",
       "tiktok": {
-        "status": "ready",
+        "status": "draft",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive-cover.jpg"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
-        "status": "ready",
+        "status": "draft",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4"
       }
     },
@@ -10399,6 +10399,20 @@
       "published_at": "2026-10-26T22:24:22.292Z",
       "container_id": "18114751055136556",
       "kommentar_id": "18136487758737278"
+    },
+    {
+      "id": "2026-10-27-survivorship-bombers",
+      "slug": "survivorship-bombers",
+      "status": "ready",
+      "scheduled_at": "2026-10-27T12:00:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/survivorship-bombers.mp4",
+      "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers that made it home, by asking about the ones that didn't.\nThe holes marked where a plane could take a hit and still fly. The clean spots were where hits were deadly.\nYour feed and your memory work the same way: in a 2021 PNAS study, investors recalled their returns as higher than they really were.\nComment JOURNAL and we'll send you the link.\n\n#survivorshipbias #psychology #history #investing #tradingjournal",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "youtube": {
+        "status": "draft",
+        "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von survivorship-bombers"
+      }
     }
   ]
 }
