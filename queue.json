@@ -10407,7 +10407,7 @@
     {
       "id": "2026-10-27-survivorship-bombers",
       "slug": "survivorship-bombers",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-27T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/survivorship-bombers.mp4",
       "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers that made it home, by asking about the ones that didn't.\nThe holes marked where a plane could take a hit and still fly. The clean spots were where hits were deadly.\nYour feed and your memory work the same way: in a 2021 PNAS study, investors recalled their returns as higher than they really were.\nComment JOURNAL and we'll send you the link.\n\n#survivorshipbias #psychology #history #investing #tradingjournal",
@@ -10417,7 +10417,10 @@
         "status": "draft",
         "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von survivorship-bombers"
       },
-      "posting_started_at": "2026-10-27T12:00:19.118Z"
+      "container_id": "18114843614136556",
+      "media_id": "18640655791055864",
+      "permalink": "https://www.instagram.com/reel/De_ztHbAe2L/",
+      "published_at": "2026-10-27T12:01:11.339Z"
     }
   ]
 }
