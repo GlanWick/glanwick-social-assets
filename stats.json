@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T08:27:48.834Z",
+ "updated": "2026-10-27T09:18:45.484Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
-   "Sehdauer letzte 3 Reels: 7.6 s"
+   "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-10-27T08:27:49.641Z",
+  "checked": "2026-10-27T09:18:46.363Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -37,7 +37,7 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6335,6 +6335,11 @@
    "ts": "2026-10-27T08:27:48.834Z",
    "followers": 556,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T09:18:45.484Z",
+   "followers": 556,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6345,7 +6350,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 145,
+   "views": 148,
    "likes": 4,
    "comments": 2
   },
@@ -6356,7 +6361,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1479,
+   "views": 1483,
    "likes": 13,
    "comments": 1
   },
@@ -6400,7 +6405,7 @@
    "timestamp": "2026-10-23T22:50:33+0000",
    "type": "VIDEO",
    "caption": "Built by traders, for traders. Join today, or let others take your spot.",
-   "views": 1496,
+   "views": 1497,
    "likes": 20,
    "comments": 9
   },
