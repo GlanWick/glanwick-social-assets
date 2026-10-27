@@ -1,12 +1,11 @@
 {
- "updated": "2026-10-27T12:18:59.541Z",
+ "updated": "2026-10-27T13:19:06.591Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
-   "Sehdauer letzte 3 Reels: 6.2 s"
+   "Reichweite 2026-10-26: 1341 gegen Mittel 9157"
   ],
-  "checked": "2026-10-27T12:19:00.719Z",
+  "checked": "2026-10-27T13:19:07.302Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -37,7 +36,7 @@
     "reach": 1341
    }
   ],
-  "avg_watch_last_reels": 6.2
+  "avg_watch_last_reels": 10.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6355,6 +6354,11 @@
    "ts": "2026-10-27T12:18:59.541Z",
    "followers": 556,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-27T13:19:06.591Z",
+   "followers": 556,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6365,8 +6369,8 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 0,
-   "likes": 0,
+   "views": 33,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -6387,7 +6391,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1491,
+   "views": 1492,
    "likes": 13,
    "comments": 1
   },
