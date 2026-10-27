@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:15:45.357Z",
+  "generated_at": "2026-10-27T16:15:04.557Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -9232,10 +9232,11 @@
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114856589136556",
       "media_id": "18136811095660869",
       "permalink": "https://www.instagram.com/reel/De_8t2QCf9D/",
       "published_at": "2026-10-27T13:19:34.580Z",
+      "container_id": "18114856589136556",
+      "kommentar_id": "18632978725032160",
       "trial_pruefung": {
         "beitraege_vorher": 228,
         "beitraege_nachher": 228,
@@ -9244,8 +9245,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-27T13:20:36.014Z"
-      },
-      "kommentar_id": "18632978725032160"
+      }
     },
     {
       "id": "laptop-2026-10-22-r2-t-tech",
@@ -9268,10 +9268,11 @@
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18114867923136556",
       "media_id": "18026200424870999",
       "permalink": "https://www.instagram.com/reel/DfADqgIjdhY/",
       "published_at": "2026-10-27T14:20:28.080Z",
+      "container_id": "18114867923136556",
+      "kommentar_id": "18171427384485325",
       "trial_pruefung": {
         "beitraege_vorher": 228,
         "beitraege_nachher": 228,
@@ -9280,14 +9281,13 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-27T14:21:29.937Z"
-      },
-      "kommentar_id": "18171427384485325"
+      }
     },
     {
       "id": "laptop-2026-10-22-r2-w-western",
       "slug": "glanwick-laptop-r2-W-western-11s8",
       "status": "ready",
-      "scheduled_at": "2026-10-27T22:30:00Z",
+      "scheduled_at": "2026-10-29T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-W-western-11s8.mp4",
       "caption": "Twice a year, Europe and the US change their clocks on different weekends, and the open moves with them. With Global Trading Hours at @glanwick_com, you see when Tokyo, Frankfurt, London and New York trade in your own time zone, daylight saving included.\n\nComment “Journal” and/or tell us what time it is for you when New York opens 🕤\n\n#tradingjournal #marketopen #daytrader #trading",
       "trial": "SS_PERFORMANCE",
@@ -9331,7 +9331,7 @@
       "id": "laptop-2026-10-22-r3-t-tech",
       "slug": "glanwick-laptop-r3-T-tech-10s6",
       "status": "ready",
-      "scheduled_at": "2026-10-28T22:30:00Z",
+      "scheduled_at": "2026-10-30T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-T-tech-10s6.mp4",
       "caption": "Stocks keep office hours, and crypto trades all weekend. With Global Trading Hours at @glanwick_com, you see live which exchanges are open, closed or out for the weekend, and crypto stays green at 24/7.\n\nComment “Journal” and/or tell us if you trade on weekends 🌙\n\n#tradingjournal #cryptotrading #daytrading #trading",
       "trial": "SS_PERFORMANCE",
@@ -9353,7 +9353,7 @@
       "id": "laptop-2026-10-22-r3-c-chill",
       "slug": "glanwick-laptop-r3-C-chill-12s2",
       "status": "ready",
-      "scheduled_at": "2026-10-29T12:30:00Z",
+      "scheduled_at": "2026-10-31T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-C-chill-12s2.mp4",
       "caption": "Set the stop before you click buy. In the Trade Simulator at @glanwick_com, you enter stop loss and take profit with the order, and both land on your chart as dashed lines: red for the stop, green for the target.\n\nComment “Journal” and/or tell us how you set your stop loss 🛑\n\n#tradingjournal #riskmanagement #daytrader #trading",
       "trial": "SS_PERFORMANCE",
@@ -10035,8 +10035,8 @@
     {
       "id": "2026-10-24-zwei-monate",
       "slug": "stickman-twomonths",
-      "status": "draft",
-      "scheduled_at": "2026-10-26T23:00:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-29T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twomonths.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twomonths-cover.jpg",
       "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200.\n\nHow did 85 % lose? 17 wins of $50 made $850. 3 losses of $500 cost $1,500.\nAnd how did 40 % make money? 8 wins of $300 made $2,400. 12 losses of $100 cost $1,200.\nWhere does the second month break even? At 1 win in 4.\nSo which month was the better one? The one that felt worse.\n\nAt the end of each month, put your win rate next to your result in dollars in your journal. If they point in different directions, look at your average loss first.\n\nYour journal, link in bio.\n\nSome traders call a month good when most trades were green.\n\nWhich of your months felt better than it paid?\n\nPart 132 of the series. Part 133: same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −49 %.\n\n#winrate #riskreward #daytrading #tradingjournal",
@@ -10106,8 +10106,8 @@
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
       "slug": "stickman-fivetwentyfive",
-      "status": "draft",
-      "scheduled_at": "2026-10-27T12:00:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-30T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetwentyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetwentyfive-cover.jpg",
       "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −49 %.\n\nHow can the same trades end so far apart? Each win pays exactly what you risked. Only the size changes.\nAt 5 %? 55 wins of +5 % and 45 losses of −5 % leave you at +46 %.\nAt 25 %? 55 wins of +25 % and 45 losses of −25 % leave you at −49 %.\nWhy? After a −25 % loss, you need +33 % to get back. Each loss digs deeper than the next win fills.\n\nCount the wins in your last 100 trades in your journal. With 55 to 60 of them, size is your biggest lever, so keep each trade at 2 % risk or less.\n\nYour journal, link in bio.\n\nSome traders find a small edge and try to make it pay faster with size.\n\nWhat risk per trade does your win rate allow?\n\nPart 133 of the series. Part 134: 8 losses in a row cost you $1,600 at full size, and $750 when you halve.\n\n#positionsizing #riskmanagement #daytrading #tradingjournal",
@@ -10445,11 +10445,62 @@
         "status": "draft",
         "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von survivorship-bombers"
       },
-      "container_id": "18114843614136556",
       "media_id": "18640655791055864",
       "permalink": "https://www.instagram.com/reel/De_ztHbAe2L/",
       "published_at": "2026-10-27T12:01:11.339Z",
+      "container_id": "18114843614136556",
       "kommentar_id": "18107214176200167"
+    },
+    {
+      "id": "2026-10-29-monty-hall-marilyn",
+      "slug": "monty-hall-marilyn",
+      "status": "draft",
+      "scheduled_at": "2026-10-29T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/monty-hall-marilyn.mp4",
+      "caption": "In September 1990, Marilyn vos Savant told a reader of her \"Ask Marilyn\" column in Parade to switch doors. By her estimate, about 10,000 letters came in, nearly 1,000 of them from PhDs, and most said she was wrong.\n\nThe math: your first pick is right 1 time in 3. Switching wins every time that first pick was wrong, so 2 times in 3, as long as the host always opens a goat door and always offers the switch. Even the mathematician Paul Erdős only believed it after a computer simulation. The puzzle itself goes back to Steve Selvin, in The American Statistician in 1975.\n\n#montyhall #probability #psychology #decisionmaking #investing",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "test": {
+        "format": "ki-video",
+        "thema": "Monty Hall, Marilyn vos Savant 1990",
+        "laenge_s": 40,
+        "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
+      }
+    },
+    {
+      "id": "2026-10-27-lemon-juice-robber",
+      "slug": "lemon-juice-robber",
+      "status": "ready",
+      "scheduled_at": "2026-10-27T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/lemon-juice-robber.mp4",
+      "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and he wasn't in the picture.\nIn January 1995 he robbed a bank near Pittsburgh without a mask. When he was shown the surveillance photos, he said: \"But I wore the lemon juice.\"\nPsychologist David Dunning read the story. In 1999, he and Justin Kruger published \"Unskilled and Unaware of It\": the bottom quarter averaged the 12th percentile but rated themselves at the 62nd. Those who did worst were the least able to see it.\nComment JOURNAL and we'll send you the link.\n\n#dunningkruger #psychology #truecrime #overconfidence #investing",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "test": {
+        "format": "ki-video",
+        "thema": "Zitronensaft-Bankraeuber 1995, Dunning-Kruger 1999",
+        "laenge_s": 38.9,
+        "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
+      }
+    },
+    {
+      "id": "2026-10-28-madoff-five-minutes",
+      "slug": "madoff-five-minutes",
+      "status": "ready",
+      "scheduled_at": "2026-10-28T22:30:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/madoff-five-minutes.mp4",
+      "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strategy. Within five minutes, he knew the numbers couldn't be right. About four hours later, he could prove it.\nHe warned the SEC in 2000, 2001 and 2005. Nobody acted. Madoff was arrested on December 11, 2008, later admitted he hadn't traded since the early 1990s, and was sentenced to 150 years.\nYour own record deserves its bad months too. Comment JOURNAL and we'll send you the link.\n\n#madoff #truecrime #finance #investing #tradingjournal",
+      "trial": "SS_PERFORMANCE",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "test": {
+        "format": "ki-video",
+        "thema": "Markopolos und Madoff, fuenf Minuten 1999",
+        "laenge_s": 43.9,
+        "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
+      }
     }
   ]
 }
