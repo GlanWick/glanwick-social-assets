@@ -10168,7 +10168,7 @@
     {
       "id": "2026-10-25-halbieren-nach-zwei",
       "slug": "stickman-halfaftertwo",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-27T23:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfaftertwo.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-halfaftertwo-cover.jpg",
@@ -10183,7 +10183,8 @@
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo.mp4"
-      }
+      },
+      "posting_started_at": "2026-10-27T23:00:24.780Z"
     },
     {
       "id": "test-2026-10-25-wrongsix",
