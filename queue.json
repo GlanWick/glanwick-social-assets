@@ -9235,7 +9235,16 @@
       "container_id": "18114856589136556",
       "media_id": "18136811095660869",
       "permalink": "https://www.instagram.com/reel/De_8t2QCf9D/",
-      "published_at": "2026-10-27T13:19:34.580Z"
+      "published_at": "2026-10-27T13:19:34.580Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 228,
+        "beitraege_nachher": 228,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-27T13:20:36.014Z"
+      }
     },
     {
       "id": "laptop-2026-10-22-r2-t-tech",
