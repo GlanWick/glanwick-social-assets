@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T01:37:47.934Z",
+ "updated": "2026-10-27T02:37:59.326Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-26: 1312 gegen Mittel 9157",
+   "Reichweite 2026-10-26: 1320 gegen Mittel 9157",
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-10-27T01:37:49.137Z",
+  "checked": "2026-10-27T02:38:00.404Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-10-26",
-    "reach": 1312
+    "reach": 1320
    }
   ],
   "avg_watch_last_reels": 7.8
@@ -6300,6 +6300,11 @@
    "ts": "2026-10-27T01:37:47.934Z",
    "followers": 557,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T02:37:59.326Z",
+   "followers": 557,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6321,7 +6326,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1463,
+   "views": 1465,
    "likes": 13,
    "comments": 1
   },
@@ -6343,7 +6348,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1787,
+   "views": 1791,
    "likes": 21,
    "comments": 2
   },
@@ -6508,7 +6513,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1552,
+   "views": 1553,
    "likes": 26,
    "comments": 7
   },
@@ -6541,7 +6546,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 1342,
+   "views": 1343,
    "likes": 19,
    "comments": 1
   },
@@ -6706,7 +6711,7 @@
    "timestamp": "2026-10-21T21:45:16+0000",
    "type": "VIDEO",
    "caption": "Rules are easy to write and hard to keep.  GlanWick is build for traders who kno",
-   "views": 1565,
+   "views": 1566,
    "likes": 15,
    "comments": 0
   },
