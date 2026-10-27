@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T04:27:41.921Z",
+ "updated": "2026-10-27T05:27:42.885Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-26: 1330 gegen Mittel 9157",
+   "Reichweite 2026-10-26: 1333 gegen Mittel 9157",
    "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-10-27T04:27:42.900Z",
+  "checked": "2026-10-27T05:27:43.684Z",
   "reach_days": [
    {
     "day": "2026-10-20",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-10-26",
-    "reach": 1330
+    "reach": 1333
    }
   ],
   "avg_watch_last_reels": 7.6
@@ -6315,6 +6315,11 @@
    "ts": "2026-10-27T04:27:41.921Z",
    "followers": 557,
    "media_count": 227
+  },
+  {
+   "ts": "2026-10-27T05:27:42.885Z",
+   "followers": 557,
+   "media_count": 227
   }
  ],
  "posts": [
@@ -6336,7 +6341,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1472,
+   "views": 1473,
    "likes": 13,
    "comments": 1
   },
@@ -6468,7 +6473,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 354,
+   "views": 356,
    "likes": 4,
    "comments": 2
   },
