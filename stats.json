@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T03:52:10.172Z",
+ "updated": "2026-10-28T04:52:21.354Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-27: 1260 gegen Mittel 6718"
+   "Reichweite 2026-10-27: 1368 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T03:52:11.042Z",
+  "checked": "2026-10-28T04:52:22.156Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-27",
-    "reach": 1260
+    "reach": 1368
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 9.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6434,6 +6434,11 @@
    "ts": "2026-10-28T03:52:10.172Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T04:52:21.354Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6444,7 +6449,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 307,
+   "views": 315,
    "likes": 3,
    "comments": 1
   },
@@ -6466,9 +6471,9 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 241,
-   "likes": 2,
-   "comments": 2
+   "views": 270,
+   "likes": 3,
+   "comments": 3
   },
   {
    "id": "18136811095660869",
@@ -6477,7 +6482,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 658,
+   "views": 736,
    "likes": 8,
    "comments": 1
   },
