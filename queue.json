@@ -10584,7 +10584,7 @@
     {
       "id": "2026-10-28-madoff-five-minutes",
       "slug": "madoff-five-minutes",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-28T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/madoff-five-minutes.mp4",
       "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strategy. Within five minutes, he knew the numbers couldn't be right. About four hours later, he could prove it.\nHe warned the SEC in 2000, 2001 and 2005. Nobody acted. Madoff was arrested on December 11, 2008, later admitted he hadn't traded since the early 1990s, and was sentenced to 150 years.\nYour own record deserves its bad months too. Comment JOURNAL and we'll send you the link.\n\n#madoff #truecrime #finance #investing #tradingjournal",
@@ -10597,7 +10597,10 @@
         "laenge_s": 43.9,
         "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
       },
-      "posting_started_at": "2026-10-28T22:30:17.525Z"
+      "container_id": "18115125326136556",
+      "media_id": "17966046240233483",
+      "permalink": "https://www.instagram.com/reel/DfDgnS7k3NC/",
+      "published_at": "2026-10-28T22:31:06.346Z"
     }
   ]
 }
