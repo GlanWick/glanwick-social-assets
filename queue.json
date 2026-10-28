@@ -10600,7 +10600,16 @@
       "container_id": "18115125326136556",
       "media_id": "17966046240233483",
       "permalink": "https://www.instagram.com/reel/DfDgnS7k3NC/",
-      "published_at": "2026-10-28T22:31:06.346Z"
+      "published_at": "2026-10-28T22:31:06.346Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 229,
+        "beitraege_nachher": 229,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-28T22:32:07.928Z"
+      }
     }
   ]
 }
