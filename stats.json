@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T17:35:14.118Z",
+ "updated": "2026-10-28T18:35:22.407Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T17:35:15.386Z",
+  "checked": "2026-10-28T18:35:23.323Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -6504,6 +6504,11 @@
    "ts": "2026-10-28T17:35:14.118Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T18:35:22.407Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6514,7 +6519,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 169,
+   "views": 175,
    "likes": 2,
    "comments": 1
   },
@@ -6525,7 +6530,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1519,
+   "views": 1556,
    "likes": 9,
    "comments": 1
   },
@@ -6536,7 +6541,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1388,
+   "views": 1401,
    "likes": 12,
    "comments": 1
   },
@@ -6547,7 +6552,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 276,
+   "views": 285,
    "likes": 2,
    "comments": 1
   },
@@ -6558,7 +6563,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1192,
+   "views": 1193,
    "likes": 24,
    "comments": 5
   },
@@ -6580,7 +6585,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 144,
+   "views": 146,
    "likes": 4,
    "comments": 3
   },
@@ -6591,7 +6596,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 161,
+   "views": 162,
    "likes": 4,
    "comments": 2
   },
@@ -6635,7 +6640,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1611,
+   "views": 1612,
    "likes": 20,
    "comments": 1
   },
