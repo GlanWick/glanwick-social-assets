@@ -1,17 +1,12 @@
 {
- "updated": "2026-10-27T23:01:40.585Z",
+ "updated": "2026-10-28T00:01:51.115Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-26: 1341 gegen Mittel 9157",
-   "Sehdauer letzte 3 Reels: 7.2 s"
+   "Reichweite 2026-10-27: 886 gegen Mittel 6718"
   ],
-  "checked": "2026-10-27T23:01:41.857Z",
+  "checked": "2026-10-28T00:01:52.244Z",
   "reach_days": [
-   {
-    "day": "2026-10-20",
-    "reach": 15973
-   },
    {
     "day": "2026-10-21",
     "reach": 13883
@@ -35,9 +30,13 @@
    {
     "day": "2026-10-26",
     "reach": 1341
+   },
+   {
+    "day": "2026-10-27",
+    "reach": 886
    }
   ],
-  "avg_watch_last_reels": 7.2
+  "avg_watch_last_reels": 9.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6410,6 +6409,11 @@
    "ts": "2026-10-27T23:01:40.585Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T00:01:51.115Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6420,8 +6424,8 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 0,
-   "likes": 0,
+   "views": 150,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -6431,7 +6435,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 0,
+   "views": 10,
    "likes": 0,
    "comments": 1
   },
@@ -6442,7 +6446,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 176,
+   "views": 180,
    "likes": 2,
    "comments": 1
   },
@@ -6453,8 +6457,8 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 516,
-   "likes": 7,
+   "views": 556,
+   "likes": 8,
    "comments": 1
   },
   {
@@ -6464,8 +6468,8 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 132,
-   "likes": 3,
+   "views": 134,
+   "likes": 4,
    "comments": 3
   },
   {
