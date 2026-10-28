@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T13:44:27.155Z",
+ "updated": "2026-10-28T14:34:10.946Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T13:44:28.240Z",
+  "checked": "2026-10-28T14:34:12.006Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 559,
+  "followers": 560,
   "media_count": 229
  },
  "history": [
@@ -6484,6 +6484,11 @@
    "ts": "2026-10-28T13:44:27.155Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T14:34:10.946Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6494,7 +6499,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 87,
+   "views": 97,
    "likes": 2,
    "comments": 1
   },
@@ -6505,8 +6510,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 273,
-   "likes": 1,
+   "views": 452,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -6516,8 +6521,8 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1037,
-   "likes": 10,
+   "views": 1295,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -6527,8 +6532,8 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 199,
-   "likes": 1,
+   "views": 211,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -6538,8 +6543,8 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1043,
-   "likes": 21,
+   "views": 1178,
+   "likes": 24,
    "comments": 5
   },
   {
@@ -6582,7 +6587,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1501,
+   "views": 1502,
    "likes": 13,
    "comments": 1
   },
@@ -6593,7 +6598,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 192,
+   "views": 193,
    "likes": 3,
    "comments": 1
   },
@@ -6604,7 +6609,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1803,
+   "views": 1804,
    "likes": 22,
    "comments": 2
   },
@@ -6615,7 +6620,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1610,
+   "views": 1611,
    "likes": 20,
    "comments": 1
   },
@@ -6637,7 +6642,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1509,
+   "views": 1510,
    "likes": 19,
    "comments": 2
   },
@@ -6703,7 +6708,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 358,
+   "views": 359,
    "likes": 4,
    "comments": 2
   },
@@ -6747,7 +6752,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 445,
+   "views": 446,
    "likes": 7,
    "comments": 1
   },
@@ -6813,7 +6818,7 @@
    "timestamp": "2026-10-22T17:01:16+0000",
    "type": "VIDEO",
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
-   "views": 249,
+   "views": 250,
    "likes": 3,
    "comments": 1
   },
@@ -6846,7 +6851,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 601,
+   "views": 602,
    "likes": 5,
    "comments": 1
   },
@@ -6912,7 +6917,7 @@
    "timestamp": "2026-10-22T02:30:47+0000",
    "type": "VIDEO",
    "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 1755,
+   "views": 1756,
    "likes": 14,
    "comments": 1
   },
