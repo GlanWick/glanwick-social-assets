@@ -9301,6 +9301,10 @@
       "views_12h": {
         "views": 219,
         "stunden": 12.53
+      },
+      "views_24h": {
+        "views": 1178,
+        "stunden": 24.23
       }
     },
     {
