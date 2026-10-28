@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T21:25:32.069Z",
+ "updated": "2026-10-28T22:25:41.638Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T21:25:33.070Z",
+  "checked": "2026-10-28T22:25:42.689Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -36,7 +36,7 @@
     "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6524,6 +6524,11 @@
    "ts": "2026-10-28T21:25:32.069Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T22:25:41.638Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6534,7 +6539,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 183,
+   "views": 185,
    "likes": 2,
    "comments": 1
   },
@@ -6545,8 +6550,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1582,
-   "likes": 11,
+   "views": 1593,
+   "likes": 12,
    "comments": 1
   },
   {
@@ -6556,7 +6561,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1410,
+   "views": 1413,
    "likes": 12,
    "comments": 1
   },
@@ -6567,7 +6572,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 306,
+   "views": 308,
    "likes": 2,
    "comments": 1
   },
@@ -6578,7 +6583,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1196,
+   "views": 1198,
    "likes": 24,
    "comments": 5
   },
@@ -6589,7 +6594,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1199,
+   "views": 1200,
    "likes": 10,
    "comments": 1
   },
