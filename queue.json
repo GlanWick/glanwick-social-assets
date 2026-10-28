@@ -10529,7 +10529,11 @@
         "verdacht": false,
         "at": "2026-10-27T22:32:05.683Z"
       },
-      "kommentar_id": "18097055936444037"
+      "kommentar_id": "18097055936444037",
+      "views_12h": {
+        "views": 177,
+        "stunden": 12.21
+      }
     },
     {
       "id": "2026-10-28-madoff-five-minutes",
