@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T16:34:55.119Z",
+ "updated": "2026-10-28T17:35:14.118Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T16:34:56.380Z",
+  "checked": "2026-10-28T17:35:15.386Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -36,7 +36,7 @@
     "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.7
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6499,6 +6499,11 @@
    "ts": "2026-10-28T16:34:55.119Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T17:35:14.118Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6509,7 +6514,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 128,
+   "views": 169,
    "likes": 2,
    "comments": 1
   },
@@ -6520,8 +6525,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1406,
-   "likes": 8,
+   "views": 1519,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -6531,7 +6536,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1369,
+   "views": 1388,
    "likes": 12,
    "comments": 1
   },
@@ -6542,7 +6547,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 260,
+   "views": 276,
    "likes": 2,
    "comments": 1
   },
@@ -6564,7 +6569,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1194,
+   "views": 1196,
    "likes": 10,
    "comments": 1
   },
@@ -6586,7 +6591,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 159,
+   "views": 161,
    "likes": 4,
    "comments": 2
   },
