@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T08:42:56.506Z",
+ "updated": "2026-10-28T09:43:15.625Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T08:42:58.514Z",
+  "checked": "2026-10-28T09:43:16.508Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -6459,6 +6459,11 @@
    "ts": "2026-10-28T08:42:56.506Z",
    "followers": 558,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T09:43:15.625Z",
+   "followers": 558,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6469,7 +6474,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 386,
+   "views": 429,
    "likes": 3,
    "comments": 1
   },
@@ -6480,7 +6485,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 162,
+   "views": 168,
    "likes": 1,
    "comments": 1
   },
@@ -6491,8 +6496,8 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 403,
-   "likes": 6,
+   "views": 455,
+   "likes": 7,
    "comments": 3
   },
   {
@@ -6502,7 +6507,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1001,
+   "views": 1115,
    "likes": 10,
    "comments": 1
   },
@@ -6524,7 +6529,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 156,
+   "views": 157,
    "likes": 4,
    "comments": 2
   },
@@ -6535,7 +6540,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1497,
+   "views": 1498,
    "likes": 13,
    "comments": 1
   },
@@ -6546,7 +6551,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 190,
+   "views": 191,
    "likes": 3,
    "comments": 1
   },
@@ -6744,7 +6749,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 1343,
+   "views": 1344,
    "likes": 19,
    "comments": 1
   },
