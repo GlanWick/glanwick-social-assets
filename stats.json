@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T22:25:41.638Z",
+ "updated": "2026-10-28T23:25:59.847Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T22:25:42.689Z",
+  "checked": "2026-10-28T23:26:01.124Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -36,13 +36,13 @@
     "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 14.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 560,
-  "media_count": 229
+  "media_count": 230
  },
  "history": [
   {
@@ -6529,9 +6529,36 @@
    "ts": "2026-10-28T22:25:41.638Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T23:25:59.847Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "17941214760382768",
+   "slug": "stickman-fiftythreehundred",
+   "permalink": "https://www.instagram.com/reel/DfDkCxuio7r/",
+   "timestamp": "2026-10-28T23:01:10+0000",
+   "type": "VIDEO",
+   "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
+   "views": 22,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "17966046240233483",
+   "slug": "madoff-five-minutes",
+   "permalink": "https://www.instagram.com/reel/DfDgnS7k3NC/",
+   "timestamp": "2026-10-28T22:31:00+0000",
+   "type": "VIDEO",
+   "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
+   "views": 2,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18131685046695024",
    "slug": "glanwick-laptop-r3-W-western-9s4",
@@ -6539,7 +6566,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 185,
+   "views": 186,
    "likes": 2,
    "comments": 1
   },
@@ -6550,7 +6577,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1593,
+   "views": 1594,
    "likes": 12,
    "comments": 1
   },
@@ -6561,7 +6588,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1413,
+   "views": 1415,
    "likes": 12,
    "comments": 1
   },
@@ -6583,7 +6610,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1198,
+   "views": 1199,
    "likes": 24,
    "comments": 5
   },
@@ -6616,7 +6643,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 162,
+   "views": 163,
    "likes": 4,
    "comments": 2
   },
@@ -6949,28 +6976,6 @@
    "views": 1369,
    "likes": 10,
    "comments": 1
-  },
-  {
-   "id": "18102278375375454",
-   "slug": "stickman-sixlosses",
-   "permalink": "https://www.instagram.com/reel/Dex6eqRDzYM/",
-   "timestamp": "2026-10-22T02:30:47+0000",
-   "type": "VIDEO",
-   "caption": "The same 6 losses in a row cost one account 11 % and the other 62 %.",
-   "views": 1756,
-   "likes": 14,
-   "comments": 1
-  },
-  {
-   "id": "17913685527508228",
-   "slug": "stickman-leaderboard",
-   "permalink": "https://www.instagram.com/reel/DexzuDfnQJm/",
-   "timestamp": "2026-10-22T01:31:40+0000",
-   "type": "VIDEO",
-   "caption": "He's at the top of the leaderboard with +400 %. You copied him and lost 66 %.",
-   "views": 1667,
-   "likes": 18,
-   "comments": 3
   }
  ]
 }
