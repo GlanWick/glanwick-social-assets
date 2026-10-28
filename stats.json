@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T05:52:35.482Z",
+ "updated": "2026-10-28T06:52:48.496Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-27: 1426 gegen Mittel 6718"
+   "Reichweite 2026-10-27: 1531 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T05:52:36.445Z",
+  "checked": "2026-10-28T06:52:49.335Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-27",
-    "reach": 1426
+    "reach": 1531
    }
   ],
   "avg_watch_last_reels": 9.4
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 557,
+  "followers": 558,
   "media_count": 228
  },
  "history": [
@@ -6444,6 +6444,11 @@
    "ts": "2026-10-28T05:52:35.482Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T06:52:48.496Z",
+   "followers": 558,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6454,7 +6459,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 323,
+   "views": 336,
    "likes": 3,
    "comments": 1
   },
@@ -6465,7 +6470,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 148,
+   "views": 150,
    "likes": 1,
    "comments": 1
   },
@@ -6476,8 +6481,8 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 291,
-   "likes": 4,
+   "views": 341,
+   "likes": 5,
    "comments": 3
   },
   {
@@ -6487,7 +6492,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 790,
+   "views": 863,
    "likes": 8,
    "comments": 1
   },
