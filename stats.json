@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T14:34:10.946Z",
+ "updated": "2026-10-28T15:34:38.047Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T14:34:12.006Z",
+  "checked": "2026-10-28T15:34:39.105Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -36,7 +36,7 @@
     "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6489,6 +6489,11 @@
    "ts": "2026-10-28T14:34:10.946Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T15:34:38.047Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6499,7 +6504,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 97,
+   "views": 98,
    "likes": 2,
    "comments": 1
   },
@@ -6510,8 +6515,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 452,
-   "likes": 2,
+   "views": 855,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -6521,7 +6526,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1295,
+   "views": 1349,
    "likes": 12,
    "comments": 1
   },
@@ -6532,7 +6537,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 211,
+   "views": 240,
    "likes": 2,
    "comments": 1
   },
@@ -6543,7 +6548,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1178,
+   "views": 1188,
    "likes": 24,
    "comments": 5
   },
@@ -6554,7 +6559,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1192,
+   "views": 1193,
    "likes": 10,
    "comments": 1
   },
@@ -6565,7 +6570,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 142,
+   "views": 144,
    "likes": 4,
    "comments": 3
   },
@@ -6851,7 +6856,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 602,
+   "views": 603,
    "likes": 5,
    "comments": 1
   },
