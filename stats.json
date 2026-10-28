@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T06:52:48.496Z",
+ "updated": "2026-10-28T07:53:00.876Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-27: 1531 gegen Mittel 6718"
+   "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T06:52:49.335Z",
+  "checked": "2026-10-28T07:53:02.964Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-27",
-    "reach": 1531
+    "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6449,6 +6449,11 @@
    "ts": "2026-10-28T06:52:48.496Z",
    "followers": 558,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T07:53:00.876Z",
+   "followers": 558,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6459,7 +6464,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 336,
+   "views": 357,
    "likes": 3,
    "comments": 1
   },
@@ -6470,7 +6475,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 150,
+   "views": 157,
    "likes": 1,
    "comments": 1
   },
@@ -6481,8 +6486,8 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 341,
-   "likes": 5,
+   "views": 378,
+   "likes": 6,
    "comments": 3
   },
   {
@@ -6492,8 +6497,8 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 863,
-   "likes": 8,
+   "views": 932,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -6712,7 +6717,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1502,
+   "views": 1503,
    "likes": 10,
    "comments": 1
   },
