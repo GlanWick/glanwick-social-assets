@@ -10297,7 +10297,7 @@
     {
       "id": "2026-10-25-fuenfzig-vier",
       "slug": "stickman-fiftyfour",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-28T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfour.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fiftyfour-cover.jpg",
@@ -10313,7 +10313,10 @@
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour.mp4"
       },
-      "posting_started_at": "2026-10-28T12:00:05.867Z"
+      "container_id": "18115029083136556",
+      "media_id": "17962503411000259",
+      "permalink": "https://www.instagram.com/reel/DfCYjTcAXNS/",
+      "published_at": "2026-10-28T12:01:28.063Z"
     },
     {
       "id": "test-2026-10-25-twentythree",
