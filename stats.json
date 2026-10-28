@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T00:01:51.115Z",
+ "updated": "2026-10-28T01:02:04.163Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-27: 886 gegen Mittel 6718"
+   "Reichweite 2026-10-27: 993 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T00:01:52.244Z",
+  "checked": "2026-10-28T01:02:05.896Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-27",
-    "reach": 886
+    "reach": 993
    }
   ],
   "avg_watch_last_reels": 9.4
@@ -6414,6 +6414,11 @@
    "ts": "2026-10-28T00:01:51.115Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T01:02:04.163Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6424,7 +6429,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 150,
+   "views": 176,
    "likes": 2,
    "comments": 1
   },
@@ -6435,8 +6440,8 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 10,
-   "likes": 0,
+   "views": 61,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -6446,9 +6451,9 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 180,
+   "views": 200,
    "likes": 2,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18136811095660869",
@@ -6457,7 +6462,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 556,
+   "views": 587,
    "likes": 8,
    "comments": 1
   },
@@ -6468,7 +6473,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 134,
+   "views": 135,
    "likes": 4,
    "comments": 3
   },
