@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T02:51:58.110Z",
+ "updated": "2026-10-28T03:52:10.172Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-27: 1169 gegen Mittel 6718"
+   "Reichweite 2026-10-27: 1260 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T02:51:59.153Z",
+  "checked": "2026-10-28T03:52:11.042Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-10-27",
-    "reach": 1169
+    "reach": 1260
    }
   ],
   "avg_watch_last_reels": 9.4
@@ -6429,6 +6429,11 @@
    "ts": "2026-10-28T02:51:58.110Z",
    "followers": 557,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T03:52:10.172Z",
+   "followers": 557,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6439,7 +6444,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 248,
+   "views": 307,
    "likes": 3,
    "comments": 1
   },
@@ -6450,7 +6455,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 140,
+   "views": 145,
    "likes": 1,
    "comments": 1
   },
@@ -6461,7 +6466,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 219,
+   "views": 241,
    "likes": 2,
    "comments": 2
   },
@@ -6472,7 +6477,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 634,
+   "views": 658,
    "likes": 8,
    "comments": 1
   },
@@ -6483,7 +6488,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 135,
+   "views": 136,
    "likes": 4,
    "comments": 3
   },
@@ -6494,7 +6499,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 153,
+   "views": 156,
    "likes": 4,
    "comments": 2
   },
@@ -6505,7 +6510,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1495,
+   "views": 1497,
    "likes": 13,
    "comments": 1
   },
@@ -6516,7 +6521,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 189,
+   "views": 190,
    "likes": 3,
    "comments": 1
   },
@@ -6527,7 +6532,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1797,
+   "views": 1798,
    "likes": 21,
    "comments": 2
   },
@@ -6538,7 +6543,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1608,
+   "views": 1609,
    "likes": 20,
    "comments": 1
   },
@@ -6560,7 +6565,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1506,
+   "views": 1507,
    "likes": 19,
    "comments": 2
   },
