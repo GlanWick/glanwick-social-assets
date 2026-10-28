@@ -10203,7 +10203,11 @@
       "media_id": "18109149776259123",
       "permalink": "https://www.instagram.com/reel/DfA_PbYk4EL/",
       "published_at": "2026-10-27T23:01:07.723Z",
-      "kommentar_id": "18078570401439124"
+      "kommentar_id": "18078570401439124",
+      "views_12h": {
+        "views": 637,
+        "stunden": 12.71
+      }
     },
     {
       "id": "test-2026-10-25-wrongsix",
