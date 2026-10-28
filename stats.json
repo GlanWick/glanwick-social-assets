@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T19:35:43.089Z",
+ "updated": "2026-10-28T20:25:13.422Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T19:35:44.203Z",
+  "checked": "2026-10-28T20:25:14.466Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -6514,6 +6514,11 @@
    "ts": "2026-10-28T19:35:43.089Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-28T20:25:13.422Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6524,7 +6529,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 181,
+   "views": 183,
    "likes": 2,
    "comments": 1
   },
@@ -6535,8 +6540,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1567,
-   "likes": 9,
+   "views": 1578,
+   "likes": 11,
    "comments": 1
   },
   {
@@ -6546,7 +6551,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1402,
+   "views": 1408,
    "likes": 12,
    "comments": 1
   },
@@ -6557,7 +6562,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 300,
+   "views": 305,
    "likes": 2,
    "comments": 1
   },
