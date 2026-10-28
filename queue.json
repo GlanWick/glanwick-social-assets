@@ -9324,7 +9324,7 @@
     {
       "id": "laptop-2026-10-22-r3-w-western",
       "slug": "glanwick-laptop-r3-W-western-9s4",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-28T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r3-W-western-9s4.mp4",
       "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Replay at @glanwick_com, you pick a speed from 0.5x to 10x and trade a $10,000 practice balance while the candles print.\n\nComment “Journal” and/or tell us how fast you'd replay: 1x, 5x or 10x ⏩\n\n#tradingjournal #barreplay #bitcoin #trading",
@@ -9341,7 +9341,8 @@
         "laenge_s": 9.4,
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "posting_started_at": "2026-10-28T12:30:19.485Z"
     },
     {
       "id": "laptop-2026-10-22-r3-t-tech",
