@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T07:53:00.876Z",
+ "updated": "2026-10-28T08:42:56.506Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
   ],
-  "checked": "2026-10-28T07:53:02.964Z",
+  "checked": "2026-10-28T08:42:58.514Z",
   "reach_days": [
    {
     "day": "2026-10-21",
@@ -36,7 +36,7 @@
     "reach": 1558
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 9.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6454,6 +6454,11 @@
    "ts": "2026-10-28T07:53:00.876Z",
    "followers": 558,
    "media_count": 228
+  },
+  {
+   "ts": "2026-10-28T08:42:56.506Z",
+   "followers": 558,
+   "media_count": 228
   }
  ],
  "posts": [
@@ -6464,7 +6469,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 357,
+   "views": 386,
    "likes": 3,
    "comments": 1
   },
@@ -6475,7 +6480,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 157,
+   "views": 162,
    "likes": 1,
    "comments": 1
   },
@@ -6486,7 +6491,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 378,
+   "views": 403,
    "likes": 6,
    "comments": 3
   },
@@ -6497,7 +6502,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 932,
+   "views": 1001,
    "likes": 10,
    "comments": 1
   },
@@ -6508,7 +6513,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 136,
+   "views": 137,
    "likes": 4,
    "comments": 3
   },
