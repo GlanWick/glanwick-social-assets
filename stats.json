@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T22:49:38.098Z",
+ "updated": "2026-10-29T23:49:57.528Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T22:49:38.947Z",
+  "checked": "2026-10-29T23:49:58.568Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -34,7 +34,7 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6652,6 +6652,11 @@
    "ts": "2026-10-29T22:49:38.098Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-29T23:49:57.528Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6662,7 +6667,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 688,
+   "views": 742,
    "likes": 5,
    "comments": 3
   },
@@ -6673,8 +6678,8 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 225,
-   "likes": 1,
+   "views": 233,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -6684,7 +6689,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1571,
+   "views": 1573,
    "likes": 16,
    "comments": 1
   },
@@ -6717,7 +6722,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1622,
+   "views": 1623,
    "likes": 12,
    "comments": 2
   },
@@ -6761,7 +6766,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1202,
+   "views": 1207,
    "likes": 10,
    "comments": 1
   },
