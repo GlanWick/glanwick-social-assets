@@ -10085,7 +10085,7 @@
     {
       "id": "2026-10-24-zwei-monate",
       "slug": "stickman-twomonths",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-29T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twomonths.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twomonths-cover.jpg",
@@ -10100,7 +10100,8 @@
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths.mp4"
-      }
+      },
+      "posting_started_at": "2026-10-29T12:00:29.325Z"
     },
     {
       "id": "test-2026-10-24-fixedposition",
