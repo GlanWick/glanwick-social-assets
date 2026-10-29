@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T02:15:50.687Z",
+ "updated": "2026-10-29T03:16:07.734Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T02:15:51.695Z",
+  "checked": "2026-10-29T03:16:08.680Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-28",
-    "reach": 3477
+    "reach": 3515
    }
   ],
   "avg_watch_last_reels": 8.6
@@ -6547,6 +6547,11 @@
    "ts": "2026-10-29T02:15:50.687Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T03:16:07.734Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6557,7 +6562,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 289,
+   "views": 333,
    "likes": 6,
    "comments": 1
   },
@@ -6568,7 +6573,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 34,
+   "views": 41,
    "likes": 0,
    "comments": 1
   },
@@ -6590,7 +6595,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1606,
+   "views": 1610,
    "likes": 12,
    "comments": 2
   },
