@@ -9371,7 +9371,11 @@
         "verdacht": false,
         "at": "2026-10-28T12:32:00.656Z"
       },
-      "kommentar_id": "17993478387078971"
+      "kommentar_id": "17993478387078971",
+      "views_12h": {
+        "views": 186,
+        "stunden": 12.92
+      }
     },
     {
       "id": "laptop-2026-10-22-r3-t-tech",
