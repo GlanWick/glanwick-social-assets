@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T15:57:40.609Z",
+ "updated": "2026-10-29T16:58:08.280Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-10-29T15:57:41.666Z",
+  "checked": "2026-10-29T16:58:09.325Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 559,
+  "followers": 560,
   "media_count": 231
  },
  "history": [
@@ -6619,6 +6619,11 @@
    "ts": "2026-10-29T15:57:40.609Z",
    "followers": 559,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T16:58:08.280Z",
+   "followers": 560,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -6629,9 +6634,9 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 202,
-   "likes": 2,
-   "comments": 1
+   "views": 275,
+   "likes": 3,
+   "comments": 3
   },
   {
    "id": "18143555605611964",
@@ -6640,7 +6645,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 193,
+   "views": 199,
    "likes": 1,
    "comments": 1
   },
