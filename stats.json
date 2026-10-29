@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-29T13:57:34.735Z",
+ "updated": "2026-10-29T14:57:39.487Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-29T13:57:35.902Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 8.0 s"
+  ],
+  "checked": "2026-10-29T14:57:40.462Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -6607,9 +6609,25 @@
    "ts": "2026-10-29T13:57:34.735Z",
    "followers": 559,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T14:57:39.487Z",
+   "followers": 559,
+   "media_count": 231
   }
  ],
  "posts": [
+  {
+   "id": "18185744770432486",
+   "slug": "glanwick-laptop-r2-W-western-11s8",
+   "permalink": "https://www.instagram.com/reel/DfFKtXqGpQ8/",
+   "timestamp": "2026-10-29T13:58:02+0000",
+   "type": "VIDEO",
+   "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
+   "views": 138,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18143555605611964",
    "slug": "stickman-twomonths",
@@ -6617,7 +6635,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 162,
+   "views": 187,
    "likes": 1,
    "comments": 1
   },
@@ -6639,7 +6657,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 135,
+   "views": 137,
    "likes": 0,
    "comments": 1
   },
@@ -7037,17 +7055,6 @@
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
    "views": 1354,
    "likes": 22,
-   "comments": 1
-  },
-  {
-   "id": "17884145091527337",
-   "slug": "stickman-thirtyforty",
-   "permalink": "https://www.instagram.com/reel/DeyPE9zkqZ1/",
-   "timestamp": "2026-10-22T05:30:45+0000",
-   "type": "VIDEO",
-   "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1281,
-   "likes": 8,
    "comments": 1
   }
  ]
