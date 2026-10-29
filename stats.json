@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T00:26:08.293Z",
+ "updated": "2026-10-29T01:26:12.518Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T00:26:09.480Z",
+  "checked": "2026-10-29T01:26:13.732Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-28",
-    "reach": 3412
+    "reach": 3455
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6537,6 +6537,11 @@
    "ts": "2026-10-29T00:26:08.293Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T01:26:12.518Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6547,7 +6552,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 212,
+   "views": 249,
    "likes": 4,
    "comments": 1
   },
@@ -6558,7 +6563,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 9,
+   "views": 25,
    "likes": 0,
    "comments": 1
   },
@@ -6580,9 +6585,9 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1599,
+   "views": 1604,
    "likes": 12,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18109149776259123",
@@ -6613,7 +6618,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1199,
+   "views": 1200,
    "likes": 24,
    "comments": 5
   },
@@ -6668,7 +6673,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 194,
+   "views": 195,
    "likes": 3,
    "comments": 1
   },
