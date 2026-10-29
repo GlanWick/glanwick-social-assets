@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T09:06:57.973Z",
+ "updated": "2026-10-29T10:07:10.673Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T09:06:58.738Z",
+  "checked": "2026-10-29T10:07:11.536Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -34,7 +34,7 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 8.8
+  "avg_watch_last_reels": 9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6582,6 +6582,11 @@
    "ts": "2026-10-29T09:06:57.973Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T10:07:10.673Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6592,8 +6597,8 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1154,
-   "likes": 10,
+   "views": 1488,
+   "likes": 16,
    "comments": 1
   },
   {
@@ -6603,7 +6608,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 119,
+   "views": 120,
    "likes": 0,
    "comments": 1
   },
@@ -6614,7 +6619,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 188,
+   "views": 190,
    "likes": 2,
    "comments": 1
   },
@@ -6625,7 +6630,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1614,
+   "views": 1615,
    "likes": 12,
    "comments": 2
   },
