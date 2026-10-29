@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T04:16:23.434Z",
+ "updated": "2026-10-29T05:16:41.429Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T04:16:25.419Z",
+  "checked": "2026-10-29T05:16:42.296Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-10-28",
-    "reach": 3532
+    "reach": 3555
    }
   ],
-  "avg_watch_last_reels": 8.6
+  "avg_watch_last_reels": 8.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6557,6 +6557,11 @@
    "ts": "2026-10-29T04:16:23.434Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T05:16:41.429Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6567,7 +6572,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 382,
+   "views": 411,
    "likes": 6,
    "comments": 1
   },
@@ -6578,7 +6583,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 49,
+   "views": 54,
    "likes": 0,
    "comments": 1
   },
@@ -6600,7 +6605,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1610,
+   "views": 1612,
    "likes": 12,
    "comments": 2
   },
@@ -6611,7 +6616,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1415,
+   "views": 1416,
    "likes": 12,
    "comments": 1
   },
@@ -6655,7 +6660,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 146,
+   "views": 147,
    "likes": 4,
    "comments": 3
   },
@@ -6666,7 +6671,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 163,
+   "views": 164,
    "likes": 4,
    "comments": 2
   },
@@ -6677,7 +6682,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1502,
+   "views": 1503,
    "likes": 13,
    "comments": 1
   },
@@ -6688,7 +6693,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 195,
+   "views": 196,
    "likes": 3,
    "comments": 1
   },
