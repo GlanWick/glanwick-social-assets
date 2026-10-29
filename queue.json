@@ -9318,7 +9318,7 @@
     {
       "id": "laptop-2026-10-22-r2-w-western",
       "slug": "glanwick-laptop-r2-W-western-11s8",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-10-29T12:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/glanwick-laptop-r2-W-western-11s8.mp4",
       "caption": "Twice a year, Europe and the US change their clocks on different weekends, and the open moves with them. With Global Trading Hours at @glanwick_com, you see when Tokyo, Frankfurt, London and New York trade in your own time zone, daylight saving included.\n\nComment “Journal” and/or tell us what time it is for you when New York opens 🕤\n\n#tradingjournal #marketopen #daytrader #trading",
@@ -9336,7 +9336,10 @@
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-10-29T13:57:37.851Z"
+      "container_id": "18115239527136556",
+      "media_id": "18185744770432486",
+      "permalink": "https://www.instagram.com/reel/DfFKtXqGpQ8/",
+      "published_at": "2026-10-29T13:58:08.847Z"
     },
     {
       "id": "laptop-2026-10-22-r3-w-western",
