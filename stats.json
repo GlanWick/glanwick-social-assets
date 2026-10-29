@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T10:07:10.673Z",
+ "updated": "2026-10-29T11:07:24.105Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T10:07:11.536Z",
+  "checked": "2026-10-29T11:07:25.145Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -34,7 +34,7 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 9
+  "avg_watch_last_reels": 8.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6587,6 +6587,11 @@
    "ts": "2026-10-29T10:07:10.673Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T11:07:24.105Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6597,7 +6602,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1488,
+   "views": 1545,
    "likes": 16,
    "comments": 1
   },
@@ -6608,7 +6613,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 120,
+   "views": 123,
    "likes": 0,
    "comments": 1
   },
@@ -6619,7 +6624,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 190,
+   "views": 191,
    "likes": 2,
    "comments": 1
   },
@@ -6630,7 +6635,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1615,
+   "views": 1616,
    "likes": 12,
    "comments": 2
   },
@@ -6641,7 +6646,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1416,
+   "views": 1421,
    "likes": 12,
    "comments": 1
   },
@@ -6685,7 +6690,7 @@
    "timestamp": "2026-10-27T12:01:05+0000",
    "type": "VIDEO",
    "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 147,
+   "views": 150,
    "likes": 4,
    "comments": 3
   },
@@ -6696,7 +6701,7 @@
    "timestamp": "2026-10-26T22:24:15+0000",
    "type": "VIDEO",
    "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 164,
+   "views": 165,
    "likes": 4,
    "comments": 2
   },
