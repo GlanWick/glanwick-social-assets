@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-29T21:49:20.454Z",
+ "updated": "2026-10-29T22:49:38.098Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.9 s"
-  ],
-  "checked": "2026-10-29T21:49:21.268Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-29T22:49:38.947Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -36,13 +34,13 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 7.9
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 560,
-  "media_count": 231
+  "media_count": 229
  },
  "history": [
   {
@@ -6649,6 +6647,11 @@
    "ts": "2026-10-29T21:49:20.454Z",
    "followers": 560,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T22:49:38.098Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6659,7 +6662,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 562,
+   "views": 688,
    "likes": 5,
    "comments": 3
   },
@@ -6670,7 +6673,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 224,
+   "views": 225,
    "likes": 1,
    "comments": 1
   },
@@ -6681,7 +6684,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1570,
+   "views": 1571,
    "likes": 16,
    "comments": 1
   },
@@ -6725,7 +6728,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1423,
+   "views": 1424,
    "likes": 12,
    "comments": 1
   },
@@ -6761,28 +6764,6 @@
    "views": 1202,
    "likes": 10,
    "comments": 1
-  },
-  {
-   "id": "18640655791055864",
-   "slug": "survivorship-bombers",
-   "permalink": "https://www.instagram.com/reel/De_ztHbAe2L/",
-   "timestamp": "2026-10-27T12:01:05+0000",
-   "type": "VIDEO",
-   "caption": "In 1943, statistician Abraham Wald worked out how to read the damage on bombers ",
-   "views": 150,
-   "likes": 4,
-   "comments": 3
-  },
-  {
-   "id": "18113687399138642",
-   "slug": "your-rule-doubling",
-   "permalink": "https://www.instagram.com/reel/De-WP-xCv66/",
-   "timestamp": "2026-10-26T22:24:15+0000",
-   "type": "VIDEO",
-   "caption": "Doubling after a loss turns a $100 rule into a $6,400 trade by loss #7.",
-   "views": 168,
-   "likes": 4,
-   "comments": 2
   },
   {
    "id": "18639957823012099",
@@ -7090,6 +7071,28 @@
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
    "views": 1354,
    "likes": 22,
+   "comments": 1
+  },
+  {
+   "id": "17884145091527337",
+   "slug": "stickman-thirtyforty",
+   "permalink": "https://www.instagram.com/reel/DeyPE9zkqZ1/",
+   "timestamp": "2026-10-22T05:30:45+0000",
+   "type": "VIDEO",
+   "caption": "You won 30 trades out of 40, and you're $300 down.",
+   "views": 1281,
+   "likes": 8,
+   "comments": 1
+  },
+  {
+   "id": "18117867329276810",
+   "slug": "stickman-pointone",
+   "permalink": "https://www.instagram.com/reel/DeyBWR5k4-f/",
+   "timestamp": "2026-10-22T03:30:45+0000",
+   "type": "VIDEO",
+   "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.",
+   "views": 1369,
+   "likes": 10,
    "comments": 1
   }
  ]
