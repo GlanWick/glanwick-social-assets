@@ -10354,7 +10354,11 @@
       "media_id": "17962503411000259",
       "permalink": "https://www.instagram.com/reel/DfCYjTcAXNS/",
       "published_at": "2026-10-28T12:01:28.063Z",
-      "kommentar_id": "17945944158361393"
+      "kommentar_id": "17945944158361393",
+      "views_12h": {
+        "views": 1599,
+        "stunden": 12.41
+      }
     },
     {
       "id": "test-2026-10-25-twentythree",
