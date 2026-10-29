@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T07:17:15.102Z",
+ "updated": "2026-10-29T08:06:45.374Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T07:17:16.085Z",
+  "checked": "2026-10-29T08:06:46.347Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 560,
+  "followers": 559,
   "media_count": 230
  },
  "history": [
@@ -6572,6 +6572,11 @@
    "ts": "2026-10-29T07:17:15.102Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T08:06:45.374Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6582,7 +6587,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 674,
+   "views": 820,
    "likes": 9,
    "comments": 1
   },
@@ -6593,7 +6598,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 90,
+   "views": 115,
    "likes": 0,
    "comments": 1
   },
@@ -6626,7 +6631,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1416,
+   "views": 0,
    "likes": 12,
    "comments": 1
   },
@@ -6791,7 +6796,7 @@
    "timestamp": "2026-10-23T05:31:55+0000",
    "type": "VIDEO",
    "caption": "You planned to lose $100 a trade, your losses averaged $160, and +$500 became +$",
-   "views": 673,
+   "views": 0,
    "likes": 4,
    "comments": 2
   },
@@ -6846,7 +6851,7 @@
    "timestamp": "2026-10-22T23:32:38+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 70 %, then doubled, and your $5,000 is now $3,000.",
-   "views": 1168,
+   "views": 0,
    "likes": 6,
    "comments": 2
   },
@@ -6868,7 +6873,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1554,
+   "views": 0,
    "likes": 26,
    "comments": 7
   },
@@ -6956,7 +6961,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 603,
+   "views": 0,
    "likes": 5,
    "comments": 1
   },
@@ -7000,7 +7005,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1281,
+   "views": 0,
    "likes": 8,
    "comments": 1
   },
