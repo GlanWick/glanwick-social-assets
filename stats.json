@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T17:58:37.431Z",
+ "updated": "2026-10-29T18:59:08.482Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 8.0 s"
   ],
-  "checked": "2026-10-29T17:58:38.586Z",
+  "checked": "2026-10-29T18:59:09.717Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -6629,6 +6629,11 @@
    "ts": "2026-10-29T17:58:37.431Z",
    "followers": 560,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T18:59:08.482Z",
+   "followers": 560,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -6639,7 +6644,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 352,
+   "views": 395,
    "likes": 3,
    "comments": 3
   },
@@ -6650,7 +6655,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 211,
+   "views": 215,
    "likes": 1,
    "comments": 1
   },
@@ -6661,7 +6666,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1562,
+   "views": 1567,
    "likes": 16,
    "comments": 1
   },
@@ -6793,7 +6798,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1804,
+   "views": 1805,
    "likes": 22,
    "comments": 2
   },
@@ -6826,7 +6831,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1510,
+   "views": 1511,
    "likes": 19,
    "comments": 2
   },
