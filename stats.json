@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T06:16:58.093Z",
+ "updated": "2026-10-29T07:17:15.102Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T06:16:58.886Z",
+  "checked": "2026-10-29T07:17:16.085Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-28",
-    "reach": 3572
+    "reach": 3739
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -6567,6 +6567,11 @@
    "ts": "2026-10-29T06:16:58.093Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T07:17:15.102Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6577,8 +6582,8 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 496,
-   "likes": 6,
+   "views": 674,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -6588,7 +6593,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 63,
+   "views": 90,
    "likes": 0,
    "comments": 1
   },
@@ -6643,7 +6648,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1200,
+   "views": 1202,
    "likes": 24,
    "comments": 5
   },
