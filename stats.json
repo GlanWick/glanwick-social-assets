@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T19:48:40.055Z",
+ "updated": "2026-10-29T20:49:02.403Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 8.0 s"
   ],
-  "checked": "2026-10-29T19:48:40.861Z",
+  "checked": "2026-10-29T20:49:03.438Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -6639,6 +6639,11 @@
    "ts": "2026-10-29T19:48:40.055Z",
    "followers": 560,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T20:49:02.403Z",
+   "followers": 560,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -6649,8 +6654,8 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 420,
-   "likes": 3,
+   "views": 448,
+   "likes": 4,
    "comments": 3
   },
   {
@@ -6660,7 +6665,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 215,
+   "views": 216,
    "likes": 1,
    "comments": 1
   },
@@ -6671,7 +6676,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1567,
+   "views": 1568,
    "likes": 16,
    "comments": 1
   },
@@ -6704,7 +6709,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1618,
+   "views": 1622,
    "likes": 12,
    "comments": 2
   },
@@ -6715,7 +6720,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1421,
+   "views": 1423,
    "likes": 12,
    "comments": 1
   },
@@ -6781,7 +6786,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1504,
+   "views": 1505,
    "likes": 13,
    "comments": 1
   },
@@ -6792,7 +6797,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 197,
+   "views": 199,
    "likes": 3,
    "comments": 1
   },
@@ -6803,7 +6808,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1805,
+   "views": 1807,
    "likes": 22,
    "comments": 2
   },
