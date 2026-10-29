@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T08:06:45.374Z",
+ "updated": "2026-10-29T09:06:57.973Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T08:06:46.347Z",
+  "checked": "2026-10-29T09:06:58.738Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -6577,6 +6577,11 @@
    "ts": "2026-10-29T08:06:45.374Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T09:06:57.973Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6587,8 +6592,8 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 820,
-   "likes": 9,
+   "views": 1154,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -6598,7 +6603,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 115,
+   "views": 119,
    "likes": 0,
    "comments": 1
   },
@@ -6609,7 +6614,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 187,
+   "views": 188,
    "likes": 2,
    "comments": 1
   },
@@ -6620,7 +6625,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1613,
+   "views": 1614,
    "likes": 12,
    "comments": 2
   },
@@ -6631,7 +6636,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 0,
+   "views": 1416,
    "likes": 12,
    "comments": 1
   },
@@ -6796,7 +6801,7 @@
    "timestamp": "2026-10-23T05:31:55+0000",
    "type": "VIDEO",
    "caption": "You planned to lose $100 a trade, your losses averaged $160, and +$500 became +$",
-   "views": 0,
+   "views": 673,
    "likes": 4,
    "comments": 2
   },
@@ -6851,7 +6856,7 @@
    "timestamp": "2026-10-22T23:32:38+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 70 %, then doubled, and your $5,000 is now $3,000.",
-   "views": 0,
+   "views": 1168,
    "likes": 6,
    "comments": 2
   },
@@ -6873,7 +6878,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 0,
+   "views": 1554,
    "likes": 26,
    "comments": 7
   },
@@ -6961,7 +6966,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 0,
+   "views": 603,
    "likes": 5,
    "comments": 1
   },
@@ -7005,7 +7010,7 @@
    "timestamp": "2026-10-22T05:30:45+0000",
    "type": "VIDEO",
    "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 0,
+   "views": 1281,
    "likes": 8,
    "comments": 1
   },
