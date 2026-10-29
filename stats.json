@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T20:49:02.403Z",
+ "updated": "2026-10-29T21:49:20.454Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 8.0 s"
+   "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-10-29T20:49:03.438Z",
+  "checked": "2026-10-29T21:49:21.268Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -36,7 +36,7 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6644,6 +6644,11 @@
    "ts": "2026-10-29T20:49:02.403Z",
    "followers": 560,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T21:49:20.454Z",
+   "followers": 560,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -6654,8 +6659,8 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 448,
-   "likes": 4,
+   "views": 562,
+   "likes": 5,
    "comments": 3
   },
   {
@@ -6665,7 +6670,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 216,
+   "views": 224,
    "likes": 1,
    "comments": 1
   },
@@ -6676,7 +6681,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1568,
+   "views": 1570,
    "likes": 16,
    "comments": 1
   },
@@ -6687,7 +6692,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 138,
+   "views": 139,
    "likes": 0,
    "comments": 1
   },
@@ -6819,7 +6824,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1613,
+   "views": 1614,
    "likes": 20,
    "comments": 1
   },
@@ -6841,7 +6846,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1511,
+   "views": 1512,
    "likes": 19,
    "comments": 2
   },
@@ -6907,7 +6912,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 360,
+   "views": 361,
    "likes": 4,
    "comments": 2
   },
@@ -6951,7 +6956,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 446,
+   "views": 447,
    "likes": 7,
    "comments": 1
   },
