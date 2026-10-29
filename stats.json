@@ -1,16 +1,10 @@
 {
- "updated": "2026-10-28T23:25:59.847Z",
+ "updated": "2026-10-29T00:26:08.293Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Reichweite 2026-10-27: 1558 gegen Mittel 6718"
-  ],
-  "checked": "2026-10-28T23:26:01.124Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-29T00:26:09.480Z",
   "reach_days": [
-   {
-    "day": "2026-10-21",
-    "reach": 13883
-   },
    {
     "day": "2026-10-22",
     "reach": 13002
@@ -34,9 +28,13 @@
    {
     "day": "2026-10-27",
     "reach": 1558
+   },
+   {
+    "day": "2026-10-28",
+    "reach": 3412
    }
   ],
-  "avg_watch_last_reels": 14.8
+  "avg_watch_last_reels": 8.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6534,6 +6532,11 @@
    "ts": "2026-10-28T23:25:59.847Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T00:26:08.293Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6544,8 +6547,8 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 22,
-   "likes": 1,
+   "views": 212,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -6555,7 +6558,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 2,
+   "views": 9,
    "likes": 0,
    "comments": 1
   },
@@ -6577,7 +6580,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1594,
+   "views": 1599,
    "likes": 12,
    "comments": 1
   },
@@ -6665,7 +6668,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 193,
+   "views": 194,
    "likes": 3,
    "comments": 1
   },
@@ -6687,7 +6690,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1612,
+   "views": 1613,
    "likes": 20,
    "comments": 1
   },
@@ -6775,7 +6778,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 359,
+   "views": 360,
    "likes": 4,
    "comments": 2
   },
