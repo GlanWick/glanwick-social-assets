@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:15:04.557Z",
+  "generated_at": "2026-10-29T22:17:29.618Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1715,14 +1715,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-streak8.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-streak8-cover.jpg",
-        "gestartet_at": "2026-10-27T17:00:22.310Z",
-        "stand": "2026-10-27T17:02:23.169Z",
-        "versuch": 1,
-        "slot": "2026-10-27T17:00:00.000Z",
         "post_id": "6ae0d8ae9907d5e645e933d7",
-        "published_at": "2026-10-27T17:01:41.705Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701393706158542113",
-        "plattform_id": "7701393706158542113"
+        "plattform_id": "7701393706158542113",
+        "published_at": "2026-10-27T17:01:41.705Z",
+        "gestartet_at": "2026-10-27T17:00:22.310Z",
+        "slot": "2026-10-27T17:00:00.000Z",
+        "stand": "2026-10-27T17:02:23.169Z"
       },
       "media_id": "17959060278246833",
       "permalink": "https://www.instagram.com/reel/DdzGLXHgXRx/",
@@ -1741,14 +1740,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixoften.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-sixoften-cover.jpg",
-        "gestartet_at": "2026-10-28T17:00:24.985Z",
-        "stand": "2026-10-28T17:02:33.164Z",
-        "versuch": 1,
-        "slot": "2026-10-28T17:00:00.000Z",
         "post_id": "6ae22a3480d6ba65e293206f",
-        "published_at": "2026-10-28T17:01:32.421Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701764877576162593",
-        "plattform_id": "7701764877576162593"
+        "plattform_id": "7701764877576162593",
+        "published_at": "2026-10-28T17:01:32.421Z",
+        "gestartet_at": "2026-10-28T17:00:24.985Z",
+        "slot": "2026-10-28T17:00:00.000Z",
+        "stand": "2026-10-28T17:02:33.164Z"
       },
       "media_id": "18100190339326055",
       "permalink": "https://www.instagram.com/reel/DdzvYOWD6vu/",
@@ -1767,14 +1765,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightoften.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-eightoften-cover.jpg",
-        "gestartet_at": "2026-10-29T17:00:12.727Z",
-        "stand": "2026-10-29T17:01:12.222Z",
-        "versuch": 1,
-        "slot": "2026-10-29T17:00:00.000Z",
         "post_id": "6ae37ba5eef262c828af6d09",
-        "published_at": "2026-10-29T17:00:58.261Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7702135872891653409",
-        "plattform_id": "7702135872891653409"
+        "plattform_id": "7702135872891653409",
+        "published_at": "2026-10-29T17:00:58.261Z",
+        "gestartet_at": "2026-10-29T17:00:12.727Z",
+        "slot": "2026-10-29T17:00:00.000Z",
+        "stand": "2026-10-29T17:01:12.222Z"
       },
       "media_id": "18140714341615417",
       "permalink": "https://www.instagram.com/reel/Dd0HabbjgT5/",
@@ -9344,10 +9341,11 @@
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115239527136556",
       "media_id": "18185744770432486",
       "permalink": "https://www.instagram.com/reel/DfFKtXqGpQ8/",
       "published_at": "2026-10-29T13:58:08.847Z",
+      "container_id": "18115239527136556",
+      "kommentar_id": "17884498815527188",
       "trial_pruefung": {
         "beitraege_vorher": 231,
         "beitraege_nachher": 231,
@@ -9356,8 +9354,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-10-29T13:59:11.437Z"
-      },
-      "kommentar_id": "17884498815527188"
+      }
     },
     {
       "id": "laptop-2026-10-22-r3-w-western",
@@ -9380,10 +9377,11 @@
         "frage": "Welches Musikgefuehl und welches Label tragen? Testkonzept video-assets/laptop-reels/TESTKONZEPT-2026-10-22.md"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115035257136556",
       "media_id": "18131685046695024",
       "permalink": "https://www.instagram.com/reel/DfCb7OCEYys/",
       "published_at": "2026-10-28T12:30:58.744Z",
+      "container_id": "18115035257136556",
+      "kommentar_id": "17993478387078971",
       "trial_pruefung": {
         "beitraege_vorher": 229,
         "beitraege_nachher": 229,
@@ -9393,7 +9391,6 @@
         "verdacht": false,
         "at": "2026-10-28T12:32:00.656Z"
       },
-      "kommentar_id": "17993478387078971",
       "views_12h": {
         "views": 186,
         "stunden": 12.92
@@ -10121,23 +10118,22 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths-cover.jpg",
-        "gestartet_at": "2026-10-29T12:01:14.849Z",
-        "stand": "2026-10-29T12:02:43.496Z",
-        "versuch": 1,
         "post_id": "6ae3358fa768b0a8ce2c8260",
-        "published_at": "2026-10-29T12:01:49.419Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7702058770540629281",
-        "plattform_id": "7702058770540629281"
+        "plattform_id": "7702058770540629281",
+        "published_at": "2026-10-29T12:01:49.419Z",
+        "gestartet_at": "2026-10-29T12:01:14.849Z",
+        "stand": "2026-10-29T12:02:43.496Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-twomonths.mp4"
       },
-      "container_id": "18115219415136556",
       "media_id": "18143555605611964",
       "permalink": "https://www.instagram.com/reel/DfE9TqQAKSH/",
       "published_at": "2026-10-29T12:01:08.848Z",
+      "container_id": "18115219415136556",
       "kommentar_id": "17954837637331367"
     },
     {
@@ -10258,23 +10254,22 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo-cover.jpg",
-        "gestartet_at": "2026-10-27T23:01:11.542Z",
-        "stand": "2026-10-27T23:01:43.156Z",
-        "versuch": 1,
         "post_id": "6ae12d3d5930807be211fcd3",
-        "published_at": "2026-10-27T23:01:42.193Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701486634482683169",
-        "plattform_id": "7701486634482683169"
+        "plattform_id": "7701486634482683169",
+        "published_at": "2026-10-27T23:01:42.193Z",
+        "gestartet_at": "2026-10-27T23:01:11.542Z",
+        "stand": "2026-10-27T23:01:43.156Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-halfaftertwo.mp4"
       },
-      "container_id": "18114935333136556",
       "media_id": "18109149776259123",
       "permalink": "https://www.instagram.com/reel/DfA_PbYk4EL/",
       "published_at": "2026-10-27T23:01:07.723Z",
+      "container_id": "18114935333136556",
       "kommentar_id": "18078570401439124",
       "views_12h": {
         "views": 637,
@@ -10379,23 +10374,22 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour-cover.jpg",
-        "gestartet_at": "2026-10-28T12:41:40.883Z",
-        "stand": "2026-10-28T12:42:32.200Z",
-        "versuch": 1,
         "post_id": "6ae1ed89ba9428f348bc9e25",
-        "published_at": "2026-10-28T12:42:11.910Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701698082727071009",
-        "plattform_id": "7701698082727071009"
+        "plattform_id": "7701698082727071009",
+        "published_at": "2026-10-28T12:42:11.910Z",
+        "gestartet_at": "2026-10-28T12:41:40.883Z",
+        "stand": "2026-10-28T12:42:32.200Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftyfour.mp4"
       },
-      "container_id": "18115029083136556",
       "media_id": "17962503411000259",
       "permalink": "https://www.instagram.com/reel/DfCYjTcAXNS/",
       "published_at": "2026-10-28T12:01:28.063Z",
+      "container_id": "18115029083136556",
       "kommentar_id": "17945944158361393",
       "views_12h": {
         "views": 1599,
@@ -10449,23 +10443,22 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred-cover.jpg",
-        "gestartet_at": "2026-10-28T23:01:20.622Z",
-        "stand": "2026-10-28T23:02:42.767Z",
-        "versuch": 1,
         "post_id": "6ae27ec489ab79bfe4b65a48",
-        "published_at": "2026-10-28T23:01:49.946Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7701857761285492001",
-        "plattform_id": "7701857761285492001"
+        "plattform_id": "7701857761285492001",
+        "published_at": "2026-10-28T23:01:49.946Z",
+        "gestartet_at": "2026-10-28T23:01:20.622Z",
+        "stand": "2026-10-28T23:02:42.767Z"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
       "youtube": {
         "status": "ready",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fiftythreehundred.mp4"
       },
-      "container_id": "18115128434136556",
       "media_id": "17941214760382768",
       "permalink": "https://www.instagram.com/reel/DfDkCxuio7r/",
       "published_at": "2026-10-28T23:01:17.009Z",
+      "container_id": "18115128434136556",
       "kommentar_id": "18103303718639884",
       "views_12h": {
         "views": 1545,
@@ -10624,10 +10617,11 @@
         "laenge_s": 38.9,
         "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
       },
-      "container_id": "18114932189136556",
       "media_id": "18119367748978379",
       "permalink": "https://www.instagram.com/reel/DfA7zQEks6O/",
       "published_at": "2026-10-27T22:31:04.028Z",
+      "container_id": "18114932189136556",
+      "kommentar_id": "18097055936444037",
       "trial_pruefung": {
         "beitraege_vorher": 227,
         "beitraege_nachher": 227,
@@ -10637,7 +10631,6 @@
         "verdacht": false,
         "at": "2026-10-27T22:32:05.683Z"
       },
-      "kommentar_id": "18097055936444037",
       "views_12h": {
         "views": 177,
         "stunden": 12.21
@@ -10663,10 +10656,11 @@
         "laenge_s": 43.9,
         "frage": "Traegt das KI-Video-Format (Skill ai-video) bei Nicht-Followern? Im Hauptfeed 149 Aufrufe (your-rule, 12 h) und 69 (bombers, 4 h)."
       },
-      "container_id": "18115125326136556",
       "media_id": "17966046240233483",
       "permalink": "https://www.instagram.com/reel/DfDgnS7k3NC/",
       "published_at": "2026-10-28T22:31:06.346Z",
+      "container_id": "18115125326136556",
+      "kommentar_id": "18099322094433399",
       "trial_pruefung": {
         "beitraege_vorher": 229,
         "beitraege_nachher": 229,
@@ -10676,7 +10670,6 @@
         "verdacht": false,
         "at": "2026-10-28T22:32:07.928Z"
       },
-      "kommentar_id": "18099322094433399",
       "views_12h": {
         "views": 123,
         "stunden": 12.61
