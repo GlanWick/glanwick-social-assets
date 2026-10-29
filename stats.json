@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T18:59:08.482Z",
+ "updated": "2026-10-29T19:48:40.055Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 8.0 s"
   ],
-  "checked": "2026-10-29T18:59:09.717Z",
+  "checked": "2026-10-29T19:48:40.861Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -6634,6 +6634,11 @@
    "ts": "2026-10-29T18:59:08.482Z",
    "followers": 560,
    "media_count": 231
+  },
+  {
+   "ts": "2026-10-29T19:48:40.055Z",
+   "followers": 560,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -6644,7 +6649,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 395,
+   "views": 420,
    "likes": 3,
    "comments": 3
   },
@@ -6743,7 +6748,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1201,
+   "views": 1202,
    "likes": 10,
    "comments": 1
   },
@@ -6787,7 +6792,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 196,
+   "views": 197,
    "likes": 3,
    "comments": 1
   },
