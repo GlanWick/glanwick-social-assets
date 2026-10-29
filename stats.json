@@ -1,9 +1,11 @@
 {
- "updated": "2026-10-29T11:07:24.105Z",
+ "updated": "2026-10-29T12:07:53.223Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-10-29T11:07:25.145Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 6.0 s"
+  ],
+  "checked": "2026-10-29T12:07:54.321Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -34,13 +36,13 @@
     "reach": 3739
    }
   ],
-  "avg_watch_last_reels": 8.9
+  "avg_watch_last_reels": 6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 559,
-  "media_count": 230
+  "media_count": 231
  },
  "history": [
   {
@@ -6592,9 +6594,25 @@
    "ts": "2026-10-29T11:07:24.105Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T12:07:53.223Z",
+   "followers": 559,
+   "media_count": 231
   }
  ],
  "posts": [
+  {
+   "id": "18143555605611964",
+   "slug": "stickman-twomonths",
+   "permalink": "https://www.instagram.com/reel/DfE9TqQAKSH/",
+   "timestamp": "2026-10-29T12:01:02+0000",
+   "type": "VIDEO",
+   "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "17941214760382768",
    "slug": "stickman-fiftythreehundred",
@@ -6602,7 +6620,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1545,
+   "views": 1554,
    "likes": 16,
    "comments": 1
   },
@@ -6613,7 +6631,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 123,
+   "views": 129,
    "likes": 0,
    "comments": 1
   },
@@ -6635,7 +6653,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1616,
+   "views": 1618,
    "likes": 12,
    "comments": 2
   },
@@ -7022,17 +7040,6 @@
    "caption": "You won 30 trades out of 40, and you're $300 down.",
    "views": 1281,
    "likes": 8,
-   "comments": 1
-  },
-  {
-   "id": "18117867329276810",
-   "slug": "stickman-pointone",
-   "permalink": "https://www.instagram.com/reel/DeyBWR5k4-f/",
-   "timestamp": "2026-10-22T03:30:45+0000",
-   "type": "VIDEO",
-   "caption": "Your exchange charges 0.1 % a trade, and it costs you $15,000 a year.",
-   "views": 1369,
-   "likes": 10,
    "comments": 1
   }
  ]
