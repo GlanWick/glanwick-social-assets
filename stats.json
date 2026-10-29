@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-29T03:16:07.734Z",
+ "updated": "2026-10-29T04:16:23.434Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T03:16:08.680Z",
+  "checked": "2026-10-29T04:16:25.419Z",
   "reach_days": [
    {
     "day": "2026-10-22",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-28",
-    "reach": 3515
+    "reach": 3532
    }
   ],
   "avg_watch_last_reels": 8.6
@@ -6552,6 +6552,11 @@
    "ts": "2026-10-29T03:16:07.734Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-29T04:16:23.434Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6562,7 +6567,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 333,
+   "views": 382,
    "likes": 6,
    "comments": 1
   },
@@ -6573,7 +6578,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 41,
+   "views": 49,
    "likes": 0,
    "comments": 1
   },
@@ -6617,7 +6622,7 @@
    "timestamp": "2026-10-27T22:30:55+0000",
    "type": "VIDEO",
    "caption": "He even tested it first: he rubbed lemon juice on his face, took a Polaroid, and",
-   "views": 308,
+   "views": 309,
    "likes": 2,
    "comments": 1
   },
@@ -6848,7 +6853,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1553,
+   "views": 1554,
    "likes": 26,
    "comments": 7
   },
