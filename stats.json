@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T21:37:35.457Z",
+ "updated": "2026-10-30T22:37:40.070Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T21:37:36.483Z",
+  "checked": "2026-10-30T22:37:41.014Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 559,
+  "followers": 558,
   "media_count": 230
  },
  "history": [
@@ -6762,6 +6762,11 @@
    "ts": "2026-10-30T21:37:35.457Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T22:37:40.070Z",
+   "followers": 558,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6783,7 +6788,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 404,
+   "views": 408,
    "likes": 5,
    "comments": 0
   },
@@ -6807,7 +6812,7 @@
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
    "views": 310,
    "likes": 3,
-   "comments": 2
+   "comments": 3
   },
   {
    "id": "17941214760382768",
