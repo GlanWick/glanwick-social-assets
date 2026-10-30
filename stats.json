@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T11:44:00.956Z",
+ "updated": "2026-10-30T12:44:26.600Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T11:44:01.990Z",
+  "checked": "2026-10-30T12:44:27.607Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -34,13 +34,13 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 8.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 560,
-  "media_count": 229
+  "media_count": 230
  },
  "history": [
   {
@@ -6717,9 +6717,25 @@
    "ts": "2026-10-30T11:44:00.956Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T12:44:26.600Z",
+   "followers": 560,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18132427771793848",
+   "slug": "stickman-fivetwentyfive",
+   "permalink": "https://www.instagram.com/reel/DfHiEyuIaEX/",
+   "timestamp": "2026-10-30T12:00:46+0000",
+   "type": "VIDEO",
+   "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
+   "views": 118,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18117911033041928",
    "slug": null,
@@ -6727,7 +6743,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 145,
+   "views": 191,
    "likes": 1,
    "comments": 0
   },
@@ -6738,7 +6754,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1170,
+   "views": 1172,
    "likes": 6,
    "comments": 3
   },
@@ -6749,7 +6765,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 305,
+   "views": 308,
    "likes": 3,
    "comments": 2
   },
@@ -7147,17 +7163,6 @@
    "caption": "You made $500 by Tuesday, and the week ended $300 down.",
    "views": 1354,
    "likes": 22,
-   "comments": 1
-  },
-  {
-   "id": "17884145091527337",
-   "slug": "stickman-thirtyforty",
-   "permalink": "https://www.instagram.com/reel/DeyPE9zkqZ1/",
-   "timestamp": "2026-10-22T05:30:45+0000",
-   "type": "VIDEO",
-   "caption": "You won 30 trades out of 40, and you're $300 down.",
-   "views": 1281,
-   "likes": 8,
    "comments": 1
   }
  ]
