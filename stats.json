@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T12:44:26.600Z",
+ "updated": "2026-10-30T14:46:14.842Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T12:44:27.607Z",
+  "checked": "2026-10-30T14:46:15.701Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -34,12 +34,12 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 8.9
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 560,
+  "followers": 559,
   "media_count": 230
  },
  "history": [
@@ -6722,6 +6722,11 @@
    "ts": "2026-10-30T12:44:26.600Z",
    "followers": 560,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T14:46:14.842Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6732,8 +6737,8 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 118,
-   "likes": 0,
+   "views": 199,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -6743,8 +6748,8 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 191,
-   "likes": 1,
+   "views": 260,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -6754,7 +6759,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1172,
+   "views": 1176,
    "likes": 6,
    "comments": 3
   },
@@ -6798,7 +6803,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 193,
+   "views": 194,
    "likes": 2,
    "comments": 1
   },
@@ -6842,7 +6847,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1204,
+   "views": 1205,
    "likes": 24,
    "comments": 5
   },
@@ -6875,7 +6880,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 200,
+   "views": 202,
    "likes": 3,
    "comments": 1
   },
@@ -6886,7 +6891,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1819,
+   "views": 1820,
    "likes": 23,
    "comments": 2
   },
