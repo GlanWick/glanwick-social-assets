@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T18:48:00.752Z",
+ "updated": "2026-10-30T19:48:24.168Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T18:48:02.968Z",
+  "checked": "2026-10-30T19:48:25.325Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -34,7 +34,7 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6747,6 +6747,11 @@
    "ts": "2026-10-30T18:48:00.752Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T19:48:24.168Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6757,7 +6762,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 229,
+   "views": 230,
    "likes": 2,
    "comments": 1
   },
@@ -6768,7 +6773,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 343,
+   "views": 379,
    "likes": 4,
    "comments": 0
   },
