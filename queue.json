@@ -10198,7 +10198,7 @@
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
       "slug": "stickman-fivetwentyfive",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-10-30T12:00:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetwentyfive.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-fivetwentyfive-cover.jpg",
@@ -10213,7 +10213,8 @@
       "youtube": {
         "status": "draft",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4"
-      }
+      },
+      "posting_started_at": "2026-10-30T12:00:12.803Z"
     },
     {
       "id": "test-2026-10-24-cadeight",
