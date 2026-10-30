@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T19:48:24.168Z",
+ "updated": "2026-10-30T20:37:26.489Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T19:48:25.325Z",
+  "checked": "2026-10-30T20:37:27.512Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -34,7 +34,7 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6752,6 +6752,11 @@
    "ts": "2026-10-30T19:48:24.168Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T20:37:26.489Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6762,7 +6767,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 230,
+   "views": 233,
    "likes": 2,
    "comments": 1
   },
@@ -6773,8 +6778,8 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 379,
-   "likes": 4,
+   "views": 383,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -6795,7 +6800,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 309,
+   "views": 310,
    "likes": 3,
    "comments": 2
   },
@@ -6806,7 +6811,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1576,
+   "views": 1577,
    "likes": 17,
    "comments": 1
   },
@@ -6839,7 +6844,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1632,
+   "views": 1633,
    "likes": 13,
    "comments": 2
   },
