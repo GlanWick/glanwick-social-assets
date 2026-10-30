@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T20:37:26.489Z",
+ "updated": "2026-10-30T21:37:35.457Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T20:37:27.512Z",
+  "checked": "2026-10-30T21:37:36.483Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -34,7 +34,7 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6757,6 +6757,11 @@
    "ts": "2026-10-30T20:37:26.489Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T21:37:35.457Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6767,7 +6772,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 233,
+   "views": 237,
    "likes": 2,
    "comments": 1
   },
@@ -6778,7 +6783,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 383,
+   "views": 404,
    "likes": 5,
    "comments": 0
   },
@@ -6855,8 +6860,8 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1428,
-   "likes": 12,
+   "views": 1430,
+   "likes": 13,
    "comments": 1
   },
   {
