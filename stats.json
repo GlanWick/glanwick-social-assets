@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T15:46:40.158Z",
+ "updated": "2026-10-30T16:47:04.892Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T15:46:41.139Z",
+  "checked": "2026-10-30T16:47:05.902Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -6732,6 +6732,11 @@
    "ts": "2026-10-30T15:46:40.158Z",
    "followers": 559,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-30T16:47:04.892Z",
+   "followers": 559,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6742,7 +6747,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 209,
+   "views": 212,
    "likes": 2,
    "comments": 1
   },
@@ -6753,7 +6758,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 277,
+   "views": 295,
    "likes": 4,
    "comments": 0
   },
@@ -6940,7 +6945,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1437,
+   "views": 1438,
    "likes": 19,
    "comments": 3
   },
