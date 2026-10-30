@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T03:39:51.078Z",
+ "updated": "2026-10-30T04:39:54.332Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T03:39:51.941Z",
+  "checked": "2026-10-30T04:39:55.276Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-29",
-    "reach": 1953
+    "reach": 1998
    }
   ],
   "avg_watch_last_reels": 8.1
@@ -6677,6 +6677,11 @@
    "ts": "2026-10-30T03:39:51.078Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T04:39:54.332Z",
+   "followers": 559,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6687,7 +6692,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1071,
+   "views": 1122,
    "likes": 6,
    "comments": 3
   },
@@ -6698,7 +6703,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 245,
+   "views": 249,
    "likes": 3,
    "comments": 2
   },
@@ -6830,7 +6835,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1614,
+   "views": 1615,
    "likes": 20,
    "comments": 1
   },
