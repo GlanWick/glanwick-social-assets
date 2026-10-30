@@ -10134,7 +10134,11 @@
       "permalink": "https://www.instagram.com/reel/DfE9TqQAKSH/",
       "published_at": "2026-10-29T12:01:08.848Z",
       "container_id": "18115219415136556",
-      "kommentar_id": "17954837637331367"
+      "kommentar_id": "17954837637331367",
+      "views_12h": {
+        "views": 234,
+        "stunden": 12.82
+      }
     },
     {
       "id": "test-2026-10-24-fixedposition",
