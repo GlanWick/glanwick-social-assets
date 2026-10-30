@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T02:39:41.341Z",
+ "updated": "2026-10-30T03:39:51.078Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T02:39:46.630Z",
+  "checked": "2026-10-30T03:39:51.941Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-29",
-    "reach": 1847
+    "reach": 1953
    }
   ],
   "avg_watch_last_reels": 8.1
@@ -6672,6 +6672,11 @@
    "ts": "2026-10-30T02:39:41.341Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T03:39:51.078Z",
+   "followers": 559,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6682,8 +6687,8 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 984,
-   "likes": 5,
+   "views": 1071,
+   "likes": 6,
    "comments": 3
   },
   {
@@ -6693,7 +6698,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 242,
+   "views": 245,
    "likes": 3,
    "comments": 2
   },
@@ -6737,7 +6742,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1623,
+   "views": 1624,
    "likes": 12,
    "comments": 2
   },
@@ -6748,7 +6753,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1424,
+   "views": 1426,
    "likes": 12,
    "comments": 1
   },
@@ -6792,7 +6797,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1505,
+   "views": 1510,
    "likes": 13,
    "comments": 1
   },
@@ -6814,7 +6819,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1807,
+   "views": 1812,
    "likes": 22,
    "comments": 2
   },
@@ -6913,7 +6918,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 364,
+   "views": 365,
    "likes": 4,
    "comments": 2
   },
@@ -7056,7 +7061,7 @@
    "timestamp": "2026-10-22T12:01:25+0000",
    "type": "VIDEO",
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 603,
+   "views": 604,
    "likes": 5,
    "comments": 1
   },
