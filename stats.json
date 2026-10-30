@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T04:39:54.332Z",
+ "updated": "2026-10-30T05:39:57.368Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T04:39:55.276Z",
+  "checked": "2026-10-30T05:39:58.163Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-29",
-    "reach": 1998
+    "reach": 2011
    }
   ],
   "avg_watch_last_reels": 8.1
@@ -6682,6 +6682,11 @@
    "ts": "2026-10-30T04:39:54.332Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T05:39:57.368Z",
+   "followers": 559,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6692,7 +6697,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1122,
+   "views": 1133,
    "likes": 6,
    "comments": 3
   },
@@ -6703,7 +6708,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 249,
+   "views": 253,
    "likes": 3,
    "comments": 2
   },
@@ -6758,7 +6763,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1426,
+   "views": 1428,
    "likes": 12,
    "comments": 1
   },
