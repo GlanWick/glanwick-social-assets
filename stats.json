@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T08:43:25.980Z",
+ "updated": "2026-10-30T09:43:38.009Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T08:43:26.925Z",
+  "checked": "2026-10-30T09:43:39.115Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 559,
+  "followers": 560,
   "media_count": 229
  },
  "history": [
@@ -6702,6 +6702,11 @@
    "ts": "2026-10-30T08:43:25.980Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T09:43:38.009Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6723,7 +6728,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 279,
+   "views": 284,
    "likes": 3,
    "comments": 2
   },
@@ -6844,7 +6849,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1817,
+   "views": 1819,
    "likes": 23,
    "comments": 2
   },
