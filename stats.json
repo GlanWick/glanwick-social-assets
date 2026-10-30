@@ -1,14 +1,10 @@
 {
- "updated": "2026-10-29T23:49:57.528Z",
+ "updated": "2026-10-30T00:50:13.517Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-29T23:49:58.568Z",
+  "checked": "2026-10-30T00:50:14.475Z",
   "reach_days": [
-   {
-    "day": "2026-10-22",
-    "reach": 13002
-   },
    {
     "day": "2026-10-23",
     "reach": 7532
@@ -32,6 +28,10 @@
    {
     "day": "2026-10-28",
     "reach": 3739
+   },
+   {
+    "day": "2026-10-29",
+    "reach": 1686
    }
   ],
   "avg_watch_last_reels": 8.1
@@ -6657,6 +6657,11 @@
    "ts": "2026-10-29T23:49:57.528Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T00:50:13.517Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6667,7 +6672,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 742,
+   "views": 800,
    "likes": 5,
    "comments": 3
   },
@@ -6678,7 +6683,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 233,
+   "views": 234,
    "likes": 3,
    "comments": 1
   },
@@ -6986,7 +6991,7 @@
    "timestamp": "2026-10-22T18:31:38+0000",
    "type": "VIDEO",
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 1344,
+   "views": 1345,
    "likes": 19,
    "comments": 1
   },
