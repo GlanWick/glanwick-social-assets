@@ -1,11 +1,9 @@
 {
- "updated": "2026-10-30T10:43:50.971Z",
+ "updated": "2026-10-30T11:44:00.956Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 5.4 s"
-  ],
-  "checked": "2026-10-30T10:43:51.854Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-10-30T11:44:01.990Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -36,7 +34,7 @@
     "reach": 2044
    }
   ],
-  "avg_watch_last_reels": 5.4
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6714,6 +6712,11 @@
    "ts": "2026-10-30T10:43:50.971Z",
    "followers": 560,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T11:44:00.956Z",
+   "followers": 560,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6724,7 +6727,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 97,
+   "views": 145,
    "likes": 1,
    "comments": 0
   },
@@ -6735,7 +6738,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1164,
+   "views": 1170,
    "likes": 6,
    "comments": 3
   },
@@ -6746,7 +6749,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 301,
+   "views": 305,
    "likes": 3,
    "comments": 2
   },
@@ -6757,8 +6760,8 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1573,
-   "likes": 16,
+   "views": 1575,
+   "likes": 17,
    "comments": 1
   },
   {
@@ -6790,8 +6793,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1624,
-   "likes": 12,
+   "views": 1630,
+   "likes": 13,
    "comments": 2
   },
   {
@@ -6856,7 +6859,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 199,
+   "views": 200,
    "likes": 3,
    "comments": 1
   },
