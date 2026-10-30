@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T07:43:16.141Z",
+ "updated": "2026-10-30T08:43:25.980Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-10-30T07:43:17.001Z",
+  "checked": "2026-10-30T08:43:26.925Z",
   "reach_days": [
    {
     "day": "2026-10-23",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-10-29",
-    "reach": 2038
+    "reach": 2041
    }
   ],
   "avg_watch_last_reels": 8.2
@@ -6697,6 +6697,11 @@
    "ts": "2026-10-30T07:43:16.141Z",
    "followers": 559,
    "media_count": 229
+  },
+  {
+   "ts": "2026-10-30T08:43:25.980Z",
+   "followers": 559,
+   "media_count": 229
   }
  ],
  "posts": [
@@ -6707,7 +6712,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1151,
+   "views": 1159,
    "likes": 6,
    "comments": 3
   },
@@ -6718,7 +6723,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 270,
+   "views": 279,
    "likes": 3,
    "comments": 2
   },
@@ -6740,7 +6745,7 @@
    "timestamp": "2026-10-28T22:31:00+0000",
    "type": "VIDEO",
    "caption": "Boston, 1999: Harry Markopolos's bosses asked him to copy Bernie Madoff's strate",
-   "views": 139,
+   "views": 140,
    "likes": 0,
    "comments": 1
   },
@@ -6795,7 +6800,7 @@
    "timestamp": "2026-10-27T14:20:24+0000",
    "type": "VIDEO",
    "caption": "Practice trades should cost something, at least on paper. In the Trade Simulator",
-   "views": 1202,
+   "views": 1204,
    "likes": 24,
    "comments": 5
   },
@@ -6839,7 +6844,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1816,
+   "views": 1817,
    "likes": 23,
    "comments": 2
   },
