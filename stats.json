@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T13:20:14.440Z",
+ "updated": "2026-10-31T14:09:41.084Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T13:20:15.670Z",
+  "checked": "2026-10-31T14:09:42.166Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 557,
+  "followers": 556,
   "media_count": 230
  },
  "history": [
@@ -6844,9 +6844,25 @@
    "ts": "2026-10-31T13:20:14.440Z",
    "followers": 557,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T14:09:41.084Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18017987420986239",
+   "slug": "stickman-movedtarget",
+   "permalink": "https://www.instagram.com/reel/DfKRLn_Djtp/",
+   "timestamp": "2026-10-31T13:30:47+0000",
+   "type": "VIDEO",
+   "caption": "Your trade reached +$400, you moved the target, and you closed at −$200.",
+   "views": 116,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18132427771793848",
    "slug": "stickman-fivetwentyfive",
@@ -6854,8 +6870,8 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 607,
-   "likes": 9,
+   "views": 611,
+   "likes": 10,
    "comments": 1
   },
   {
@@ -6865,7 +6881,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 549,
+   "views": 554,
    "likes": 6,
    "comments": 0
   },
@@ -7274,17 +7290,6 @@
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
    "views": 1435,
    "likes": 12,
-   "comments": 1
-  },
-  {
-   "id": "18078849749419150",
-   "slug": "stickman-bytuesday",
-   "permalink": "https://www.instagram.com/reel/DeyczmwDBz0/",
-   "timestamp": "2026-10-22T07:30:44+0000",
-   "type": "VIDEO",
-   "caption": "You made $500 by Tuesday, and the week ended $300 down.",
-   "views": 1354,
-   "likes": 22,
    "comments": 1
   }
  ]
