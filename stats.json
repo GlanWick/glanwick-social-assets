@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T05:29:07.347Z",
+ "updated": "2026-10-31T06:29:32.195Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-30: 682 gegen Mittel 2206"
+   "Reichweite 2026-10-30: 721 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T05:29:08.423Z",
+  "checked": "2026-10-31T06:29:33.177Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-10-30",
-    "reach": 682
+    "reach": 721
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6804,6 +6804,11 @@
    "ts": "2026-10-31T05:29:07.347Z",
    "followers": 558,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T06:29:32.195Z",
+   "followers": 558,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6814,7 +6819,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 298,
+   "views": 342,
    "likes": 4,
    "comments": 1
   },
@@ -6825,7 +6830,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 470,
+   "views": 488,
    "likes": 6,
    "comments": 0
   },
@@ -6891,7 +6896,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1633,
+   "views": 1634,
    "likes": 13,
    "comments": 2
   },
