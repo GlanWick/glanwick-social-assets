@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T08:18:50.466Z",
+ "updated": "2026-10-31T09:19:06.652Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T08:18:51.383Z",
+  "checked": "2026-10-31T09:19:07.778Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -36,7 +36,7 @@
     "reach": 747
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6819,6 +6819,11 @@
    "ts": "2026-10-31T08:18:50.466Z",
    "followers": 558,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T09:19:06.652Z",
+   "followers": 558,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6829,7 +6834,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 384,
+   "views": 414,
    "likes": 5,
    "comments": 1
   },
@@ -6840,7 +6845,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 510,
+   "views": 528,
    "likes": 6,
    "comments": 0
   },
@@ -6851,7 +6856,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1177,
+   "views": 1178,
    "likes": 6,
    "comments": 3
   },
