@@ -9870,7 +9870,16 @@
       "container_id": "18115583993136556",
       "media_id": "18017987420986239",
       "permalink": "https://www.instagram.com/reel/DfKRLn_Djtp/",
-      "published_at": "2026-10-31T13:30:56.525Z"
+      "published_at": "2026-10-31T13:30:56.525Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 230,
+        "beitraege_nachher": 230,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-10-31T13:31:58.024Z"
+      }
     },
     {
       "id": "2026-10-23-ein-trade-dreissig",
