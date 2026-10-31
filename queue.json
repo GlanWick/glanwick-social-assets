@@ -10230,7 +10230,11 @@
       "media_id": "18132427771793848",
       "permalink": "https://www.instagram.com/reel/DfHiEyuIaEX/",
       "published_at": "2026-10-30T12:00:53.544Z",
-      "kommentar_id": "18106606127357738"
+      "kommentar_id": "18106606127357738",
+      "views_12h": {
+        "views": 248,
+        "stunden": 12.62
+      }
     },
     {
       "id": "test-2026-10-24-cadeight",
