@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T12:19:57.334Z",
+ "updated": "2026-10-31T13:20:14.440Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T12:19:58.597Z",
+  "checked": "2026-10-31T13:20:15.670Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -6839,6 +6839,11 @@
    "ts": "2026-10-31T12:19:57.334Z",
    "followers": 557,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T13:20:14.440Z",
+   "followers": 557,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6849,7 +6854,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 600,
+   "views": 607,
    "likes": 9,
    "comments": 1
   },
@@ -6860,7 +6865,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 548,
+   "views": 549,
    "likes": 6,
    "comments": 0
   },
@@ -6882,7 +6887,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 313,
+   "views": 314,
    "likes": 3,
    "comments": 3
   },
