@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T09:19:06.652Z",
+ "updated": "2026-10-31T10:19:23.381Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T09:19:07.778Z",
+  "checked": "2026-10-31T10:19:24.467Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -36,12 +36,12 @@
     "reach": 747
    }
   ],
-  "avg_watch_last_reels": 8.2
+  "avg_watch_last_reels": 8.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 558,
+  "followers": 557,
   "media_count": 230
  },
  "history": [
@@ -6824,6 +6824,11 @@
    "ts": "2026-10-31T09:19:06.652Z",
    "followers": 558,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T10:19:23.381Z",
+   "followers": 557,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6834,7 +6839,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 414,
+   "views": 462,
    "likes": 5,
    "comments": 1
   },
@@ -6845,7 +6850,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 528,
+   "views": 546,
    "likes": 6,
    "comments": 0
   },
@@ -6867,7 +6872,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 311,
+   "views": 313,
    "likes": 3,
    "comments": 3
   },
