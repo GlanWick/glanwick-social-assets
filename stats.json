@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T10:19:23.381Z",
+ "updated": "2026-10-31T11:19:38.933Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T10:19:24.467Z",
+  "checked": "2026-10-31T11:19:40.395Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -6829,6 +6829,11 @@
    "ts": "2026-10-31T10:19:23.381Z",
    "followers": 557,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T11:19:38.933Z",
+   "followers": 557,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6839,8 +6844,8 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 462,
-   "likes": 5,
+   "views": 506,
+   "likes": 6,
    "comments": 1
   },
   {
@@ -6850,7 +6855,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 546,
+   "views": 548,
    "likes": 6,
    "comments": 0
   },
@@ -6993,7 +6998,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1820,
+   "views": 1821,
    "likes": 23,
    "comments": 2
   },
