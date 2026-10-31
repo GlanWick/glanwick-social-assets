@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:17:29.618Z",
+  "generated_at": "2026-10-31T07:38:26.470Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1790,14 +1790,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letf.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-letf-cover.jpg",
-        "gestartet_at": "2026-10-30T17:00:17.059Z",
-        "stand": "2026-10-30T17:01:19.279Z",
-        "versuch": 1,
-        "slot": "2026-10-30T17:00:00.000Z",
         "post_id": "6ae4cd2a571245ec796cf485",
-        "published_at": "2026-10-30T17:00:59.679Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7702506954542828832",
-        "plattform_id": "7702506954542828832"
+        "plattform_id": "7702506954542828832",
+        "published_at": "2026-10-30T17:00:59.679Z",
+        "gestartet_at": "2026-10-30T17:00:17.059Z",
+        "slot": "2026-10-30T17:00:00.000Z",
+        "stand": "2026-10-30T17:01:19.279Z"
       },
       "media_id": "17894925090415409",
       "permalink": "https://www.instagram.com/reel/Dd1InwglJfr/",
@@ -9701,8 +9700,8 @@
     {
       "id": "test-2026-10-23-twopaychecks",
       "slug": "stickman-twopaychecks",
-      "status": "draft",
-      "scheduled_at": "2026-10-25T23:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-31T21:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopaychecks.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twopaychecks-cover.jpg",
       "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.\n\nHow much was it? $3,000. That's a month of work.\nWhat would a 1 % stop have done? On a $10,000 account, that's $100.\nAnd $100 is how much work? Less than a day. Your paycheck pays $150 a day.\nSo what made the difference? The trade had no stop at all.\n\nWrite your stop in your journal before you enter. Then write what it costs in hours of work.\n\nYour journal, link in bio.\n\nSome traders count losses in percent and forget how many hours they took to earn.\n\nHow many days of work did your biggest loss cost?\n\nPart 115 of the series is on the profile: a normal day makes you $40. One bad day cost $1,200, and that's 6 weeks of trading.\n\n#stoploss #riskmanagement #daytrading #tradingjournal",
@@ -9712,8 +9711,7 @@
         "bild": "bibliothek",
         "frage": "F4 Ein Trade kostet Arbeitszeit: $3.000 = 2 Gehaelter, mit 1 % Stop $100. Traegt der Vergleich mit dem Gehalt?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-23-zwanzig-zwanzig",
@@ -9857,8 +9855,8 @@
     {
       "id": "test-2026-10-23-movedtarget",
       "slug": "stickman-movedtarget",
-      "status": "draft",
-      "scheduled_at": "2026-10-23T21:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-10-31T13:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-movedtarget.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-movedtarget-cover.jpg",
       "caption": "Your trade reached +$400, you moved the target, and you closed at −$200.\n\nWhat happened at +$400? Your target was hit. It looked strong, so you moved the target to +$800.\nAnd then? The price topped out at +$450 and turned. It ran all the way into your stop at −$200.\nWhat would half out at +$400 have done? $200 locked in. The other half stops out at −$100, and you're $100 up.\nSo what cost you $600? Moving the target after it was hit.\n\nWrite your target in your journal before you enter. If you move it during the trade, write down the time and the reason, and check after 10 trades what the moves earned.\n\nYour journal, link in bio.\n\nSome traders treat a hit target as a sign the trade has more to give.\n\nWhat do you do when price reaches your target?\n\nPart 107 of the series is on the profile: 80 days at +$25 made you $2,000, and 5 days took it all back.\n\n#takeprofit #daytrading #tradingpsychology #tradingjournal",
@@ -9868,8 +9866,7 @@
         "bild": "neu",
         "frage": "F7 Ziel verschoben (neues Thema, neue Bilder): +$400 erreicht, Ziel auf +$800, Schluss -$200. Traegt das verschobene Ziel als Thema?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-23-ein-trade-dreissig",
@@ -9987,8 +9984,8 @@
     {
       "id": "test-2026-10-24-twentycalls",
       "slug": "stickman-twentycalls",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T05:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-02T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentycalls.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentycalls-cover.jpg",
       "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your account.\n\nHow? You bought 15 calls at $1. Each call covers 100 shares, so that's $1,500.\nWhat did that put at risk? All of it. A call you hold to expiry can end at $0.\nWhat happened? They expired worthless. $1,500 of a $10,000 account.\nWhat would 1 % have been? $100. That's 1 call at $1.\n\nIn your journal, log the full premium of every option you buy as the risk of that trade, next to your usual risk on stocks.\n\nYour journal, link in bio.\n\nSome traders size stock trades by their stop and options by how cheap they look.\n\nWhat part of your account did your last options trade put at risk?\n\nPart 125 of the series is on the profile: you risk 2 % a trade, and one Friday took 16 % of your account.\n\n#optionstrading #riskmanagement #positionsizing #tradingjournal",
@@ -9998,14 +9995,13 @@
         "bild": "bibliothek",
         "frage": "F3 Risikogroesse bei Optionen: 1 % Risiko bei Aktien, ein Optionstrade mit 15 Calls zu $1 kostet 15 % des Kontos. Traegt die Praemie als volles Risiko?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "test-2026-10-24-addtwice",
       "slug": "stickman-addtwice",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T07:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-03T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addtwice.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addtwice-cover.jpg",
       "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.\n\nHow? $1,000 at $100, $1,000 at $90, $1,000 at $80. That's 33.6 shares for $3,000.\nWhat are they worth at $70? $2,353. You're $647 down.\nAnd if you had held only the first buy? 10 shares at $70 is $700. You'd be $300 down.\nSo what did the 2 extra buys do? They turned a −30 % move into a bigger dollar loss.\n\nIn your journal, mark every buy below your first entry. Count how many of those trades ended green before you add to the next loser.\n\nYour journal, link in bio.\n\nSome traders buy more on the way down because the price looks cheaper.\n\nHow many times have you added to a losing trade this month?\n\nPart 120 of the series is on the profile: averaging down saved 9 losing trades, and the 10th cost $3,000.\n\n#averagingdown #stockmarket #riskmanagement #tradingjournal",
@@ -10015,8 +10011,7 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach unten (zweimal nachgekauft): $1.000 bei $100, $90, $80, Kurs $70, -$647 statt -$300. Traegt das Nachkaufen als Verdoppeln?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "test-2026-10-24-twoexits",
@@ -10038,8 +10033,8 @@
     {
       "id": "test-2026-10-24-quarterafternoon",
       "slug": "stickman-quarterafternoon",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T11:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-01T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quarterafternoon.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quarterafternoon-cover.jpg",
       "caption": "You make $300 a week, and one afternoon cost you $3,900.\n\nHow much is $3,900 for you? 13 weeks of trading at $300.\nAnd 13 weeks? A quarter of the year, gone between lunch and the close.\nHow did it start? One loss, then a bigger trade to get it back, then another.\nWhat would a stop for the day at −$300 have cost? One week.\n\nWrite your daily loss limit at the top of each page in your journal. When the day reaches it, close the platform and write the time.\n\nYour journal, link in bio.\n\nSome traders protect each trade with a stop and leave the day without one.\n\nWhat is your loss limit for one day?\n\nPart 96 of the series is on the profile: your edge is $25 a trade, and one −$1,500 day costs 60 trades.\n\n#daytrading #riskmanagement #tradingpsychology #tradingjournal",
@@ -10049,8 +10044,7 @@
         "bild": "bibliothek",
         "frage": "F4 Ein Nachmittag kostet ein Quartal: +$300 die Woche, ein Nachmittag -$3.900 = 13 Wochen. Traegt das Quartal als Mass?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-24-calls-nach-quartalszahlen",
@@ -10090,8 +10084,8 @@
     {
       "id": "test-2026-10-24-greendouble",
       "slug": "stickman-greendouble",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T13:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-04T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greendouble.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-greendouble-cover.jpg",
       "caption": "You were up $600 by noon, doubled your size, and closed the day $100 down.\n\nHow? The morning made $600 at your normal size.\nWhy double after lunch? It felt like playing with the day's profit.\nAnd the afternoon? It lost $700 at twice the size.\nWhat would normal size have lost? $350. You'd have closed $250 up.\n\nWrite your day's high in your journal next to your close. If you gave back more than half, note what you changed after the high.\n\nYour journal, link in bio.\n\nSome traders treat the morning's profit as free money for the afternoon.\n\nWhat happens to your size when the day is already green?\n\nPart 130 of the series is on the profile: your stop got twice as wide, you won more trades, and you made $100 less.\n\n#daytrading #tradingpsychology #positionsizing #tradingjournal",
@@ -10101,8 +10095,7 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln im Gewinn: mittags +$600, danach doppelte Groesse -$700, Tag -$100. Traegt das Verdoppeln nach einem guten Morgen?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "test-2026-10-24-belowhigh",
@@ -10193,8 +10186,8 @@
     {
       "id": "test-2026-10-24-manytickers",
       "slug": "stickman-manytickers",
-      "status": "draft",
-      "scheduled_at": "2026-10-24T21:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-01T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-manytickers.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-manytickers-cover.jpg",
       "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.\n\nWhy do the 5 work? You trade them every day and know how they move.\nWhere did the other 35 come from? A scanner, a chat, a hunch. One or two trades each.\nWhat did they cost? $1,300, more than the 5 made.\nAnd without them? Your month is $900 up.\n\nTag every trade in your journal with its ticker, then add up the result for each one at the end of the month. Keep the 5 that pay.\n\nYour journal, link in bio.\n\nSome traders look for a new stock every morning and skip the ones they already know.\n\nHow many different stocks did you trade last month?\n\nPart 123 of the series is on the profile: you won 14 trades out of 20, you're $1,000 up, and you failed the challenge.\n\n#daytrading #stockmarket #tradingpsychology #tradingjournal",
@@ -10204,8 +10197,7 @@
         "bild": "neu",
         "frage": "F7 Zu viele Aktien (neues Thema, neue Bilder): 5 bekannte +$900, 35 andere -$1.300. Traegt die Auswahl als Thema?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
@@ -10226,10 +10218,10 @@
         "status": "draft",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-fivetwentyfive.mp4"
       },
-      "container_id": "18115399709136556",
       "media_id": "18132427771793848",
       "permalink": "https://www.instagram.com/reel/DfHiEyuIaEX/",
       "published_at": "2026-10-30T12:00:53.544Z",
+      "container_id": "18115399709136556",
       "kommentar_id": "18106606127357738",
       "views_12h": {
         "views": 248,
@@ -10445,8 +10437,8 @@
     {
       "id": "test-2026-10-25-doubletrades",
       "slug": "stickman-doubletrades",
-      "status": "draft",
-      "scheduled_at": "2026-10-25T15:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-03T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubletrades.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubletrades-cover.jpg",
       "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.\n\nHow? Your first 5 trades each day kept making what they always made: $100 a day.\nAnd the 5 extra trades? They lost $150 a day.\nWhat did that do to the week? 5 days of +$100 and −$150. That's −$250.\nWhy did the extra trades lose? They were the setups you used to skip.\n\nNumber your trades each day in your journal. After 20 days, add up trades 1 to 5 and trades 6 to 10 separately.\n\nYour journal, link in bio.\n\nSome traders see more trades as more chances and stop picking.\n\nHow do your first 5 trades of the day compare with the rest?\n\nPart 124 of the series is on the profile: one loss cost you $300. The next 15 minutes cost you $1,200.\n\n#overtrading #daytrading #tradingpsychology #tradingjournal",
@@ -10456,8 +10448,7 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln der Trade-Zahl: 10 statt 5 Trades am Tag, Woche +$500 wird -$250. Traegt Overtrading als Verdoppeln?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-25-fuenfzig-dreihundert",
@@ -10531,8 +10522,8 @@
     {
       "id": "test-2026-10-25-breakevenstop",
       "slug": "stickman-breakevenstop",
-      "status": "draft",
-      "scheduled_at": "2026-10-25T21:30:00Z",
+      "status": "ready",
+      "scheduled_at": "2026-11-02T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-breakevenstop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-breakevenstop-cover.jpg",
       "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ran to +$400.\n\nWhy move the stop so early? A trade at +$50 felt safe at break even.\nWhat happened to the 6? Price dipped back to your entry, closed them at $0, and went on to +$400.\nWhat did that cost? 6 times $400. $2,400 you never got.\nWhen does a stop at entry protect you? Once the trade is up as much as you risked, so a normal dip can breathe.\n\nIn your journal, mark every trade you closed at break even and write where price went in the next hour. After 10 of them, you'll know if your stop moves too early.\n\nYour journal, link in bio.\n\nSome traders move the stop to entry because a scratch feels better than a loss.\n\nHow many of your break even exits went on to your target?\n\nPart 130 of the series is on the profile: your stop got twice as wide, you won more trades, and you made $100 less.\n\n#stoploss #daytrading #riskreward #tradingjournal",
@@ -10542,8 +10533,7 @@
         "bild": "neu",
         "frage": "F7 Stop zu frueh auf Einstand (neues Thema, neue Bilder): 6 von 10 bei $0 geschlossen, danach +$400, $2.400 entgangen. Traegt das Thema?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "pausiert": "2026-10-23 Fruehwarnung (Jan): Testreels pausiert bis Reichweite 3 Tage steigt"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
     },
     {
       "id": "2026-10-24-history-1929",
