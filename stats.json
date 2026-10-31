@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-31T00:37:50.264Z",
+ "updated": "2026-10-31T01:37:58.307Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-10-30: 611 gegen Mittel 2206"
+   "Reichweite 2026-10-30: 620 gegen Mittel 2206",
+   "Sehdauer letzte 3 Reels: 8.0 s"
   ],
-  "checked": "2026-10-31T00:37:51.068Z",
+  "checked": "2026-10-31T01:37:59.569Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -33,7 +34,7 @@
    },
    {
     "day": "2026-10-30",
-    "reach": 611
+    "reach": 620
    }
   ],
   "avg_watch_last_reels": 8
@@ -6779,6 +6780,11 @@
    "ts": "2026-10-31T00:37:50.264Z",
    "followers": 558,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T01:37:58.307Z",
+   "followers": 558,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6800,7 +6806,7 @@
    "timestamp": "2026-10-30T10:00:27+0000",
    "type": "VIDEO",
    "caption": "Follow for Part 2",
-   "views": 432,
+   "views": 437,
    "likes": 5,
    "comments": 0
   },
