@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T11:19:38.933Z",
+ "updated": "2026-10-31T12:19:57.334Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T11:19:40.395Z",
+  "checked": "2026-10-31T12:19:58.597Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -36,7 +36,7 @@
     "reach": 747
    }
   ],
-  "avg_watch_last_reels": 8.3
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6834,6 +6834,11 @@
    "ts": "2026-10-31T11:19:38.933Z",
    "followers": 557,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T12:19:57.334Z",
+   "followers": 557,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6844,8 +6849,8 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 506,
-   "likes": 6,
+   "views": 600,
+   "likes": 9,
    "comments": 1
   },
   {
@@ -6888,7 +6893,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1579,
+   "views": 1580,
    "likes": 17,
    "comments": 1
   },
