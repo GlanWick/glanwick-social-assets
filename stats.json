@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T14:09:41.084Z",
+ "updated": "2026-10-31T15:10:07.271Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-10-30: 747 gegen Mittel 2206"
   ],
-  "checked": "2026-10-31T14:09:42.166Z",
+  "checked": "2026-10-31T15:10:08.458Z",
   "reach_days": [
    {
     "day": "2026-10-24",
@@ -36,7 +36,7 @@
     "reach": 747
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -6849,6 +6849,11 @@
    "ts": "2026-10-31T14:09:41.084Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-10-31T15:10:07.271Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6859,7 +6864,7 @@
    "timestamp": "2026-10-31T13:30:47+0000",
    "type": "VIDEO",
    "caption": "Your trade reached +$400, you moved the target, and you closed at −$200.",
-   "views": 116,
+   "views": 263,
    "likes": 0,
    "comments": 1
   },
@@ -6870,7 +6875,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 611,
+   "views": 614,
    "likes": 10,
    "comments": 1
   },
@@ -6903,7 +6908,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 314,
+   "views": 316,
    "likes": 3,
    "comments": 3
   },
@@ -6947,7 +6952,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1634,
+   "views": 1635,
    "likes": 13,
    "comments": 2
   },
@@ -7288,7 +7293,7 @@
    "timestamp": "2026-10-22T09:30:46+0000",
    "type": "VIDEO",
    "caption": "You shorted $1,000 of a stock and lost $2,000.",
-   "views": 1435,
+   "views": 1436,
    "likes": 12,
    "comments": 1
   }
