@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T12:38:30.967Z",
+ "updated": "2026-11-01T15:27:15.936Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T12:38:32.074Z",
+  "checked": "2026-11-01T15:27:18.566Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6957,6 +6957,11 @@
    "ts": "2026-11-01T12:38:30.967Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T15:27:15.936Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6967,8 +6972,8 @@
    "timestamp": "2026-10-31T21:30:43+0000",
    "type": "VIDEO",
    "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.",
-   "views": 1335,
-   "likes": 12,
+   "views": 1338,
+   "likes": 13,
    "comments": 1
   },
   {
@@ -6978,7 +6983,7 @@
    "timestamp": "2026-10-31T13:30:47+0000",
    "type": "VIDEO",
    "caption": "Your trade reached +$400, you moved the target, and you closed at −$200.",
-   "views": 488,
+   "views": 496,
    "likes": 0,
    "comments": 1
   },
@@ -6989,7 +6994,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 625,
+   "views": 627,
    "likes": 11,
    "comments": 1
   },
@@ -7011,7 +7016,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1179,
+   "views": 1180,
    "likes": 6,
    "comments": 3
   },
@@ -7077,7 +7082,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1431,
+   "views": 1432,
    "likes": 13,
    "comments": 1
   },
@@ -7286,7 +7291,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 448,
+   "views": 449,
    "likes": 7,
    "comments": 1
   },
