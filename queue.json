@@ -10093,7 +10093,7 @@
     {
       "id": "test-2026-10-24-quarterafternoon",
       "slug": "stickman-quarterafternoon",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-11-01T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quarterafternoon.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-quarterafternoon-cover.jpg",
@@ -10105,7 +10105,10 @@
         "frage": "F4 Ein Nachmittag kostet ein Quartal: +$300 die Woche, ein Nachmittag -$3.900 = 13 Wochen. Traegt das Quartal als Mass?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-11-01T22:30:17.680Z"
+      "container_id": "18115837952136556",
+      "media_id": "18148550137580052",
+      "permalink": "https://www.instagram.com/reel/DfNzxGXCGBC/",
+      "published_at": "2026-11-01T22:31:01.924Z"
     },
     {
       "id": "2026-10-24-calls-nach-quartalszahlen",
