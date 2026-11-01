@@ -10249,7 +10249,16 @@
       "container_id": "18115789448136556",
       "media_id": "18115341080603638",
       "permalink": "https://www.instagram.com/reel/DfNDXcBE2XI/",
-      "published_at": "2026-11-01T15:28:06.637Z"
+      "published_at": "2026-11-01T15:28:06.637Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 230,
+        "beitraege_nachher": 230,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-11-01T15:29:08.508Z"
+      }
     },
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
