@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T17:27:37.613Z",
+ "updated": "2026-11-01T18:27:57.800Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T17:27:38.745Z",
+  "checked": "2026-11-01T18:27:58.951Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6972,6 +6972,11 @@
    "ts": "2026-11-01T17:27:37.613Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T18:27:57.800Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6982,7 +6987,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 129,
+   "views": 136,
    "likes": 0,
    "comments": 1
   },
@@ -6993,7 +6998,7 @@
    "timestamp": "2026-10-31T21:30:43+0000",
    "type": "VIDEO",
    "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.",
-   "views": 1338,
+   "views": 1339,
    "likes": 13,
    "comments": 1
   },
@@ -7048,7 +7053,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 321,
+   "views": 322,
    "likes": 3,
    "comments": 3
   },
@@ -7103,7 +7108,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1432,
+   "views": 1433,
    "likes": 13,
    "comments": 1
   },
