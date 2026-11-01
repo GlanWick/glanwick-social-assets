@@ -10234,7 +10234,7 @@
     {
       "id": "test-2026-10-24-manytickers",
       "slug": "stickman-manytickers",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-11-01T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-manytickers.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-manytickers-cover.jpg",
@@ -10246,7 +10246,10 @@
         "frage": "F7 Zu viele Aktien (neues Thema, neue Bilder): 5 bekannte +$900, 35 andere -$1.300. Traegt die Auswahl als Thema?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-11-01T15:27:21.594Z"
+      "container_id": "18115789448136556",
+      "media_id": "18115341080603638",
+      "permalink": "https://www.instagram.com/reel/DfNDXcBE2XI/",
+      "published_at": "2026-11-01T15:28:06.637Z"
     },
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
