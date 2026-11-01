@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T16:27:23.963Z",
+ "updated": "2026-11-01T17:27:37.613Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T16:27:25.229Z",
+  "checked": "2026-11-01T17:27:38.745Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6967,6 +6967,11 @@
    "ts": "2026-11-01T16:27:23.963Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T17:27:37.613Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -6977,7 +6982,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 117,
+   "views": 129,
    "likes": 0,
    "comments": 1
   },
@@ -7043,7 +7048,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 320,
+   "views": 321,
    "likes": 3,
    "comments": 3
   },
