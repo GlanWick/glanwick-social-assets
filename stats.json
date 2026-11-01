@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T15:27:15.936Z",
+ "updated": "2026-11-01T16:27:23.963Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T15:27:18.566Z",
+  "checked": "2026-11-01T16:27:25.229Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6962,9 +6962,25 @@
    "ts": "2026-11-01T15:27:15.936Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T16:27:23.963Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18115341080603638",
+   "slug": "stickman-manytickers",
+   "permalink": "https://www.instagram.com/reel/DfNDXcBE2XI/",
+   "timestamp": "2026-11-01T15:27:55+0000",
+   "type": "VIDEO",
+   "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
+   "views": 117,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18121149934971488",
    "slug": "stickman-twopaychecks",
@@ -7392,17 +7408,6 @@
    "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
    "views": 604,
    "likes": 5,
-   "comments": 1
-  },
-  {
-   "id": "17993639961050936",
-   "slug": "stickman-greenweeks",
-   "permalink": "https://www.instagram.com/reel/Dey4TtfDC88/",
-   "timestamp": "2026-10-22T11:31:02+0000",
-   "type": "VIDEO",
-   "caption": "4 green weeks made you $3,750, and week 5 lost $4,000.",
-   "views": 949,
-   "likes": 12,
    "comments": 1
   }
  ]
