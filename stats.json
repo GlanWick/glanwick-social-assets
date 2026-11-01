@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T22:18:03.974Z",
+ "updated": "2026-11-01T23:18:24.184Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T22:18:05.235Z",
+  "checked": "2026-11-01T23:18:26.285Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6997,9 +6997,25 @@
    "ts": "2026-11-01T22:18:03.974Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T23:18:24.184Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18148550137580052",
+   "slug": "stickman-quarterafternoon",
+   "permalink": "https://www.instagram.com/reel/DfNzxGXCGBC/",
+   "timestamp": "2026-11-01T22:30:52+0000",
+   "type": "VIDEO",
+   "caption": "You make $300 a week, and one afternoon cost you $3,900.",
+   "views": 117,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18115341080603638",
    "slug": "stickman-manytickers",
@@ -7007,7 +7023,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 139,
+   "views": 143,
    "likes": 0,
    "comments": 1
   },
@@ -7427,17 +7443,6 @@
    "caption": "You took a screenshot of 15 winning trades this month, and the month is $400 dow",
    "views": 1420,
    "likes": 15,
-   "comments": 1
-  },
-  {
-   "id": "17993005629101815",
-   "slug": "stickman-upandfailed",
-   "permalink": "https://www.instagram.com/reel/Dey7yVulJTk/",
-   "timestamp": "2026-10-22T12:01:25+0000",
-   "type": "VIDEO",
-   "caption": "You won 14 trades out of 20, you're $1,000 up, and you failed the challenge.",
-   "views": 604,
-   "likes": 5,
    "comments": 1
   }
  ]
