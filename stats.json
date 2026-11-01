@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T21:18:07.345Z",
+ "updated": "2026-11-01T22:18:03.974Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-01T21:18:10.112Z",
+  "checked": "2026-11-01T22:18:05.235Z",
   "reach_days": [
    {
     "day": "2026-10-25",
@@ -6992,6 +6992,11 @@
    "ts": "2026-11-01T21:18:07.345Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-01T22:18:03.974Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7002,7 +7007,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 138,
+   "views": 139,
    "likes": 0,
    "comments": 1
   },
@@ -7035,7 +7040,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 627,
+   "views": 628,
    "likes": 11,
    "comments": 1
   },
