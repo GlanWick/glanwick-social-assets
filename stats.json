@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02T00:18:53.199Z",
+ "updated": "2026-11-02T01:19:19.448Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-01: 381 gegen Mittel 1854"
+   "Reichweite 2026-11-01: 686 gegen Mittel 1854"
   ],
-  "checked": "2026-11-02T00:18:54.475Z",
+  "checked": "2026-11-02T01:19:20.465Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-01",
-    "reach": 381
+    "reach": 686
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -7009,6 +7009,11 @@
    "ts": "2026-11-02T00:18:53.199Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T01:19:19.448Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7019,9 +7024,9 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 226,
-   "likes": 2,
-   "comments": 1
+   "views": 637,
+   "likes": 3,
+   "comments": 2
   },
   {
    "id": "18115341080603638",
@@ -7030,9 +7035,9 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 147,
+   "views": 158,
    "likes": 0,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18121149934971488",
@@ -7140,7 +7145,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1640,
+   "views": 1644,
    "likes": 13,
    "comments": 2
   },
