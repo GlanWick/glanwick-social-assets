@@ -10118,7 +10118,11 @@
         "verdacht": false,
         "at": "2026-11-01T22:32:04.136Z"
       },
-      "kommentar_id": "18470215999189530"
+      "kommentar_id": "18470215999189530",
+      "views_12h": {
+        "views": 1517,
+        "stunden": 12.42
+      }
     },
     {
       "id": "2026-10-24-calls-nach-quartalszahlen",
