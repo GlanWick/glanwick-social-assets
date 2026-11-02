@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T19:58:28.786Z",
+ "updated": "2026-11-02T20:58:54.783Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T19:58:31.556Z",
+  "checked": "2026-11-02T20:58:56.178Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -7082,6 +7082,11 @@
    "ts": "2026-11-02T19:58:28.786Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T20:58:54.783Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7092,7 +7097,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 374,
+   "views": 397,
    "likes": 3,
    "comments": 1
   },
@@ -7103,7 +7108,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1541,
+   "views": 1543,
    "likes": 7,
    "comments": 3
   },
