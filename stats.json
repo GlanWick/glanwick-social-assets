@@ -1,14 +1,12 @@
 {
- "updated": "2026-11-01T23:18:24.184Z",
+ "updated": "2026-11-02T00:18:53.199Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-11-01T23:18:26.285Z",
+  "status": "warn",
+  "reasons": [
+   "Reichweite 2026-11-01: 381 gegen Mittel 1854"
+  ],
+  "checked": "2026-11-02T00:18:54.475Z",
   "reach_days": [
-   {
-    "day": "2026-10-25",
-    "reach": 2202
-   },
    {
     "day": "2026-10-26",
     "reach": 1341
@@ -32,6 +30,10 @@
    {
     "day": "2026-10-31",
     "reach": 1695
+   },
+   {
+    "day": "2026-11-01",
+    "reach": 381
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -7002,6 +7004,11 @@
    "ts": "2026-11-01T23:18:24.184Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T00:18:53.199Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7012,8 +7019,8 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 117,
-   "likes": 0,
+   "views": 226,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -7023,7 +7030,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 143,
+   "views": 147,
    "likes": 0,
    "comments": 1
   },
