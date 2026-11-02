@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T04:08:50.209Z",
+ "updated": "2026-11-02T05:09:17.830Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T04:08:51.401Z",
+  "checked": "2026-11-02T05:09:19.540Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-01",
-    "reach": 1412
+    "reach": 1416
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -7027,6 +7027,11 @@
    "ts": "2026-11-02T04:08:50.209Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T05:09:17.830Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7037,7 +7042,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1497,
+   "views": 1502,
    "likes": 7,
    "comments": 2
   },
@@ -7048,7 +7053,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 169,
+   "views": 172,
    "likes": 0,
    "comments": 2
   },
