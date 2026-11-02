@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T08:10:32.378Z",
+ "updated": "2026-11-02T09:56:04.702Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T08:10:33.448Z",
+  "checked": "2026-11-02T09:56:05.676Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -34,7 +34,7 @@
     "reach": 1440
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7047,6 +7047,11 @@
    "ts": "2026-11-02T08:10:32.378Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T09:56:04.702Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7057,7 +7062,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1513,
+   "views": 1515,
    "likes": 7,
    "comments": 3
   },
@@ -7068,7 +7073,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 179,
+   "views": 184,
    "likes": 0,
    "comments": 2
   },
@@ -7079,7 +7084,7 @@
    "timestamp": "2026-10-31T21:30:43+0000",
    "type": "VIDEO",
    "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.",
-   "views": 1339,
+   "views": 1340,
    "likes": 13,
    "comments": 1
   },
@@ -7101,7 +7106,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 629,
+   "views": 630,
    "likes": 11,
    "comments": 1
   },
@@ -7189,7 +7194,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1433,
+   "views": 1435,
    "likes": 13,
    "comments": 1
   },
