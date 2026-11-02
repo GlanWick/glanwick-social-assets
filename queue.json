@@ -10285,7 +10285,11 @@
         "verdacht": false,
         "at": "2026-11-01T15:29:08.508Z"
       },
-      "kommentar_id": "18640763350042589"
+      "kommentar_id": "18640763350042589",
+      "views_12h": {
+        "views": 169,
+        "stunden": 12.68
+      }
     },
     {
       "id": "2026-10-24-fuenf-gegen-fuenfundzwanzig",
