@@ -10618,7 +10618,7 @@
     {
       "id": "test-2026-10-25-breakevenstop",
       "slug": "stickman-breakevenstop",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-11-02T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-breakevenstop.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-breakevenstop-cover.jpg",
@@ -10630,7 +10630,10 @@
         "frage": "F7 Stop zu frueh auf Einstand (neues Thema, neue Bilder): 6 von 10 bei $0 geschlossen, danach +$400, $2.400 entgangen. Traegt das Thema?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-11-02T14:30:08.031Z"
+      "container_id": "18115939274136556",
+      "media_id": "18022991141942256",
+      "permalink": "https://www.instagram.com/reel/DfPhndUAstU/",
+      "published_at": "2026-11-02T14:30:48.312Z"
     },
     {
       "id": "2026-10-24-history-1929",
