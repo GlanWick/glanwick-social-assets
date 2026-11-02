@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T13:56:20.055Z",
+ "updated": "2026-11-02T14:56:42.524Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T13:56:21.031Z",
+  "checked": "2026-11-02T14:56:43.803Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -7072,9 +7072,25 @@
    "ts": "2026-11-02T13:56:20.055Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T14:56:42.524Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18022991141942256",
+   "slug": "stickman-breakevenstop",
+   "permalink": "https://www.instagram.com/reel/DfPhndUAstU/",
+   "timestamp": "2026-11-02T14:30:41+0000",
+   "type": "VIDEO",
+   "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
+   "views": 21,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18148550137580052",
    "slug": "stickman-quarterafternoon",
@@ -7082,7 +7098,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1526,
+   "views": 1529,
    "likes": 7,
    "comments": 3
   },
@@ -7093,7 +7109,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 194,
+   "views": 196,
    "likes": 0,
    "comments": 2
   },
@@ -7502,17 +7518,6 @@
    "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.",
    "views": 1368,
    "likes": 20,
-   "comments": 1
-  },
-  {
-   "id": "17905528464350548",
-   "slug": "stickman-fifteenshots",
-   "permalink": "https://www.instagram.com/reel/DezGBd0Aeh_/",
-   "timestamp": "2026-10-22T13:30:53+0000",
-   "type": "VIDEO",
-   "caption": "You took a screenshot of 15 winning trades this month, and the month is $400 dow",
-   "views": 1420,
-   "likes": 15,
    "comments": 1
   }
  ]
