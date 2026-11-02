@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T14:56:42.524Z",
+ "updated": "2026-11-02T19:58:28.786Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T14:56:43.803Z",
+  "checked": "2026-11-02T19:58:31.556Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -7077,6 +7077,11 @@
    "ts": "2026-11-02T14:56:42.524Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T19:58:28.786Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7087,8 +7092,8 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 21,
-   "likes": 0,
+   "views": 374,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -7098,7 +7103,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1529,
+   "views": 1541,
    "likes": 7,
    "comments": 3
   },
@@ -7109,7 +7114,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 196,
+   "views": 197,
    "likes": 0,
    "comments": 2
   },
@@ -7120,7 +7125,7 @@
    "timestamp": "2026-10-31T21:30:43+0000",
    "type": "VIDEO",
    "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.",
-   "views": 1340,
+   "views": 1341,
    "likes": 13,
    "comments": 1
   },
@@ -7219,7 +7224,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1644,
+   "views": 1645,
    "likes": 13,
    "comments": 2
   },
