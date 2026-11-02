@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T05:09:17.830Z",
+ "updated": "2026-11-02T06:09:41.120Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T05:09:19.540Z",
+  "checked": "2026-11-02T06:09:42.206Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-01",
-    "reach": 1416
+    "reach": 1424
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -7032,6 +7032,11 @@
    "ts": "2026-11-02T05:09:17.830Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T06:09:41.120Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7042,7 +7047,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1502,
+   "views": 1508,
    "likes": 7,
    "comments": 2
   },
@@ -7053,7 +7058,7 @@
    "timestamp": "2026-11-01T15:27:55+0000",
    "type": "VIDEO",
    "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 172,
+   "views": 176,
    "likes": 0,
    "comments": 2
   },
@@ -7086,7 +7091,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 628,
+   "views": 629,
    "likes": 11,
    "comments": 1
   },
@@ -7240,7 +7245,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1822,
+   "views": 1824,
    "likes": 23,
    "comments": 2
   },
