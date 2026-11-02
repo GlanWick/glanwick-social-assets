@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T21:59:19.776Z",
+ "updated": "2026-11-02T22:59:52.431Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T21:59:20.838Z",
+  "checked": "2026-11-02T22:59:53.571Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -7092,9 +7092,25 @@
    "ts": "2026-11-02T21:59:19.776Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T22:59:52.431Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18116598755157000",
+   "slug": "stickman-twentycalls",
+   "permalink": "https://www.instagram.com/reel/DfQYqkWiSRT/",
+   "timestamp": "2026-11-02T22:31:39+0000",
+   "type": "VIDEO",
+   "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
+   "views": 62,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18022991141942256",
    "slug": "stickman-breakevenstop",
@@ -7102,7 +7118,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 414,
+   "views": 425,
    "likes": 3,
    "comments": 1
   },
@@ -7113,7 +7129,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1546,
+   "views": 1550,
    "likes": 7,
    "comments": 3
   },
@@ -7522,17 +7538,6 @@
    "caption": "One loss cost you $300. The next 15 minutes cost you $1,200.",
    "views": 255,
    "likes": 3,
-   "comments": 1
-  },
-  {
-   "id": "18134853734496909",
-   "slug": "stickman-holdtwoyears",
-   "permalink": "https://www.instagram.com/reel/DezTxp7DFjG/",
-   "timestamp": "2026-10-22T15:31:04+0000",
-   "type": "VIDEO",
-   "caption": "He bought the stock and made 60 %. You copied him and lost 15 %.",
-   "views": 1368,
-   "likes": 20,
    "comments": 1
   }
  ]
