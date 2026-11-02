@@ -10044,7 +10044,7 @@
     {
       "id": "test-2026-10-24-twentycalls",
       "slug": "stickman-twentycalls",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-11-02T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentycalls.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-twentycalls-cover.jpg",
@@ -10056,7 +10056,10 @@
         "frage": "F3 Risikogroesse bei Optionen: 1 % Risiko bei Aktien, ein Optionstrade mit 15 Calls zu $1 kostet 15 % des Kontos. Traegt die Praemie als volles Risiko?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-11-02T22:30:14.347Z"
+      "container_id": "18115994438136556",
+      "media_id": "18116598755157000",
+      "permalink": "https://www.instagram.com/reel/DfQYqkWiSRT/",
+      "published_at": "2026-11-02T22:31:46.372Z"
     },
     {
       "id": "test-2026-10-24-addtwice",
