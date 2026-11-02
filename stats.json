@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T20:58:54.783Z",
+ "updated": "2026-11-02T21:59:19.776Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-02T20:58:56.178Z",
+  "checked": "2026-11-02T21:59:20.838Z",
   "reach_days": [
    {
     "day": "2026-10-26",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 555,
+  "followers": 554,
   "media_count": 230
  },
  "history": [
@@ -7087,6 +7087,11 @@
    "ts": "2026-11-02T20:58:54.783Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-02T21:59:19.776Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7097,7 +7102,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 397,
+   "views": 414,
    "likes": 3,
    "comments": 1
   },
@@ -7108,7 +7113,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1543,
+   "views": 1546,
    "likes": 7,
    "comments": 3
   },
@@ -7229,7 +7234,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1645,
+   "views": 1646,
    "likes": 13,
    "comments": 2
   },
