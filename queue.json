@@ -10099,7 +10099,16 @@
       "container_id": "18116149244136556",
       "media_id": "17955433233344599",
       "permalink": "https://www.instagram.com/reel/DfS9Wj2k3Z9/",
-      "published_at": "2026-11-03T22:30:59.617Z"
+      "published_at": "2026-11-03T22:30:59.617Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 230,
+        "beitraege_nachher": 230,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-11-03T22:32:02.580Z"
+      }
     },
     {
       "id": "test-2026-10-24-twoexits",
