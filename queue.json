@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:38:26.470Z",
+  "generated_at": "2026-11-03T15:35:21.392Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1815,14 +1815,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-trailing.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-trailing-cover.jpg",
-        "gestartet_at": "2026-10-31T17:00:16.401Z",
-        "stand": "2026-10-31T17:01:17.765Z",
-        "versuch": 1,
-        "slot": "2026-10-31T17:00:00.000Z",
         "post_id": "6ae61eaafb6318c9a26974f2",
-        "published_at": "2026-10-31T17:00:59.752Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7702878050396015904",
-        "plattform_id": "7702878050396015904"
+        "plattform_id": "7702878050396015904",
+        "published_at": "2026-10-31T17:00:59.752Z",
+        "gestartet_at": "2026-10-31T17:00:16.401Z",
+        "slot": "2026-10-31T17:00:00.000Z",
+        "stand": "2026-10-31T17:01:17.765Z"
       },
       "media_id": "18151258339531851",
       "permalink": "https://www.instagram.com/reel/Dd1rD6gFcMD/",
@@ -1841,14 +1840,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scalpcost.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-scalpcost-cover.jpg",
-        "gestartet_at": "2026-11-01T18:00:30.243Z",
-        "stand": "2026-11-01T18:01:33.081Z",
-        "versuch": 1,
-        "slot": "2026-11-01T18:00:00.000Z",
         "post_id": "6ae77e48faa8a834111e274e",
-        "published_at": "2026-11-01T18:01:17.222Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7703264661931576609",
-        "plattform_id": "7703264661931576609"
+        "plattform_id": "7703264661931576609",
+        "published_at": "2026-11-01T18:01:17.222Z",
+        "gestartet_at": "2026-11-01T18:00:30.243Z",
+        "slot": "2026-11-01T18:00:00.000Z",
+        "stand": "2026-11-01T18:01:33.081Z"
       },
       "media_id": "18071479919749896",
       "permalink": "https://www.instagram.com/reel/Dd2ULcnAKxD/",
@@ -9728,10 +9726,11 @@
         "frage": "F4 Ein Trade kostet Arbeitszeit: $3.000 = 2 Gehaelter, mit 1 % Stop $100. Traegt der Vergleich mit dem Gehalt?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115656626136556",
       "media_id": "18121149934971488",
       "permalink": "https://www.instagram.com/reel/DfLIF5Uk_JH/",
       "published_at": "2026-10-31T21:30:51.188Z",
+      "container_id": "18115656626136556",
+      "kommentar_id": "18137163706731441",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -9741,7 +9740,6 @@
         "verdacht": false,
         "at": "2026-10-31T21:31:53.010Z"
       },
-      "kommentar_id": "18137163706731441",
       "views_12h": {
         "views": 1328,
         "stunden": 12.11
@@ -9905,10 +9903,11 @@
         "frage": "F7 Ziel verschoben (neues Thema, neue Bilder): +$400 erreicht, Ziel auf +$800, Schluss -$200. Traegt das verschobene Ziel als Thema?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115583993136556",
       "media_id": "18017987420986239",
       "permalink": "https://www.instagram.com/reel/DfKRLn_Djtp/",
       "published_at": "2026-10-31T13:30:56.525Z",
+      "container_id": "18115583993136556",
+      "kommentar_id": "17912978265508048",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -9918,7 +9917,6 @@
         "verdacht": false,
         "at": "2026-10-31T13:31:58.024Z"
       },
-      "kommentar_id": "17912978265508048",
       "views_12h": {
         "views": 352,
         "stunden": 12.34
@@ -10056,10 +10054,11 @@
         "frage": "F3 Risikogroesse bei Optionen: 1 % Risiko bei Aktien, ein Optionstrade mit 15 Calls zu $1 kostet 15 % des Kontos. Traegt die Praemie als volles Risiko?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115994438136556",
       "media_id": "18116598755157000",
       "permalink": "https://www.instagram.com/reel/DfQYqkWiSRT/",
       "published_at": "2026-11-02T22:31:46.372Z",
+      "container_id": "18115994438136556",
+      "kommentar_id": "18134382865684235",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10069,7 +10068,6 @@
         "verdacht": false,
         "at": "2026-11-02T22:32:47.951Z"
       },
-      "kommentar_id": "18134382865684235",
       "views_12h": {
         "views": 743,
         "stunden": 12.12
@@ -10123,10 +10121,11 @@
         "frage": "F4 Ein Nachmittag kostet ein Quartal: +$300 die Woche, ein Nachmittag -$3.900 = 13 Wochen. Traegt das Quartal als Mass?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115837952136556",
       "media_id": "18148550137580052",
       "permalink": "https://www.instagram.com/reel/DfNzxGXCGBC/",
       "published_at": "2026-11-01T22:31:01.924Z",
+      "container_id": "18115837952136556",
+      "kommentar_id": "18470215999189530",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10136,7 +10135,6 @@
         "verdacht": false,
         "at": "2026-11-01T22:32:04.136Z"
       },
-      "kommentar_id": "18470215999189530",
       "views_12h": {
         "views": 1517,
         "stunden": 12.42
@@ -10298,10 +10296,11 @@
         "frage": "F7 Zu viele Aktien (neues Thema, neue Bilder): 5 bekannte +$900, 35 andere -$1.300. Traegt die Auswahl als Thema?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115789448136556",
       "media_id": "18115341080603638",
       "permalink": "https://www.instagram.com/reel/DfNDXcBE2XI/",
       "published_at": "2026-11-01T15:28:06.637Z",
+      "container_id": "18115789448136556",
+      "kommentar_id": "18640763350042589",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10311,7 +10310,6 @@
         "verdacht": false,
         "at": "2026-11-01T15:29:08.508Z"
       },
-      "kommentar_id": "18640763350042589",
       "views_12h": {
         "views": 169,
         "stunden": 12.68
@@ -10567,10 +10565,11 @@
         "frage": "F6 Verdoppeln der Trade-Zahl: 10 statt 5 Trades am Tag, Woche +$500 wird -$250. Traegt Overtrading als Verdoppeln?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18116101241136556",
       "media_id": "18031993202883662",
       "permalink": "https://www.instagram.com/reel/DfSHkdCjgeX/",
       "published_at": "2026-11-03T14:40:58.889Z",
+      "container_id": "18116101241136556",
+      "kommentar_id": "18479322667115016",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10579,8 +10578,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-11-03T14:42:01.493Z"
-      },
-      "kommentar_id": "18479322667115016"
+      }
     },
     {
       "id": "2026-10-25-fuenfzig-dreihundert",
@@ -10666,10 +10664,11 @@
         "frage": "F7 Stop zu frueh auf Einstand (neues Thema, neue Bilder): 6 von 10 bei $0 geschlossen, danach +$400, $2.400 entgangen. Traegt das Thema?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18115939274136556",
       "media_id": "18022991141942256",
       "permalink": "https://www.instagram.com/reel/DfPhndUAstU/",
       "published_at": "2026-11-02T14:30:48.312Z",
+      "container_id": "18115939274136556",
+      "kommentar_id": "17993070834052731",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10679,7 +10678,6 @@
         "verdacht": false,
         "at": "2026-11-02T14:31:49.724Z"
       },
-      "kommentar_id": "17993070834052731",
       "views_12h": {
         "views": 512,
         "stunden": 12.58
@@ -10850,6 +10848,20 @@
       "views_24h": {
         "views": 139,
         "stunden": 24.31
+      }
+    },
+    {
+      "id": "2026-11-03-the-one-who-believed",
+      "slug": "the-one-who-believed",
+      "status": "ready",
+      "scheduled_at": "2026-11-03T15:37:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/the-one-who-believed.mp4",
+      "caption": "Inspired by a true story.\n\nEveryone told him it's gambling. His mom told him he'd get there. But the only one who could stop him from breaking his own rules was him.\n\nThat's why we built @glanwick_com: your journal, trade calendar, psychology stats and chart replay in one place, made by traders for traders.\n\nComment \"Journal\" to get further details, and tell us who was the one who believed in you 🤍\n\n#tradingjournal #tradingpsychology #daytrading #trading",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "youtube": {
+        "status": "draft",
+        "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von the-one-who-believed"
       }
     }
   ]
