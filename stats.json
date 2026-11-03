@@ -1,14 +1,12 @@
 {
- "updated": "2026-11-02T22:59:52.431Z",
+ "updated": "2026-11-03T00:00:16.907Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-11-02T22:59:53.571Z",
+  "status": "warn",
+  "reasons": [
+   "Reichweite 2026-11-02: 509 gegen Mittel 1871"
+  ],
+  "checked": "2026-11-03T00:00:18.309Z",
   "reach_days": [
-   {
-    "day": "2026-10-26",
-    "reach": 1341
-   },
    {
     "day": "2026-10-27",
     "reach": 1558
@@ -32,6 +30,10 @@
    {
     "day": "2026-11-01",
     "reach": 1440
+   },
+   {
+    "day": "2026-11-02",
+    "reach": 509
    }
   ],
   "avg_watch_last_reels": 8.4
@@ -7097,6 +7099,11 @@
    "ts": "2026-11-02T22:59:52.431Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T00:00:16.907Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7107,7 +7114,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 62,
+   "views": 126,
    "likes": 0,
    "comments": 1
   },
@@ -7118,7 +7125,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 425,
+   "views": 441,
    "likes": 3,
    "comments": 1
   },
@@ -7173,7 +7180,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 633,
+   "views": 634,
    "likes": 11,
    "comments": 1
   },
