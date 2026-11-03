@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T14:40:13.424Z",
+ "updated": "2026-11-03T15:36:37.374Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T14:40:14.753Z",
+  "checked": "2026-11-03T15:36:38.584Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7167,9 +7167,25 @@
    "ts": "2026-11-03T14:40:13.424Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T15:36:37.374Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18031993202883662",
+   "slug": "stickman-doubletrades",
+   "permalink": "https://www.instagram.com/reel/DfSHkdCjgeX/",
+   "timestamp": "2026-11-03T14:40:52+0000",
+   "type": "VIDEO",
+   "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
+   "views": 132,
+   "likes": 2,
+   "comments": 1
+  },
   {
    "id": "18358126081302103",
    "slug": null,
@@ -7199,7 +7215,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1338,
+   "views": 1343,
    "likes": 4,
    "comments": 1
   },
@@ -7210,7 +7226,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1557,
+   "views": 1558,
    "likes": 7,
    "comments": 3
   },
@@ -7254,7 +7270,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 636,
+   "views": 640,
    "likes": 11,
    "comments": 1
   },
@@ -7287,7 +7303,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 326,
+   "views": 329,
    "likes": 3,
    "comments": 3
   },
@@ -7298,7 +7314,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1590,
+   "views": 1592,
    "likes": 17,
    "comments": 1
   },
@@ -7331,7 +7347,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1646,
+   "views": 1648,
    "likes": 13,
    "comments": 2
   },
@@ -7342,7 +7358,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1436,
+   "views": 1438,
    "likes": 13,
    "comments": 1
   },
@@ -7386,7 +7402,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1513,
+   "views": 1515,
    "likes": 13,
    "comments": 1
   },
@@ -7397,7 +7413,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 202,
+   "views": 203,
    "likes": 3,
    "comments": 1
   },
@@ -7408,7 +7424,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1824,
+   "views": 1826,
    "likes": 23,
    "comments": 2
   },
@@ -7419,7 +7435,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1615,
+   "views": 1616,
    "likes": 20,
    "comments": 1
   },
@@ -7441,7 +7457,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1516,
+   "views": 1517,
    "likes": 19,
    "comments": 2
   },
@@ -7507,7 +7523,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 365,
+   "views": 366,
    "likes": 4,
    "comments": 2
   },
@@ -7597,17 +7613,6 @@
    "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
    "views": 1345,
    "likes": 19,
-   "comments": 1
-  },
-  {
-   "id": "17976558510147093",
-   "slug": "stickman-loaninterest",
-   "permalink": "https://www.instagram.com/reel/DezhdxCionz/",
-   "timestamp": "2026-10-22T17:30:39+0000",
-   "type": "VIDEO",
-   "caption": "Your trades made $1,000, and the loan behind them cost $1,200.",
-   "views": 953,
-   "likes": 5,
    "comments": 1
   }
  ]
