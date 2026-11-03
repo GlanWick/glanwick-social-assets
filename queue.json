@@ -10555,7 +10555,7 @@
     {
       "id": "test-2026-10-25-doubletrades",
       "slug": "stickman-doubletrades",
-      "status": "posting",
+      "status": "published",
       "scheduled_at": "2026-11-03T14:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubletrades.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-doubletrades-cover.jpg",
@@ -10567,7 +10567,10 @@
         "frage": "F6 Verdoppeln der Trade-Zahl: 10 statt 5 Trades am Tag, Woche +$500 wird -$250. Traegt Overtrading als Verdoppeln?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "posting_started_at": "2026-11-03T14:40:18.305Z"
+      "container_id": "18116101241136556",
+      "media_id": "18031993202883662",
+      "permalink": "https://www.instagram.com/reel/DfSHkdCjgeX/",
+      "published_at": "2026-11-03T14:40:58.889Z"
     },
     {
       "id": "2026-10-25-fuenfzig-dreihundert",
