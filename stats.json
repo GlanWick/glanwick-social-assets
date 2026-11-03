@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T22:28:39.034Z",
+ "updated": "2026-11-03T23:28:48.447Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T22:28:39.976Z",
+  "checked": "2026-11-03T23:28:50.874Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7207,9 +7207,25 @@
    "ts": "2026-11-03T22:28:39.034Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T23:28:48.447Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "17955433233344599",
+   "slug": "stickman-addtwice",
+   "permalink": "https://www.instagram.com/reel/DfS9Wj2k3Z9/",
+   "timestamp": "2026-11-03T22:30:50+0000",
+   "type": "VIDEO",
+   "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
+   "views": 137,
+   "likes": 0,
+   "comments": 1
+  },
   {
    "id": "18031993202883662",
    "slug": "stickman-doubletrades",
@@ -7217,7 +7233,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 326,
+   "views": 329,
    "likes": 2,
    "comments": 2
   },
@@ -7239,7 +7255,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1276,
+   "views": 1277,
    "likes": 4,
    "comments": 2
   },
@@ -7624,7 +7640,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1503,
+   "views": 1504,
    "likes": 10,
    "comments": 1
   },
@@ -7637,17 +7653,6 @@
    "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
    "views": 548,
    "likes": 7,
-   "comments": 1
-  },
-  {
-   "id": "18120665254945234",
-   "slug": "glanwick-laptop-r1-A-tech-11s8",
-   "permalink": "https://www.instagram.com/reel/DezocEgl7Aj/",
-   "timestamp": "2026-10-22T18:31:38+0000",
-   "type": "VIDEO",
-   "caption": "Some trading days deserve a rewatch. With Bar Replay in @glanwick_com, you play ",
-   "views": 1345,
-   "likes": 19,
    "comments": 1
   }
  ]
