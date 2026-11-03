@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-03T13:39:53.789Z",
+ "updated": "2026-11-03T14:40:13.424Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 8.0 s"
-  ],
-  "checked": "2026-11-03T13:39:56.201Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-11-03T14:40:14.753Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -36,7 +34,7 @@
     "reach": 945
    }
   ],
-  "avg_watch_last_reels": 8
+  "avg_watch_last_reels": 8.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7164,6 +7162,11 @@
    "ts": "2026-11-03T13:39:53.789Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T14:40:13.424Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7174,7 +7177,7 @@
    "timestamp": "2026-11-03T12:45:24+0000",
    "type": "VIDEO",
    "caption": "Trading turns into gambling the moment nobody keeps score.",
-   "views": 102,
+   "views": 123,
    "likes": 3,
    "comments": 0
   },
@@ -7185,7 +7188,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1260,
+   "views": 1267,
    "likes": 4,
    "comments": 2
   },
@@ -7196,7 +7199,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1312,
+   "views": 1338,
    "likes": 4,
    "comments": 1
   },
