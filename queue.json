@@ -10079,6 +10079,10 @@
       "views_12h": {
         "views": 743,
         "stunden": 12.12
+      },
+      "views_24h": {
+        "views": 1277,
+        "stunden": 24.95
       }
     },
     {
