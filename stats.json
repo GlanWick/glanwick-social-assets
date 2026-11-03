@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T11:39:13.060Z",
+ "updated": "2026-11-03T12:39:36.419Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T11:39:14.110Z",
+  "checked": "2026-11-03T12:39:37.720Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7152,6 +7152,11 @@
    "ts": "2026-11-03T11:39:13.060Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T12:39:36.419Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7162,8 +7167,8 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1010,
-   "likes": 3,
+   "views": 1224,
+   "likes": 4,
    "comments": 2
   },
   {
@@ -7173,7 +7178,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1102,
+   "views": 1218,
    "likes": 4,
    "comments": 1
   },
@@ -7228,7 +7233,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 635,
+   "views": 636,
    "likes": 11,
    "comments": 1
   },
@@ -7316,7 +7321,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1435,
+   "views": 1436,
    "likes": 13,
    "comments": 1
   },
