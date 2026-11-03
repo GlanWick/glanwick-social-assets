@@ -10570,7 +10570,16 @@
       "container_id": "18116101241136556",
       "media_id": "18031993202883662",
       "permalink": "https://www.instagram.com/reel/DfSHkdCjgeX/",
-      "published_at": "2026-11-03T14:40:58.889Z"
+      "published_at": "2026-11-03T14:40:58.889Z",
+      "trial_pruefung": {
+        "beitraege_vorher": 230,
+        "beitraege_nachher": 230,
+        "in_me_media": true,
+        "is_shared_to_feed": false,
+        "media_product_type": "REELS",
+        "verdacht": false,
+        "at": "2026-11-03T14:42:01.493Z"
+      }
     },
     {
       "id": "2026-10-25-fuenfzig-dreihundert",
