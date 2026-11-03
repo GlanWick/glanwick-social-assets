@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T07:06:55.367Z",
+ "updated": "2026-11-03T09:38:20.228Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T07:06:57.413Z",
+  "checked": "2026-11-03T09:38:21.967Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-02",
-    "reach": 831
+    "reach": 945
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -7137,6 +7137,11 @@
    "ts": "2026-11-03T07:06:55.367Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T09:38:20.228Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7147,9 +7152,9 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 195,
+   "views": 509,
    "likes": 1,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18022991141942256",
@@ -7158,7 +7163,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 815,
+   "views": 931,
    "likes": 4,
    "comments": 1
   },
@@ -7169,7 +7174,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1552,
+   "views": 1554,
    "likes": 7,
    "comments": 3
   },
@@ -7400,7 +7405,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1515,
+   "views": 1516,
    "likes": 19,
    "comments": 2
   },
