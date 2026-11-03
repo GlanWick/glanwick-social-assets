@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T20:38:21.504Z",
+ "updated": "2026-11-03T21:28:36.820Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T20:38:22.446Z",
+  "checked": "2026-11-03T21:28:38.121Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7197,6 +7197,11 @@
    "ts": "2026-11-03T20:38:21.504Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T21:28:36.820Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7207,7 +7212,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 298,
+   "views": 313,
    "likes": 2,
    "comments": 2
   },
@@ -7229,7 +7234,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1274,
+   "views": 1275,
    "likes": 4,
    "comments": 2
   },
