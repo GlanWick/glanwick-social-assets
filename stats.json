@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T21:28:36.820Z",
+ "updated": "2026-11-03T22:28:39.034Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T21:28:38.121Z",
+  "checked": "2026-11-03T22:28:39.976Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7202,6 +7202,11 @@
    "ts": "2026-11-03T21:28:36.820Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T22:28:39.034Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7212,7 +7217,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 313,
+   "views": 326,
    "likes": 2,
    "comments": 2
   },
@@ -7234,7 +7239,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1275,
+   "views": 1276,
    "likes": 4,
    "comments": 2
   },
@@ -7256,7 +7261,7 @@
    "timestamp": "2026-11-01T22:30:52+0000",
    "type": "VIDEO",
    "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1559,
+   "views": 1560,
    "likes": 7,
    "comments": 3
   },
