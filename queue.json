@@ -10084,7 +10084,7 @@
     {
       "id": "test-2026-10-24-addtwice",
       "slug": "stickman-addtwice",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-11-03T22:30:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addtwice.mp4",
       "cover_url": "https://glanwick.github.io/glanwick-social-assets/stickman-addtwice-cover.jpg",
@@ -10095,7 +10095,8 @@
         "bild": "bibliothek",
         "frage": "F6 Verdoppeln nach unten (zweimal nachgekauft): $1.000 bei $100, $90, $80, Kurs $70, -$647 statt -$300. Traegt das Nachkaufen als Verdoppeln?"
       },
-      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig"
+      "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
+      "posting_started_at": "2026-11-03T22:30:15.573Z"
     },
     {
       "id": "test-2026-10-24-twoexits",
