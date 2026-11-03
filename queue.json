@@ -10853,7 +10853,7 @@
     {
       "id": "2026-11-03-the-one-who-believed",
       "slug": "the-one-who-believed",
-      "status": "ready",
+      "status": "posting",
       "scheduled_at": "2026-11-03T15:37:00Z",
       "video_url": "https://glanwick.github.io/glanwick-social-assets/the-one-who-believed.mp4",
       "caption": "Inspired by a true story.\n\nEveryone told him it's gambling. His mom told him he'd get there. But the only one who could stop him from breaking his own rules was him.\n\nThat's why we built @glanwick_com: your journal, trade calendar, psychology stats and chart replay in one place, made by traders for traders.\n\nComment \"Journal\" to get further details, and tell us who was the one who believed in you 🤍\n\n#tradingjournal #tradingpsychology #daytrading #trading",
@@ -10862,7 +10862,8 @@
       "youtube": {
         "status": "draft",
         "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von the-one-who-believed"
-      }
+      },
+      "posting_started_at": "2026-11-03T15:37:10.908Z"
     }
   ]
 }
