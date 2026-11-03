@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T00:00:16.907Z",
+ "updated": "2026-11-03T01:00:32.590Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-02: 509 gegen Mittel 1871"
+   "Reichweite 2026-11-02: 524 gegen Mittel 1871"
   ],
-  "checked": "2026-11-03T00:00:18.309Z",
+  "checked": "2026-11-03T01:00:33.462Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-02",
-    "reach": 509
+    "reach": 524
    }
   ],
   "avg_watch_last_reels": 8.4
@@ -7104,6 +7104,11 @@
    "ts": "2026-11-03T00:00:16.907Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T01:00:32.590Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7114,7 +7119,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 126,
+   "views": 130,
    "likes": 0,
    "comments": 1
   },
@@ -7125,7 +7130,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 441,
+   "views": 461,
    "likes": 3,
    "comments": 1
   },
