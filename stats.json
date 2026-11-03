@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T17:37:29.225Z",
+ "updated": "2026-11-03T18:38:00.087Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T17:37:30.296Z",
+  "checked": "2026-11-03T18:38:03.190Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7182,6 +7182,11 @@
    "ts": "2026-11-03T17:37:29.225Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T18:38:00.087Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7192,9 +7197,9 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 179,
+   "views": 245,
    "likes": 2,
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "18358126081302103",
@@ -7214,7 +7219,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1272,
+   "views": 1273,
    "likes": 4,
    "comments": 2
   },
@@ -7225,7 +7230,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1346,
+   "views": 1347,
    "likes": 4,
    "comments": 1
   },
