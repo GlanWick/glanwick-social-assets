@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T16:37:04.125Z",
+ "updated": "2026-11-03T17:37:29.225Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T16:37:06.296Z",
+  "checked": "2026-11-03T17:37:30.296Z",
   "reach_days": [
    {
     "day": "2026-10-27",
@@ -7177,6 +7177,11 @@
    "ts": "2026-11-03T16:37:04.125Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-03T17:37:29.225Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7187,7 +7192,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 154,
+   "views": 179,
    "likes": 2,
    "comments": 1
   },
@@ -7209,7 +7214,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1270,
+   "views": 1272,
    "likes": 4,
    "comments": 2
   },
@@ -7220,7 +7225,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1345,
+   "views": 1346,
    "likes": 4,
    "comments": 1
   },
@@ -7275,7 +7280,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 641,
+   "views": 642,
    "likes": 11,
    "comments": 1
   },
@@ -7308,7 +7313,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 329,
+   "views": 330,
    "likes": 3,
    "comments": 3
   },
@@ -7319,7 +7324,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1593,
+   "views": 1594,
    "likes": 17,
    "comments": 1
   },
@@ -7352,7 +7357,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1648,
+   "views": 1653,
    "likes": 13,
    "comments": 2
   },
@@ -7363,7 +7368,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1438,
+   "views": 1439,
    "likes": 13,
    "comments": 1
   },
@@ -7407,7 +7412,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1515,
+   "views": 1516,
    "likes": 13,
    "comments": 1
   },
@@ -7418,7 +7423,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 204,
+   "views": 205,
    "likes": 3,
    "comments": 1
   },
@@ -7429,7 +7434,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1826,
+   "views": 1827,
    "likes": 23,
    "comments": 2
   },
@@ -7440,7 +7445,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1616,
+   "views": 1617,
    "likes": 20,
    "comments": 1
   },
@@ -7462,7 +7467,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1517,
+   "views": 1518,
    "likes": 19,
    "comments": 2
   },
@@ -7528,7 +7533,7 @@
    "timestamp": "2026-10-23T02:31:33+0000",
    "type": "VIDEO",
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
-   "views": 366,
+   "views": 367,
    "likes": 4,
    "comments": 2
   },
@@ -7572,7 +7577,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 449,
+   "views": 450,
    "likes": 7,
    "comments": 1
   },
