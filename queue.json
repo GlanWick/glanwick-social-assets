@@ -10611,6 +10611,10 @@
       "views_12h": {
         "views": 363,
         "stunden": 12.64
+      },
+      "views_24h": {
+        "views": 762,
+        "stunden": 24.2
       }
     },
     {
@@ -10919,7 +10923,11 @@
       "media_id": "17957194293275775",
       "permalink": "https://www.instagram.com/reel/DfTXb99E6pI/",
       "published_at": "2026-11-04T02:18:45.619Z",
-      "kommentar_id": "18647010307055622"
+      "kommentar_id": "18647010307055622",
+      "views_12h": {
+        "views": 142,
+        "stunden": 12.57
+      }
     }
   ]
 }
