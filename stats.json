@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-04T01:29:15.239Z",
+ "updated": "2026-11-04T02:29:34.295Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-11-04T01:29:16.360Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 4.4 s"
+  ],
+  "checked": "2026-11-04T02:29:36.995Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -31,16 +33,16 @@
    },
    {
     "day": "2026-11-03",
-    "reach": 1791
+    "reach": 1801
    }
   ],
-  "avg_watch_last_reels": 8.1
+  "avg_watch_last_reels": 4.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 556,
-  "media_count": 230
+  "media_count": 231
  },
  "history": [
   {
@@ -7222,9 +7224,25 @@
    "ts": "2026-11-04T01:29:15.239Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-04T02:29:34.295Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
+  {
+   "id": "17957194293275775",
+   "slug": "the-one-who-believed-2",
+   "permalink": "https://www.instagram.com/reel/DfTXb99E6pI/",
+   "timestamp": "2026-11-04T02:18:39+0000",
+   "type": "VIDEO",
+   "caption": "Inspired by a true story.",
+   "views": 3,
+   "likes": 1,
+   "comments": 1
+  },
   {
    "id": "17955433233344599",
    "slug": "stickman-addtwice",
@@ -7232,7 +7250,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 168,
+   "views": 175,
    "likes": 0,
    "comments": 1
   },
@@ -7243,7 +7261,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 352,
+   "views": 357,
    "likes": 2,
    "comments": 2
   },
@@ -7652,17 +7670,6 @@
    "caption": "You lost 7 trades out of 10 and made $800.",
    "views": 1504,
    "likes": 10,
-   "comments": 1
-  },
-  {
-   "id": "17909851221482304",
-   "slug": "stickman-fivepercentstop",
-   "permalink": "https://www.instagram.com/reel/DezvbHCG_ki/",
-   "timestamp": "2026-10-22T19:32:39+0000",
-   "type": "VIDEO",
-   "caption": "Your stop is only 5 % away, and 10 stops took $4,013 of your $10,000.",
-   "views": 548,
-   "likes": 7,
    "comments": 1
   }
  ]
