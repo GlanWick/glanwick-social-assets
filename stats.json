@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T19:43:33.650Z",
+ "updated": "2026-11-04T20:43:51.665Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T19:43:35.084Z",
+  "checked": "2026-11-04T20:43:54.022Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -7304,6 +7304,11 @@
    "ts": "2026-11-04T19:43:33.650Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T20:43:51.665Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7325,7 +7330,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 297,
+   "views": 300,
    "likes": 0,
    "comments": 1
   },
@@ -7336,7 +7341,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 777,
+   "views": 778,
    "likes": 5,
    "comments": 4
   },
@@ -7732,7 +7737,7 @@
    "timestamp": "2026-10-22T22:31:47+0000",
    "type": "VIDEO",
    "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1555,
+   "views": 1556,
    "likes": 26,
    "comments": 7
   },
