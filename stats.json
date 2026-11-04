@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T14:52:39.866Z",
+ "updated": "2026-11-04T17:43:12.306Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-11-04T14:52:41.298Z",
+  "checked": "2026-11-04T17:43:14.187Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 556,
+  "followers": 557,
   "media_count": 231
  },
  "history": [
@@ -7289,6 +7289,11 @@
    "ts": "2026-11-04T14:52:39.866Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T17:43:12.306Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7299,7 +7304,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 142,
+   "views": 144,
    "likes": 5,
    "comments": 1
   },
@@ -7310,7 +7315,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 259,
+   "views": 294,
    "likes": 0,
    "comments": 1
   },
@@ -7321,7 +7326,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 762,
+   "views": 771,
    "likes": 5,
    "comments": 2
   },
@@ -7343,7 +7348,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1278,
+   "views": 1279,
    "likes": 4,
    "comments": 2
   },
@@ -7409,7 +7414,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 644,
+   "views": 645,
    "likes": 11,
    "comments": 1
   },
@@ -7541,7 +7546,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1516,
+   "views": 1521,
    "likes": 14,
    "comments": 2
   },
@@ -7552,7 +7557,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 206,
+   "views": 207,
    "likes": 3,
    "comments": 1
   },
@@ -7728,7 +7733,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1505,
+   "views": 1506,
    "likes": 10,
    "comments": 1
   }
