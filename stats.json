@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T21:44:01.024Z",
+ "updated": "2026-11-04T22:44:08.146Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T21:44:01.980Z",
+  "checked": "2026-11-04T22:44:08.774Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -7314,6 +7314,11 @@
    "ts": "2026-11-04T21:44:01.024Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T22:44:08.146Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7335,7 +7340,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 303,
+   "views": 307,
    "likes": 0,
    "comments": 1
   },
