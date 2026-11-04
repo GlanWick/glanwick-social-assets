@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:35:21.392Z",
+  "generated_at": "2026-11-04T02:15:34.638Z",
   "entries": [
     {
       "id": "2026-08-31-debit-vs-credit",
@@ -1865,14 +1865,13 @@
         "status": "published",
         "video_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-underwater.mp4",
         "cover_url": "https://github.com/GlanWick/glanwick-social-assets/releases/download/tiktok/stickman-underwater-cover.jpg",
-        "gestartet_at": "2026-11-03T18:00:32.228Z",
-        "stand": "2026-11-03T18:03:00.229Z",
-        "versuch": 1,
-        "slot": "2026-11-03T18:00:00.000Z",
         "post_id": "6aea214e3c2f25eb261973ff",
-        "published_at": "2026-11-03T18:01:49.255Z",
         "url": "https://www.tiktok.com/@glanwick.com/video/7704006856628243744",
-        "plattform_id": "7704006856628243744"
+        "plattform_id": "7704006856628243744",
+        "published_at": "2026-11-03T18:01:49.255Z",
+        "gestartet_at": "2026-11-03T18:00:32.228Z",
+        "slot": "2026-11-03T18:00:00.000Z",
+        "stand": "2026-11-03T18:03:00.229Z"
       },
       "media_id": "18072819314724860",
       "permalink": "https://www.instagram.com/reel/Dd2sNvCDFYT/",
@@ -10100,10 +10099,11 @@
         "frage": "F6 Verdoppeln nach unten (zweimal nachgekauft): $1.000 bei $100, $90, $80, Kurs $70, -$647 statt -$300. Traegt das Nachkaufen als Verdoppeln?"
       },
       "kommentar": "Track your real win rate and equity curve from your own trades: glanwick.com/ig",
-      "container_id": "18116149244136556",
       "media_id": "17955433233344599",
       "permalink": "https://www.instagram.com/reel/DfS9Wj2k3Z9/",
       "published_at": "2026-11-03T22:30:59.617Z",
+      "container_id": "18116149244136556",
+      "kommentar_id": "18086446463330567",
       "trial_pruefung": {
         "beitraege_vorher": 230,
         "beitraege_nachher": 230,
@@ -10112,8 +10112,7 @@
         "media_product_type": "REELS",
         "verdacht": false,
         "at": "2026-11-03T22:32:02.580Z"
-      },
-      "kommentar_id": "18086446463330567"
+      }
     },
     {
       "id": "test-2026-10-24-twoexits",
@@ -10889,11 +10888,25 @@
         "status": "draft",
         "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von the-one-who-believed"
       },
-      "container_id": "18116109680136556",
       "media_id": "18059812862591085",
       "permalink": "https://www.instagram.com/reel/DfSOFdVAN_T/",
       "published_at": "2026-11-03T15:37:52.650Z",
+      "container_id": "18116109680136556",
       "kommentar_id": "18401212705201220"
+    },
+    {
+      "id": "2026-11-04-the-one-who-believed",
+      "slug": "the-one-who-believed-2",
+      "status": "ready",
+      "scheduled_at": "2026-11-04T02:17:00Z",
+      "video_url": "https://glanwick.github.io/glanwick-social-assets/the-one-who-believed-2.mp4",
+      "caption": "Inspired by a true story.\n\nHis family laughed when he said he trades. His mom just said: you'll get this. The rules, he had to keep himself.\n\nThat's why we built @glanwick_com: journal, trade calendar, psychology stats and chart replay in one place, made by traders for traders.\n\nComment \"Journal\" to get further details. Who was the one who believed in you? 🤍\n\n#tradingjournal #tradingpsychology #daytrading #trading",
+      "ki_kennzeichnung": true,
+      "tiktok": false,
+      "youtube": {
+        "status": "draft",
+        "fehler": "Medien fehlen: kein Release-Video im TikTok-Block von the-one-who-believed-2"
+      }
     }
   ]
 }
