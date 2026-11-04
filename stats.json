@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T13:52:11.900Z",
+ "updated": "2026-11-04T14:52:39.866Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.8 s"
+   "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-11-04T13:52:13.226Z",
+  "checked": "2026-11-04T14:52:41.298Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -36,7 +36,7 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 7.8
+  "avg_watch_last_reels": 7.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7284,6 +7284,11 @@
    "ts": "2026-11-04T13:52:11.900Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T14:52:39.866Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7294,7 +7299,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 141,
+   "views": 142,
    "likes": 5,
    "comments": 1
   },
@@ -7305,7 +7310,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 255,
+   "views": 259,
    "likes": 0,
    "comments": 1
   },
@@ -7316,7 +7321,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 681,
+   "views": 762,
    "likes": 5,
    "comments": 2
   },
@@ -7404,7 +7409,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 643,
+   "views": 644,
    "likes": 11,
    "comments": 1
   },
@@ -7537,8 +7542,8 @@
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
    "views": 1516,
-   "likes": 13,
-   "comments": 1
+   "likes": 14,
+   "comments": 2
   },
   {
    "id": "18076390451779533",
