@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T08:20:17.706Z",
+ "updated": "2026-11-04T09:51:26.775Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.5 s"
+   "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-11-04T08:20:19.021Z",
+  "checked": "2026-11-04T09:51:28.204Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -36,7 +36,7 @@
     "reach": 1982
    }
   ],
-  "avg_watch_last_reels": 7.5
+  "avg_watch_last_reels": 7.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7259,6 +7259,11 @@
    "ts": "2026-11-04T08:20:17.706Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T09:51:26.775Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7269,8 +7274,8 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 134,
-   "likes": 2,
+   "views": 138,
+   "likes": 4,
    "comments": 1
   },
   {
@@ -7280,7 +7285,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 200,
+   "views": 211,
    "likes": 0,
    "comments": 1
   },
@@ -7291,8 +7296,8 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 426,
-   "likes": 3,
+   "views": 456,
+   "likes": 4,
    "comments": 2
   },
   {
@@ -7324,7 +7329,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1347,
+   "views": 1348,
    "likes": 4,
    "comments": 1
   },
