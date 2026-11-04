@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T02:29:34.295Z",
+ "updated": "2026-11-04T03:19:17.468Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 4.4 s"
+   "Sehdauer letzte 3 Reels: 7.4 s"
   ],
-  "checked": "2026-11-04T02:29:36.995Z",
+  "checked": "2026-11-04T03:19:18.557Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-03",
-    "reach": 1801
+    "reach": 1862
    }
   ],
-  "avg_watch_last_reels": 4.4
+  "avg_watch_last_reels": 7.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7229,6 +7229,11 @@
    "ts": "2026-11-04T02:29:34.295Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T03:19:17.468Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7239,8 +7244,8 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 3,
-   "likes": 1,
+   "views": 96,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -7250,7 +7255,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 175,
+   "views": 178,
    "likes": 0,
    "comments": 1
   },
@@ -7261,7 +7266,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 357,
+   "views": 363,
    "likes": 2,
    "comments": 2
   },
