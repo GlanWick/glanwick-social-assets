@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T11:51:44.214Z",
+ "updated": "2026-11-04T12:51:47.098Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T11:51:46.290Z",
+  "checked": "2026-11-04T12:51:49.176Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -7274,6 +7274,11 @@
    "ts": "2026-11-04T11:51:44.214Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T12:51:47.098Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7295,7 +7300,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 222,
+   "views": 240,
    "likes": 0,
    "comments": 1
   },
@@ -7306,7 +7311,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 525,
+   "views": 617,
    "likes": 4,
    "comments": 2
   },
@@ -7537,7 +7542,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 205,
+   "views": 206,
    "likes": 3,
    "comments": 1
   },
@@ -7691,7 +7696,7 @@
    "timestamp": "2026-10-22T23:00:49+0000",
    "type": "VIDEO",
    "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 450,
+   "views": 451,
    "likes": 7,
    "comments": 1
   },
@@ -7713,7 +7718,7 @@
    "timestamp": "2026-10-22T21:30:54+0000",
    "type": "VIDEO",
    "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1504,
+   "views": 1505,
    "likes": 10,
    "comments": 1
   }
