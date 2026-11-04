@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T12:51:47.098Z",
+ "updated": "2026-11-04T13:52:11.900Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T12:51:49.176Z",
+  "checked": "2026-11-04T13:52:13.226Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -7279,6 +7279,11 @@
    "ts": "2026-11-04T12:51:47.098Z",
    "followers": 556,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T13:52:11.900Z",
+   "followers": 556,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7300,7 +7305,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 240,
+   "views": 255,
    "likes": 0,
    "comments": 1
   },
@@ -7311,8 +7316,8 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 617,
-   "likes": 4,
+   "views": 681,
+   "likes": 5,
    "comments": 2
   },
   {
@@ -7465,7 +7470,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 195,
+   "views": 196,
    "likes": 2,
    "comments": 1
   },
