@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T18:43:24.154Z",
+ "updated": "2026-11-04T19:43:33.650Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T18:43:25.515Z",
+  "checked": "2026-11-04T19:43:35.084Z",
   "reach_days": [
    {
     "day": "2026-10-28",
@@ -7299,6 +7299,11 @@
    "ts": "2026-11-04T18:43:24.154Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-04T19:43:33.650Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7331,7 +7336,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 776,
+   "views": 777,
    "likes": 5,
    "comments": 4
   },
@@ -7496,7 +7501,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1653,
+   "views": 1654,
    "likes": 13,
    "comments": 2
   },
