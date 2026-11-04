@@ -1,14 +1,10 @@
 {
- "updated": "2026-11-03T23:28:48.447Z",
+ "updated": "2026-11-04T00:28:50.087Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-03T23:28:50.874Z",
+  "checked": "2026-11-04T00:28:51.201Z",
   "reach_days": [
-   {
-    "day": "2026-10-27",
-    "reach": 1558
-   },
    {
     "day": "2026-10-28",
     "reach": 3739
@@ -32,6 +28,10 @@
    {
     "day": "2026-11-02",
     "reach": 945
+   },
+   {
+    "day": "2026-11-03",
+    "reach": 1763
    }
   ],
   "avg_watch_last_reels": 8.1
@@ -7212,6 +7212,11 @@
    "ts": "2026-11-03T23:28:48.447Z",
    "followers": 556,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-04T00:28:50.087Z",
+   "followers": 556,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -7222,7 +7227,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 137,
+   "views": 153,
    "likes": 0,
    "comments": 1
   },
@@ -7233,7 +7238,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 329,
+   "views": 342,
    "likes": 2,
    "comments": 2
   },
