@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T14:28:31.167Z",
+ "updated": "2026-11-05T15:28:39.243Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-11-05T14:28:32.586Z",
+  "checked": "2026-11-05T15:28:40.440Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -42,7 +42,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 558,
+  "followers": 557,
   "media_count": 231
  },
  "history": [
@@ -7400,6 +7400,11 @@
    "ts": "2026-11-05T14:28:31.167Z",
    "followers": 558,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T15:28:39.243Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7465,7 +7470,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1352,
+   "views": 1353,
    "likes": 4,
    "comments": 1
   },
@@ -7652,9 +7657,9 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1522,
+   "views": 1524,
    "likes": 14,
-   "comments": 3
+   "comments": 4
   },
   {
    "id": "18076390451779533",
