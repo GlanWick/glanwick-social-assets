@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T09:25:30.264Z",
+ "updated": "2026-11-05T10:25:35.544Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-05T09:25:31.344Z",
+  "checked": "2026-11-05T10:25:36.493Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -7375,6 +7375,11 @@
    "ts": "2026-11-05T09:25:30.264Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T10:25:35.544Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7385,7 +7390,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 147,
+   "views": 148,
    "likes": 5,
    "comments": 1
   },
@@ -7495,7 +7500,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 645,
+   "views": 646,
    "likes": 11,
    "comments": 1
   },
@@ -7616,7 +7621,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1207,
+   "views": 1208,
    "likes": 10,
    "comments": 1
   },
