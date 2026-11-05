@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T11:28:16.224Z",
+ "updated": "2026-11-05T12:28:20.696Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
-   "Sehdauer letzte 3 Reels: 7.8 s"
+   "Sehdauer letzte 3 Reels: 7.7 s"
   ],
-  "checked": "2026-11-05T11:28:17.907Z",
+  "checked": "2026-11-05T12:28:22.432Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -37,7 +37,7 @@
     "reach": 380
    }
   ],
-  "avg_watch_last_reels": 7.8
+  "avg_watch_last_reels": 7.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7385,6 +7385,11 @@
    "ts": "2026-11-05T11:28:16.224Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T12:28:20.696Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7395,7 +7400,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 148,
+   "views": 149,
    "likes": 5,
    "comments": 1
   },
@@ -7593,7 +7598,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1439,
+   "views": 1440,
    "likes": 13,
    "comments": 1
   },
