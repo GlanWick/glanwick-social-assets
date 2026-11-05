@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T19:57:37.020Z",
+ "updated": "2026-11-05T20:57:51.480Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-05T19:57:38.103Z",
+  "checked": "2026-11-05T20:57:52.784Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -7420,6 +7420,11 @@
    "ts": "2026-11-05T19:57:37.020Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T20:57:51.480Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7672,7 +7677,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1208,
+   "views": 1211,
    "likes": 10,
    "comments": 1
   },
