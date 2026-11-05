@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T18:57:20.160Z",
+ "updated": "2026-11-05T19:57:37.020Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-05T18:57:21.330Z",
+  "checked": "2026-11-05T19:57:38.103Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -7413,6 +7413,11 @@
   },
   {
    "ts": "2026-11-05T18:57:20.160Z",
+   "followers": 557,
+   "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T19:57:37.020Z",
    "followers": 557,
    "media_count": 231
   }
