@@ -1,16 +1,13 @@
 {
- "updated": "2026-11-04T23:34:19.156Z",
+ "updated": "2026-11-05T00:34:19.910Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
+   "Reichweite 2026-11-04: 372 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-04T23:34:20.245Z",
+  "checked": "2026-11-05T00:34:20.818Z",
   "reach_days": [
-   {
-    "day": "2026-10-28",
-    "reach": 3739
-   },
    {
     "day": "2026-10-29",
     "reach": 2044
@@ -34,6 +31,10 @@
    {
     "day": "2026-11-03",
     "reach": 1982
+   },
+   {
+    "day": "2026-11-04",
+    "reach": 372
    }
   ],
   "avg_watch_last_reels": 7.8
@@ -7324,6 +7325,11 @@
    "ts": "2026-11-04T23:34:19.156Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T00:34:19.910Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7389,7 +7395,7 @@
    "timestamp": "2026-11-02T14:30:41+0000",
    "type": "VIDEO",
    "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1351,
+   "views": 1352,
    "likes": 4,
    "comments": 1
   },
