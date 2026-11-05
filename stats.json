@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T20:57:51.480Z",
+ "updated": "2026-11-05T21:58:06.470Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-05T20:57:52.784Z",
+  "checked": "2026-11-05T21:58:08.227Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -7425,6 +7425,11 @@
    "ts": "2026-11-05T20:57:51.480Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T21:58:06.470Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7435,7 +7440,7 @@
    "timestamp": "2026-11-05T15:55:20+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 118,
+   "views": 119,
    "likes": 2,
    "comments": 0
   },
@@ -7633,7 +7638,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1654,
+   "views": 1655,
    "likes": 13,
    "comments": 2
   },
