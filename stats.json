@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T15:28:39.243Z",
+ "updated": "2026-11-05T16:28:46.083Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-04: 380 gegen Mittel 1476",
-   "Sehdauer letzte 3 Reels: 7.7 s"
+   "Sehdauer letzte 3 Reels: 5.1 s"
   ],
-  "checked": "2026-11-05T15:28:40.440Z",
+  "checked": "2026-11-05T16:28:47.166Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -37,7 +37,7 @@
     "reach": 380
    }
   ],
-  "avg_watch_last_reels": 7.7
+  "avg_watch_last_reels": 5.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -7405,9 +7405,25 @@
    "ts": "2026-11-05T15:28:39.243Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T16:28:46.083Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
+  {
+   "id": "18177742735451731",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DfXZilouOfv/",
+   "timestamp": "2026-11-05T15:55:20+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
+   "views": 40,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17957194293275775",
    "slug": "the-one-who-believed-2",
@@ -7836,17 +7852,6 @@
    "views": 1556,
    "likes": 26,
    "comments": 7
-  },
-  {
-   "id": "18089102651704777",
-   "slug": "stickman-losesevenup",
-   "permalink": "https://www.instagram.com/reel/Dez89xQiFvZ/",
-   "timestamp": "2026-10-22T21:30:54+0000",
-   "type": "VIDEO",
-   "caption": "You lost 7 trades out of 10 and made $800.",
-   "views": 1506,
-   "likes": 10,
-   "comments": 1
   }
  ]
 }
