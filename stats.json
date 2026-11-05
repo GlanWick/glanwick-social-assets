@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T07:25:23.932Z",
+ "updated": "2026-11-05T08:25:26.941Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-04: 379 gegen Mittel 1476",
+   "Reichweite 2026-11-04: 380 gegen Mittel 1476",
    "Sehdauer letzte 3 Reels: 7.8 s"
   ],
-  "checked": "2026-11-05T07:25:24.932Z",
+  "checked": "2026-11-05T08:25:27.978Z",
   "reach_days": [
    {
     "day": "2026-10-29",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-11-04",
-    "reach": 379
+    "reach": 380
    }
   ],
   "avg_watch_last_reels": 7.8
@@ -7365,6 +7365,11 @@
    "ts": "2026-11-05T07:25:23.932Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-05T08:25:26.941Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7375,7 +7380,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 145,
+   "views": 147,
    "likes": 5,
    "comments": 1
   },
