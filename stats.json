@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T22:56:35.448Z",
+ "updated": "2026-11-06T23:56:47.760Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-05: 151 gegen Mittel 1198",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-06T22:56:37.529Z",
+  "checked": "2026-11-06T23:56:48.761Z",
   "reach_days": [
    {
     "day": "2026-10-30",
@@ -7535,6 +7535,11 @@
    "ts": "2026-11-06T22:56:35.448Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-06T23:56:47.760Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7743,8 +7748,8 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1656,
-   "likes": 13,
+   "views": 1657,
+   "likes": 14,
    "comments": 2
   },
   {
@@ -7754,7 +7759,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1440,
+   "views": 1441,
    "likes": 13,
    "comments": 1
   },
