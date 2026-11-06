@@ -1,17 +1,13 @@
 {
- "updated": "2026-11-05T23:58:34.596Z",
+ "updated": "2026-11-06T00:48:17.523Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-04: 380 gegen Mittel 1476",
+   "Reichweite 2026-11-05: 138 gegen Mittel 1198",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-05T23:58:35.900Z",
+  "checked": "2026-11-06T00:48:19.778Z",
   "reach_days": [
-   {
-    "day": "2026-10-29",
-    "reach": 2044
-   },
    {
     "day": "2026-10-30",
     "reach": 747
@@ -35,6 +31,10 @@
    {
     "day": "2026-11-04",
     "reach": 380
+   },
+   {
+    "day": "2026-11-05",
+    "reach": 138
    }
   ],
   "avg_watch_last_reels": 6.8
@@ -7440,6 +7440,11 @@
    "ts": "2026-11-05T23:58:34.596Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-06T00:48:17.523Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7472,7 +7477,7 @@
    "timestamp": "2026-11-03T22:30:50+0000",
    "type": "VIDEO",
    "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 309,
+   "views": 310,
    "likes": 0,
    "comments": 1
   },
