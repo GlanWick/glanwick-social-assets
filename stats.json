@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T00:48:17.523Z",
+ "updated": "2026-11-06T01:48:20.815Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-05: 138 gegen Mittel 1198",
+   "Reichweite 2026-11-05: 140 gegen Mittel 1198",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-06T00:48:19.778Z",
+  "checked": "2026-11-06T01:48:22.110Z",
   "reach_days": [
    {
     "day": "2026-10-30",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-11-05",
-    "reach": 138
+    "reach": 140
    }
   ],
   "avg_watch_last_reels": 6.8
@@ -7445,6 +7445,11 @@
    "ts": "2026-11-06T00:48:17.523Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-06T01:48:20.815Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7510,7 +7515,7 @@
    "timestamp": "2026-11-02T22:31:39+0000",
    "type": "VIDEO",
    "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1279,
+   "views": 1280,
    "likes": 4,
    "comments": 3
   },
