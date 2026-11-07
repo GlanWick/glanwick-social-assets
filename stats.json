@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T22:19:59.428Z",
+ "updated": "2026-11-07T23:20:18.652Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-06: 23 gegen Mittel 1099",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-07T22:20:00.531Z",
+  "checked": "2026-11-07T23:20:19.870Z",
   "reach_days": [
    {
     "day": "2026-10-31",
@@ -7655,6 +7655,11 @@
    "ts": "2026-11-07T22:19:59.428Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-07T23:20:18.652Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7676,7 +7681,7 @@
    "timestamp": "2026-11-04T02:18:39+0000",
    "type": "VIDEO",
    "caption": "Inspired by a true story.",
-   "views": 153,
+   "views": 154,
    "likes": 5,
    "comments": 1
   },
@@ -7830,7 +7835,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1597,
+   "views": 1598,
    "likes": 17,
    "comments": 1
   },
@@ -7863,7 +7868,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1658,
+   "views": 1659,
    "likes": 14,
    "comments": 2
   },
@@ -7984,7 +7989,7 @@
    "timestamp": "2026-10-23T11:31:43+0000",
    "type": "VIDEO",
    "caption": "Every market keeps its own clock. Check Global Trading Hours in @glanwick_com to",
-   "views": 1439,
+   "views": 1440,
    "likes": 19,
    "comments": 3
   },
