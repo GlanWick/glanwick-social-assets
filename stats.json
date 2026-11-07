@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T03:46:55.112Z",
+ "updated": "2026-11-07T04:47:05.985Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-06: 18 gegen Mittel 1099",
+   "Reichweite 2026-11-06: 20 gegen Mittel 1099",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-07T03:46:57.580Z",
+  "checked": "2026-11-07T04:47:06.908Z",
   "reach_days": [
    {
     "day": "2026-10-31",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-11-06",
-    "reach": 18
+    "reach": 20
    }
   ],
   "avg_watch_last_reels": 6.8
@@ -7560,6 +7560,11 @@
    "ts": "2026-11-07T03:46:55.112Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-07T04:47:05.985Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7724,7 +7729,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 331,
+   "views": 333,
    "likes": 4,
    "comments": 3
   },
@@ -7779,7 +7784,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1442,
+   "views": 1443,
    "likes": 13,
    "comments": 1
   },
