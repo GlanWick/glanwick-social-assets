@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T15:29:01.619Z",
+ "updated": "2026-11-07T16:29:28.218Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-06: 23 gegen Mittel 1099",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-07T15:29:02.967Z",
+  "checked": "2026-11-07T16:29:29.730Z",
   "reach_days": [
    {
     "day": "2026-10-31",
@@ -7620,6 +7620,11 @@
    "ts": "2026-11-07T15:29:01.619Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-07T16:29:28.218Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7751,7 +7756,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 648,
+   "views": 649,
    "likes": 11,
    "comments": 1
   },
@@ -7916,7 +7921,7 @@
    "timestamp": "2026-10-24T23:00:55+0000",
    "type": "VIDEO",
    "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1617,
+   "views": 1618,
    "likes": 20,
    "comments": 1
   },
