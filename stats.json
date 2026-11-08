@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T18:41:52.768Z",
+ "updated": "2026-11-08T19:42:05.881Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-07: 20 gegen Mittel 820",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-08T18:41:54.036Z",
+  "checked": "2026-11-08T19:42:07.200Z",
   "reach_days": [
    {
     "day": "2026-11-01",
@@ -7760,6 +7760,11 @@
    "ts": "2026-11-08T18:41:52.768Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-08T19:42:05.881Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7913,7 +7918,7 @@
    "timestamp": "2026-10-29T13:58:02+0000",
    "type": "VIDEO",
    "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1180,
+   "views": 1181,
    "likes": 6,
    "comments": 3
   },
