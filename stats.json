@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T15:52:16.921Z",
+ "updated": "2026-11-08T16:52:39.420Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-07: 20 gegen Mittel 820",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-08T15:52:18.013Z",
+  "checked": "2026-11-08T16:52:40.354Z",
   "reach_days": [
    {
     "day": "2026-11-01",
@@ -7745,6 +7745,11 @@
    "ts": "2026-11-08T15:52:16.921Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-08T16:52:39.420Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7799,7 +7804,7 @@
    "timestamp": "2026-11-03T12:45:24+0000",
    "type": "VIDEO",
    "caption": "Trading turns into gambling the moment nobody keeps score.",
-   "views": 125,
+   "views": 126,
    "likes": 3,
    "comments": 0
   },
@@ -7964,7 +7969,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1444,
+   "views": 1445,
    "likes": 13,
    "comments": 1
   },
