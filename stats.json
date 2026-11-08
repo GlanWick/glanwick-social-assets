@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T12:01:23.796Z",
+ "updated": "2026-11-08T12:51:04.953Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-07: 20 gegen Mittel 820",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-08T12:01:25.130Z",
+  "checked": "2026-11-08T12:51:06.660Z",
   "reach_days": [
    {
     "day": "2026-11-01",
@@ -7725,6 +7725,11 @@
    "ts": "2026-11-08T12:01:23.796Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-08T12:51:04.953Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7933,7 +7938,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1662,
+   "views": 1663,
    "likes": 14,
    "comments": 2
   },
@@ -8010,7 +8015,7 @@
    "timestamp": "2026-10-25T12:00:39+0000",
    "type": "VIDEO",
    "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1830,
+   "views": 1831,
    "likes": 23,
    "comments": 2
   },
