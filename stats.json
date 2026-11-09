@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-09T17:15:50.148Z",
+ "updated": "2026-11-09T18:10:40.600Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-08: 30 gegen Mittel 584",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-09T17:15:51.206Z",
+  "checked": "2026-11-09T18:10:42.011Z",
   "reach_days": [
    {
     "day": "2026-11-02",
@@ -7875,6 +7875,11 @@
    "ts": "2026-11-09T17:15:50.148Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-09T18:10:40.600Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -7918,7 +7923,7 @@
    "timestamp": "2026-11-03T14:40:52+0000",
    "type": "VIDEO",
    "caption": "You doubled your trades from 5 a day to 10, and your +$500 week became −$250.",
-   "views": 780,
+   "views": 781,
    "likes": 5,
    "comments": 4
   },
@@ -8006,7 +8011,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 654,
+   "views": 655,
    "likes": 11,
    "comments": 1
   },
@@ -8138,7 +8143,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1524,
+   "views": 1525,
    "likes": 14,
    "comments": 4
   },
