@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10T21:45:13.226Z",
+ "updated": "2026-11-10T22:35:20.414Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-09: 23 gegen Mittel 431",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-10T21:45:14.142Z",
+  "checked": "2026-11-10T22:35:21.745Z",
   "reach_days": [
    {
     "day": "2026-11-03",
@@ -7995,6 +7995,11 @@
    "ts": "2026-11-10T21:45:13.226Z",
    "followers": 558,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-10T22:35:20.414Z",
+   "followers": 558,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -8258,7 +8263,7 @@
    "timestamp": "2026-10-26T12:00:42+0000",
    "type": "VIDEO",
    "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1525,
+   "views": 1526,
    "likes": 14,
    "comments": 4
   },
