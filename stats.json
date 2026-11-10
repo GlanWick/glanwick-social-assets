@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10T18:44:50.836Z",
+ "updated": "2026-11-10T19:44:57.983Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-09: 23 gegen Mittel 431",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-10T18:44:51.879Z",
+  "checked": "2026-11-10T19:44:58.949Z",
   "reach_days": [
    {
     "day": "2026-11-03",
@@ -7980,6 +7980,11 @@
    "ts": "2026-11-10T18:44:50.836Z",
    "followers": 558,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-10T19:44:57.983Z",
+   "followers": 558,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -8155,7 +8160,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1606,
+   "views": 1607,
    "likes": 18,
    "comments": 1
   },
@@ -8375,7 +8380,7 @@
    "timestamp": "2026-10-23T01:32:51+0000",
    "type": "VIDEO",
    "caption": "You win 3 trades in 4, and every 4 trades lose $48.",
-   "views": 1679,
+   "views": 1680,
    "likes": 18,
    "comments": 2
   },
