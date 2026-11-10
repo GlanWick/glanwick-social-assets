@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10T06:37:39.371Z",
+ "updated": "2026-11-10T08:48:47.823Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-09: 22 gegen Mittel 431",
+   "Reichweite 2026-11-09: 23 gegen Mittel 431",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-10T06:37:40.336Z",
+  "checked": "2026-11-10T08:48:48.842Z",
   "reach_days": [
    {
     "day": "2026-11-03",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-11-09",
-    "reach": 22
+    "reach": 23
    }
   ],
   "avg_watch_last_reels": 6.8
@@ -42,7 +42,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 556,
+  "followers": 555,
   "media_count": 231
  },
  "history": [
@@ -7934,6 +7934,11 @@
   {
    "ts": "2026-11-10T06:37:39.371Z",
    "followers": 556,
+   "media_count": 231
+  },
+  {
+   "ts": "2026-11-10T08:48:47.823Z",
+   "followers": 555,
    "media_count": 231
   }
  ],
