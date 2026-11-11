@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T21:58:08.910Z",
+ "updated": "2026-11-11T23:19:32.627Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-10: 18 gegen Mittel 105",
-   "Sehdauer letzte 3 Reels: 6.8 s"
+   "Sehdauer letzte 3 Reels: 4.1 s"
   ],
-  "checked": "2026-11-11T21:58:10.007Z",
+  "checked": "2026-11-11T23:19:33.548Z",
   "reach_days": [
    {
     "day": "2026-11-04",
@@ -37,13 +37,13 @@
     "reach": 18
    }
   ],
-  "avg_watch_last_reels": 6.8
+  "avg_watch_last_reels": 4.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 555,
-  "media_count": 231
+  "media_count": 230
  },
  "history": [
   {
@@ -8115,9 +8115,25 @@
    "ts": "2026-11-11T21:58:08.910Z",
    "followers": 555,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-11T23:19:32.627Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "18084465098543436",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DfnjsFbn7wc/",
+   "timestamp": "2026-11-11T22:31:16+0000",
+   "type": "VIDEO",
+   "caption": "Plan, what happened, which rule: three lines after every trade are the whole tra",
+   "views": 86,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18177742735451731",
    "slug": null,
@@ -8128,17 +8144,6 @@
    "views": 120,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "17957194293275775",
-   "slug": "the-one-who-believed-2",
-   "permalink": "https://www.instagram.com/reel/DfTXb99E6pI/",
-   "timestamp": "2026-11-04T02:18:39+0000",
-   "type": "VIDEO",
-   "caption": "Inspired by a true story.",
-   "views": 156,
-   "likes": 5,
-   "comments": 1
   },
   {
    "id": "17955433233344599",
@@ -8389,7 +8394,7 @@
    "timestamp": "2026-10-25T23:01:30+0000",
    "type": "VIDEO",
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 209,
+   "views": 210,
    "likes": 3,
    "comments": 1
   },
