@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T06:26:16.270Z",
+ "updated": "2026-11-11T07:26:26.571Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-10: 15 gegen Mittel 105",
+   "Reichweite 2026-11-10: 17 gegen Mittel 105",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-11T06:26:17.077Z",
+  "checked": "2026-11-11T07:26:27.727Z",
   "reach_days": [
    {
     "day": "2026-11-04",
@@ -34,7 +34,7 @@
    },
    {
     "day": "2026-11-10",
-    "reach": 15
+    "reach": 17
    }
   ],
   "avg_watch_last_reels": 6.8
@@ -8040,6 +8040,11 @@
    "ts": "2026-11-11T06:26:16.270Z",
    "followers": 558,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-11T07:26:26.571Z",
+   "followers": 558,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -8215,7 +8220,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1609,
+   "views": 1610,
    "likes": 18,
    "comments": 1
   },
@@ -8259,7 +8264,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1455,
+   "views": 1456,
    "likes": 15,
    "comments": 1
   },
