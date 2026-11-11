@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T15:17:32.986Z",
+ "updated": "2026-11-11T16:57:40.827Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-10: 18 gegen Mittel 105",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-11T15:17:33.963Z",
+  "checked": "2026-11-11T16:57:41.705Z",
   "reach_days": [
    {
     "day": "2026-11-04",
@@ -8085,6 +8085,11 @@
    "ts": "2026-11-11T15:17:32.986Z",
    "followers": 557,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-11T16:57:40.827Z",
+   "followers": 557,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -8293,7 +8298,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1670,
+   "views": 1671,
    "likes": 15,
    "comments": 2
   },
