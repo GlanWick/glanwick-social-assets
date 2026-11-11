@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T00:35:48.171Z",
+ "updated": "2026-11-11T01:35:59.724Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-10: 13 gegen Mittel 105",
    "Sehdauer letzte 3 Reels: 6.8 s"
   ],
-  "checked": "2026-11-11T00:35:49.652Z",
+  "checked": "2026-11-11T01:36:00.538Z",
   "reach_days": [
    {
     "day": "2026-11-04",
@@ -8010,6 +8010,11 @@
    "ts": "2026-11-11T00:35:48.171Z",
    "followers": 558,
    "media_count": 231
+  },
+  {
+   "ts": "2026-11-11T01:35:59.724Z",
+   "followers": 558,
+   "media_count": 231
   }
  ],
  "posts": [
@@ -8185,7 +8190,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1607,
+   "views": 1609,
    "likes": 18,
    "comments": 1
   },
