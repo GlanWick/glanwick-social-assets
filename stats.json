@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T22:00:52.394Z",
+ "updated": "2026-11-12T23:01:20.862Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 4.5 s"
+   "Sehdauer letzte 3 Reels: 2.7 s"
   ],
-  "checked": "2026-11-12T22:00:53.656Z",
+  "checked": "2026-11-12T23:01:22.640Z",
   "reach_days": [
    {
     "day": "2026-11-05",
@@ -36,7 +36,7 @@
     "reach": 121
    }
   ],
-  "avg_watch_last_reels": 4.5
+  "avg_watch_last_reels": 2.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8219,9 +8219,25 @@
    "ts": "2026-11-12T22:00:52.394Z",
    "followers": 554,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-12T23:01:20.862Z",
+   "followers": 554,
+   "media_count": 230
   }
  ],
  "posts": [
+  {
+   "id": "17912244642595246",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DfqLWxHuiZS/",
+   "timestamp": "2026-11-12T22:56:57+0000",
+   "type": "VIDEO",
+   "caption": "Trading? This is for Traders by Traders. Therefore, @glanwick_com invites you to",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18084465098543436",
    "slug": null,
@@ -8350,7 +8366,7 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 665,
+   "views": 667,
    "likes": 13,
    "comments": 3
   },
@@ -8383,7 +8399,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 337,
+   "views": 338,
    "likes": 5,
    "comments": 3
   },
@@ -8650,17 +8666,6 @@
    "views": 451,
    "likes": 7,
    "comments": 1
-  },
-  {
-   "id": "18135554680677754",
-   "slug": "glanwick-laptop-r1-B-western-10s6",
-   "permalink": "https://www.instagram.com/reel/De0D7HHDMmd/",
-   "timestamp": "2026-10-22T22:31:47+0000",
-   "type": "VIDEO",
-   "caption": "Paper trading gets a lot more honest once fees show up. In the Trade Simulator a",
-   "views": 1556,
-   "likes": 26,
-   "comments": 7
   }
  ]
 }
