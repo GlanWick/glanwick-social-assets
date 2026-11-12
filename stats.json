@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T10:12:13.410Z",
+ "updated": "2026-11-12T12:06:22.036Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 4.5 s"
   ],
-  "checked": "2026-11-12T10:12:16.369Z",
+  "checked": "2026-11-12T12:06:23.320Z",
   "reach_days": [
    {
     "day": "2026-11-05",
@@ -8174,6 +8174,11 @@
    "ts": "2026-11-12T10:12:13.410Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-12T12:06:22.036Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8338,7 +8343,7 @@
    "timestamp": "2026-10-29T12:01:02+0000",
    "type": "VIDEO",
    "caption": "Your month with 85 % winners lost $650. Your month with 40 % winners made $1,200",
-   "views": 336,
+   "views": 337,
    "likes": 5,
    "comments": 3
   },
