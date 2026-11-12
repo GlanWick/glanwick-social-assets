@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T07:10:59.518Z",
+ "updated": "2026-11-12T08:11:22.923Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 4.5 s"
   ],
-  "checked": "2026-11-12T07:11:01.810Z",
+  "checked": "2026-11-12T08:11:23.894Z",
   "reach_days": [
    {
     "day": "2026-11-05",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-11",
-    "reach": 120
+    "reach": 121
    }
   ],
   "avg_watch_last_reels": 4.5
@@ -8159,6 +8159,11 @@
    "ts": "2026-11-12T07:10:59.518Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-12T08:11:22.923Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8378,7 +8383,7 @@
    "timestamp": "2026-10-27T23:00:58+0000",
    "type": "VIDEO",
    "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1457,
+   "views": 1458,
    "likes": 15,
    "comments": 1
   },
