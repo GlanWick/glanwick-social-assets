@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T15:06:37.679Z",
+ "updated": "2026-11-12T16:06:43.823Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 4.5 s"
   ],
-  "checked": "2026-11-12T15:06:39.107Z",
+  "checked": "2026-11-12T16:06:45.006Z",
   "reach_days": [
    {
     "day": "2026-11-05",
@@ -8194,6 +8194,11 @@
    "ts": "2026-11-12T15:06:37.679Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-12T16:06:43.823Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8325,8 +8330,8 @@
    "timestamp": "2026-10-30T12:00:46+0000",
    "type": "VIDEO",
    "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 662,
-   "likes": 12,
+   "views": 664,
+   "likes": 13,
    "comments": 3
   },
   {
@@ -8600,7 +8605,7 @@
    "timestamp": "2026-10-22T23:46:26+0000",
    "type": "VIDEO",
    "caption": "GlanWick is for traders by traders and is already used by traders in the US, Can",
-   "views": 168,
+   "views": 171,
    "likes": 0,
    "comments": 0
   },
