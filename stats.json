@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T05:10:16.327Z",
+ "updated": "2026-11-12T06:10:36.185Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 4.3 s"
   ],
-  "checked": "2026-11-12T05:10:17.450Z",
+  "checked": "2026-11-12T06:10:37.260Z",
   "reach_days": [
    {
     "day": "2026-11-05",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-11",
-    "reach": 117
+    "reach": 118
    }
   ],
   "avg_watch_last_reels": 4.3
@@ -8149,6 +8149,11 @@
    "ts": "2026-11-12T05:10:16.327Z",
    "followers": 555,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-12T06:10:36.185Z",
+   "followers": 555,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8159,7 +8164,7 @@
    "timestamp": "2026-11-11T22:31:16+0000",
    "type": "VIDEO",
    "caption": "Plan, what happened, which rule: three lines after every trade are the whole tra",
-   "views": 117,
+   "views": 118,
    "likes": 0,
    "comments": 0
   },
