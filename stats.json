@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T05:52:09.211Z",
+ "updated": "2026-11-13T06:52:18.592Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 3.5 s"
   ],
-  "checked": "2026-11-13T05:52:10.344Z",
+  "checked": "2026-11-13T06:52:19.496Z",
   "reach_days": [
    {
     "day": "2026-11-06",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-12",
-    "reach": 87
+    "reach": 107
    }
   ],
   "avg_watch_last_reels": 3.5
@@ -8259,6 +8259,11 @@
    "ts": "2026-11-13T05:52:09.211Z",
    "followers": 553,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-13T06:52:18.592Z",
+   "followers": 553,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8269,7 +8274,7 @@
    "timestamp": "2026-11-12T22:56:57+0000",
    "type": "VIDEO",
    "caption": "Trading? This is for Traders by Traders. Therefore, @glanwick_com invites you to",
-   "views": 82,
+   "views": 101,
    "likes": 1,
    "comments": 0
   },
@@ -8280,7 +8285,7 @@
    "timestamp": "2026-11-11T22:31:16+0000",
    "type": "VIDEO",
    "caption": "Plan, what happened, which rule: three lines after every trade are the whole tra",
-   "views": 120,
+   "views": 121,
    "likes": 0,
    "comments": 0
   },
