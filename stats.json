@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T12:43:19.387Z",
+ "updated": "2026-11-13T15:52:12.554Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 3.4 s"
   ],
-  "checked": "2026-11-13T12:43:20.216Z",
+  "checked": "2026-11-13T15:52:13.490Z",
   "reach_days": [
    {
     "day": "2026-11-06",
@@ -41,7 +41,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 553,
+  "followers": 552,
   "media_count": 0
  },
  "history": [
@@ -8294,6 +8294,11 @@
    "ts": "2026-11-13T12:43:19.387Z",
    "followers": 553,
    "media_count": 0
+  },
+  {
+   "ts": "2026-11-13T15:52:12.554Z",
+   "followers": 552,
+   "media_count": 0
   }
  ],
  "posts": [
@@ -8513,7 +8518,7 @@
    "timestamp": "2026-10-28T12:01:20+0000",
    "type": "VIDEO",
    "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1671,
+   "views": 1672,
    "likes": 15,
    "comments": 2
   },
