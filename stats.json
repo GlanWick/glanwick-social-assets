@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T10:42:48.754Z",
+ "updated": "2026-11-13T11:43:03.697Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 3.4 s"
   ],
-  "checked": "2026-11-13T10:42:49.548Z",
+  "checked": "2026-11-13T11:43:05.194Z",
   "reach_days": [
    {
     "day": "2026-11-06",
@@ -42,7 +42,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 230
+  "media_count": 175
  },
  "history": [
   {
@@ -8284,6 +8284,11 @@
    "ts": "2026-11-13T10:42:48.754Z",
    "followers": 553,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-13T11:43:03.697Z",
+   "followers": 553,
+   "media_count": 175
   }
  ],
  "posts": [
