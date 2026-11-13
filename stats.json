@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T18:52:26.426Z",
+ "updated": "2026-11-13T19:52:30.966Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 3.4 s"
   ],
-  "checked": "2026-11-13T18:52:27.174Z",
+  "checked": "2026-11-13T19:52:31.889Z",
   "reach_days": [
    {
     "day": "2026-11-06",
@@ -8314,6 +8314,11 @@
    "ts": "2026-11-13T18:52:26.426Z",
    "followers": 552,
    "media_count": 0
+  },
+  {
+   "ts": "2026-11-13T19:52:30.966Z",
+   "followers": 552,
+   "media_count": 0
   }
  ],
  "posts": [
@@ -8522,7 +8527,7 @@
    "timestamp": "2026-10-28T12:30:53+0000",
    "type": "VIDEO",
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
-   "views": 197,
+   "views": 198,
    "likes": 2,
    "comments": 1
   },
