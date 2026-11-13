@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T01:51:18.472Z",
+ "updated": "2026-11-13T02:51:37.873Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 3.4 s"
+   "Sehdauer letzte 3 Reels: 3.5 s"
   ],
-  "checked": "2026-11-13T01:51:22.292Z",
+  "checked": "2026-11-13T02:51:39.344Z",
   "reach_days": [
    {
     "day": "2026-11-06",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-12",
-    "reach": 34
+    "reach": 41
    }
   ],
-  "avg_watch_last_reels": 3.4
+  "avg_watch_last_reels": 3.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8239,6 +8239,11 @@
    "ts": "2026-11-13T01:51:18.472Z",
    "followers": 553,
    "media_count": 230
+  },
+  {
+   "ts": "2026-11-13T02:51:37.873Z",
+   "followers": 553,
+   "media_count": 230
   }
  ],
  "posts": [
@@ -8249,8 +8254,8 @@
    "timestamp": "2026-11-12T22:56:57+0000",
    "type": "VIDEO",
    "caption": "Trading? This is for Traders by Traders. Therefore, @glanwick_com invites you to",
-   "views": 20,
-   "likes": 0,
+   "views": 32,
+   "likes": 1,
    "comments": 0
   },
   {
