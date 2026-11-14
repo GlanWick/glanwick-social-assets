@@ -1,12 +1,11 @@
 {
- "updated": "2026-11-14T22:11:36.531Z",
+ "updated": "2026-11-14T23:12:00.439Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-13: 18 gegen Mittel 56",
-   "Sehdauer letzte 3 Reels: 3.4 s"
+   "Reichweite 2026-11-13: 18 gegen Mittel 56"
   ],
-  "checked": "2026-11-14T22:11:37.742Z",
+  "checked": "2026-11-14T23:12:01.358Z",
   "reach_days": [
    {
     "day": "2026-11-07",
@@ -37,13 +36,13 @@
     "reach": 18
    }
   ],
-  "avg_watch_last_reels": 3.4
+  "avg_watch_last_reels": 12
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 0
+  "media_count": 1
  },
  "history": [
   {
@@ -8455,9 +8454,25 @@
    "ts": "2026-11-14T22:11:36.531Z",
    "followers": 553,
    "media_count": 0
+  },
+  {
+   "ts": "2026-11-14T23:12:00.439Z",
+   "followers": 553,
+   "media_count": 1
   }
  ],
  "posts": [
+  {
+   "id": "18598954342068107",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DfvTCXAEoW8/",
+   "timestamp": "2026-11-14T22:39:17+0000",
+   "type": "VIDEO",
+   "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
+   "views": 24,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "17912244642595246",
    "slug": null,
@@ -8886,17 +8901,6 @@
    "views": 1168,
    "likes": 6,
    "comments": 2
-  },
-  {
-   "id": "18117168842095696",
-   "slug": "stickman-openrisk",
-   "permalink": "https://www.instagram.com/reel/De0HP9hjlT-/",
-   "timestamp": "2026-10-22T23:00:49+0000",
-   "type": "VIDEO",
-   "caption": "You risk 2 % a trade, and one Friday took 16 % of your account.",
-   "views": 451,
-   "likes": 7,
-   "comments": 1
   }
  ]
 }
