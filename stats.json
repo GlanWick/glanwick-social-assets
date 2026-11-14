@@ -1,16 +1,13 @@
 {
- "updated": "2026-11-13T23:47:24.732Z",
+ "updated": "2026-11-14T00:47:38.072Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
+   "Reichweite 2026-11-13: 13 gegen Mittel 56",
    "Sehdauer letzte 3 Reels: 3.4 s"
   ],
-  "checked": "2026-11-13T23:47:27.080Z",
+  "checked": "2026-11-14T00:47:39.010Z",
   "reach_days": [
-   {
-    "day": "2026-11-06",
-    "reach": 23
-   },
    {
     "day": "2026-11-07",
     "reach": 20
@@ -34,6 +31,10 @@
    {
     "day": "2026-11-12",
     "reach": 121
+   },
+   {
+    "day": "2026-11-13",
+    "reach": 13
    }
   ],
   "avg_watch_last_reels": 3.4
@@ -8339,6 +8340,11 @@
    "ts": "2026-11-13T23:47:24.732Z",
    "followers": 552,
    "media_count": 0
+  },
+  {
+   "ts": "2026-11-14T00:47:38.072Z",
+   "followers": 552,
+   "media_count": 0
   }
  ],
  "posts": [
@@ -8745,7 +8751,7 @@
    "timestamp": "2026-10-23T01:32:51+0000",
    "type": "VIDEO",
    "caption": "You win 3 trades in 4, and every 4 trades lose $48.",
-   "views": 1680,
+   "views": 1681,
    "likes": 18,
    "comments": 2
   },
