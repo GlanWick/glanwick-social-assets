@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T08:52:37.791Z",
+ "updated": "2026-11-15T09:52:59.971Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-11-15T08:52:38.619Z",
+  "checked": "2026-11-15T09:53:00.937Z",
   "reach_days": [
    {
     "day": "2026-11-08",
@@ -8509,6 +8509,11 @@
    "ts": "2026-11-15T08:52:37.791Z",
    "followers": 552,
    "media_count": 1
+  },
+  {
+   "ts": "2026-11-15T09:52:59.971Z",
+   "followers": 552,
+   "media_count": 1
   }
  ],
  "posts": [
@@ -8519,7 +8524,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 178,
+   "views": 179,
    "likes": 4,
    "comments": 2
   },
