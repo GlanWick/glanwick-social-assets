@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T15:43:30.179Z",
+ "updated": "2026-11-15T16:43:48.930Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.4 s"
   ],
-  "checked": "2026-11-15T15:43:31.771Z",
+  "checked": "2026-11-15T16:43:50.222Z",
   "reach_days": [
    {
     "day": "2026-11-08",
@@ -8544,6 +8544,11 @@
    "ts": "2026-11-15T15:43:30.179Z",
    "followers": 552,
    "media_count": 2
+  },
+  {
+   "ts": "2026-11-15T16:43:48.930Z",
+   "followers": 552,
+   "media_count": 2
   }
  ],
  "posts": [
@@ -8554,7 +8559,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 28,
+   "views": 34,
    "likes": 2,
    "comments": 0
   },
@@ -8565,7 +8570,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 186,
+   "views": 187,
    "likes": 4,
    "comments": 2
   },
