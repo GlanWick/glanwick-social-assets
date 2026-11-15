@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T01:12:44.426Z",
+ "updated": "2026-11-15T02:13:08.243Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.7 s"
+   "Sehdauer letzte 3 Reels: 7.6 s"
   ],
-  "checked": "2026-11-15T01:12:45.293Z",
+  "checked": "2026-11-15T02:13:10.082Z",
   "reach_days": [
    {
     "day": "2026-11-08",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-14",
-    "reach": 132
+    "reach": 135
    }
   ],
-  "avg_watch_last_reels": 7.7
+  "avg_watch_last_reels": 7.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8469,6 +8469,11 @@
    "ts": "2026-11-15T01:12:44.426Z",
    "followers": 553,
    "media_count": 1
+  },
+  {
+   "ts": "2026-11-15T02:13:08.243Z",
+   "followers": 553,
+   "media_count": 1
   }
  ],
  "posts": [
@@ -8479,7 +8484,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 166,
+   "views": 169,
    "likes": 3,
    "comments": 2
   },
