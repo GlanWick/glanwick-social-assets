@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T09:52:59.971Z",
+ "updated": "2026-11-15T10:53:22.379Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.6 s"
+   "Sehdauer letzte 3 Reels: 7.5 s"
   ],
-  "checked": "2026-11-15T09:53:00.937Z",
+  "checked": "2026-11-15T10:53:23.585Z",
   "reach_days": [
    {
     "day": "2026-11-08",
@@ -36,7 +36,7 @@
     "reach": 140
    }
   ],
-  "avg_watch_last_reels": 7.6
+  "avg_watch_last_reels": 7.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8512,6 +8512,11 @@
   },
   {
    "ts": "2026-11-15T09:52:59.971Z",
+   "followers": 552,
+   "media_count": 1
+  },
+  {
+   "ts": "2026-11-15T10:53:22.379Z",
    "followers": 552,
    "media_count": 1
   }
