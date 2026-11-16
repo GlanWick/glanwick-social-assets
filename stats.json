@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T10:15:42.803Z",
+ "updated": "2026-11-16T11:15:56.245Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 7.4 s"
   ],
-  "checked": "2026-11-16T10:15:44.045Z",
+  "checked": "2026-11-16T11:15:57.021Z",
   "reach_days": [
    {
     "day": "2026-11-09",
@@ -8639,6 +8639,11 @@
    "ts": "2026-11-16T10:15:42.803Z",
    "followers": 551,
    "media_count": 2
+  },
+  {
+   "ts": "2026-11-16T11:15:56.245Z",
+   "followers": 551,
+   "media_count": 2
   }
  ],
  "posts": [
@@ -8649,7 +8654,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 63,
+   "views": 64,
    "likes": 3,
    "comments": 2
   },
