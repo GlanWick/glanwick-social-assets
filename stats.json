@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T22:40:40.064Z",
+ "updated": "2026-11-16T23:40:56.020Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-16T22:40:40.992Z",
+  "checked": "2026-11-16T23:40:57.740Z",
   "reach_days": [
    {
     "day": "2026-11-09",
@@ -34,7 +34,7 @@
     "reach": 38
    }
   ],
-  "avg_watch_last_reels": 24.9
+  "avg_watch_last_reels": 12.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8697,6 +8697,11 @@
    "ts": "2026-11-16T22:40:40.064Z",
    "followers": 551,
    "media_count": 3
+  },
+  {
+   "ts": "2026-11-16T23:40:56.020Z",
+   "followers": 551,
+   "media_count": 3
   }
  ],
  "posts": [
@@ -8707,9 +8712,9 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 96,
-   "likes": 1,
-   "comments": 0
+   "views": 686,
+   "likes": 8,
+   "comments": 4
   },
   {
    "id": "18015370865767014",
@@ -8718,8 +8723,8 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 67,
-   "likes": 3,
+   "views": 72,
+   "likes": 4,
    "comments": 2
   },
   {
@@ -8729,7 +8734,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 195,
+   "views": 196,
    "likes": 5,
    "comments": 2
   },
