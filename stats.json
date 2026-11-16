@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-16T21:40:25.542Z",
+ "updated": "2026-11-16T22:40:40.064Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Sehdauer letzte 3 Reels: 7.3 s"
-  ],
-  "checked": "2026-11-16T21:40:26.519Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-11-16T22:40:40.992Z",
   "reach_days": [
    {
     "day": "2026-11-09",
@@ -36,13 +34,13 @@
     "reach": 38
    }
   ],
-  "avg_watch_last_reels": 7.3
+  "avg_watch_last_reels": 24.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 551,
-  "media_count": 2
+  "media_count": 3
  },
  "history": [
   {
@@ -8694,9 +8692,25 @@
    "ts": "2026-11-16T21:40:25.542Z",
    "followers": 551,
    "media_count": 2
+  },
+  {
+   "ts": "2026-11-16T22:40:40.064Z",
+   "followers": 551,
+   "media_count": 3
   }
  ],
  "posts": [
+  {
+   "id": "18133840903782469",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df0YgbqlGsD/",
+   "timestamp": "2026-11-16T22:02:49+0000",
+   "type": "VIDEO",
+   "caption": "If you trade, you know those nights.",
+   "views": 96,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18015370865767014",
    "slug": null,
@@ -8704,7 +8718,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 64,
+   "views": 67,
    "likes": 3,
    "comments": 2
   },
@@ -8715,8 +8729,8 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 193,
-   "likes": 4,
+   "views": 195,
+   "likes": 5,
    "comments": 2
   },
   {
@@ -9125,17 +9139,6 @@
    "views": 1681,
    "likes": 18,
    "comments": 2
-  },
-  {
-   "id": "18501952171098966",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/De0LmuCMQat/",
-   "timestamp": "2026-10-22T23:46:26+0000",
-   "type": "VIDEO",
-   "caption": "GlanWick is for traders by traders and is already used by traders in the US, Can",
-   "views": 171,
-   "likes": 0,
-   "comments": 0
   }
  ]
 }
