@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T12:58:59.824Z",
+ "updated": "2026-11-17T13:59:08.493Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-17T12:59:01.540Z",
+  "checked": "2026-11-17T13:59:09.636Z",
   "reach_days": [
    {
     "day": "2026-11-10",
@@ -34,7 +34,7 @@
     "reach": 1239
    }
   ],
-  "avg_watch_last_reels": 13.7
+  "avg_watch_last_reels": 13.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8752,6 +8752,11 @@
    "ts": "2026-11-17T12:58:59.824Z",
    "followers": 553,
    "media_count": 3
+  },
+  {
+   "ts": "2026-11-17T13:59:08.493Z",
+   "followers": 553,
+   "media_count": 3
   }
  ],
  "posts": [
@@ -8762,7 +8767,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1682,
+   "views": 1700,
    "likes": 20,
    "comments": 6
   },
