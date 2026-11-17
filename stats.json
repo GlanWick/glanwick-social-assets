@@ -1,14 +1,10 @@
 {
- "updated": "2026-11-16T23:40:56.020Z",
+ "updated": "2026-11-17T00:41:15.141Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-16T23:40:57.740Z",
+  "checked": "2026-11-17T00:41:16.681Z",
   "reach_days": [
-   {
-    "day": "2026-11-09",
-    "reach": 23
-   },
    {
     "day": "2026-11-10",
     "reach": 18
@@ -32,14 +28,18 @@
    {
     "day": "2026-11-15",
     "reach": 38
+   },
+   {
+    "day": "2026-11-16",
+    "reach": 1127
    }
   ],
-  "avg_watch_last_reels": 12.9
+  "avg_watch_last_reels": 13.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 551,
+  "followers": 552,
   "media_count": 3
  },
  "history": [
@@ -8702,6 +8702,11 @@
    "ts": "2026-11-16T23:40:56.020Z",
    "followers": 551,
    "media_count": 3
+  },
+  {
+   "ts": "2026-11-17T00:41:15.141Z",
+   "followers": 552,
+   "media_count": 3
   }
  ],
  "posts": [
@@ -8712,8 +8717,8 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 686,
-   "likes": 8,
+   "views": 1481,
+   "likes": 17,
    "comments": 4
   },
   {
