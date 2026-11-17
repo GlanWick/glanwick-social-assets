@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T22:39:41.852Z",
+ "updated": "2026-11-17T23:40:05.919Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-17T22:39:43.154Z",
+  "checked": "2026-11-17T23:40:06.960Z",
   "reach_days": [
    {
     "day": "2026-11-10",
@@ -34,13 +34,13 @@
     "reach": 1239
    }
   ],
-  "avg_watch_last_reels": 13.8
+  "avg_watch_last_reels": 13.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 3
+  "media_count": 4
  },
  "history": [
   {
@@ -8787,9 +8787,25 @@
    "ts": "2026-11-17T22:39:41.852Z",
    "followers": 553,
    "media_count": 3
+  },
+  {
+   "ts": "2026-11-17T23:40:05.919Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
+  {
+   "id": "18442491763194462",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df3IVx3CbnZ/",
+   "timestamp": "2026-11-17T23:39:30+0000",
+   "type": "VIDEO",
+   "caption": "Every trader has that one friend who asks: “Still gambling?”",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18133840903782469",
    "slug": null,
@@ -8797,7 +8813,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1853,
+   "views": 1856,
    "likes": 22,
    "comments": 6
   },
@@ -9217,17 +9233,6 @@
    "caption": "The stock went up 5 % and fell back to your entry, and you're $476 down.",
    "views": 368,
    "likes": 4,
-   "comments": 2
-  },
-  {
-   "id": "18019868009939497",
-   "slug": "stickman-threeinfour",
-   "permalink": "https://www.instagram.com/reel/De0YpWEipsm/",
-   "timestamp": "2026-10-23T01:32:51+0000",
-   "type": "VIDEO",
-   "caption": "You win 3 trades in 4, and every 4 trades lose $48.",
-   "views": 1681,
-   "likes": 18,
    "comments": 2
   }
  ]
