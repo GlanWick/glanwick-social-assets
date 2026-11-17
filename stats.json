@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T04:10:54.941Z",
+ "updated": "2026-11-17T05:11:20.257Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-17T04:10:55.821Z",
+  "checked": "2026-11-17T05:11:21.787Z",
   "reach_days": [
    {
     "day": "2026-11-10",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-16",
-    "reach": 1186
+    "reach": 1197
    }
   ],
   "avg_watch_last_reels": 13.6
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 552,
+  "followers": 553,
   "media_count": 3
  },
  "history": [
@@ -8722,6 +8722,11 @@
    "ts": "2026-11-17T04:10:54.941Z",
    "followers": 552,
    "media_count": 3
+  },
+  {
+   "ts": "2026-11-17T05:11:20.257Z",
+   "followers": 553,
+   "media_count": 3
   }
  ],
  "posts": [
@@ -8732,8 +8737,8 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1543,
-   "likes": 17,
+   "views": 1556,
+   "likes": 18,
    "comments": 4
   },
   {
@@ -8743,7 +8748,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 72,
+   "views": 74,
    "likes": 4,
    "comments": 2
   },
