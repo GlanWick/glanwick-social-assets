@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T10:40:50.149Z",
+ "updated": "2026-11-18T11:40:51.544Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-18T10:40:51.115Z",
+  "checked": "2026-11-18T11:40:52.628Z",
   "reach_days": [
    {
     "day": "2026-11-11",
@@ -8837,6 +8837,11 @@
    "ts": "2026-11-18T10:40:50.149Z",
    "followers": 553,
    "media_count": 4
+  },
+  {
+   "ts": "2026-11-18T11:40:51.544Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
@@ -8869,7 +8874,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 86,
+   "views": 88,
    "likes": 5,
    "comments": 3
   },
@@ -9067,7 +9072,7 @@
    "timestamp": "2026-10-28T23:01:10+0000",
    "type": "VIDEO",
    "caption": "Your target is $50, your stop is $300, and 85 wins in 100 still lose $250.",
-   "views": 1613,
+   "views": 1614,
    "likes": 18,
    "comments": 1
   },
