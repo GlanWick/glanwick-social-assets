@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T07:37:51.457Z",
+ "updated": "2026-11-18T10:40:50.149Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-18T07:37:53.411Z",
+  "checked": "2026-11-18T10:40:51.115Z",
   "reach_days": [
    {
     "day": "2026-11-11",
@@ -34,7 +34,7 @@
     "reach": 322
    }
   ],
-  "avg_watch_last_reels": 15.2
+  "avg_watch_last_reels": 15.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8832,6 +8832,11 @@
    "ts": "2026-11-18T07:37:51.457Z",
    "followers": 553,
    "media_count": 4
+  },
+  {
+   "ts": "2026-11-18T10:40:50.149Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
@@ -8842,7 +8847,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 184,
+   "views": 187,
    "likes": 7,
    "comments": 6
   },
@@ -8853,7 +8858,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1873,
+   "views": 1874,
    "likes": 22,
    "comments": 6
   },
@@ -8864,7 +8869,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 81,
+   "views": 86,
    "likes": 5,
    "comments": 3
   },
@@ -8875,7 +8880,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 199,
+   "views": 202,
    "likes": 5,
    "comments": 2
   },
