@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T11:40:51.544Z",
+ "updated": "2026-11-18T12:40:52.807Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-18T11:40:52.628Z",
+  "checked": "2026-11-18T12:40:53.831Z",
   "reach_days": [
    {
     "day": "2026-11-11",
@@ -34,7 +34,7 @@
     "reach": 322
    }
   ],
-  "avg_watch_last_reels": 15.1
+  "avg_watch_last_reels": 15.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8842,6 +8842,11 @@
    "ts": "2026-11-18T11:40:51.544Z",
    "followers": 553,
    "media_count": 4
+  },
+  {
+   "ts": "2026-11-18T12:40:52.807Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
@@ -8852,7 +8857,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 187,
+   "views": 193,
    "likes": 7,
    "comments": 6
   },
