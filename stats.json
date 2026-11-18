@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T01:40:36.166Z",
+ "updated": "2026-11-18T02:36:28.558Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-18T01:40:38.269Z",
+  "checked": "2026-11-18T02:36:29.370Z",
   "reach_days": [
    {
     "day": "2026-11-11",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-17",
-    "reach": 307
+    "reach": 310
    }
   ],
-  "avg_watch_last_reels": 15.3
+  "avg_watch_last_reels": 15.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8802,6 +8802,11 @@
    "ts": "2026-11-18T01:40:36.166Z",
    "followers": 553,
    "media_count": 4
+  },
+  {
+   "ts": "2026-11-18T02:36:28.558Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
@@ -8812,7 +8817,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 165,
+   "views": 168,
    "likes": 5,
    "comments": 6
   },
@@ -8823,7 +8828,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1870,
+   "views": 1871,
    "likes": 22,
    "comments": 6
   },
