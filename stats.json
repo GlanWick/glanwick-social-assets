@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T19:13:50.807Z",
+ "updated": "2026-11-18T20:13:56.000Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-18T19:13:52.162Z",
+  "checked": "2026-11-18T20:13:56.952Z",
   "reach_days": [
    {
     "day": "2026-11-11",
@@ -8867,6 +8867,11 @@
    "ts": "2026-11-18T19:13:50.807Z",
    "followers": 553,
    "media_count": 4
+  },
+  {
+   "ts": "2026-11-18T20:13:56.000Z",
+   "followers": 553,
+   "media_count": 4
   }
  ],
  "posts": [
@@ -8877,9 +8882,9 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 197,
+   "views": 199,
    "likes": 7,
-   "comments": 6
+   "comments": 8
   },
   {
    "id": "18133840903782469",
@@ -8888,7 +8893,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1876,
+   "views": 1877,
    "likes": 22,
    "comments": 6
   },
@@ -8899,7 +8904,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 89,
+   "views": 94,
    "likes": 5,
    "comments": 3
   },
