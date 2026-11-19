@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T20:57:23.991Z",
+ "updated": "2026-11-19T21:57:52.975Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-18: 32 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T20:57:24.838Z",
+  "checked": "2026-11-19T21:57:56.049Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -36,7 +36,7 @@
     "reach": 32
    }
   ],
-  "avg_watch_last_reels": 9.6
+  "avg_watch_last_reels": 9.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8974,6 +8974,11 @@
    "ts": "2026-11-19T20:57:23.991Z",
    "followers": 554,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-19T21:57:52.975Z",
+   "followers": 554,
+   "media_count": 6
   }
  ],
  "posts": [
@@ -8984,7 +8989,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 163,
+   "views": 165,
    "likes": 1,
    "comments": 0
   },
@@ -8995,7 +9000,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 33,
+   "views": 34,
    "likes": 3,
    "comments": 0
   },
@@ -9006,7 +9011,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 210,
+   "views": 211,
    "likes": 8,
    "comments": 8
   },
@@ -9028,7 +9033,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 96,
+   "views": 97,
    "likes": 5,
    "comments": 3
   },
