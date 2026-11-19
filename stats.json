@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T02:16:12.174Z",
+ "updated": "2026-11-19T03:16:25.867Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-18: 27 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T02:16:13.022Z",
+  "checked": "2026-11-19T03:16:26.742Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -8902,6 +8902,11 @@
   },
   {
    "ts": "2026-11-19T02:16:12.174Z",
+   "followers": 553,
+   "media_count": 5
+  },
+  {
+   "ts": "2026-11-19T03:16:25.867Z",
    "followers": 553,
    "media_count": 5
   }
