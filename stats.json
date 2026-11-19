@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-19T12:52:07.384Z",
+ "updated": "2026-11-19T13:52:14.792Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-18: 32 gegen Mittel 313"
+   "Reichweite 2026-11-18: 32 gegen Mittel 313",
+   "Sehdauer letzte 3 Reels: 5.5 s"
   ],
-  "checked": "2026-11-19T12:52:08.346Z",
+  "checked": "2026-11-19T13:52:15.779Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -36,13 +37,13 @@
     "reach": 32
    }
   ],
-  "avg_watch_last_reels": 13
+  "avg_watch_last_reels": 5.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 5
+  "media_count": 6
  },
  "history": [
   {
@@ -8949,9 +8950,25 @@
    "ts": "2026-11-19T12:52:07.384Z",
    "followers": 553,
    "media_count": 5
+  },
+  {
+   "ts": "2026-11-19T13:52:14.792Z",
+   "followers": 553,
+   "media_count": 6
   }
  ],
  "posts": [
+  {
+   "id": "18447733258179669",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df7NmUAlGHl/",
+   "timestamp": "2026-11-19T13:42:20+0000",
+   "type": "VIDEO",
+   "caption": "He threw my laptop in the trash.",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18130331900310226",
    "slug": null,
@@ -9380,17 +9397,6 @@
    "views": 673,
    "likes": 4,
    "comments": 2
-  },
-  {
-   "id": "18119114044962470",
-   "slug": "stickman-missedwinner",
-   "permalink": "https://www.instagram.com/reel/De0mV87k246/",
-   "timestamp": "2026-10-23T03:32:33+0000",
-   "type": "VIDEO",
-   "caption": "You missed a $500 winner, doubled your next trade, and lost $800.",
-   "views": 289,
-   "likes": 0,
-   "comments": 1
   }
  ]
 }
