@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T04:16:41.051Z",
+ "updated": "2026-11-19T05:16:56.098Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-18: 28 gegen Mittel 313"
+   "Reichweite 2026-11-18: 29 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T04:16:42.058Z",
+  "checked": "2026-11-19T05:16:56.954Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-18",
-    "reach": 28
+    "reach": 29
    }
   ],
-  "avg_watch_last_reels": 13.3
+  "avg_watch_last_reels": 13
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8914,6 +8914,11 @@
    "ts": "2026-11-19T04:16:41.051Z",
    "followers": 553,
    "media_count": 5
+  },
+  {
+   "ts": "2026-11-19T05:16:56.098Z",
+   "followers": 553,
+   "media_count": 5
   }
  ],
  "posts": [
@@ -8924,7 +8929,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 14,
+   "views": 15,
    "likes": 1,
    "comments": 0
   },
