@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T11:52:02.399Z",
+ "updated": "2026-11-19T12:52:07.384Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-18: 32 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T11:52:03.709Z",
+  "checked": "2026-11-19T12:52:08.346Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -36,7 +36,7 @@
     "reach": 32
    }
   ],
-  "avg_watch_last_reels": 13.2
+  "avg_watch_last_reels": 13
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8944,6 +8944,11 @@
    "ts": "2026-11-19T11:52:02.399Z",
    "followers": 553,
    "media_count": 5
+  },
+  {
+   "ts": "2026-11-19T12:52:07.384Z",
+   "followers": 553,
+   "media_count": 5
   }
  ],
  "posts": [
@@ -8954,7 +8959,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 25,
+   "views": 26,
    "likes": 2,
    "comments": 0
   },
@@ -8976,7 +8981,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1877,
+   "views": 1878,
    "likes": 22,
    "comments": 6
   },
