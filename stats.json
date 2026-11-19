@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T01:15:58.050Z",
+ "updated": "2026-11-19T02:16:12.174Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-18: 24 gegen Mittel 313"
+   "Reichweite 2026-11-18: 27 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T01:15:59.228Z",
+  "checked": "2026-11-19T02:16:13.022Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-18",
-    "reach": 24
+    "reach": 27
    }
   ],
-  "avg_watch_last_reels": 14.6
+  "avg_watch_last_reels": 13.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8899,6 +8899,11 @@
    "ts": "2026-11-19T01:15:58.050Z",
    "followers": 553,
    "media_count": 5
+  },
+  {
+   "ts": "2026-11-19T02:16:12.174Z",
+   "followers": 553,
+   "media_count": 5
   }
  ],
  "posts": [
@@ -8909,8 +8914,8 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 8,
-   "likes": 0,
+   "views": 12,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -8920,7 +8925,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 201,
+   "views": 202,
    "likes": 7,
    "comments": 8
   },
