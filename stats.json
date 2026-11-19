@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T17:56:10.627Z",
+ "updated": "2026-11-19T18:56:35.150Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-18: 32 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T17:56:11.610Z",
+  "checked": "2026-11-19T18:56:35.827Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -36,7 +36,7 @@
     "reach": 32
    }
   ],
-  "avg_watch_last_reels": 10.3
+  "avg_watch_last_reels": 10.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8959,6 +8959,11 @@
    "ts": "2026-11-19T17:56:10.627Z",
    "followers": 554,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-19T18:56:35.150Z",
+   "followers": 554,
+   "media_count": 6
   }
  ],
  "posts": [
@@ -8969,7 +8974,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 156,
+   "views": 158,
    "likes": 1,
    "comments": 0
   },
