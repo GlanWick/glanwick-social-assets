@@ -1,12 +1,11 @@
 {
- "updated": "2026-11-19T13:52:14.792Z",
+ "updated": "2026-11-19T17:56:10.627Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-18: 32 gegen Mittel 313",
-   "Sehdauer letzte 3 Reels: 5.5 s"
+   "Reichweite 2026-11-18: 32 gegen Mittel 313"
   ],
-  "checked": "2026-11-19T13:52:15.779Z",
+  "checked": "2026-11-19T17:56:11.610Z",
   "reach_days": [
    {
     "day": "2026-11-12",
@@ -37,12 +36,12 @@
     "reach": 32
    }
   ],
-  "avg_watch_last_reels": 5.5
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 553,
+  "followers": 554,
   "media_count": 6
  },
  "history": [
@@ -8955,6 +8954,11 @@
    "ts": "2026-11-19T13:52:14.792Z",
    "followers": 553,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-19T17:56:10.627Z",
+   "followers": 554,
+   "media_count": 6
   }
  ],
  "posts": [
@@ -8965,8 +8969,8 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 0,
-   "likes": 0,
+   "views": 156,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -8976,7 +8980,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 26,
+   "views": 28,
    "likes": 2,
    "comments": 0
   },
@@ -8987,8 +8991,8 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 208,
-   "likes": 7,
+   "views": 210,
+   "likes": 8,
    "comments": 8
   },
   {
