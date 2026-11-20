@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-20T18:21:45.038Z",
+ "updated": "2026-11-20T19:22:00.977Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-11-20T18:21:46.059Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.1 s"
+  ],
+  "checked": "2026-11-20T19:22:01.837Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,13 +36,13 @@
     "reach": 290
    }
   ],
-  "avg_watch_last_reels": 10.5
+  "avg_watch_last_reels": 7.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 7
+  "media_count": 8
  },
  "history": [
   {
@@ -9057,9 +9059,25 @@
    "ts": "2026-11-20T18:21:45.038Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T19:22:00.977Z",
+   "followers": 553,
+   "media_count": 8
   }
  ],
  "posts": [
+  {
+   "id": "18131298028846028",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df-YGv7HJip/",
+   "timestamp": "2026-11-20T19:12:29+0000",
+   "type": "VIDEO",
+   "caption": "The wish list is getting longer. The year is getting shorter.",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "17894309637457508",
    "slug": null,
@@ -9067,7 +9085,7 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 173,
+   "views": 174,
    "likes": 6,
    "comments": 2
   },
@@ -9089,7 +9107,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 46,
+   "views": 47,
    "likes": 5,
    "comments": 0
   },
@@ -9487,17 +9505,6 @@
    "caption": "Your trades made $800, the fees took $1,200, and you're $400 down.",
    "views": 1515,
    "likes": 14,
-   "comments": 2
-  },
-  {
-   "id": "18130014737486573",
-   "slug": "stickman-marginsix",
-   "permalink": "https://www.instagram.com/reel/De1BxpYk_7B/",
-   "timestamp": "2026-10-23T07:32:14+0000",
-   "type": "VIDEO",
-   "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
-   "views": 1983,
-   "likes": 12,
    "comments": 2
   }
  ]
