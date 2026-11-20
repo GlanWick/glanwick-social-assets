@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T08:24:45.526Z",
+ "updated": "2026-11-20T09:24:56.645Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T08:24:46.530Z",
+  "checked": "2026-11-20T09:24:57.451Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,7 +34,7 @@
     "reach": 288
    }
   ],
-  "avg_watch_last_reels": 10.1
+  "avg_watch_last_reels": 10.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9022,6 +9022,11 @@
    "ts": "2026-11-20T08:24:45.526Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T09:24:56.645Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9032,9 +9037,9 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 144,
-   "likes": 4,
-   "comments": 0
+   "views": 161,
+   "likes": 6,
+   "comments": 2
   },
   {
    "id": "18447733258179669",
@@ -9043,8 +9048,8 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 178,
-   "likes": 3,
+   "views": 179,
+   "likes": 4,
    "comments": 0
   },
   {
