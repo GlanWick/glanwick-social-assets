@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T02:14:14.116Z",
+ "updated": "2026-11-20T03:14:30.264Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T02:14:15.299Z",
+  "checked": "2026-11-20T03:14:31.299Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-19",
-    "reach": 221
+    "reach": 284
    }
   ],
   "avg_watch_last_reels": 10
@@ -8997,6 +8997,11 @@
    "ts": "2026-11-20T02:14:14.116Z",
    "followers": 554,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T03:14:30.264Z",
+   "followers": 554,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9007,8 +9012,8 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 103,
-   "likes": 2,
+   "views": 142,
+   "likes": 3,
    "comments": 0
   },
   {
