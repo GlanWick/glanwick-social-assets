@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T20:22:14.466Z",
+ "updated": "2026-11-20T21:22:29.142Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T20:22:15.163Z",
+  "checked": "2026-11-20T21:22:29.941Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,7 +34,7 @@
     "reach": 290
    }
   ],
-  "avg_watch_last_reels": 16
+  "avg_watch_last_reels": 23.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9067,6 +9067,11 @@
    "ts": "2026-11-20T20:22:14.466Z",
    "followers": 553,
    "media_count": 8
+  },
+  {
+   "ts": "2026-11-20T21:22:29.142Z",
+   "followers": 553,
+   "media_count": 8
   }
  ],
  "posts": [
@@ -9077,8 +9082,8 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 13,
-   "likes": 2,
+   "views": 21,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9088,7 +9093,7 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 175,
+   "views": 179,
    "likes": 6,
    "comments": 2
   },
@@ -9132,7 +9137,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1884,
+   "views": 1885,
    "likes": 22,
    "comments": 6
   },
@@ -9143,7 +9148,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 98,
+   "views": 99,
    "likes": 5,
    "comments": 3
   },
