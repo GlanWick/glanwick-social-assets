@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T12:25:31.637Z",
+ "updated": "2026-11-20T16:21:14.366Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T12:25:32.512Z",
+  "checked": "2026-11-20T16:21:15.339Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,7 +34,7 @@
     "reach": 290
    }
   ],
-  "avg_watch_last_reels": 10.3
+  "avg_watch_last_reels": 10.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9042,6 +9042,11 @@
    "ts": "2026-11-20T12:25:31.637Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T16:21:14.366Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9052,7 +9057,7 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 168,
+   "views": 173,
    "likes": 6,
    "comments": 2
   },
@@ -9074,7 +9079,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 45,
+   "views": 46,
    "likes": 5,
    "comments": 0
   },
@@ -9118,7 +9123,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 203,
+   "views": 204,
    "likes": 6,
    "comments": 2
   },
