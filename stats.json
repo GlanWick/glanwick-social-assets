@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T10:25:07.371Z",
+ "updated": "2026-11-20T11:25:20.651Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T10:25:08.077Z",
+  "checked": "2026-11-20T11:25:21.727Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -9032,6 +9032,11 @@
    "ts": "2026-11-20T10:25:07.371Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T11:25:20.651Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9042,7 +9047,7 @@
    "timestamp": "2026-11-20T01:28:20+0000",
    "type": "VIDEO",
    "caption": "“I keep overtrading.”",
-   "views": 162,
+   "views": 167,
    "likes": 6,
    "comments": 2
   },
@@ -9075,7 +9080,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 212,
+   "views": 214,
    "likes": 8,
    "comments": 8
   },
