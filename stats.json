@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T04:14:48.858Z",
+ "updated": "2026-11-20T05:15:03.383Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T04:14:50.494Z",
+  "checked": "2026-11-20T05:15:04.286Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,7 +34,7 @@
     "reach": 286
    }
   ],
-  "avg_watch_last_reels": 9.9
+  "avg_watch_last_reels": 10.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9007,6 +9007,11 @@
    "ts": "2026-11-20T04:14:48.858Z",
    "followers": 554,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T05:15:03.383Z",
+   "followers": 554,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9039,7 +9044,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 43,
+   "views": 44,
    "likes": 5,
    "comments": 0
   },
