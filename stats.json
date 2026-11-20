@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T01:13:56.439Z",
+ "updated": "2026-11-20T02:14:14.116Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T01:13:59.656Z",
+  "checked": "2026-11-20T02:14:15.299Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -31,16 +31,16 @@
    },
    {
     "day": "2026-11-19",
-    "reach": 169
+    "reach": 221
    }
   ],
-  "avg_watch_last_reels": 9.8
+  "avg_watch_last_reels": 10
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 554,
-  "media_count": 6
+  "media_count": 7
  },
  "history": [
   {
@@ -8992,9 +8992,25 @@
    "ts": "2026-11-20T01:13:56.439Z",
    "followers": 554,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-20T02:14:14.116Z",
+   "followers": 554,
+   "media_count": 7
   }
  ],
  "posts": [
+  {
+   "id": "17894309637457508",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df8eYjtDLGm/",
+   "timestamp": "2026-11-20T01:28:20+0000",
+   "type": "VIDEO",
+   "caption": "“I keep overtrading.”",
+   "views": 103,
+   "likes": 2,
+   "comments": 0
+  },
   {
    "id": "18447733258179669",
    "slug": null,
@@ -9002,8 +9018,8 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 173,
-   "likes": 2,
+   "views": 174,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9013,8 +9029,8 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 40,
-   "likes": 4,
+   "views": 43,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -9024,7 +9040,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 211,
+   "views": 212,
    "likes": 8,
    "comments": 8
   },
@@ -9035,7 +9051,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1878,
+   "views": 1879,
    "likes": 22,
    "comments": 6
   },
@@ -9046,7 +9062,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 97,
+   "views": 98,
    "likes": 5,
    "comments": 3
   },
@@ -9422,17 +9438,6 @@
    "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
    "views": 1983,
    "likes": 12,
-   "comments": 2
-  },
-  {
-   "id": "17977822023141739",
-   "slug": "stickman-plannedrisk",
-   "permalink": "https://www.instagram.com/reel/De00ALLjntn/",
-   "timestamp": "2026-10-23T05:31:55+0000",
-   "type": "VIDEO",
-   "caption": "You planned to lose $100 a trade, your losses averaged $160, and +$500 became +$",
-   "views": 673,
-   "likes": 4,
    "comments": 2
   }
  ]
