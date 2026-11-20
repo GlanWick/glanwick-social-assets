@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T00:13:34.078Z",
+ "updated": "2026-11-20T01:13:56.439Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T00:13:35.593Z",
+  "checked": "2026-11-20T01:13:59.656Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-19",
-    "reach": 166
+    "reach": 169
    }
   ],
   "avg_watch_last_reels": 9.8
@@ -8987,6 +8987,11 @@
    "ts": "2026-11-20T00:13:34.078Z",
    "followers": 554,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-20T01:13:56.439Z",
+   "followers": 554,
+   "media_count": 6
   }
  ],
  "posts": [
@@ -8997,7 +9002,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 170,
+   "views": 173,
    "likes": 2,
    "comments": 0
   },
