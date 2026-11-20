@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T07:24:34.618Z",
+ "updated": "2026-11-20T08:24:45.526Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T07:24:35.508Z",
+  "checked": "2026-11-20T08:24:46.530Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -9017,6 +9017,11 @@
    "ts": "2026-11-20T07:24:34.618Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T08:24:45.526Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9071,7 +9076,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1879,
+   "views": 1882,
    "likes": 22,
    "comments": 6
   },
