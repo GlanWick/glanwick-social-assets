@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T16:21:14.366Z",
+ "updated": "2026-11-20T17:21:29.238Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T16:21:15.339Z",
+  "checked": "2026-11-20T17:21:31.096Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -9047,6 +9047,11 @@
    "ts": "2026-11-20T16:21:14.366Z",
    "followers": 553,
    "media_count": 7
+  },
+  {
+   "ts": "2026-11-20T17:21:29.238Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9068,7 +9073,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 179,
+   "views": 180,
    "likes": 4,
    "comments": 0
   },
@@ -9101,7 +9106,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1882,
+   "views": 1884,
    "likes": 22,
    "comments": 6
   },
