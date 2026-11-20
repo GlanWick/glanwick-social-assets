@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T21:22:29.142Z",
+ "updated": "2026-11-20T22:48:33.411Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-20T21:22:29.941Z",
+  "checked": "2026-11-20T22:48:34.523Z",
   "reach_days": [
    {
     "day": "2026-11-13",
@@ -34,13 +34,13 @@
     "reach": 290
    }
   ],
-  "avg_watch_last_reels": 23.2
+  "avg_watch_last_reels": 19.7
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 553,
-  "media_count": 8
+  "media_count": 7
  },
  "history": [
   {
@@ -9072,6 +9072,11 @@
    "ts": "2026-11-20T21:22:29.142Z",
    "followers": 553,
    "media_count": 8
+  },
+  {
+   "ts": "2026-11-20T22:48:33.411Z",
+   "followers": 553,
+   "media_count": 7
   }
  ],
  "posts": [
@@ -9082,20 +9087,9 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 21,
-   "likes": 3,
+   "views": 27,
+   "likes": 4,
    "comments": 0
-  },
-  {
-   "id": "17894309637457508",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/Df8eYjtDLGm/",
-   "timestamp": "2026-11-20T01:28:20+0000",
-   "type": "VIDEO",
-   "caption": "“I keep overtrading.”",
-   "views": 179,
-   "likes": 6,
-   "comments": 2
   },
   {
    "id": "18447733258179669",
@@ -9104,7 +9098,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 180,
+   "views": 181,
    "likes": 4,
    "comments": 0
   },
@@ -9115,7 +9109,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 47,
+   "views": 49,
    "likes": 5,
    "comments": 0
   },
@@ -9513,6 +9507,17 @@
    "caption": "Your trades made $800, the fees took $1,200, and you're $400 down.",
    "views": 1515,
    "likes": 14,
+   "comments": 2
+  },
+  {
+   "id": "18130014737486573",
+   "slug": "stickman-marginsix",
+   "permalink": "https://www.instagram.com/reel/De1BxpYk_7B/",
+   "timestamp": "2026-10-23T07:32:14+0000",
+   "type": "VIDEO",
+   "caption": "Your $20,000 in stocks made 6 % this year, and your account made $0.",
+   "views": 1983,
+   "likes": 12,
    "comments": 2
   }
  ]
