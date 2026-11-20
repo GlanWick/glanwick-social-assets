@@ -1,16 +1,10 @@
 {
- "updated": "2026-11-19T22:57:58.412Z",
+ "updated": "2026-11-20T00:13:34.078Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Reichweite 2026-11-18: 32 gegen Mittel 313"
-  ],
-  "checked": "2026-11-19T22:57:59.196Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-11-20T00:13:35.593Z",
   "reach_days": [
-   {
-    "day": "2026-11-12",
-    "reach": 121
-   },
    {
     "day": "2026-11-13",
     "reach": 18
@@ -34,9 +28,13 @@
    {
     "day": "2026-11-18",
     "reach": 32
+   },
+   {
+    "day": "2026-11-19",
+    "reach": 166
    }
   ],
-  "avg_watch_last_reels": 9.5
+  "avg_watch_last_reels": 9.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -8984,6 +8982,11 @@
    "ts": "2026-11-19T22:57:58.412Z",
    "followers": 554,
    "media_count": 6
+  },
+  {
+   "ts": "2026-11-20T00:13:34.078Z",
+   "followers": 554,
+   "media_count": 6
   }
  ],
  "posts": [
@@ -8994,8 +8997,8 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 165,
-   "likes": 1,
+   "views": 170,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -9005,8 +9008,8 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 34,
-   "likes": 3,
+   "views": 40,
+   "likes": 4,
    "comments": 0
   },
   {
