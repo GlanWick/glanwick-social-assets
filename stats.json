@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T16:00:41.464Z",
+ "updated": "2026-11-21T17:00:50.609Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-21T16:00:42.361Z",
+  "checked": "2026-11-21T17:00:51.252Z",
   "reach_days": [
    {
     "day": "2026-11-14",
@@ -34,12 +34,12 @@
     "reach": 156
    }
   ],
-  "avg_watch_last_reels": 10.2
+  "avg_watch_last_reels": 9.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 556,
+  "followers": 559,
   "media_count": 9
  },
  "history": [
@@ -9157,6 +9157,11 @@
    "ts": "2026-11-21T16:00:41.464Z",
    "followers": 556,
    "media_count": 9
+  },
+  {
+   "ts": "2026-11-21T17:00:50.609Z",
+   "followers": 559,
+   "media_count": 9
   }
  ],
  "posts": [
@@ -9167,7 +9172,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 53,
+   "views": 54,
    "likes": 3,
    "comments": 0
   },
@@ -9178,9 +9183,9 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1079,
-   "likes": 18,
-   "comments": 6
+   "views": 1331,
+   "likes": 22,
+   "comments": 9
   },
   {
    "id": "18036931220904807",
@@ -9189,7 +9194,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 174,
+   "views": 177,
    "likes": 2,
    "comments": 2
   },
@@ -9200,7 +9205,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 42,
+   "views": 44,
    "likes": 5,
    "comments": 0
   },
@@ -9222,7 +9227,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 53,
+   "views": 55,
    "likes": 5,
    "comments": 0
   },
