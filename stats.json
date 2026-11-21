@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T15:00:28.915Z",
+ "updated": "2026-11-21T16:00:41.464Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-21T15:00:29.915Z",
+  "checked": "2026-11-21T16:00:42.361Z",
   "reach_days": [
    {
     "day": "2026-11-14",
@@ -34,12 +34,12 @@
     "reach": 156
    }
   ],
-  "avg_watch_last_reels": 10.6
+  "avg_watch_last_reels": 10.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 555,
+  "followers": 556,
   "media_count": 9
  },
  "history": [
@@ -9152,6 +9152,11 @@
    "ts": "2026-11-21T15:00:28.915Z",
    "followers": 555,
    "media_count": 9
+  },
+  {
+   "ts": "2026-11-21T16:00:41.464Z",
+   "followers": 556,
+   "media_count": 9
   }
  ],
  "posts": [
@@ -9162,8 +9167,8 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 29,
-   "likes": 1,
+   "views": 53,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9173,9 +9178,9 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 769,
-   "likes": 13,
-   "comments": 4
+   "views": 1079,
+   "likes": 18,
+   "comments": 6
   },
   {
    "id": "18036931220904807",
@@ -9184,7 +9189,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 169,
+   "views": 174,
    "likes": 2,
    "comments": 2
   },
@@ -9195,7 +9200,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 37,
+   "views": 42,
    "likes": 5,
    "comments": 0
   },
@@ -9591,7 +9596,7 @@
    "timestamp": "2026-10-23T13:14:38+0000",
    "type": "VIDEO",
    "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1518,
+   "views": 1519,
    "likes": 19,
    "comments": 2
   }
