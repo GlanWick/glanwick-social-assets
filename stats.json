@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T09:40:15.258Z",
+ "updated": "2026-11-21T11:59:48.867Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-21T09:40:16.065Z",
+  "checked": "2026-11-21T11:59:49.882Z",
   "reach_days": [
    {
     "day": "2026-11-14",
@@ -34,12 +34,12 @@
     "reach": 156
    }
   ],
-  "avg_watch_last_reels": 15.2
+  "avg_watch_last_reels": 11
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 553,
+  "followers": 554,
   "media_count": 8
  },
  "history": [
@@ -9132,9 +9132,25 @@
    "ts": "2026-11-21T09:40:15.258Z",
    "followers": 553,
    "media_count": 8
+  },
+  {
+   "ts": "2026-11-21T11:59:48.867Z",
+   "followers": 554,
+   "media_count": 8
   }
  ],
  "posts": [
+  {
+   "id": "18117275260843785",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/Df_-d0yu4uZ/",
+   "timestamp": "2026-11-21T10:07:37+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 237,
+   "likes": 4,
+   "comments": 1
+  },
   {
    "id": "18036931220904807",
    "slug": null,
@@ -9142,9 +9158,9 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 161,
-   "likes": 1,
-   "comments": 0
+   "views": 163,
+   "likes": 2,
+   "comments": 2
   },
   {
    "id": "18131298028846028",
@@ -9153,7 +9169,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 32,
+   "views": 34,
    "likes": 4,
    "comments": 0
   },
@@ -9175,7 +9191,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 51,
+   "views": 52,
    "likes": 5,
    "comments": 0
   },
@@ -9563,17 +9579,6 @@
    "views": 1440,
    "likes": 19,
    "comments": 3
-  },
-  {
-   "id": "18019056614940092",
-   "slug": "stickman-ninetyfees",
-   "permalink": "https://www.instagram.com/reel/De1PeWpEf9h/",
-   "timestamp": "2026-10-23T09:31:58+0000",
-   "type": "VIDEO",
-   "caption": "Your trades made $800, the fees took $1,200, and you're $400 down.",
-   "views": 1515,
-   "likes": 14,
-   "comments": 2
   }
  ]
 }
