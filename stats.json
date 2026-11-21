@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T22:58:38.484Z",
+ "updated": "2026-11-21T23:58:42.326Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-21T22:58:39.305Z",
+  "checked": "2026-11-21T23:58:43.673Z",
   "reach_days": [
    {
     "day": "2026-11-14",
@@ -34,13 +34,13 @@
     "reach": 156
    }
   ],
-  "avg_watch_last_reels": 9.4
+  "avg_watch_last_reels": 8.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 560,
-  "media_count": 9
+  "media_count": 10
  },
  "history": [
   {
@@ -9187,9 +9187,25 @@
    "ts": "2026-11-21T22:58:38.484Z",
    "followers": 560,
    "media_count": 9
+  },
+  {
+   "ts": "2026-11-21T23:58:42.326Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
+  {
+   "id": "17990519367120510",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgBXLR6gSxL/",
+   "timestamp": "2026-11-21T23:01:21+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 146,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "17958278736318051",
    "slug": null,
@@ -9197,7 +9213,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 80,
+   "views": 81,
    "likes": 4,
    "comments": 1
   },
@@ -9219,7 +9235,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 186,
+   "views": 187,
    "likes": 3,
    "comments": 2
   },
@@ -9230,7 +9246,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 48,
+   "views": 49,
    "likes": 5,
    "comments": 0
   },
@@ -9617,17 +9633,6 @@
    "caption": "10 normal trades made $400, 5 sure ones lost $600, and your week is $200 down.",
    "views": 1356,
    "likes": 21,
-   "comments": 2
-  },
-  {
-   "id": "17915808012507944",
-   "slug": "stickman-twentytwenty",
-   "permalink": "https://www.instagram.com/reel/De1o9TmE5Uz/",
-   "timestamp": "2026-10-23T13:14:38+0000",
-   "type": "VIDEO",
-   "caption": "Your win was +20 %, your loss was −20 %, and you're $600 down.",
-   "views": 1519,
-   "likes": 19,
    "comments": 2
   }
  ]
