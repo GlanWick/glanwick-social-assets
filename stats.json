@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T19:58:19.497Z",
+ "updated": "2026-11-21T20:58:23.539Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-21T19:58:21.205Z",
+  "checked": "2026-11-21T20:58:25.533Z",
   "reach_days": [
    {
     "day": "2026-11-14",
@@ -9172,6 +9172,11 @@
    "ts": "2026-11-21T19:58:19.497Z",
    "followers": 560,
    "media_count": 9
+  },
+  {
+   "ts": "2026-11-21T20:58:23.539Z",
+   "followers": 560,
+   "media_count": 9
   }
  ],
  "posts": [
@@ -9182,7 +9187,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 69,
+   "views": 70,
    "likes": 4,
    "comments": 1
   },
@@ -9193,7 +9198,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1400,
+   "views": 1401,
    "likes": 22,
    "comments": 10
   },
@@ -9204,7 +9209,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 183,
+   "views": 185,
    "likes": 3,
    "comments": 2
   },
@@ -9259,7 +9264,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1888,
+   "views": 1889,
    "likes": 22,
    "comments": 6
   },
@@ -9270,7 +9275,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 101,
+   "views": 103,
    "likes": 6,
    "comments": 4
   },
