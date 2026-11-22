@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T07:40:01.117Z",
+ "updated": "2026-11-22T08:40:02.883Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T07:40:01.941Z",
+  "checked": "2026-11-22T08:40:03.568Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-21",
-    "reach": 1271
+    "reach": 1273
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -9232,6 +9232,11 @@
    "ts": "2026-11-22T07:40:01.117Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T08:40:02.883Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9242,8 +9247,8 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 163,
-   "likes": 2,
+   "views": 167,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9253,7 +9258,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 99,
+   "views": 102,
    "likes": 5,
    "comments": 2
   },
@@ -9264,7 +9269,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1425,
+   "views": 1426,
    "likes": 23,
    "comments": 13
   },
@@ -9275,7 +9280,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 190,
+   "views": 191,
    "likes": 3,
    "comments": 2
   },
@@ -9319,7 +9324,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 217,
+   "views": 218,
    "likes": 8,
    "comments": 8
   },
