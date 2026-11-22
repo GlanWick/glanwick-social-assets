@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T00:49:19.639Z",
+ "updated": "2026-11-22T01:49:31.260Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T00:49:21.474Z",
+  "checked": "2026-11-22T01:49:31.951Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-21",
-    "reach": 1249
+    "reach": 1253
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -9197,6 +9197,11 @@
    "ts": "2026-11-22T00:49:19.639Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T01:49:31.260Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9207,8 +9212,8 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 149,
-   "likes": 1,
+   "views": 157,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -9218,9 +9223,9 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 83,
-   "likes": 4,
-   "comments": 1
+   "views": 88,
+   "likes": 5,
+   "comments": 2
   },
   {
    "id": "18117275260843785",
@@ -9229,9 +9234,9 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1406,
+   "views": 1407,
    "likes": 22,
-   "comments": 9
+   "comments": 10
   },
   {
    "id": "18036931220904807",
@@ -9240,7 +9245,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 187,
+   "views": 188,
    "likes": 3,
    "comments": 2
   },
@@ -9317,7 +9322,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 204,
+   "views": 205,
    "likes": 6,
    "comments": 2
   },
