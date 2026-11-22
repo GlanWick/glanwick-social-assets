@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T04:50:10.452Z",
+ "updated": "2026-11-22T05:50:21.650Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T04:50:11.384Z",
+  "checked": "2026-11-22T05:50:23.635Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-21",
-    "reach": 1266
+    "reach": 1267
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -9217,6 +9217,11 @@
    "ts": "2026-11-22T04:50:10.452Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T05:50:21.650Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9227,7 +9232,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 162,
+   "views": 163,
    "likes": 2,
    "comments": 0
   },
@@ -9238,7 +9243,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 95,
+   "views": 99,
    "likes": 5,
    "comments": 2
   },
@@ -9249,7 +9254,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1422,
+   "views": 1423,
    "likes": 23,
    "comments": 13
   },
@@ -9326,7 +9331,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 103,
+   "views": 105,
    "likes": 6,
    "comments": 4
   },
