@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T05:50:21.650Z",
+ "updated": "2026-11-22T06:40:00.340Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T05:50:23.635Z",
+  "checked": "2026-11-22T06:40:01.208Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-21",
-    "reach": 1267
+    "reach": 1269
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -9220,6 +9220,11 @@
   },
   {
    "ts": "2026-11-22T05:50:21.650Z",
+   "followers": 560,
+   "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T06:40:00.340Z",
    "followers": 560,
    "media_count": 10
   }
