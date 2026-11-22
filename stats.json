@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T18:02:53.996Z",
+ "updated": "2026-11-22T20:23:57.513Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T18:02:55.029Z",
+  "checked": "2026-11-22T20:23:58.396Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -9282,6 +9282,11 @@
    "ts": "2026-11-22T18:02:53.996Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T20:23:57.513Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9292,7 +9297,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 174,
+   "views": 176,
    "likes": 3,
    "comments": 0
   },
@@ -9303,7 +9308,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 125,
+   "views": 132,
    "likes": 5,
    "comments": 2
   },
@@ -9336,7 +9341,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 51,
+   "views": 53,
    "likes": 5,
    "comments": 0
   },
@@ -9347,7 +9352,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 192,
+   "views": 195,
    "likes": 4,
    "comments": 0
   },
@@ -9380,7 +9385,7 @@
    "timestamp": "2026-11-16T22:02:49+0000",
    "type": "VIDEO",
    "caption": "If you trade, you know those nights.",
-   "views": 1889,
+   "views": 1890,
    "likes": 22,
    "comments": 6
   },
@@ -9391,7 +9396,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 106,
+   "views": 109,
    "likes": 6,
    "comments": 4
   },
@@ -9402,7 +9407,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 205,
+   "views": 206,
    "likes": 6,
    "comments": 2
   },
@@ -9666,7 +9671,7 @@
    "timestamp": "2026-10-27T13:19:31+0000",
    "type": "VIDEO",
    "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1213,
+   "views": 1214,
    "likes": 10,
    "comments": 1
   },
