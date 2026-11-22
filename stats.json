@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T06:40:00.340Z",
+ "updated": "2026-11-22T07:40:01.117Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T06:40:01.208Z",
+  "checked": "2026-11-22T07:40:01.941Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-21",
-    "reach": 1269
+    "reach": 1271
    }
   ],
   "avg_watch_last_reels": 8.8
@@ -9227,6 +9227,11 @@
    "ts": "2026-11-22T06:40:00.340Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T07:40:01.117Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9259,7 +9264,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1423,
+   "views": 1425,
    "likes": 23,
    "comments": 13
   },
@@ -9270,7 +9275,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 189,
+   "views": 190,
    "likes": 3,
    "comments": 2
   },
@@ -9292,7 +9297,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 187,
+   "views": 188,
    "likes": 4,
    "comments": 0
   },
