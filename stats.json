@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T13:00:45.515Z",
+ "updated": "2026-11-22T14:01:13.806Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T13:00:46.515Z",
+  "checked": "2026-11-22T14:01:15.256Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -9257,6 +9257,11 @@
    "ts": "2026-11-22T13:00:45.515Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T14:01:13.806Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9278,7 +9283,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 119,
+   "views": 120,
    "likes": 5,
    "comments": 2
   },
