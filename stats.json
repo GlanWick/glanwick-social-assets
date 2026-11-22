@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T16:02:05.030Z",
+ "updated": "2026-11-22T17:02:27.986Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-22T16:02:05.919Z",
+  "checked": "2026-11-22T17:02:28.904Z",
   "reach_days": [
    {
     "day": "2026-11-15",
@@ -9272,6 +9272,11 @@
    "ts": "2026-11-22T16:02:05.030Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-22T17:02:27.986Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9315,7 +9320,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 197,
+   "views": 198,
    "likes": 3,
    "comments": 2
   },
@@ -9337,7 +9342,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 191,
+   "views": 192,
    "likes": 4,
    "comments": 0
   },
@@ -9381,7 +9386,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 105,
+   "views": 106,
    "likes": 6,
    "comments": 4
   },
