@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T22:30:04.258Z",
+ "updated": "2026-11-23T23:30:27.586Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 5.6 s"
   ],
-  "checked": "2026-11-23T22:30:05.040Z",
+  "checked": "2026-11-23T23:30:29.565Z",
   "reach_days": [
    {
     "day": "2026-11-16",
@@ -9359,6 +9359,11 @@
    "ts": "2026-11-23T22:30:04.258Z",
    "followers": 559,
    "media_count": 12
+  },
+  {
+   "ts": "2026-11-23T23:30:27.586Z",
+   "followers": 559,
+   "media_count": 12
   }
  ],
  "posts": [
@@ -9380,7 +9385,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1283,
+   "views": 1285,
    "likes": 16,
    "comments": 0
   },
@@ -9402,8 +9407,8 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 576,
-   "likes": 6,
+   "views": 643,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -9457,7 +9462,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1507,
+   "views": 1513,
    "likes": 25,
    "comments": 13
   },
