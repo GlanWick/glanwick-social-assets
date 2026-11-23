@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T10:11:17.943Z",
+ "updated": "2026-11-23T11:11:36.488Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.9 s"
+   "Sehdauer letzte 3 Reels: 6.1 s"
   ],
-  "checked": "2026-11-23T10:11:19.231Z",
+  "checked": "2026-11-23T11:11:37.236Z",
   "reach_days": [
    {
     "day": "2026-11-16",
@@ -36,7 +36,7 @@
     "reach": 1133
    }
   ],
-  "avg_watch_last_reels": 7.9
+  "avg_watch_last_reels": 6.1
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9329,9 +9329,36 @@
    "ts": "2026-11-23T10:11:17.943Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-23T11:11:36.488Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
+  {
+   "id": "18141722443641473",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgFMpwHmf1Y/",
+   "timestamp": "2026-11-23T10:46:27+0000",
+   "type": "VIDEO",
+   "caption": "One finger. One key. One very questionable office.",
+   "views": 3,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "18351943270269077",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgFJHDUnKpi/",
+   "timestamp": "2026-11-23T10:15:27+0000",
+   "type": "VIDEO",
+   "caption": "Every trader has opened a chart somewhere they really shouldn't have.",
+   "views": 126,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "17905695234375423",
    "slug": null,
@@ -9361,7 +9388,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 145,
+   "views": 146,
    "likes": 5,
    "comments": 2
   },
@@ -9748,28 +9775,6 @@
    "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
    "views": 210,
    "likes": 3,
-   "comments": 1
-  },
-  {
-   "id": "17886657051503593",
-   "slug": "stickman-onethirty",
-   "permalink": "https://www.instagram.com/reel/De6qGZFjcXf/",
-   "timestamp": "2026-10-25T12:00:39+0000",
-   "type": "VIDEO",
-   "caption": "99 trades made you $3,000. 1 trade took $3,900.",
-   "views": 1831,
-   "likes": 23,
-   "comments": 2
-  },
-  {
-   "id": "18214062232366000",
-   "slug": "stickman-eightyrate",
-   "permalink": "https://www.instagram.com/reel/De5Q2TEmAVA/",
-   "timestamp": "2026-10-24T23:00:55+0000",
-   "type": "VIDEO",
-   "caption": "You win 80 % of your trades, and this year took 12 % of your account.",
-   "views": 1618,
-   "likes": 20,
    "comments": 1
   }
  ]
