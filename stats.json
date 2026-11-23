@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T11:11:36.488Z",
+ "updated": "2026-11-23T12:11:56.120Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.1 s"
+   "Sehdauer letzte 3 Reels: 7.3 s"
   ],
-  "checked": "2026-11-23T11:11:37.236Z",
+  "checked": "2026-11-23T12:11:57.041Z",
   "reach_days": [
    {
     "day": "2026-11-16",
@@ -36,13 +36,13 @@
     "reach": 1133
    }
   ],
-  "avg_watch_last_reels": 6.1
+  "avg_watch_last_reels": 7.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 560,
-  "media_count": 10
+  "media_count": 11
  },
  "history": [
   {
@@ -9334,9 +9334,47 @@
    "ts": "2026-11-23T11:11:36.488Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-23T12:11:56.120Z",
+   "followers": 560,
+   "media_count": 11
   }
  ],
  "posts": [
+  {
+   "id": "18161081353520687",
+   "slug": null,
+   "permalink": "https://www.instagram.com/p/DgFVYiKiFxN/",
+   "timestamp": "2026-11-23T12:02:31+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 5,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "18073989983603947",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgFTajUFdfi/",
+   "timestamp": "2026-11-23T11:45:40+0000",
+   "type": "VIDEO",
+   "caption": "He found the one place where nobody can interrupt his trade.",
+   "views": 14,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "18415729687090050",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgFP_nljcN7/",
+   "timestamp": "2026-11-23T11:15:36+0000",
+   "type": "VIDEO",
+   "caption": "No distractions. No noise. No colleagues. Just him, his chart and a whole lot of",
+   "views": 118,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "18141722443641473",
    "slug": null,
@@ -9344,8 +9382,8 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 3,
-   "likes": 0,
+   "views": 155,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -9355,7 +9393,7 @@
    "timestamp": "2026-11-23T10:15:27+0000",
    "type": "VIDEO",
    "caption": "Every trader has opened a chart somewhere they really shouldn't have.",
-   "views": 126,
+   "views": 137,
    "likes": 1,
    "comments": 0
   },
@@ -9366,7 +9404,7 @@
    "timestamp": "2026-11-22T22:20:43+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1298,
+   "views": 1299,
    "likes": 22,
    "comments": 0
   },
@@ -9743,39 +9781,6 @@
    "views": 1206,
    "likes": 24,
    "comments": 5
-  },
-  {
-   "id": "18136811095660869",
-   "slug": "glanwick-laptop-r2-C-chill-10s6",
-   "permalink": "https://www.instagram.com/reel/De_8t2QCf9D/",
-   "timestamp": "2026-10-27T13:19:31+0000",
-   "type": "VIDEO",
-   "caption": "Hindsight makes every chart look obvious. With Bar Replay at @glanwick_com, you ",
-   "views": 1214,
-   "likes": 10,
-   "comments": 1
-  },
-  {
-   "id": "18639957823012099",
-   "slug": "stickman-earningscalls",
-   "permalink": "https://www.instagram.com/reel/De9O5c9nVKj/",
-   "timestamp": "2026-10-26T12:00:42+0000",
-   "type": "VIDEO",
-   "caption": "The stock rose 4 % after earnings, and your $1,000 in calls is now $600.",
-   "views": 1526,
-   "likes": 14,
-   "comments": 4
-  },
-  {
-   "id": "18076390451779533",
-   "slug": "stickman-widestop",
-   "permalink": "https://www.instagram.com/reel/De71tHloG2Q/",
-   "timestamp": "2026-10-25T23:01:30+0000",
-   "type": "VIDEO",
-   "caption": "Your stop got twice as wide, you won more trades, and you made $100 less.",
-   "views": 210,
-   "likes": 3,
-   "comments": 1
   }
  ]
 }
