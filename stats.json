@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T02:07:35.822Z",
+ "updated": "2026-11-23T03:07:38.675Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 7.8 s"
+   "Sehdauer letzte 3 Reels: 7.9 s"
   ],
-  "checked": "2026-11-23T02:07:36.730Z",
+  "checked": "2026-11-23T03:07:39.461Z",
   "reach_days": [
    {
     "day": "2026-11-16",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-22",
-    "reach": 678
+    "reach": 866
    }
   ],
-  "avg_watch_last_reels": 7.8
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9299,6 +9299,11 @@
    "ts": "2026-11-23T02:07:35.822Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-23T03:07:38.675Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
@@ -9309,8 +9314,8 @@
    "timestamp": "2026-11-22T22:20:43+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 813,
-   "likes": 15,
+   "views": 1075,
+   "likes": 18,
    "comments": 0
   },
   {
@@ -9320,7 +9325,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 180,
+   "views": 181,
    "likes": 3,
    "comments": 0
   },
@@ -9331,7 +9336,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 135,
+   "views": 139,
    "likes": 5,
    "comments": 2
   },
@@ -9375,7 +9380,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 195,
+   "views": 196,
    "likes": 4,
    "comments": 0
   },
