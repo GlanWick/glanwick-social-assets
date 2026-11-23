@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T14:12:39.719Z",
+ "updated": "2026-11-23T21:29:46.304Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 5.7 s"
+   "Sehdauer letzte 3 Reels: 5.6 s"
   ],
-  "checked": "2026-11-23T14:12:40.610Z",
+  "checked": "2026-11-23T21:29:46.963Z",
   "reach_days": [
    {
     "day": "2026-11-16",
@@ -36,13 +36,13 @@
     "reach": 1133
    }
   ],
-  "avg_watch_last_reels": 5.7
+  "avg_watch_last_reels": 5.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
   "followers": 559,
-  "media_count": 11
+  "media_count": 12
  },
  "history": [
   {
@@ -9349,6 +9349,11 @@
    "ts": "2026-11-23T14:12:39.719Z",
    "followers": 559,
    "media_count": 11
+  },
+  {
+   "ts": "2026-11-23T21:29:46.304Z",
+   "followers": 559,
+   "media_count": 12
   }
  ],
  "posts": [
@@ -9359,7 +9364,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 23,
+   "views": 35,
    "likes": 2,
    "comments": 0
   },
@@ -9370,8 +9375,8 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 675,
-   "likes": 7,
+   "views": 1283,
+   "likes": 16,
    "comments": 0
   },
   {
@@ -9381,7 +9386,7 @@
    "timestamp": "2026-11-23T11:15:36+0000",
    "type": "VIDEO",
    "caption": "No distractions. No noise. No colleagues. Just him, his chart and a whole lot of",
-   "views": 131,
+   "views": 132,
    "likes": 1,
    "comments": 0
   },
@@ -9392,8 +9397,8 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 241,
-   "likes": 1,
+   "views": 515,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -9403,7 +9408,7 @@
    "timestamp": "2026-11-23T10:15:27+0000",
    "type": "VIDEO",
    "caption": "Every trader has opened a chart somewhere they really shouldn't have.",
-   "views": 138,
+   "views": 140,
    "likes": 1,
    "comments": 0
   },
@@ -9414,7 +9419,7 @@
    "timestamp": "2026-11-22T22:20:43+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1303,
+   "views": 1306,
    "likes": 22,
    "comments": 0
   },
@@ -9425,7 +9430,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 183,
+   "views": 186,
    "likes": 3,
    "comments": 0
   },
@@ -9436,7 +9441,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 147,
+   "views": 149,
    "likes": 5,
    "comments": 2
   },
@@ -9447,8 +9452,8 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1448,
-   "likes": 24,
+   "views": 1500,
+   "likes": 25,
    "comments": 13
   },
   {
@@ -9458,7 +9463,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 202,
+   "views": 203,
    "likes": 3,
    "comments": 2
   },
@@ -9469,7 +9474,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 54,
+   "views": 55,
    "likes": 5,
    "comments": 0
   },
@@ -9491,7 +9496,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 57,
+   "views": 58,
    "likes": 5,
    "comments": 0
   },
