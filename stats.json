@@ -1,14 +1,12 @@
 {
- "updated": "2026-11-22T20:23:57.513Z",
+ "updated": "2026-11-23T01:07:32.819Z",
  "guardrail": {
-  "status": "ok",
-  "reasons": [],
-  "checked": "2026-11-22T20:23:58.396Z",
+  "status": "warn",
+  "reasons": [
+   "Sehdauer letzte 3 Reels: 7.9 s"
+  ],
+  "checked": "2026-11-23T01:07:34.263Z",
   "reach_days": [
-   {
-    "day": "2026-11-15",
-    "reach": 38
-   },
    {
     "day": "2026-11-16",
     "reach": 1239
@@ -32,9 +30,13 @@
    {
     "day": "2026-11-21",
     "reach": 1273
+   },
+   {
+    "day": "2026-11-22",
+    "reach": 533
    }
   ],
-  "avg_watch_last_reels": 8.5
+  "avg_watch_last_reels": 7.9
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9287,9 +9289,25 @@
    "ts": "2026-11-22T20:23:57.513Z",
    "followers": 560,
    "media_count": 10
+  },
+  {
+   "ts": "2026-11-23T01:07:32.819Z",
+   "followers": 560,
+   "media_count": 10
   }
  ],
  "posts": [
+  {
+   "id": "17905695234375423",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgD2pMIOUpj/",
+   "timestamp": "2026-11-22T22:20:43+0000",
+   "type": "VIDEO",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 667,
+   "likes": 10,
+   "comments": 0
+  },
   {
    "id": "17990519367120510",
    "slug": null,
@@ -9297,7 +9315,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 176,
+   "views": 180,
    "likes": 3,
    "comments": 0
   },
@@ -9308,7 +9326,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 132,
+   "views": 134,
    "likes": 5,
    "comments": 2
   },
@@ -9319,7 +9337,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1433,
+   "views": 1434,
    "likes": 23,
    "comments": 13
   },
@@ -9330,7 +9348,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 199,
+   "views": 200,
    "likes": 3,
    "comments": 2
   },
@@ -9341,7 +9359,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 53,
+   "views": 54,
    "likes": 5,
    "comments": 0
   },
@@ -9363,7 +9381,7 @@
    "timestamp": "2026-11-18T23:48:04+0000",
    "type": "VIDEO",
    "caption": "He took the old man's last dollar.",
-   "views": 55,
+   "views": 56,
    "likes": 5,
    "comments": 0
   },
@@ -9718,17 +9736,6 @@
    "views": 1618,
    "likes": 20,
    "comments": 1
-  },
-  {
-   "id": "18133090771682504",
-   "slug": "stickman-surefive",
-   "permalink": "https://www.instagram.com/reel/De1rBRLD99R/",
-   "timestamp": "2026-10-23T13:32:35+0000",
-   "type": "VIDEO",
-   "caption": "10 normal trades made $400, 5 sure ones lost $600, and your week is $200 down.",
-   "views": 1356,
-   "likes": 21,
-   "comments": 2
   }
  ]
 }
