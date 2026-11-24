@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T00:30:49.874Z",
+ "updated": "2026-11-24T01:31:05.054Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 2.1 s"
+   "Sehdauer letzte 3 Reels: 1.4 s"
   ],
-  "checked": "2026-11-24T00:30:50.806Z",
+  "checked": "2026-11-24T01:31:06.244Z",
   "reach_days": [
    {
     "day": "2026-11-17",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-23",
-    "reach": 1969
+    "reach": 2164
    }
   ],
-  "avg_watch_last_reels": 2.1
+  "avg_watch_last_reels": 1.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9369,9 +9369,36 @@
    "ts": "2026-11-24T00:30:49.874Z",
    "followers": 559,
    "media_count": 12
+  },
+  {
+   "ts": "2026-11-24T01:31:05.054Z",
+   "followers": 559,
+   "media_count": 12
   }
  ],
  "posts": [
+  {
+   "id": "18136960651765646",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgGxOmEjMui/",
+   "timestamp": "2026-11-24T01:25:14+0000",
+   "type": "VIDEO",
+   "caption": "Trade smarter, not harder.",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "18651794146057499",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgGtzLQkzft/",
+   "timestamp": "2026-11-24T00:55:45+0000",
+   "type": "VIDEO",
+   "caption": "“Journaling is boring.”",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18659719273048785",
    "slug": null,
@@ -9379,7 +9406,7 @@
    "timestamp": "2026-11-24T00:25:22+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 0,
+   "views": 11,
    "likes": 0,
    "comments": 0
   },
@@ -9390,8 +9417,8 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 80,
-   "likes": 0,
+   "views": 243,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9401,7 +9428,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 44,
+   "views": 49,
    "likes": 3,
    "comments": 0
   },
@@ -9412,7 +9439,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1291,
+   "views": 1292,
    "likes": 17,
    "comments": 0
   },
@@ -9434,8 +9461,8 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 675,
-   "likes": 8,
+   "views": 724,
+   "likes": 9,
    "comments": 0
   },
   {
@@ -9478,7 +9505,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 150,
+   "views": 152,
    "likes": 5,
    "comments": 2
   },
@@ -9489,7 +9516,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1515,
+   "views": 1520,
    "likes": 25,
    "comments": 13
   },
@@ -9788,28 +9815,6 @@
    "caption": "At 10x, a week of hourly BTC candles plays back in about 17 seconds. With Bar Re",
    "views": 199,
    "likes": 2,
-   "comments": 1
-  },
-  {
-   "id": "17962503411000259",
-   "slug": "stickman-fiftyfour",
-   "permalink": "https://www.instagram.com/reel/DfCYjTcAXNS/",
-   "timestamp": "2026-10-28T12:01:20+0000",
-   "type": "VIDEO",
-   "caption": "Your stock fell 50 %, and your account lost 2 %.",
-   "views": 1672,
-   "likes": 15,
-   "comments": 2
-  },
-  {
-   "id": "18109149776259123",
-   "slug": "stickman-halfaftertwo",
-   "permalink": "https://www.instagram.com/reel/DfA_PbYk4EL/",
-   "timestamp": "2026-10-27T23:00:58+0000",
-   "type": "VIDEO",
-   "caption": "8 losses in a row cost you $1,600 at full size, and $750 when you halve.",
-   "views": 1458,
-   "likes": 15,
    "comments": 1
   }
  ]
