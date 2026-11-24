@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T20:23:15.914Z",
+ "updated": "2026-11-24T21:23:35.682Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 6.5 s"
   ],
-  "checked": "2026-11-24T20:23:17.027Z",
+  "checked": "2026-11-24T21:23:36.538Z",
   "reach_days": [
    {
     "day": "2026-11-17",
@@ -9434,6 +9434,11 @@
    "ts": "2026-11-24T20:23:15.914Z",
    "followers": 561,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-24T21:23:35.682Z",
+   "followers": 561,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9444,7 +9449,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 520,
+   "views": 709,
    "likes": 3,
    "comments": 0
   },
@@ -9466,7 +9471,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 170,
+   "views": 175,
    "likes": 0,
    "comments": 0
   },
@@ -9477,7 +9482,7 @@
    "timestamp": "2026-11-24T13:15:46+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 128,
+   "views": 129,
    "likes": 1,
    "comments": 0
   },
@@ -9565,7 +9570,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1703,
+   "views": 1704,
    "likes": 10,
    "comments": 0
   },
@@ -9631,7 +9636,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 61,
+   "views": 63,
    "likes": 3,
    "comments": 0
   },
@@ -9708,7 +9713,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 172,
+   "views": 176,
    "likes": 5,
    "comments": 2
   },
