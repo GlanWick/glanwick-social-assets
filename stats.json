@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T06:30:50.747Z",
+ "updated": "2026-11-24T07:31:15.409Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Sehdauer letzte 3 Reels: 5.8 s"
   ],
-  "checked": "2026-11-24T06:30:52.550Z",
+  "checked": "2026-11-24T07:31:16.386Z",
   "reach_days": [
    {
     "day": "2026-11-17",
@@ -33,7 +33,7 @@
    },
    {
     "day": "2026-11-23",
-    "reach": 5644
+    "reach": 5739
    }
   ],
   "avg_watch_last_reels": 5.8
@@ -9389,6 +9389,11 @@
    "ts": "2026-11-24T06:30:50.747Z",
    "followers": 560,
    "media_count": 12
+  },
+  {
+   "ts": "2026-11-24T07:31:15.409Z",
+   "followers": 560,
+   "media_count": 12
   }
  ],
  "posts": [
@@ -9399,7 +9404,7 @@
    "timestamp": "2026-11-24T03:25:25+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1866,
+   "views": 1891,
    "likes": 11,
    "comments": 0
   },
@@ -9421,7 +9426,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1630,
+   "views": 1648,
    "likes": 10,
    "comments": 0
   },
@@ -9432,7 +9437,7 @@
    "timestamp": "2026-11-24T01:55:31+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 153,
+   "views": 157,
    "likes": 3,
    "comments": 0
   },
@@ -9454,7 +9459,7 @@
    "timestamp": "2026-11-24T00:55:45+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 10,
+   "views": 16,
    "likes": 0,
    "comments": 0
   },
@@ -9476,7 +9481,7 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 531,
+   "views": 630,
    "likes": 4,
    "comments": 0
   },
@@ -9487,7 +9492,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 49,
+   "views": 52,
    "likes": 3,
    "comments": 0
   },
@@ -9520,7 +9525,7 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 1248,
+   "views": 1269,
    "likes": 21,
    "comments": 0
   },
@@ -9575,7 +9580,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1527,
+   "views": 1533,
    "likes": 25,
    "comments": 13
   },
