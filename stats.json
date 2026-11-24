@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T19:22:52.042Z",
+ "updated": "2026-11-24T20:23:15.914Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 6.6 s"
+   "Sehdauer letzte 3 Reels: 6.5 s"
   ],
-  "checked": "2026-11-24T19:22:53.632Z",
+  "checked": "2026-11-24T20:23:17.027Z",
   "reach_days": [
    {
     "day": "2026-11-17",
@@ -36,7 +36,7 @@
     "reach": 5887
    }
   ],
-  "avg_watch_last_reels": 6.6
+  "avg_watch_last_reels": 6.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9429,6 +9429,11 @@
    "ts": "2026-11-24T19:22:52.042Z",
    "followers": 561,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-24T20:23:15.914Z",
+   "followers": 561,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9439,8 +9444,8 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 398,
-   "likes": 2,
+   "views": 520,
+   "likes": 3,
    "comments": 0
   },
   {
@@ -9461,7 +9466,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 161,
+   "views": 170,
    "likes": 0,
    "comments": 0
   },
@@ -9505,7 +9510,7 @@
    "timestamp": "2026-11-24T12:02:17+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 22,
+   "views": 23,
    "likes": 1,
    "comments": 0
   },
@@ -9538,7 +9543,7 @@
    "timestamp": "2026-11-24T03:25:25+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1937,
+   "views": 1942,
    "likes": 11,
    "comments": 0
   },
@@ -9560,7 +9565,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1702,
+   "views": 1703,
    "likes": 10,
    "comments": 0
   },
@@ -9571,7 +9576,7 @@
    "timestamp": "2026-11-24T01:55:31+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 178,
+   "views": 181,
    "likes": 3,
    "comments": 0
   },
@@ -9626,7 +9631,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 60,
+   "views": 61,
    "likes": 3,
    "comments": 0
   },
@@ -9659,7 +9664,7 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 1284,
+   "views": 1285,
    "likes": 21,
    "comments": 0
   },
