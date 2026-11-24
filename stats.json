@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T10:32:36.218Z",
+ "updated": "2026-11-24T16:21:33.525Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Sehdauer letzte 3 Reels: 5.7 s"
+   "Sehdauer letzte 3 Reels: 6.4 s"
   ],
-  "checked": "2026-11-24T10:32:37.802Z",
+  "checked": "2026-11-24T16:21:34.629Z",
   "reach_days": [
    {
     "day": "2026-11-17",
@@ -33,16 +33,16 @@
    },
    {
     "day": "2026-11-23",
-    "reach": 5881
+    "reach": 5887
    }
   ],
-  "avg_watch_last_reels": 5.7
+  "avg_watch_last_reels": 6.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 561,
-  "media_count": 12
+  "followers": 562,
+  "media_count": 13
  },
  "history": [
   {
@@ -9409,9 +9409,113 @@
    "ts": "2026-11-24T10:32:36.218Z",
    "followers": 561,
    "media_count": 12
+  },
+  {
+   "ts": "2026-11-24T16:21:33.525Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
+  {
+   "id": "18379817746210219",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgIM0TigFtF/",
+   "timestamp": "2026-11-24T14:45:35+0000",
+   "type": "VIDEO",
+   "caption": "Trade smarter, not harder.",
+   "views": 168,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "17994531669074816",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgIJX74Gvk0/",
+   "timestamp": "2026-11-24T14:15:29+0000",
+   "type": "VIDEO",
+   "caption": "“You never follow your rules.”",
+   "views": 130,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "18122162479791871",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgIF737AqST/",
+   "timestamp": "2026-11-24T13:45:34+0000",
+   "type": "VIDEO",
+   "caption": "Trade smarter, not harder.",
+   "views": 138,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "17908623081355265",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgIChVzGQzf/",
+   "timestamp": "2026-11-24T13:15:46+0000",
+   "type": "VIDEO",
+   "caption": "“Journaling is boring.”",
+   "views": 128,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "17986435265905457",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgH_HoejHYL/",
+   "timestamp": "2026-11-24T12:45:58+0000",
+   "type": "VIDEO",
+   "caption": "Trade smarter, not harder.",
+   "views": 115,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "17954860194347770",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgH7o5JHB9S/",
+   "timestamp": "2026-11-24T12:15:37+0000",
+   "type": "VIDEO",
+   "caption": "“Journaling is boring.”",
+   "views": 130,
+   "likes": 4,
+   "comments": 0
+  },
+  {
+   "id": "18652120333044832",
+   "slug": null,
+   "permalink": "https://www.instagram.com/p/DgH6KVTnJzg/",
+   "timestamp": "2026-11-24T12:02:17+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 19,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "18117964898142389",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgH4OSSjg0_/",
+   "timestamp": "2026-11-24T11:45:47+0000",
+   "type": "VIDEO",
+   "caption": "Trade smarter, not harder.",
+   "views": 120,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "17963953236260564",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgH00J4HzxM/",
+   "timestamp": "2026-11-24T11:15:58+0000",
+   "type": "VIDEO",
+   "caption": "“You never follow your rules.”",
+   "views": 151,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18082515569719093",
    "slug": null,
@@ -9419,7 +9523,7 @@
    "timestamp": "2026-11-24T03:25:25+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1916,
+   "views": 1930,
    "likes": 11,
    "comments": 0
   },
@@ -9430,7 +9534,7 @@
    "timestamp": "2026-11-24T02:55:21+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 125,
+   "views": 126,
    "likes": 0,
    "comments": 0
   },
@@ -9441,7 +9545,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1674,
+   "views": 1696,
    "likes": 10,
    "comments": 0
   },
@@ -9452,7 +9556,7 @@
    "timestamp": "2026-11-24T01:55:31+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 171,
+   "views": 172,
    "likes": 3,
    "comments": 0
   },
@@ -9474,8 +9578,8 @@
    "timestamp": "2026-11-24T00:55:45+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 39,
-   "likes": 0,
+   "views": 93,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -9485,7 +9589,7 @@
    "timestamp": "2026-11-24T00:25:22+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 195,
+   "views": 196,
    "likes": 4,
    "comments": 0
   },
@@ -9496,8 +9600,8 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 1124,
-   "likes": 9,
+   "views": 1259,
+   "likes": 10,
    "comments": 0
   },
   {
@@ -9507,7 +9611,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 52,
+   "views": 58,
    "likes": 3,
    "comments": 0
   },
@@ -9518,7 +9622,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1299,
+   "views": 1304,
    "likes": 17,
    "comments": 0
   },
@@ -9540,7 +9644,7 @@
    "timestamp": "2026-11-23T10:46:27+0000",
    "type": "VIDEO",
    "caption": "One finger. One key. One very questionable office.",
-   "views": 1274,
+   "views": 1283,
    "likes": 21,
    "comments": 0
   },
@@ -9584,7 +9688,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 164,
+   "views": 169,
    "likes": 5,
    "comments": 2
   },
@@ -9595,7 +9699,7 @@
    "timestamp": "2026-11-21T10:07:37+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1544,
+   "views": 1558,
    "likes": 25,
    "comments": 13
   },
@@ -9617,8 +9721,8 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 55,
-   "likes": 5,
+   "views": 56,
+   "likes": 6,
    "comments": 0
   },
   {
@@ -9672,7 +9776,7 @@
    "timestamp": "2026-11-15T13:02:25+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "Revenge trading rarely starts with one big decision. It starts with small tells.",
-   "views": 109,
+   "views": 110,
    "likes": 6,
    "comments": 4
   },
@@ -9752,105 +9856,6 @@
    "views": 126,
    "likes": 3,
    "comments": 0
-  },
-  {
-   "id": "18116598755157000",
-   "slug": "stickman-twentycalls",
-   "permalink": "https://www.instagram.com/reel/DfQYqkWiSRT/",
-   "timestamp": "2026-11-02T22:31:39+0000",
-   "type": "VIDEO",
-   "caption": "You risk 1 % on your stock trades, and one options trade took 15 % of your accou",
-   "views": 1280,
-   "likes": 4,
-   "comments": 3
-  },
-  {
-   "id": "18022991141942256",
-   "slug": "stickman-breakevenstop",
-   "permalink": "https://www.instagram.com/reel/DfPhndUAstU/",
-   "timestamp": "2026-11-02T14:30:41+0000",
-   "type": "VIDEO",
-   "caption": "You moved your stop to break even, 6 of 10 trades closed at $0, and then they ra",
-   "views": 1353,
-   "likes": 4,
-   "comments": 1
-  },
-  {
-   "id": "18148550137580052",
-   "slug": "stickman-quarterafternoon",
-   "permalink": "https://www.instagram.com/reel/DfNzxGXCGBC/",
-   "timestamp": "2026-11-01T22:30:52+0000",
-   "type": "VIDEO",
-   "caption": "You make $300 a week, and one afternoon cost you $3,900.",
-   "views": 1561,
-   "likes": 7,
-   "comments": 3
-  },
-  {
-   "id": "18115341080603638",
-   "slug": "stickman-manytickers",
-   "permalink": "https://www.instagram.com/reel/DfNDXcBE2XI/",
-   "timestamp": "2026-11-01T15:27:55+0000",
-   "type": "VIDEO",
-   "caption": "5 stocks you know made $900, 35 others lost $1,300, and your month is $400 down.",
-   "views": 199,
-   "likes": 0,
-   "comments": 2
-  },
-  {
-   "id": "18121149934971488",
-   "slug": "stickman-twopaychecks",
-   "permalink": "https://www.instagram.com/reel/DfLIF5Uk_JH/",
-   "timestamp": "2026-10-31T21:30:43+0000",
-   "type": "VIDEO",
-   "caption": "You earn $1,500 every 2 weeks, and one trade took 2 paychecks.",
-   "views": 1341,
-   "likes": 13,
-   "comments": 1
-  },
-  {
-   "id": "18017987420986239",
-   "slug": "stickman-movedtarget",
-   "permalink": "https://www.instagram.com/reel/DfKRLn_Djtp/",
-   "timestamp": "2026-10-31T13:30:47+0000",
-   "type": "VIDEO",
-   "caption": "Your trade reached +$400, you moved the target, and you closed at −$200.",
-   "views": 497,
-   "likes": 0,
-   "comments": 1
-  },
-  {
-   "id": "18132427771793848",
-   "slug": "stickman-fivetwentyfive",
-   "permalink": "https://www.instagram.com/reel/DfHiEyuIaEX/",
-   "timestamp": "2026-10-30T12:00:46+0000",
-   "type": "VIDEO",
-   "caption": "Same 55 wins in 100 trades. At 5 % risk, your account is +46 %. At 25 %, it's −4",
-   "views": 667,
-   "likes": 13,
-   "comments": 3
-  },
-  {
-   "id": "18117911033041928",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DfHUP_yOc4Z/",
-   "timestamp": "2026-10-30T10:00:27+0000",
-   "type": "VIDEO",
-   "caption": "Follow for Part 2",
-   "views": 556,
-   "likes": 6,
-   "comments": 0
-  },
-  {
-   "id": "18185744770432486",
-   "slug": "glanwick-laptop-r2-W-western-11s8",
-   "permalink": "https://www.instagram.com/reel/DfFKtXqGpQ8/",
-   "timestamp": "2026-10-29T13:58:02+0000",
-   "type": "VIDEO",
-   "caption": "Twice a year, Europe and the US change their clocks on different weekends, and t",
-   "views": 1182,
-   "likes": 6,
-   "comments": 3
   }
  ]
 }
