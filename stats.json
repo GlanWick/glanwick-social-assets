@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T10:54:44.252Z",
+ "updated": "2026-11-25T11:55:11.342Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T10:54:45.367Z",
+  "checked": "2026-11-25T11:55:12.605Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -9477,6 +9477,11 @@
    "ts": "2026-11-25T10:54:44.252Z",
    "followers": 561,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T11:55:11.342Z",
+   "followers": 561,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9509,7 +9514,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1298,
+   "views": 1299,
    "likes": 6,
    "comments": 0
   },
@@ -9795,7 +9800,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 204,
+   "views": 205,
    "likes": 3,
    "comments": 2
   },
@@ -9806,7 +9811,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 64,
+   "views": 65,
    "likes": 6,
    "comments": 0
   },
