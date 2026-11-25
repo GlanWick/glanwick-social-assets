@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T02:03:31.675Z",
+ "updated": "2026-11-25T03:03:44.680Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T02:03:33.265Z",
+  "checked": "2026-11-25T03:03:45.451Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 2627
+    "reach": 2730
    }
   ],
-  "avg_watch_last_reels": 12.8
+  "avg_watch_last_reels": 12.6
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9447,6 +9447,11 @@
    "ts": "2026-11-25T02:03:31.675Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T03:03:44.680Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9457,7 +9462,7 @@
    "timestamp": "2026-11-24T22:30:29+0000",
    "type": "VIDEO",
    "caption": "Restaurants solved flaking with one trick: they hold your card.",
-   "views": 121,
+   "views": 122,
    "likes": 0,
    "comments": 0
   },
@@ -9479,7 +9484,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1090,
+   "views": 1194,
    "likes": 6,
    "comments": 0
   },
@@ -9501,7 +9506,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 267,
+   "views": 282,
    "likes": 3,
    "comments": 0
   },
@@ -9600,7 +9605,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1705,
+   "views": 1706,
    "likes": 10,
    "comments": 0
   },
@@ -9677,7 +9682,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1305,
+   "views": 1306,
    "likes": 17,
    "comments": 0
   },
