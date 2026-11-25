@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T11:55:11.342Z",
+ "updated": "2026-11-25T12:55:37.745Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T11:55:12.605Z",
+  "checked": "2026-11-25T12:55:38.733Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -40,7 +40,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 561,
-  "media_count": 13
+  "media_count": 14
  },
  "history": [
   {
@@ -9482,9 +9482,25 @@
    "ts": "2026-11-25T11:55:11.342Z",
    "followers": 561,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T12:55:37.745Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
+  {
+   "id": "18428129989155650",
+   "slug": null,
+   "permalink": "https://www.instagram.com/p/DgKe_x-Do9n/",
+   "timestamp": "2026-11-25T12:02:38+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 7,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18079615895765851",
    "slug": null,
@@ -9514,7 +9530,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1299,
+   "views": 1300,
    "likes": 6,
    "comments": 0
   },
@@ -9536,7 +9552,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1324,
+   "views": 1325,
    "likes": 7,
    "comments": 0
   },
@@ -9913,17 +9929,6 @@
    "views": 120,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "17955433233344599",
-   "slug": "stickman-addtwice",
-   "permalink": "https://www.instagram.com/reel/DfS9Wj2k3Z9/",
-   "timestamp": "2026-11-03T22:30:50+0000",
-   "type": "VIDEO",
-   "caption": "You bought more at $90 and at $80, and at $70 you're $647 down.",
-   "views": 311,
-   "likes": 0,
-   "comments": 1
   }
  ]
 }
