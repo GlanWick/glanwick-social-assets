@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T14:55:41.247Z",
+ "updated": "2026-11-25T19:43:48.804Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T14:55:42.416Z",
+  "checked": "2026-11-25T19:43:49.608Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -9497,6 +9497,11 @@
    "ts": "2026-11-25T14:55:41.247Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-25T19:43:48.804Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9507,9 +9512,9 @@
    "timestamp": "2026-11-25T12:02:38+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 18,
-   "likes": 0,
-   "comments": 0
+   "views": 41,
+   "likes": 3,
+   "comments": 2
   },
   {
    "id": "18079615895765851",
@@ -9540,7 +9545,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1301,
+   "views": 1305,
    "likes": 6,
    "comments": 0
   },
@@ -9562,7 +9567,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1327,
+   "views": 1331,
    "likes": 7,
    "comments": 0
   },
@@ -9606,7 +9611,7 @@
    "timestamp": "2026-11-24T12:02:17+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 38,
+   "views": 49,
    "likes": 3,
    "comments": 0
   },
@@ -9716,7 +9721,7 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 1262,
+   "views": 1263,
    "likes": 10,
    "comments": 0
   },
@@ -9727,7 +9732,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 69,
+   "views": 72,
    "likes": 4,
    "comments": 0
   },
@@ -9738,7 +9743,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1308,
+   "views": 1309,
    "likes": 17,
    "comments": 0
   },
@@ -9793,7 +9798,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 191,
+   "views": 192,
    "likes": 3,
    "comments": 0
   },
@@ -9804,7 +9809,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 183,
+   "views": 189,
    "likes": 5,
    "comments": 2
   },
