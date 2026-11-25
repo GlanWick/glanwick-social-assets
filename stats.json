@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T19:43:48.804Z",
+ "updated": "2026-11-25T20:44:03.612Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T19:43:49.608Z",
+  "checked": "2026-11-25T20:44:04.344Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -9502,6 +9502,11 @@
    "ts": "2026-11-25T19:43:48.804Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-25T20:44:03.612Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9875,7 +9880,7 @@
    "timestamp": "2026-11-17T23:39:30+0000",
    "type": "VIDEO",
    "caption": "Every trader has that one friend who asks: “Still gambling?”",
-   "views": 220,
+   "views": 221,
    "likes": 8,
    "comments": 8
   },
