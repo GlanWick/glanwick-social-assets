@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T03:03:44.680Z",
+ "updated": "2026-11-25T04:04:01.078Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T03:03:45.451Z",
+  "checked": "2026-11-25T04:04:02.940Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 2730
+    "reach": 2847
    }
   ],
-  "avg_watch_last_reels": 12.6
+  "avg_watch_last_reels": 12.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9452,6 +9452,11 @@
    "ts": "2026-11-25T03:03:44.680Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T04:04:01.078Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9473,7 +9478,7 @@
    "timestamp": "2026-11-24T22:00:35+0000",
    "type": "VIDEO",
    "caption": "You’ve never skipped a 5 AM flight.",
-   "views": 121,
+   "views": 122,
    "likes": 1,
    "comments": 0
   },
@@ -9484,7 +9489,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1194,
+   "views": 1257,
    "likes": 6,
    "comments": 0
   },
@@ -9506,7 +9511,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 282,
+   "views": 338,
    "likes": 3,
    "comments": 0
   },
@@ -9572,7 +9577,7 @@
    "timestamp": "2026-11-24T11:15:58+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 157,
+   "views": 158,
    "likes": 0,
    "comments": 0
   },
