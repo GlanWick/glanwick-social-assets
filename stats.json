@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T05:04:14.292Z",
+ "updated": "2026-11-25T06:04:25.174Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T05:04:15.615Z",
+  "checked": "2026-11-25T06:04:25.973Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 2925
+    "reach": 3067
    }
   ],
   "avg_watch_last_reels": 12.3
@@ -9462,6 +9462,11 @@
    "ts": "2026-11-25T05:04:14.292Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T06:04:25.174Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9494,7 +9499,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1277,
+   "views": 1282,
    "likes": 6,
    "comments": 0
   },
@@ -9516,8 +9521,8 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 438,
-   "likes": 3,
+   "views": 566,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -9582,7 +9587,7 @@
    "timestamp": "2026-11-24T11:15:58+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 158,
+   "views": 162,
    "likes": 0,
    "comments": 0
   },
