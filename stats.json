@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T04:04:01.078Z",
+ "updated": "2026-11-25T05:04:14.292Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T04:04:02.940Z",
+  "checked": "2026-11-25T05:04:15.615Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 2847
+    "reach": 2925
    }
   ],
-  "avg_watch_last_reels": 12.4
+  "avg_watch_last_reels": 12.3
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9457,6 +9457,11 @@
    "ts": "2026-11-25T04:04:01.078Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T05:04:14.292Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9489,7 +9494,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1257,
+   "views": 1277,
    "likes": 6,
    "comments": 0
   },
@@ -9511,7 +9516,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 338,
+   "views": 438,
    "likes": 3,
    "comments": 0
   },
