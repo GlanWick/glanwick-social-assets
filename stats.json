@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T09:54:18.666Z",
+ "updated": "2026-11-25T10:54:44.252Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T09:54:19.637Z",
+  "checked": "2026-11-25T10:54:45.367Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -34,7 +34,7 @@
     "reach": 3595
    }
   ],
-  "avg_watch_last_reels": 12.3
+  "avg_watch_last_reels": 12.2
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9472,6 +9472,11 @@
    "ts": "2026-11-25T09:54:18.666Z",
    "followers": 561,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T10:54:44.252Z",
+   "followers": 561,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9482,7 +9487,7 @@
    "timestamp": "2026-11-24T22:30:29+0000",
    "type": "VIDEO",
    "caption": "Restaurants solved flaking with one trick: they hold your card.",
-   "views": 122,
+   "views": 123,
    "likes": 0,
    "comments": 0
   },
@@ -9504,7 +9509,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1297,
+   "views": 1298,
    "likes": 6,
    "comments": 0
   },
@@ -9526,7 +9531,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1318,
+   "views": 1324,
    "likes": 7,
    "comments": 0
   },
@@ -9592,7 +9597,7 @@
    "timestamp": "2026-11-24T11:15:58+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 174,
+   "views": 179,
    "likes": 0,
    "comments": 0
   },
@@ -9680,7 +9685,7 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 1261,
+   "views": 1262,
    "likes": 10,
    "comments": 0
   },
@@ -9702,7 +9707,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1307,
+   "views": 1308,
    "likes": 17,
    "comments": 0
   },
