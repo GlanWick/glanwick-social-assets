@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T22:44:34.426Z",
+ "updated": "2026-11-25T23:44:46.707Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T22:44:35.334Z",
+  "checked": "2026-11-25T23:44:47.287Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -9517,6 +9517,11 @@
    "ts": "2026-11-25T22:44:34.426Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-25T23:44:46.707Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9527,7 +9532,7 @@
    "timestamp": "2026-11-25T12:02:38+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 44,
+   "views": 46,
    "likes": 3,
    "comments": 2
   },
@@ -9736,7 +9741,7 @@
    "timestamp": "2026-11-23T23:55:18+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 1263,
+   "views": 1264,
    "likes": 10,
    "comments": 0
   },
