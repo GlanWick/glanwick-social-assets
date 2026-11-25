@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T12:55:37.745Z",
+ "updated": "2026-11-25T13:55:39.297Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T12:55:38.733Z",
+  "checked": "2026-11-25T13:55:40.336Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -9487,6 +9487,11 @@
    "ts": "2026-11-25T12:55:37.745Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-25T13:55:39.297Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9497,7 +9502,7 @@
    "timestamp": "2026-11-25T12:02:38+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 7,
+   "views": 15,
    "likes": 0,
    "comments": 0
   },
@@ -9530,7 +9535,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1300,
+   "views": 1301,
    "likes": 6,
    "comments": 0
   },
@@ -9552,7 +9557,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1325,
+   "views": 1327,
    "likes": 7,
    "comments": 0
   },
@@ -9772,7 +9777,7 @@
    "timestamp": "2026-11-22T22:20:43+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 1308,
+   "views": 1310,
    "likes": 22,
    "comments": 0
   },
