@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T06:04:25.174Z",
+ "updated": "2026-11-25T09:54:18.666Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T06:04:25.973Z",
+  "checked": "2026-11-25T09:54:19.637Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 3067
+    "reach": 3595
    }
   ],
   "avg_watch_last_reels": 12.3
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 562,
+  "followers": 561,
   "media_count": 13
  },
  "history": [
@@ -9467,6 +9467,11 @@
    "ts": "2026-11-25T06:04:25.174Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T09:54:18.666Z",
+   "followers": 561,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9499,7 +9504,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1282,
+   "views": 1297,
    "likes": 6,
    "comments": 0
   },
@@ -9521,8 +9526,8 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 566,
-   "likes": 4,
+   "views": 1318,
+   "likes": 7,
    "comments": 0
   },
   {
@@ -9565,7 +9570,7 @@
    "timestamp": "2026-11-24T12:02:17+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 35,
+   "views": 38,
    "likes": 3,
    "comments": 0
   },
@@ -9587,7 +9592,7 @@
    "timestamp": "2026-11-24T11:15:58+0000",
    "type": "VIDEO",
    "caption": "“You never follow your rules.”",
-   "views": 162,
+   "views": 174,
    "likes": 0,
    "comments": 0
   },
@@ -9620,7 +9625,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1706,
+   "views": 1708,
    "likes": 10,
    "comments": 0
   },
@@ -9686,8 +9691,8 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 68,
-   "likes": 3,
+   "views": 69,
+   "likes": 4,
    "comments": 0
   },
   {
@@ -9697,7 +9702,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1306,
+   "views": 1307,
    "likes": 17,
    "comments": 0
   },
@@ -9763,7 +9768,7 @@
    "timestamp": "2026-11-21T12:01:22+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 180,
+   "views": 183,
    "likes": 5,
    "comments": 2
   },
@@ -9796,7 +9801,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 56,
+   "views": 64,
    "likes": 6,
    "comments": 0
   },
@@ -9807,7 +9812,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 196,
+   "views": 197,
    "likes": 4,
    "comments": 0
   },
@@ -9862,7 +9867,7 @@
    "timestamp": "2026-11-14T22:39:17+0000",
    "type": "VIDEO",
    "caption": "Mike trained the new guy for six months. Today that guy became his boss.",
-   "views": 206,
+   "views": 209,
    "likes": 6,
    "comments": 2
   },
