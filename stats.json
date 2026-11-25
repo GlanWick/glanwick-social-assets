@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T01:03:17.325Z",
+ "updated": "2026-11-25T02:03:31.675Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-25T01:03:18.913Z",
+  "checked": "2026-11-25T02:03:33.265Z",
   "reach_days": [
    {
     "day": "2026-11-18",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-24",
-    "reach": 2566
+    "reach": 2627
    }
   ],
-  "avg_watch_last_reels": 13.1
+  "avg_watch_last_reels": 12.8
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9442,6 +9442,11 @@
    "ts": "2026-11-25T01:03:17.325Z",
    "followers": 562,
    "media_count": 13
+  },
+  {
+   "ts": "2026-11-25T02:03:31.675Z",
+   "followers": 562,
+   "media_count": 13
   }
  ],
  "posts": [
@@ -9452,7 +9457,7 @@
    "timestamp": "2026-11-24T22:30:29+0000",
    "type": "VIDEO",
    "caption": "Restaurants solved flaking with one trick: they hold your card.",
-   "views": 107,
+   "views": 121,
    "likes": 0,
    "comments": 0
   },
@@ -9474,7 +9479,7 @@
    "timestamp": "2026-11-24T14:45:35+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1058,
+   "views": 1090,
    "likes": 6,
    "comments": 0
   },
@@ -9496,7 +9501,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 217,
+   "views": 267,
    "likes": 3,
    "comments": 0
   },
@@ -9573,7 +9578,7 @@
    "timestamp": "2026-11-24T03:25:25+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1942,
+   "views": 1943,
    "likes": 11,
    "comments": 0
   },
@@ -9606,7 +9611,7 @@
    "timestamp": "2026-11-24T01:55:31+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 190,
+   "views": 192,
    "likes": 3,
    "comments": 0
   },
