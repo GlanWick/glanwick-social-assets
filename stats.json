@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:29:48.093Z",
+ "updated": "2026-11-26T16:30:15.914Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T15:29:49.171Z",
+  "checked": "2026-11-26T16:30:17.134Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -9582,6 +9582,11 @@
    "ts": "2026-11-26T15:29:48.093Z",
    "followers": 560,
    "media_count": 21
+  },
+  {
+   "ts": "2026-11-26T16:30:15.914Z",
+   "followers": 560,
+   "media_count": 21
   }
  ],
  "posts": [
@@ -9592,8 +9597,8 @@
    "timestamp": "2026-11-26T12:18:23+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 19,
-   "likes": 2,
+   "views": 27,
+   "likes": 3,
    "comments": 2
   },
   {
@@ -9603,7 +9608,7 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1369,
+   "views": 1372,
    "likes": 33,
    "comments": 4
   },
@@ -9614,7 +9619,7 @@
    "timestamp": "2026-11-25T12:02:38+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 58,
+   "views": 60,
    "likes": 3,
    "comments": 2
   },
@@ -9845,7 +9850,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1313,
+   "views": 1314,
    "likes": 17,
    "comments": 0
   },
