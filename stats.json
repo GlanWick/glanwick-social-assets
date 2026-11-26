@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T06:37:50.551Z",
+ "updated": "2026-11-26T07:38:09.532Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T06:37:51.507Z",
+  "checked": "2026-11-26T07:38:10.896Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -31,7 +31,7 @@
    },
    {
     "day": "2026-11-25",
-    "reach": 1284
+    "reach": 1288
    }
   ],
   "avg_watch_last_reels": 8.5
@@ -9552,6 +9552,11 @@
    "ts": "2026-11-26T06:37:50.551Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-26T07:38:09.532Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9562,7 +9567,7 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1358,
+   "views": 1361,
    "likes": 33,
    "comments": 4
   },
@@ -9760,7 +9765,7 @@
    "timestamp": "2026-11-24T00:55:45+0000",
    "type": "VIDEO",
    "caption": "“Journaling is boring.”",
-   "views": 117,
+   "views": 119,
    "likes": 1,
    "comments": 0
   },
@@ -9793,7 +9798,7 @@
    "timestamp": "2026-11-23T12:02:31+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 76,
+   "views": 78,
    "likes": 4,
    "comments": 0
   },
