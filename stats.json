@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T20:30:53.769Z",
+ "updated": "2026-11-26T21:31:14.978Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T20:30:54.800Z",
+  "checked": "2026-11-26T21:31:15.912Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -9592,6 +9592,11 @@
    "ts": "2026-11-26T20:30:53.769Z",
    "followers": 560,
    "media_count": 21
+  },
+  {
+   "ts": "2026-11-26T21:31:14.978Z",
+   "followers": 560,
+   "media_count": 21
   }
  ],
  "posts": [
@@ -9613,7 +9618,7 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1374,
+   "views": 1375,
    "likes": 33,
    "comments": 4
   },
