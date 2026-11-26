@@ -1,11 +1,9 @@
 {
- "updated": "2026-11-26T02:36:34.793Z",
+ "updated": "2026-11-26T03:36:53.158Z",
  "guardrail": {
-  "status": "warn",
-  "reasons": [
-   "Reichweite 2026-11-25: 277 gegen Mittel 2056"
-  ],
-  "checked": "2026-11-26T02:36:36.121Z",
+  "status": "ok",
+  "reasons": [],
+  "checked": "2026-11-26T03:36:54.033Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -33,7 +31,7 @@
    },
    {
     "day": "2026-11-25",
-    "reach": 277
+    "reach": 1046
    }
   ],
   "avg_watch_last_reels": 8.4
@@ -9534,6 +9532,11 @@
    "ts": "2026-11-26T02:36:34.793Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-26T03:36:53.158Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9544,9 +9547,9 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 392,
-   "likes": 7,
-   "comments": 0
+   "views": 1321,
+   "likes": 31,
+   "comments": 3
   },
   {
    "id": "18428129989155650",
@@ -9786,7 +9789,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1309,
+   "views": 1310,
    "likes": 17,
    "comments": 0
   },
@@ -9841,7 +9844,7 @@
    "timestamp": "2026-11-21T23:01:21+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 193,
+   "views": 194,
    "likes": 3,
    "comments": 0
   },
@@ -9874,7 +9877,7 @@
    "timestamp": "2026-11-20T23:35:15+0000",
    "type": "VIDEO",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 205,
+   "views": 207,
    "likes": 3,
    "comments": 2
   },
@@ -9885,7 +9888,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 65,
+   "views": 66,
    "likes": 6,
    "comments": 0
   },
@@ -9896,7 +9899,7 @@
    "timestamp": "2026-11-19T13:42:20+0000",
    "type": "VIDEO",
    "caption": "He threw my laptop in the trash.",
-   "views": 197,
+   "views": 198,
    "likes": 4,
    "comments": 0
   },
