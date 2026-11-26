@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T03:36:53.158Z",
+ "updated": "2026-11-26T04:37:12.956Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T03:36:54.033Z",
+  "checked": "2026-11-26T04:37:13.816Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -31,10 +31,10 @@
    },
    {
     "day": "2026-11-25",
-    "reach": 1046
+    "reach": 1276
    }
   ],
-  "avg_watch_last_reels": 8.4
+  "avg_watch_last_reels": 8.5
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9537,6 +9537,11 @@
    "ts": "2026-11-26T03:36:53.158Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-26T04:37:12.956Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
@@ -9547,9 +9552,9 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1321,
-   "likes": 31,
-   "comments": 3
+   "views": 1353,
+   "likes": 33,
+   "comments": 4
   },
   {
    "id": "18428129989155650",
@@ -9613,7 +9618,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1331,
+   "views": 1332,
    "likes": 7,
    "comments": 0
   },
@@ -9789,7 +9794,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1310,
+   "views": 1311,
    "likes": 17,
    "comments": 0
   },
