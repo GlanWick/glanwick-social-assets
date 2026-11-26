@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T14:29:22.931Z",
+ "updated": "2026-11-26T15:29:48.093Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T14:29:23.687Z",
+  "checked": "2026-11-26T15:29:49.171Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -39,7 +39,7 @@
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
   "username": "glanwick_com",
-  "followers": 561,
+  "followers": 560,
   "media_count": 21
  },
  "history": [
@@ -9577,6 +9577,11 @@
    "ts": "2026-11-26T14:29:22.931Z",
    "followers": 561,
    "media_count": 21
+  },
+  {
+   "ts": "2026-11-26T15:29:48.093Z",
+   "followers": 560,
+   "media_count": 21
   }
  ],
  "posts": [
@@ -9587,9 +9592,9 @@
    "timestamp": "2026-11-26T12:18:23+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 10,
-   "likes": 1,
-   "comments": 0
+   "views": 19,
+   "likes": 2,
+   "comments": 2
   },
   {
    "id": "18101257085400225",
@@ -9598,7 +9603,7 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1367,
+   "views": 1369,
    "likes": 33,
    "comments": 4
   },
@@ -9609,7 +9614,7 @@
    "timestamp": "2026-11-25T12:02:38+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 54,
+   "views": 58,
    "likes": 3,
    "comments": 2
   },
