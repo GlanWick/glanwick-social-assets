@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T11:28:03.790Z",
+ "updated": "2026-11-26T12:28:28.520Z",
  "guardrail": {
   "status": "ok",
   "reasons": [],
-  "checked": "2026-11-26T11:28:04.894Z",
+  "checked": "2026-11-26T12:28:29.296Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -40,7 +40,7 @@
  "account": {
   "username": "glanwick_com",
   "followers": 561,
-  "media_count": 14
+  "media_count": 21
  },
  "history": [
   {
@@ -9562,9 +9562,25 @@
    "ts": "2026-11-26T11:28:03.790Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-26T12:28:28.520Z",
+   "followers": 561,
+   "media_count": 21
   }
  ],
  "posts": [
+  {
+   "id": "18646872640058257",
+   "slug": null,
+   "permalink": "https://www.instagram.com/p/DgNFmFgESTy/",
+   "timestamp": "2026-11-26T12:18:23+0000",
+   "type": "CAROUSEL_ALBUM",
+   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "18101257085400225",
    "slug": null,
@@ -9638,7 +9654,7 @@
    "timestamp": "2026-11-24T13:45:34+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1333,
+   "views": 1334,
    "likes": 7,
    "comments": 0
   },
@@ -9814,7 +9830,7 @@
    "timestamp": "2026-11-23T11:45:40+0000",
    "type": "VIDEO",
    "caption": "He found the one place where nobody can interrupt his trade.",
-   "views": 1312,
+   "views": 1313,
    "likes": 17,
    "comments": 0
   },
@@ -9992,17 +10008,6 @@
    "caption": "Trading? This is for Traders by Traders. Therefore, @glanwick_com invites you to",
    "views": 112,
    "likes": 1,
-   "comments": 0
-  },
-  {
-   "id": "18084465098543436",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DfnjsFbn7wc/",
-   "timestamp": "2026-11-11T22:31:16+0000",
-   "type": "VIDEO",
-   "caption": "Plan, what happened, which rule: three lines after every trade are the whole tra",
-   "views": 121,
-   "likes": 0,
    "comments": 0
   }
  ]
