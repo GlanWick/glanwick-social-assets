@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T00:44:59.662Z",
+ "updated": "2026-11-26T02:36:34.793Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
-   "Reichweite 2026-11-25: 162 gegen Mittel 2056"
+   "Reichweite 2026-11-25: 277 gegen Mittel 2056"
   ],
-  "checked": "2026-11-26T00:45:00.299Z",
+  "checked": "2026-11-26T02:36:36.121Z",
   "reach_days": [
    {
     "day": "2026-11-19",
@@ -33,10 +33,10 @@
    },
    {
     "day": "2026-11-25",
-    "reach": 162
+    "reach": 277
    }
   ],
-  "avg_watch_last_reels": 12.2
+  "avg_watch_last_reels": 8.4
  },
  "source": "Waechter, stuendlich; nur oeffentlich sichtbare Kennzahlen",
  "account": {
@@ -9529,9 +9529,25 @@
    "ts": "2026-11-26T00:44:59.662Z",
    "followers": 561,
    "media_count": 14
+  },
+  {
+   "ts": "2026-11-26T02:36:34.793Z",
+   "followers": 561,
+   "media_count": 14
   }
  ],
  "posts": [
+  {
+   "id": "18101257085400225",
+   "slug": null,
+   "permalink": "https://www.instagram.com/reel/DgL6HMpuVOY/",
+   "timestamp": "2026-11-26T01:19:18+0000",
+   "type": "VIDEO",
+   "caption": "For Traders by Traders.",
+   "views": 392,
+   "likes": 7,
+   "comments": 0
+  },
   {
    "id": "18428129989155650",
    "slug": null,
@@ -9693,7 +9709,7 @@
    "timestamp": "2026-11-24T02:25:19+0000",
    "type": "VIDEO",
    "caption": "Trade smarter, not harder.",
-   "views": 1708,
+   "views": 1709,
    "likes": 10,
    "comments": 0
   },
@@ -9959,17 +9975,6 @@
    "caption": "Plan, what happened, which rule: three lines after every trade are the whole tra",
    "views": 121,
    "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "18177742735451731",
-   "slug": null,
-   "permalink": "https://www.instagram.com/reel/DfXZilouOfv/",
-   "timestamp": "2026-11-05T15:55:20+0000",
-   "type": "VIDEO",
-   "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and everyo",
-   "views": 120,
-   "likes": 2,
    "comments": 0
   }
  ]
