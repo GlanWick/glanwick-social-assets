@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T17:36:00.943Z",
+ "updated": "2026-11-27T21:37:20.559Z",
  "guardrail": {
   "status": "warn",
   "reasons": [
    "Reichweite 2026-11-26: 54 gegen Mittel 2223"
   ],
-  "checked": "2026-11-27T17:36:01.709Z",
+  "checked": "2026-11-27T21:37:21.503Z",
   "reach_days": [
    {
     "day": "2026-11-20",
@@ -9679,6 +9679,11 @@
    "ts": "2026-11-27T17:36:00.943Z",
    "followers": 560,
    "media_count": 21
+  },
+  {
+   "ts": "2026-11-27T21:37:20.559Z",
+   "followers": 560,
+   "media_count": 21
   }
  ],
  "posts": [
@@ -9689,7 +9694,7 @@
    "timestamp": "2026-11-26T12:18:23+0000",
    "type": "CAROUSEL_ALBUM",
    "caption": "This is for Traders by Traders. Therefore, @glanwick_com invites each and every ",
-   "views": 60,
+   "views": 61,
    "likes": 4,
    "comments": 2
   },
@@ -9700,7 +9705,7 @@
    "timestamp": "2026-11-26T01:19:18+0000",
    "type": "VIDEO",
    "caption": "For Traders by Traders.",
-   "views": 1388,
+   "views": 1389,
    "likes": 33,
    "comments": 5
   },
@@ -10041,7 +10046,7 @@
    "timestamp": "2026-11-20T19:12:29+0000",
    "type": "VIDEO",
    "caption": "The wish list is getting longer. The year is getting shorter.",
-   "views": 66,
+   "views": 67,
    "likes": 6,
    "comments": 0
   },
